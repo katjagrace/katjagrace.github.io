@@ -1,19 +1,181 @@
-* {
-  font-family: Helvetica, Arial, sans-serif;
+
+
+body {
+  background-color: #FAF5EF;
+  color: #383f51;
+  font-family: 'Didot';
+}
+
+header {
+  /*text-align: right;*/
+  margin-top: 5px;
+  text-transform: uppercase;
+  background-color: #F2E2D2;
+  /*position: fixed;*/
+}
+
+/*br {
+  font-size: 18px;
+  background-color: #eee5e9:
+}*/
+
+
+p {
+  font-size: 18px;
+  margin-left: 330px;
+  margin-right: 330px;
+  text-align: justify;
+  color: #383f51;
+  /*width: 500px
+  background-color: #fff6db*/
 }
 
 
 h1 {
-  color: SeaGreen;
+  font-size: 35px;
+  text-align: center;
+  padding: 25px;
+  color: #FAF5EF;
+  background-color: #6ea4bf;
+  text-transform: uppercase;
+  /*text-shadow: 1px 0px 0px darkred;*/
+  /*margin-left: 120px;
+  margin-right: 120px;*/
+}
+
+h2 {
+  font-size: 24px;
+  padding: 25px;
+  /*color: #9e2b25;*/
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
+  /*text-transform: uppercase;*/
+  text-align: center;
+  font-weight: light;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: 500;
+  line-height: 2.7;
+  letter-spacing: 0.8px;
+}
+
+th {
+  border: 2px solid #8c6b48;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 2px solid #8c6b48;
+  width: 300px;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  background-color: #242f44;
+  z-index: 5;
+}
+footer h3 {
+  display: inline-block;
+  font-size: 14px;
+  background-color: #242f44;
+}
+
+section {
+  background-color: #FAF5EF;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 800px;
 }
 
 
-p,
-li {
-  font-size: 18px;
+.first {
+  color: #171414;
 }
 
+.second {
+  color: #262323;
+}
 
-a {
-  text-decoration: none;
+.third {
+  color: #241002;
+}
+
+.fourth {
+  color: #260f09;
+}
+
+.auburn {
+  color: #9e2b25;
+}
+
+.superiority {
+  color: #6ea4bf
+}
+
+.lavender {
+  color: #eee5e9
+}
+
+.charcoal {
+  color: #383f51
+}
+
+.spanish {
+  color: #767522
+}
+
+.heading {
+
+  text-align: center;
+}
+
+.fixed {
+  position:fixed;
+}
+
+.exploc {
+  position: relative;
+}
+
+.yellow {
+  color: #fff6db;
+}
+
+.almond {
+  color: #F2E2D2
+}
+
+.dark {
+  color: #171414;
+}
+
+.alabaster {
+  color: #DCE5DF
+}
+
+.isabeline {
+  color: #FAF5EF
+}
+
+.widthfix {
+  width: 200px;
+  margin-left: auto
+  margin-right: auto
 }
