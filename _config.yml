@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: World spirit sock puppet
+title: world spirit sock puppet
 email: katjasolveig@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Inclusive writings of Katja Grace. See [Meteuphoric](https://meteuphoric.com) for insights and [Worldly Positions](https://worldlypositions.tumblr.com/) for travel and mundane opinions.
