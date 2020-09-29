@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm Katja Grace. I work at [AI Impacts](aiimpacts.org).
+This is written by [Katja Grace](katjagrace.com).
