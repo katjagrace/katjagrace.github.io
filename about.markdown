@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is written by [Katja Grace](katjagrace.com).
+This is written by [Katja Grace](https://katjagrace.com).
