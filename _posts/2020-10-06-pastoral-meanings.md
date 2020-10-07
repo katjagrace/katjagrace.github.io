@@ -9,7 +9,7 @@ Shall we read a poem? Just one?
 
 <span style="color:grey">*Or we could finish reading that George Saunders essay?*</span>
 
-We finished it--'Stay open, forever, so open it hurts, and then open up some more, until the day you die, world without end, amen.' Remember?
+We finished it-'Stay open, forever, so open it hurts, and then open up some more, until the day you die, world without end, amen.' Remember?
 
 <span style="color:grey">*Oh yeah. Alright then.*</span>
 
@@ -67,11 +67,11 @@ Oh, I see—-he was a young rationalist, and then he listened to Hamilton the Mu
 
 No, I think, 'no one will believe that this is of vast import to the nation'
 
-<span style="color:grey">*Ah--then it makes sense: this new thing is of vast import to the nation, but no-one will believe that.*</span>
+<span style="color:grey">*Ah-then it makes sense: this new thing is of vast import to the nation, but no-one will believe that.*</span>
 
 Seems like a stretch that it is of vast import to the nation.
 
-<span style="color:grey">*Well if it is vastly important--and it seems to be, because it has transformed his world--then it is probably also vastly important on a national scale. Like, the nation and the transcendent beauty are probably not in separate magisteria.*</span>
+<span style="color:grey">*Well if it is vastly important-and it seems to be, because it has transformed his world-then it is probably also vastly important on a national scale. Like, the nation and the transcendent beauty are probably not in separate magisteria.*</span>
 
 Ah. I like your interpretation. It might even be right.
 
