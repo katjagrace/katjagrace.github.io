@@ -7,15 +7,15 @@ categories: POETRY CONVERSATION CARS
 
 Shall we read a poem? Just one?
 
-*Or we could finish reading that George Saunders essay?*
+<span style="color:green">*Or we could finish reading that George Saunders essay?*</span>
 
 We finished it--'Stay open, forever, so open it hurts, and then open up some more, until the day you die, world without end, amen.' Remember?
 
 *Oh yeah. Alright then.*
 
->[Pastoral](https://www.poetrynook.com/poem/pastoral-37)
+[Pastoral](https://www.poetrynook.com/poem/pastoral-37)
 
->When I was younger
+When I was younger
 it was plain to me
 I must make something of myself.
 Older now
@@ -35,7 +35,7 @@ that properly weathered
 pleases me best
 of all colors.
 
->No one
+No one
 will believe this
 of vast import to the nation.
 
