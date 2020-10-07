@@ -28,7 +28,7 @@ twitter_username: KatjaGrace
 #github_username:  jekyll
 
 # Build settings
-theme: hitchens
+theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
