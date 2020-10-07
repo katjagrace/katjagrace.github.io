@@ -35,7 +35,7 @@ that properly weathered
 pleases me best
 of all colors.  
 
-             No one  
+No one  
 will believe this  
 of vast import to the nation.  
 
