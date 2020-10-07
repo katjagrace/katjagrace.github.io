@@ -19,25 +19,25 @@ When I was younger
 it was plain to me  
 I must make something of myself.  
 Older now  
-I walk the back streets
-admiring the houses
-of the very poor:
-roof out of line with sides
-the yards cluttered
-with old chicken wire, ashes,
-furniture gone wrong;
-the fences and outhouses
-built of barrel-staves
-and parts of boxes, all,
-if I am fortunate,
-smeared a bluish green
-that properly weathered
+I walk the back streets  
+admiring the houses  
+of the very poor:  
+roof out of line with sides  
+the yards cluttered  
+with old chicken wire, ashes,  
+furniture gone wrong;  
+the fences and outhouses  
+built of barrel-staves  
+and parts of boxes, all,  
+if I am fortunate,  
+smeared a bluish green  
+that properly weathered  
 pleases me best
-of all colors.
+of all colors.  
 
-No one
-will believe this
-of vast import to the nation.
+             No one  
+will believe this  
+of vast import to the nation.  
 
 ...Hmm
 
@@ -80,5 +80,7 @@ Ah. I like your interpretation. It might even be right.
 I think so. Maybe the internet can tell us something.
 
 <span style="color:grey">*I don't know, they might just read into it something about whatever they have going on.*</span>
+
+---
 
 [^1]: By William Carlos Williams
