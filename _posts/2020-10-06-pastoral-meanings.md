@@ -84,6 +84,6 @@ I think so. Maybe the internet can tell us something.
 
 ---
 
-Loosely based on a real conversation
+Loosely based on reality
 
 [^1]: By William Carlos Williams
