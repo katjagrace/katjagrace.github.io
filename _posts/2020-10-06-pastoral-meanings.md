@@ -15,10 +15,10 @@ We finished it--'Stay open, forever, so open it hurts, and then open up some mor
 
 Pastoral [^1]
 
-When I was younger
-it was plain to me
-I must make something of myself.
-Older now
+When I was younger  
+it was plain to me  
+I must make something of myself.  
+Older now  
 I walk the back streets
 admiring the houses
 of the very poor:
