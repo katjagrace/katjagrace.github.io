@@ -13,7 +13,7 @@ We finished it--'Stay open, forever, so open it hurts, and then open up some mor
 
 <span style="color:grey">*Oh yeah. Alright then.*</span>
 
-Pastoral[^1]
+Pastoral [^1]
 
 When I was younger
 it was plain to me
@@ -81,4 +81,4 @@ I think so. Maybe the internet can tell us something.
 
 <span style="color:grey">*I don't know, they might just read into it something about whatever they have going on.*</span>
 
-[^1] By William Carlos Williams
+[^1]: By William Carlos Williams

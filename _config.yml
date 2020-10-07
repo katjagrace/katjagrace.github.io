@@ -29,6 +29,7 @@ twitter_username: KatjaGrace
 
 # Build settings
 theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
 
