@@ -55,7 +55,7 @@ Well, when he was young, he thought that making something of himself—being ric
 
 Ok, go ahead.
 
-<span style="color:grey">*He's saying that he used to be a young rationalist, and he intended to do what was maximally good with his life, because it was logically impossible and therefore literally unimaginable that anything could be better than that. And then he grew up and found himself standing among these chicken wires and rubble and it's transcendently beautiful, and he's like 'man, I really needed to [get out of the car](https://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/)'.</span>
+<span style="color:grey">*He's saying that he used to be a young rationalist, and he intended to do what was maximally good with his life, because it was logically impossible and therefore literally unimaginable that anything could be better than that. And then he grew up and found himself standing among these chicken wires and rubble and it's transcendently beautiful, and he's like 'man, I really needed to [get out of the car](https://slatestarcodex.com/2015/04/21/universal-love-said-the-cactus-person/)'.*</span>
 
 So, he learned that these mundane things were beautiful?
 
