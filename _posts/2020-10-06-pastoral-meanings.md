@@ -13,7 +13,7 @@ We finished it--'Stay open, forever, so open it hurts, and then open up some mor
 
 *Oh yeah. Alright then.*
 
->[Pastoral
+>[Pastoral](https://www.poetrynook.com/poem/pastoral-37)
 
 >When I was younger
 it was plain to me
@@ -37,7 +37,7 @@ of all colors.
 
 >No one
 will believe this
-of vast import to the nation.](https://www.poetrynook.com/poem/pastoral-37)
+of vast import to the nation.
 
 ...Hmm
 
