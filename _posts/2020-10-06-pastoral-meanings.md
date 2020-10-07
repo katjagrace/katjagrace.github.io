@@ -20,7 +20,7 @@ it was plain to me
 I must make something of myself.
 Older now
 I walk the back streets
-admiring thee houses
+admiring the houses
 of the very poor:
 roof out of line with sides
 the yards cluttered
