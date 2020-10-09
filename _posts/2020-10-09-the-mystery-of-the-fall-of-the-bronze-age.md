@@ -14,6 +14,8 @@ A mystery that we discovered tonight is that there aren't any good looking docum
 
 We ended up watching [expert Eric Cline give a lecture about it](https://www.youtube.com/watch?v=bRcu-ysocX4) instead. It was pretty interesting, though I think we have disagreements about epistemology. [^1] Highlights for me included seeing the [neat parcels of glass](https://www.pinterest.cl/pin/562668547186510361/) dredged up from a trading ship wrecked 3400 years ago, and hearing [concerned letters from the time](https://en.wikipedia.org/wiki/Ugaritic_texts) [^2] [^4] . The continuity of familiar human experience—molding substances and transporting them around, anguish, asking for help—so far back into the mist of civilizational dawn that the requests are pressed into clay tablets, is inspiriting in spite of the hardness of the experiences.
 
+---
+
 [^1]:  For instance, his central complaint about a simple theory was that it was simple.
 [^2]: “The gates of the house are sealed, since there is famine in your house, we shall starve to death. If you do not hasten to come, we shall starve to death” - [Someone living in Northern Syria a long time ago](https://fada.birzeit.edu/jspui/bitstream/20.500.11889/4717/1/Halayqa-%20UF-42%20%20the%20Demise%20of%20Ugarit.pdf), p305.
 [^4]: More from a desperate king [here](https://en.wikipedia.org/wiki/Ugarit#Destruction)
