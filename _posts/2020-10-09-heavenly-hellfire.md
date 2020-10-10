@@ -8,7 +8,7 @@ Today I read about ancient history instead of doing work. Which got me thinking 
 
 If you see blue-domed chapels with whitewashed walls perched idyllically over the Aegean sea, there is a good chance you've got yourself (a picture of) Santorini.
 
-![Santorini](/images/santorini.jpg)
+![Santorini](/assets/santorini.jpg)
 
 Such pictures got a new flavor for me when I realized that the wide circular bay these buildings overlook is actually the caldera of a massive volcano. The flavor is similar to the one they would have if the cliffs resolved into the eyelids of a giant looking up beneath the waves.
 
