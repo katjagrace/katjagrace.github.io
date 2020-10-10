@@ -8,15 +8,27 @@ Today I read about ancient history instead of doing work. Which got me thinking 
 
 If you see blue-domed chapels with whitewashed walls perched idyllically over the Aegean sea, there is a good chance you've got yourself (a picture of) Santorini.
 
+<br>
+
 ![Santorini](/assets/santorini.jpg)
+
+<br>
 
 Such pictures got a new flavor for me when I realized that the wide circular bay these buildings overlook is actually the caldera of a massive volcano. The flavor is similar to the one they would have if the cliffs resolved into the eyelids of a giant looking up beneath the waves.
 
+<br>
+
 ![Santorini from above](/assets/Santorini_Landsat.jpg)
+
+<br>
 
 When I say the volcano is large, I don't mean I know anything about the usual distribution of volcano sizes. Just that I can zoom out on [Google maps](https://www.google.com/maps/place/Santorini/@36.4072715,25.3504186,12z/data=!3m1!4b1!4m5!3m4!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!8m2!3d36.3931562!4d25.4615092) almost enough to see the whole of Greece, and still make out the lip of this volcano.
 
+<br>
+
 ![Santorini and Greece](/assets/santorinigreece.png)
+
+<br>
 
 The volcano was responsible for the [Minoan eruption](https://en.wikipedia.org/wiki/Minoan_eruption), [one of the biggest volcanic eruptions](https://en.wikipedia.org/wiki/List_of_large_volcanic_eruptions) in the last twenty thousand years, and [possibly](https://en.wikipedia.org/wiki/Minoan_eruption#Minoan_civilization) the downfall of Minoa. It unsurprisingly destroyed the city of [Akrotiri](https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)) which is actually on Santorini. Very surprisingly to me, it didn't destroy it that much, such that it is an exciting archeological site (note that I have no expertise, and am going only by my evidently wrong imagination for what happens if melted rock comes out of a hole that big with enough force to go anywhere). Also surprisingly to me, [it seems](<https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)#Excavations>) to have been successfully evacuated, with practically nobody killed in the blast.
 
