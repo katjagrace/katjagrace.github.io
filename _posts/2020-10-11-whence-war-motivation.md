@@ -11,7 +11,7 @@ I suppose the natural explanation is that there are rulers, or in more game theo
 - Once you have large groups controlled by decisionmakers who don't suffer the costs of their decisions, it becomes unsurprising if the outcome is massive costs to almost everyone concerned with little gained by anyone.
 - You might only need one such controller of others to prefer war, as long as the others or their citizens consider it worth defending from the attack.
 
-I don't know how much this explains though. For instance, [here's](https://theconversation.com/the-soldiers-across-europe-who-were-excited-about-world-war-i-29807) Winston Churchill in 1914:
+I don't know how much this explains though. And there are probably other things going on. For instance, [here's](https://theconversation.com/the-soldiers-across-europe-who-were-excited-about-world-war-i-29807) Winston Churchill in 1914:
 
 >Everything tends towards catastrophe and collapse. I am interested, geared up and happy. It is not horrible to be built like that? The preparations have a hideous fascination for me. I pray to God to forgive me for such fearful moods of levity.
 
