@@ -2,7 +2,7 @@
 layout: post
 title: "The mystery of the fall of the Bronze Age"
 date: 2020-10-09 03:26:55 -0700
-categories: history media
+tags: history media
 ---
 This evening my boyfriend and I decided we would like to learn about the fall of the Bronze Age. Really he wanted to learn about the World Wars or the rise of communism, but I pointed out that to understand WWI you probably want to know what was going on just before it, and that I would be willing to only ride this slippery slope as far as the Bronze Age, and that the Bronze Age collapse was pretty interesting. Admittedly I also wanted to learn about a period of history that had at most one of carnage and photography.
 

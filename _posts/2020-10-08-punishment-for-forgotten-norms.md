@@ -2,7 +2,7 @@
 layout: post
 title: "Punishment for forgotten norms"
 date: 2020-10-08 02:18:06 -0700
-categories: social_norms ethics election
+tags: social_norms ethics election
 ---
 I watched some of the vice-presidential debate tonight, in an act of uncharacteristic attention to politics. Which is to say, it's not a kind of game I am familiar with the finer details of. Early on, one of the debaters was given two minutes to answer what sounded like an easy question, and proceeded to just openly and brazenly not answer it and instead talk about how bad the other party was for nearly the whole time in such an overt fashion that I felt embarrassed for them. They answered at the end, technically but not very informatively.
 
