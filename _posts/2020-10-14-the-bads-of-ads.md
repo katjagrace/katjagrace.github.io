@@ -6,7 +6,8 @@ categories: CATEGORY-1 CATEGORY-2
 ---
 In London at the start of the year, perhaps there was more advertising than there usually is in my life, because I found its presence disgusting and upsetting. Could I not use public transport without having my mind intruded upon continually by trite performative questions?
 
-![London underground](/assets/eendra-underground-ads.jpg)
+<img src="/assets/eendra-underground-ads.jpg" alt="London underground" style="margin:25px 0px">
+
 
 Sometimes I fantasize about a future where stealing someone's attention to suggest for the fourteenth time that they watch your awful-looking play is rightly looked upon as akin to picking their pocket.
 
