@@ -3,6 +3,7 @@ layout: post
 title: "Pastoral meanings"
 date: 2020-10-06 23:55:00 -0700
 tags: poetry conversation cars
+excerpt_separator: <!--more-->
 ---
 
 Shall we read a poem? Just one?
