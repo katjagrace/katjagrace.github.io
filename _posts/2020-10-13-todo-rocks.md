@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Todo rocks"
 date: 2020-10-13 02:59:00 -0700
 categories: lifestyle improvement

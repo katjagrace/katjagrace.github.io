@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Heavenly hellfire"
 date: 2020-10-09 23:30:00 -0700
 categories: worldly_positions history

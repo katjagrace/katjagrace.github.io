@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Pastoral meanings"
 date: 2020-10-06 23:55:00 -0700
 categories: POETRY CONVERSATION CARS

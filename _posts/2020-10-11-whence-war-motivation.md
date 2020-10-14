@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "War as a carefully honed coordination failure"
 date: 2020-10-11 02:43:15 -0700
 categories: war sociology game_theory

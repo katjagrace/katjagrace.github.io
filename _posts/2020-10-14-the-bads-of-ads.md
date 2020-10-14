@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The bads of ads"
 date: 2020-10-13 22:30:00 -0700
 categories: advertising societal-improvement

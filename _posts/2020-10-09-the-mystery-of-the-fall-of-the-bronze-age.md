@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The mystery of the fall of the Bronze Age"
 date: 2020-10-09 03:26:55 -0700
 categories: history media
