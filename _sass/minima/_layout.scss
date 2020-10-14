@@ -204,7 +204,7 @@
 
 .post-link {
   display: block;
-  color: darkred;
+  color: darkred !important;
   @include relative-font-size(1.5);
 }
 
