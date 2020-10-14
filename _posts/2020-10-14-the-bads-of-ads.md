@@ -2,7 +2,7 @@
 layout: page
 title: "The bads of ads"
 date: 2020-10-13 22:30:00 -0700
-categories: CATEGORY-1 CATEGORY-2
+categories: advertising societal-improvement
 ---
 In London at the start of the year, perhaps there was more advertising than there usually is in my life, because I found its presence disgusting and upsetting. Could I not use public transport without having my mind intruded upon continually by trite performative questions?
 
@@ -19,9 +19,8 @@ Stepping back, advertising is widely found to be a distasteful activity. But I t
 
 2. **Zero-sumness**: To the extent advertising is aimed at raising the name recognition and thus market share of one product over its similar rivals, it is zero or negative sum: burning effort on both sides and the attention of the customer for no overall value.
 
-    <!---![Subway Nestle ad]()
-    <img src="/assets/subiyanto-nestle-ad.jpg" height="495"/> <img src="/assets/weir-coke-ad.jpg" height="495"/>--->
-    <img src="/assets/subiyanto-nestle-ad.jpg" width=0.5/> <img src="/assets/weir-coke-ad.jpg" width=0.5/>
+    <!---![Subway Nestle ad]()--->
+    <img src="/assets/subiyanto-nestle-ad.jpg" height="495"/> <img src="/assets/weir-coke-ad.jpg" height="495"/>
 
 3. **Theft of a precious thing**: Attention is arguably one of the best things you have, and its protection arguably worthy of great effort. In cases where it is vulnerable—for instance because you are outside and so do not personally control everything you might look at or hear—advertising is the shameless snatching of it. This might be naively done, in the same way that a person may naively steal silverware assuming that it is theirs to take because nothing is stopping them.  
 
