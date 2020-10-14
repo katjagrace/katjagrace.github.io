@@ -6,7 +6,7 @@ tags: worldly_positions history
 ---
 Today I read about ancient history instead of doing work. Which got me thinking about Santorini.
 
-If you see blue-domed chapels with whitewashed walls perched idyllically over the Aegean sea, there is a good chance you've got yourself (a picture of) Santorini.
+If you see blue-domed chapels with whitewashed walls perched idyllically over the Aegean sea, there is a good chance you've got yourself (a picture of) Santorini.<!--more-->
 
 <br>
 

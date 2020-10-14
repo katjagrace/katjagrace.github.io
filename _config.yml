@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KatjaGrace
 #github_username:  jekyll
 show_excerpts: on
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
