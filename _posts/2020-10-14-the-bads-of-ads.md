@@ -47,8 +47,12 @@ What would good and ethical advertising look like? Maybe I decide that I want to
 <img src="/assets/newstory-ads.jpg" alt="Ads: we are building a new story" style="margin:25px 0px">
 
 
+Images: [](), [](), [](), [](), [](), [](), [](), [](), [](), [](),
+
 [^1]: For advertising in specific public locations, I could in principle pay by buying up the billboard or whatever and leaving it blank.
 <!---
+
+https://unsplash.com/photos/SUi9mYSVTyc Weir Unsplash
 Photo by Megan Markham from Pexels
 Photo by David Geib from Pexels
 
