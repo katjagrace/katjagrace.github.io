@@ -2,7 +2,7 @@
 layout: post
 title: "Heavenly hellfire"
 date: 2020-10-09 23:30:00 -0700
-tags: worldly_positions history
+tags: worldlypositions history
 wp: yes
 ---
 Today I read about ancient history instead of doing work. Which got me thinking about Santorini.
