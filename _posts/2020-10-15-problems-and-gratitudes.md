@@ -21,6 +21,6 @@ Some things I am grateful for tonight:
 - People who take roles where they have to make high stakes decisions in real time, and who are also properly sensible to those stakes.
 - Everyone involved in providing me with toast with raspberry jam and butter
 - The logical structure of possibility
-- Round sea lions, and whatever inconveniences, sufferings and deprivations they suffer, that the world be graced with them.
+- Round sea lions, and whatever inconveniences and deprivations they suffer in gracing the world with round sea lions.
 
 <img src="/assets/brian-yurasits-round-sealion.jpg" alt="Round sealion" style="margin:25px 0px">
