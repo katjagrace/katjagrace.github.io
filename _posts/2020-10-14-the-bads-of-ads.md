@@ -20,7 +20,6 @@ Stepping back, advertising is widely found to be a distasteful activity. But I t
 
 2. **Zero-sumness**: To the extent advertising is aimed at raising the name recognition and thus market share of one product over its similar rivals, it is zero or negative sum: burning effort on both sides and the attention of the customer for no overall value.
 
-    <!---![Subway Nestle ad]()--->
     <img src="/assets/subiyanto-nestle-ad.jpg" height="495"/> <img src="/assets/weir-coke-ad.jpg" height="495"/>
 
 3. **Theft of a precious thing**: Attention is arguably one of the best things you have, and its protection arguably worthy of great effort. In cases where it is vulnerable—for instance because you are outside and so do not personally control everything you might look at or hear—advertising is the shameless snatching of it. This might be naively done, in the same way that a person may naively steal silverware assuming that it is theirs to take because nothing is stopping them.  
@@ -52,14 +51,3 @@ What would good and ethical advertising look like? Maybe I decide that I want to
 Images: [London Underground: Mona Eendra](https://unsplash.com/photos/QG7Wkq2ZrpE), [painting ads: Megan Markham](https://www.pexels.com/photo/man-painting-wall-2448522/), [Nescafe ad: Ketut Subiyanto](https://www.pexels.com/photo/woman-wearing-a-face-mask-on-the-subway-4429291/), [Coca-Cola: Hamish Weir](https://unsplash.com/photos/SUi9mYSVTyc), [London Underground again: Willam Santos](https://unsplash.com/photos/6b8I4nxXPb0), [figures in shade under ad: David Geib](https://www.pexels.com/photo/people-waiting-for-the-red-bus-to-pass-3220846/), [Clear ad in train: Life of Wu](https://www.pexels.com/photo/people-standing-inside-train-3380873/), [Piccadilly Circus: Negative Space](https://www.pexels.com/photo/light-london-adverts-piccadilly-circus-34639/), [Building a new story: Wilhelm Gunkel](https://unsplash.com/photos/xennYrcP3aM).
 
 [^1]: For advertising in specific public locations, I could in principle pay by buying up the billboard or whatever and leaving it blank.
-<!---
-
-https://unsplash.com/photos/SUi9mYSVTyc Weir Unsplash
-Photo by Megan Markham from Pexels
-Photo by David Geib from Pexels
-
-Photo by Life of Wu from Pexels
-Photo by Ketut Subiyanto from Pexels
-Photo by zydeaosika from Pexels
-width="600"
-vertical-align:middle;--->
