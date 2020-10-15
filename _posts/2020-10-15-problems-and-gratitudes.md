@@ -14,7 +14,7 @@ I'm inclined to say that something in the vicinity of the problem thing is a rea
 
 I have the impression that that there is much more interest in healing diseases than in making normal people even better, physically or mentally. Which seems like evidence for attention going to 'problems' disproportionately. But I think it could easily be explained by valuing of equality between people, or just by the general ease of progress via fixing broken things over progress via treading new ground.
 
-I tentatively suppose that a trick with gratitude is to not aim for it to be evenly distributed across a sensically understood space of gratitude deserving entities. Instead focus on whatever actually inspires appreciation. It's ok to be grateful for the horsehead nebula thing, your phone and gravity and to call it quits. That said, I have no idea, and welcome views from anyone more informed about the proper having of gratitude. 
+I tentatively suppose that a trick with gratitude is to not aim for it to be evenly distributed across a sensically understood space of gratitude deserving entities. Instead focus on whatever actually inspires appreciation. It's ok to be grateful for the horsehead nebula thing, your phone and gravity and to call it quits. That said, I have no idea, and welcome views from anyone more informed about the proper having of gratitude.
 
 Some things I am grateful for tonight:
 - Other people putting up with lonely, hard, hopeless-seeming times, and trying to look after themselves even when it doesn't feel worth much.
@@ -23,4 +23,4 @@ Some things I am grateful for tonight:
 - The logical structure of possibility
 - Round sea lions, and whatever inconveniences, sufferings and deprivations they suffer, that the world be graced with them.
 
-![Round sealion](/assets/brian-yurasits-round-sealion.jpg)
+<img src="/assets/brian-yurasits-round-sealion.jpg" alt="Round sealion" style="margin:25px 0px">
