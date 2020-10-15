@@ -11,4 +11,4 @@ Among people with these kinds of traits, my guess is that I am unusual in how of
 
 After having this fantasy a few times, I got some rocks. Here are a few of the more public ones.
 
-<img src="/assets/todorocks.jpg", width="400"/>
+<img src="/assets/todorocks.jpg" width="400" align="middle"/>
