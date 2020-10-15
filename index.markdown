@@ -4,3 +4,4 @@
 
 layout: home
 ---
+[FULL](/full.markdown) --- [TITLES](/index) --- [WORLDLY POSITIONS](/worldlypositions.markdown) --- [METEUPHORIC](meteuphoric.markdown)
