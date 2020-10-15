@@ -5,5 +5,4 @@
 layout: home
 ---
 [FULL](/full.markdown) --- [LIST](/index) --- [WORLDLY POSITIONS](/worldlypositions.markdown) --- [METEUPHORIC](meteuphoric.markdown)
-
----
+<br>
