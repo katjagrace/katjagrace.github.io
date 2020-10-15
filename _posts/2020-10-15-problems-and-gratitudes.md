@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Problems and gratitudes"
-date: 2020-10-xx 02:22:00 -0700
+date: 2020-10-15 02:22:00 -0700
 tags: prioritization improvement worldlypositions
 ---
 Being grateful is often suggested as a good and scientific way to raise some kind of wellbeing measure. Probably somehow resulting from that, and from my much greater enjoyment of being grateful than of investigating this claim at all, sometimes I embark on a concerted effort to be grateful for specific things.
