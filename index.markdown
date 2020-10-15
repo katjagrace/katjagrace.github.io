@@ -4,4 +4,3 @@
 
 layout: home
 ---
-<div align="center">[FULL](/full.markdown) - [TITLES](/index) - [WORLDLY POSITIONS](/worldlypositions.markdown) - [METEUPHORIC](meteuphoric.markdown)</div>
