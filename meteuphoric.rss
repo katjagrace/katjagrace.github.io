@@ -15,6 +15,8 @@ layout: null
  <item>
   <title>{{ post.title }}</title>
   <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
     {{ post.content }}
   </description>
   <link>{{ post.url }}</link>
