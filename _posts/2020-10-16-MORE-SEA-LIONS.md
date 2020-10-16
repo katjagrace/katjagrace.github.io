@@ -12,7 +12,7 @@ In case others also wanted to see more [round sea lions](/_posts/2010-10-15-prob
 ![another sea lion](/assets/roundsealion1.jpg)
 
 
-![another sea lion](/assets/roundsealion2.jpg)
+<!-- ![another sea lion](/assets/roundsealion2.jpg) -->
 
 
 ![another sea lion](/assets/roundsealion3.jpg)
@@ -60,7 +60,7 @@ In case others also wanted to see more [round sea lions](/_posts/2010-10-15-prob
 ![another sea lion](/assets/roundsealion17.jpg)
 
 
-![another sea lion](/assets/roundsealion18.jpg)
+<!-- ![another sea lion](/assets/roundsealion18.jpg) -->
 
 
 ![another sea lion](/assets/roundsealion19.jpg)
