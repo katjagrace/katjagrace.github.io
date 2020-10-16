@@ -6,8 +6,6 @@ tags: sea-lions
 ---
 In case others also wanted to see more [round sea lions](/_posts/2010-10-15-problems-and-gratitudes):
 
-![another sea lion](/assets/roundsealion0.jpg)
-
 
 ![another sea lion](/assets/roundsealion1.jpg)
 
@@ -39,7 +37,7 @@ In case others also wanted to see more [round sea lions](/_posts/2010-10-15-prob
 ![another sea lion](/assets/roundsealion10.jpg)
 
 
-![another sea lion](/assets/roundsealion11.jpg)
+<!---![another sea lion](/assets/roundsealion11.jpg)--->
 
 
 ![another sea lion](/assets/roundsealion12.jpg)
@@ -60,7 +58,7 @@ In case others also wanted to see more [round sea lions](/_posts/2010-10-15-prob
 ![another sea lion](/assets/roundsealion17.jpg)
 
 
-<!-- ![another sea lion](/assets/roundsealion18.jpg) -->
+[another sea lion](/assets/roundsealion18.jpg)
 
 
 ![another sea lion](/assets/roundsealion19.jpg)
