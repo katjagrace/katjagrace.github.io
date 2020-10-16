@@ -23,4 +23,4 @@ Some things I am grateful for tonight:
 - The logical structure of possibility
 - Round seals, and whatever inconveniences and deprivations they suffer in gracing the world with round seals.
 
-<img src="/assets/brian-yurasits-round-sealion.jpg" alt="Round sealion" style="margin:25px 0px">
+<img src="/assets/brian-yurasits-round-sealion.jpg" alt="Round seal" style="margin:25px 0px">
