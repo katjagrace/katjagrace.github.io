@@ -48,7 +48,7 @@ On considering the existence of seals more, I came to wonder how this body desig
 ![another seal](/assets/roundseal17.jpg)
 
 
-[another seal](/assets/roundseal18.jpg)
+![another seal](/assets/roundseal18.jpg)
 
 
 ![another seal](/assets/roundseal19.jpg)
