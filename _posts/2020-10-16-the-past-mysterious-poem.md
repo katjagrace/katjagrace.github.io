@@ -12,9 +12,9 @@ I didn’t like it that much at first. It took me several read-throughs to even 
 
 Anyway, here’s a poem I like; origin unknown:
 
->**Endless**
+**Endless**
 
->I am your photo, un-adore  
+*I am your photo, un-adore  
 this laughing play and lively dance  
 All strands of magic yours before  
 Perfection through dull mirror glanced  
@@ -28,4 +28,4 @@ for one to drown them in between
 all fleeting stillness, blind their farce.  
 To not come, resolution waits,  
 don't let me near you, to my dream,  
-It's all I have,
+It's all I have,*
