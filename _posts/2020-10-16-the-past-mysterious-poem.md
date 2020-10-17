@@ -14,18 +14,18 @@ Anyway, here’s a poem I like; origin unknown:
 
 >**Endless**
 
->I am your photo, un-adore
-this laughing play and lively dance
-All strands of magic yours before
-Perfection through dull mirror glanced
-No rapt'rous thing not yours alone
-If we meet, binding, one our night.
-What wonder radiant eyes enthrone,
-In days encrusted by your light,
-Can walk this strangled endless scene
-Of narrow moments, reaching past
-for one to drown them in between
-all fleeting stillness, blind their farce.
-To not come, resolution waits,
-don't let me near you, to my dream,
+>I am your photo, un-adore  
+this laughing play and lively dance  
+All strands of magic yours before  
+Perfection through dull mirror glanced  
+No rapt'rous thing not yours alone  
+If we meet, binding, one our night.  
+What wonder radiant eyes enthrone,  
+In days encrusted by your light,  
+Can walk this strangled endless scene  
+Of narrow moments, reaching past  
+for one to drown them in between  
+all fleeting stillness, blind their farce.  
+To not come, resolution waits,  
+don't let me near you, to my dream,  
 It's all I have,
