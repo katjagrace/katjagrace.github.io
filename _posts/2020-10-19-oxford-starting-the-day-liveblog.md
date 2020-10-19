@@ -43,6 +43,8 @@ While planning my day, other notes on what goes wrong:
 - I have the background sense that someone expects me to do something, which is encumbering and uncomfortable. I think this might be fairly destructive. (I have previously thought that a nice thing about working at 4am or so is that everyone who might be expecting anything of you is asleep.) My guess is that running an organization doesn’t help with this, because for instance my employees expect me to meet with them, look at their work, be at work, respond to their messages. Also, other people expect my organization to produce useful things. If this were a big deal, it would predict things got radically better between about 5pm and 8pm, when people stop being at work or thinking that you might be, and better again at about 1am when people stop being awake. It would also predict that if I do the things that most obviously someone might be expecting me to do, things get better. I’ll try doing them first.
 - The plan for my day would naturally include a bunch of small tasks that I feel averse to, though each in itself doesn’t seem bad. It is more the sense that they will eat the day, and I can’t get into anything. So I got a sheet of paper and wrote down many such things, especially the ones where it doesn’t really matter if it doesn’t happen this time (for instance, tidying my room, doing my laundry). My plan is to do them as breaks, but not for them to be a main focus of attention. This feels better somehow, I think because I can singlemindedly direct myself at one important thing at a time.
 
+<br>
+
 Ok, I made a plan. I feel like it took a long time, and involved various drifting off and doing other things. Now I have four or so small aversive tasks to do, and then I can get to the main deal. If I want a break, I have a list of non-compulsory ideas.
 
 Current hypotheses about key intermediate factors between early hours and worseness:
@@ -53,11 +55,12 @@ Current hypotheses about key intermediate factors between early hours and worsen
 - Sense that people are expecting something of me
 - Light
 - Biological factor to do with recency of sleep
-- I shall consider this again later in the day.
 
 <br>
+
+I shall consider this again later in the day.
 
 One hope about letting people see bits of my life in detail is that they will notice that particular bits seem much more stupid than in their own lives. Like one time my friend noticed that I didn’t know that WiFi was all around us, and showed me how to turn it on. Or [one time](https://meteuphoric.com/2016/06/26/are-you-missing-universal-human-skills/), my boyfriend at the time noticed that I don’t know how to cut or chew meat, and showed me how. So comments expressing disbelief that I don’t do things in an obviously better way are especially welcome (in general, not just on this post).
 
 ![morning](/assets/oxfordbreakfastfrombelow.jpg)
-A photograph from the same period: breakfast viewed from upside down
+A photo from the same period
