@@ -32,11 +32,11 @@ Seeing what I have written, a natural hypothesis is that too many things are goi
 
 I’ll check further by trying to organize the tasks.
 
-***
+~
 
 Ok, well notably I didn’t do that. I put on clothes, then I responded to messages, then I looked at the internet. I will try again.
 
-***
+~
 
 While planning my day, other notes on what goes wrong:
 
@@ -55,4 +55,9 @@ Current hypotheses about key intermediate factors between early hours and worsen
 - Biological factor to do with recency of sleep
 - I shall consider this again later in the day.
 
-One hope about letting people see bits of my life in detail is that they will notice that particular bits seem much more stupid than in their own lives. Like one time my friend noticed that I didn’t know that WiFi was all around us, and showed me how to turn it on. Or one time, my boyfriend at the time noticed that I don’t know how to cut or chew meat, and showed me how. So comments expressing disbelief that I don’t do things in an obviously better way are especially welcome (in general, not just on this post).
+<br>
+
+One hope about letting people see bits of my life in detail is that they will notice that particular bits seem much more stupid than in their own lives. Like one time my friend noticed that I didn’t know that WiFi was all around us, and showed me how to turn it on. Or [one time](https://meteuphoric.com/2016/06/26/are-you-missing-universal-human-skills/), my boyfriend at the time noticed that I don’t know how to cut or chew meat, and showed me how. So comments expressing disbelief that I don’t do things in an obviously better way are especially welcome (in general, not just on this post).
+
+![morning](/assets/oxfordbreakfastfrombelow.jpg)
+A photograph from the same period: breakfast viewed from upside down
