@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Oxford: starting the day liveblog"
-date: 2020-10-xx 19:25:52 -0000
+date: 2020-10-19 12:27:42 -0700
 tags: oxford worldlypositions mental-states self-improvement
 ---
-*A draft post from a year ago that I didn't put up then, about a problem that I no longer notice.*
+*A draft post from a year ago that I didn't put up then, about a problem that I had forgotten about.*
 
 I recently woke up, and do not appear to be aggressively pursuing anything worthwhile, for instance understanding the future of artificial intelligence, or trading my precariously slung dressing gown for more versatile writing attire. I did make some coffee, but am falling down on actually drinking it, and it is on the other side of the room, so that might be a thing for later.
 
