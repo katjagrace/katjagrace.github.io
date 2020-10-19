@@ -4,9 +4,9 @@ title: "Oxford: starting the day liveblog"
 date: 2020-10-19 12:27:42 -0700
 tags: oxford worldlypositions mental-states self-improvement
 ---
-*A draft post from a year ago that I didn't put up then, about a problem that I had forgotten about.*
+A draft post from a year ago that I didn't put up then, about a problem that I had forgotten about.
 
-I recently woke up, and do not appear to be aggressively pursuing anything worthwhile, for instance understanding the future of artificial intelligence, or trading my precariously slung dressing gown for more versatile writing attire. I did make some coffee, but am falling down on actually drinking it, and it is on the other side of the room, so that might be a thing for later.
+*I recently woke up, and do not appear to be aggressively pursuing anything worthwhile, for instance understanding the future of artificial intelligence, or trading my precariously slung dressing gown for more versatile writing attire. I did make some coffee, but am falling down on actually drinking it, and it is on the other side of the room, so that might be a thing for later.
 
 My impression has been for a while that I am just a worse human in the morning, and then gradually improve toward the evening. Such that I can spend hours incrementally trying to direct my attention toward some task and carefully reflecting on why it’s not working and how to improve the situation in the afternoon, and then just do it without problems after about 8pm.
 
@@ -60,7 +60,6 @@ Current hypotheses about key intermediate factors between early hours and worsen
 
 I shall consider this again later in the day.
 
-One hope about letting people see bits of my life in detail is that they will notice that particular bits seem much more stupid than in their own lives. Like one time my friend noticed that I didn’t know that WiFi was all around us, and showed me how to turn it on. Or [one time](https://meteuphoric.com/2016/06/26/are-you-missing-universal-human-skills/), my boyfriend at the time noticed that I don’t know how to cut or chew meat, and showed me how. So comments expressing disbelief that I don’t do things in an obviously better way are especially welcome (in general, not just on this post).
+One hope about letting people see bits of my life in detail is that they will notice that particular bits seem much more stupid than in their own lives. Like one time my friend noticed that I didn’t know that WiFi was all around us, and showed me how to turn it on. Or [one time](https://meteuphoric.com/2016/06/26/are-you-missing-universal-human-skills/), my boyfriend at the time noticed that I don’t know how to cut or chew meat, and showed me how. So comments expressing disbelief that I don’t do things in an obviously better way are especially welcome (in general, not just on this post).*
 
 ![morning](/assets/oxfordbreakfastfrombelow.jpg)
-A photo from the same period
