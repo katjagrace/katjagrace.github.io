@@ -4,7 +4,6 @@ title: "American Politics"
 date: 2020-10-20 00:02:26 -0700
 tags: politics worldlypositions psychology
 ---
-
 The other day I had a dentist appointment, and as an alternative to focusing on whether or not it was currently unpleasant, I tried to become interested in American politics.
 
 It's not that American politics fails to be attention-grabbing. But a casserole falling on the floor is attention grabbing, and I wouldn't say that I'm interested in falling casseroles. I do read about the political situation, but like a casserole-fall viewer, mostly with curiosity and responsive dismay, not with real intellectual engagement or fertile thinking. Why?
@@ -19,7 +18,8 @@ When I say it seems ridiculous or nonsensical, here are some things I'm thinking
 - if you wanted to determine the best policies to adopt across a huge number of issues, voting to choose a small group of people to decide them all, out of a moderately larger pool of people, based on a combination of a few issues that seem salient at the time, plus the candidate's vibes, social prowess, and susceptibility to public embarrassment, doesn't seem like a thing you should even expect to work.
 - Continual overt lying isn't a deal breaker in the highest office
 - Debate of the kind where you discuss the answer to some question [doesn't seem to be part of](/2020-10-08-punishment-for-forgotten-norms.md) presidential debates
-- Things I would usually think of as basic are not assumed in public debate. For instance, that the 'personal freedom' we might agree to uphold isn't prima facie going to include freedom to harm other people.
+- Things I would usually think of as basic are not assumed in public debate. For instance, that the 'personal freedom' we might agree to uphold isn't prima facie going to include freedom to harm other people by giving them covid.
+- Something something QAnon?
 
 This is all an account of my previously unexamined feelings, and on examination, I don't endorse them.
 
