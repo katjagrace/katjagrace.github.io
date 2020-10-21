@@ -57,6 +57,8 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 
@@ -133,6 +135,8 @@ blockquote {
   border-left: 16px solid $grey-color-light;// 4px
   padding-left: $spacing-unit * 2;//divided by 2
   padding-right: $spacing-unit * 2;//added by me
+  padding-top: 10px;
+  padding-bottom: 10px;
   @include relative-font-size(0.95);//1.125
   //letter-spacing: -1px;
   font-style: italic;
