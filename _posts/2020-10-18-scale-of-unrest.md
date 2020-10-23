@@ -2,7 +2,7 @@
 layout: page
 title: "Scale of unrest"
 date: 2020-10-18 02:35:09 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: san-francisco
 ---
 I live in San Francisco. Some people I know are worried about living in US cities at election time because of the potential for political unrest. This seems surprising to me, since I figure the chance of rioting harming a specific person in a large city is very low, especially if that person takes the precaution of not being intentionally at a riot. If I thought the chance of a riot so incredibly huge and destructive that one in a thousand people in my city is killed is as high as one in a thousand, that is still only giving me around a one in a million chance of death, i.e. [similar to](https://en.wikipedia.org/wiki/Micromort#Travel) the risk from a flight to New York. Possibly I'm not being imaginative enough.
 
