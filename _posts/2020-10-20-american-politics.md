@@ -2,7 +2,7 @@
 layout: page
 title: "American Politics"
 date: 2020-10-20 00:02:26 -0700
-tags: politics psychology
+tags: politics psychology worldlypositions
 ---
 The other day I had a dentist appointment, and as an alternative to focusing on whether or not it was currently unpleasant, I tried to become interested in American politics.
 
