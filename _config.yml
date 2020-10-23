@@ -38,6 +38,11 @@ plugins:
 feed:
   tags: true
 
+#mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=08c6708f40
+
+# Google Analytics
+google_analytics: G-W6F7LR27C9
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
