@@ -24,6 +24,7 @@ In sum, I offer the alternate theory that various technology companies have comb
 
 ...and that most of the attention-suck and influence that we see is about those things, not about the hidden algorithmic optimizing forces that Facebook might have.
 
+
 ---
 
 [^1]: My boyfriend offers alternate theory, that my scrolling instinct comes from Facebook.
