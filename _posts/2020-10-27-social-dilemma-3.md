@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "How optimized are my Facebook ads?"
+title: "Empirical case study: how optimized are my Facebook ads?"
 date: 2020-10-27 20:18:36 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: advertising societal-improvement meteuphoric
 ---
 *(Other thoughts on [The Social Dilemma](https://www.thesocialdilemma.com/): [one](https://worldspiritsockpuppet.com/2020/10/26/the-social-dilemma-review.html), [two](https://worldspiritsockpuppet.com/2020/10/27/social-dilemma-2.html))*
 
