@@ -26,7 +26,7 @@ So we have:
 - well to very well targeted but I have: 3 (#3, #5, #6)
 - kind of interested to see, but not going to do anything: 3 (#1, #10, #11)
 - not at all likely, but it's subtle: 2 (#8, #9)
-- basic demographic info would tell you there's no chance: 6 (#4-#9)
+- basic demographic info would tell you there's no chance: 6 (#4)
 
 (As an aside, 3/16 seem weirdly well targeted to the point that I assume they are based on fairly specific surveillance, or would if I could imagine how (#3, #5, #6).)
 
