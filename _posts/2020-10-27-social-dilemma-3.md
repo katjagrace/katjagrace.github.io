@@ -2,7 +2,7 @@
 layout: page
 title: "Empirical case study: how optimized are my Facebook ads?"
 date: 2020-10-27 20:18:36 -0700
-tags: advertising societal-improvement meteuphoric
+tags: advertising societal-improvement
 ---
 *(Other thoughts on [The Social Dilemma](https://www.thesocialdilemma.com/): [one](https://worldspiritsockpuppet.com/2020/10/26/the-social-dilemma-review.html), [two](https://worldspiritsockpuppet.com/2020/10/27/social-dilemma-2.html))*
 
@@ -12,7 +12,7 @@ Here are a bunch of ads it showed me yesterday (prompted by me seeing a particul
 1. **Gates foundation plans to improve math education:** interesting, but not so much that I even read it enough to know exactly what it was saying. I'm not sure what it wanted me to do, and am probably not going to do it. Probably slightly changes my perception of GF.
 2. **Something you put in your ears to make sounds less annoying:** very well honed to my interests supposing it works, 50% chance I buy it in a few weeks, without checking if it works.
 3. **A kind of exercise object that I searched for yesterday because I found one in my garage:** maybe interesting if I didn't apparently have one, may have still reminded me to use the one I have, which could lead to buying more things from them.
-4. 5.6.7.8.9. **6 different ads for political candidates:** I'm a foreigner who can't vote, so no dice.
+4. **6 different ads for political candidates:** I'm a foreigner who can't vote, so no dice.
 10. **a kind of non-coffee hot brown water with low-key drugs in it:** a kind of thing I'm unusually interested in. Pretty weird because while I have recently renewed interest in such things, I think it has been entirely manifest in verbal discussion with housemates in the kitchen in terms like 'brown water', and in physically combining various roast grain substances that I found in my cupboard with hot water. I probably won't buy it now, because I apparently have a lot of different brown waters in my cupboard, but decent chance I remember it and search for it in future.
 11. **New Oculus Quest, a VR machine that my house just got so I just tried for the first time:** Again, unlikely to buy since I sort of have one, but plausible that prompting me to remember that it exists or think its cool is still helpful to them. I don't remember searching for it, but did search for whether The Witness could be played in VR recently.
 12. **Another kind of obscure new drink containing mild drugs, this time alcohol-themed though probably not containing alcohol:** Again, great try, though did not click.
@@ -22,13 +22,13 @@ Here are a bunch of ads it showed me yesterday (prompted by me seeing a particul
 16. **At home fitness program that I probably would have skimmed over, but I guess it looks maybe interesting, now that I am really attending to looking at ads:** unlikely to click on or buy, but if I want such a thing in future, may remember that this one exists. Though not sure what it was called, so may have to search 'home fitness videos sexy trainer and normal people exercising ad', which doesn't seem promising.
 
 So we have:
-- very well targeted and I don't have: 2 (#2, #12)
-- well to very well targeted but I have: 3 (#3, #10, #11)
-- kind of interested to see, but not going to do anything: 3 (#1, #15, #16)
-- not at all likely, but it's subtle: 2 (#13, #14)
+- very well targeted and I don't have: 2 (#2, #7)
+- well to very well targeted but I have: 3 (#3, #5, #6)
+- kind of interested to see, but not going to do anything: 3 (#1, #10, #11)
+- not at all likely, but it's subtle: 2 (#8, #9)
 - basic demographic info would tell you there's no chance: 6 (#4-#9)
 
-(As an aside, 3/16 seem weirdly well targeted to the point that I assume they are based on fairly specific surveillance, or would if I could imagine how (#3, #10, #11).)
+(As an aside, 3/16 seem weirdly well targeted to the point that I assume they are based on fairly specific surveillance, or would if I could imagine how (#3, #5, #6).)
 
 This seems to me very high variance: a mixture of surprisingly well targeted and surprisingly poorly targeted things.
 
