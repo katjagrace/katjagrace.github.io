@@ -2,7 +2,7 @@
 layout: page
 title: "The past: mysterious poem"
 date: 2020-10-16 23:25:00 -0700
-tags: poetry worldlypositions past
+tags: poetry worldlypositions past journal
 ---
 I found a poem in my Google docs from 2012, seemingly pasted there from an obsolete document system of even earlier. I couldn’t find it anywhere else on the internet, and I seem to have multiple slightly different versions of it in my docs, and also some related notes. Which all suggests that I wrote it.
 

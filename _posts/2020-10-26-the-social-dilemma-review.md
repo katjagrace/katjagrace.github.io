@@ -2,7 +2,7 @@
 layout: page
 title: "But what kinds of puppets are we?"
 date: 2020-10-26 00:52:20 -0700
-tags: advertising societal-improvement meteuphoric
+tags: advertising societal-improvement meteuphoric journal
 ---
 I watched [The Social Dilemma](https://www.thesocialdilemma.com/) last night. I took the problem that it warned of to be the following:
 
