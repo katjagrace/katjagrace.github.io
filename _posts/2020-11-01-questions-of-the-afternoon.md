@@ -2,7 +2,7 @@
 layout: page
 title: "Questions of the afternoon"
 date: 2020-11-01 17:39:16 -0700
-tags: mundane journal
+tags: mundane journal worldlypositions
 ---
 Today I spent about three hours chatting with eleven of my closer friends who I've mostly hardly seen this year, as a virtual birthday party. I thought the discussion was pretty interesting&mdash;so I record here some of the questions that came up (aloud or my mind):
 
