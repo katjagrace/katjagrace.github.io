@@ -43,6 +43,9 @@ feed:
 # Google Analytics
 google_analytics: G-W6F7LR27C9
 
+disqus:
+  shortname: worldspiritsockpuppet
+
 author: Katja Grace
 
 # Exclude from processing.
