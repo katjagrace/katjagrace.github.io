@@ -16,7 +16,7 @@ Within a few blocks we found cars and pedestrians breaking into rounds of cheeri
 We took a detour for downtown Castro, to see if it was more exciting. Apparently that was in fact the Schelling point for being excited together. When we got to the intersection with Castro street, cars were still going through it slowly, but each one seemed like an event somehow. While we watched, the crowd overcame the road entirely.
 
 [![Castro party](https://worldspiritsockpuppet.com/assets/castroparty.png)](https://photos.google.com/share/AF1QipMCa9vDPnFFj_bvlkjKYfxDVDFCY8tliZ29oN7VRFP5aMDyJqebh3RWVUSajUxIMw/photo/AF1QipNorZHqiyOGLq_5ruTe6OwXolcKcysu94ZJfrc_?key=cmRCcUxaWV82RXpMRDUwS2hYcDJxbzhJNFpCZGxR)
-**(click for video)**
+*(click for video)*
 
 I wasn't keen to walk through this, due to my poor imagination for how aerosols work in large outdoor crowds, so we turned back up a side street and went around. Roads seemed fuller than they have been since March, I think with people just driving around for the revelry. I soon wished that I had brought a musical instrument, when my hands were tired from clapping. A couple passed us with little bells in each hand to tinkle. We received compliments on our (very minimal) cardboard hats.
 
