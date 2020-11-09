@@ -1,17 +1,214 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-28T12:36:05-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/09/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-09-28T12:07:33-07:00</published><updated>2020-09-28T12:07:33-07:00</updated><id>http://localhost:4000/jekyll/update/2020/09/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/09/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated. (But what about exec etc?)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://worldspiritsockpuppet.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://worldspiritsockpuppet.com/" rel="alternate" type="text/html" /><updated>2020-11-08T16:21:37-08:00</updated><id>https://worldspiritsockpuppet.com/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Where are the concept factories?</title><link href="https://worldspiritsockpuppet.com/2020/11/08/Where-are-the-concept-factories.html" rel="alternate" type="text/html" title="Where are the concept factories?" /><published>2020-11-08T01:43:52-08:00</published><updated>2020-11-08T01:43:52-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/08/Where-are-the-concept-factories</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/08/Where-are-the-concept-factories.html">&lt;p&gt;Concepts are arguably critical to our success as humans, our recent success as rich and productive humans, and many of our individual successes at whatever we each individually do.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;Why don’t we produce them in an industrial fashion?&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="economics" /><category term="sociology" /><category term="society-strategy" /><summary type="html">Concepts are arguably critical to our success as humans, our recent success as rich and productive humans, and many of our individual successes at whatever we each individually do.</summary></entry><entry><title type="html">Calling it</title><link href="https://worldspiritsockpuppet.com/2020/11/07/calling-it.html" rel="alternate" type="text/html" title="Calling it" /><published>2020-11-07T00:39:26-08:00</published><updated>2020-11-07T00:39:26-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/07/calling-it</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/07/calling-it.html">&lt;p&gt;In an atmosphere of general thirst for someone calling something, I’ll call some stuff.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;In my experience and current judgment:&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The best non-inert art is the musical Hamilton&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;The best place in the San Francisco Bay Area is the &lt;a href=&quot;https://worldlypositions.tumblr.com/post/172912945074/experimental-ethics-hot-tub-adventure&quot;&gt;Essex Hot Tub&lt;/a&gt;, and the best place near it is Bodega Bay&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;The best undergraduate degree to wish you had done is computer science&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. (But what about exec etc?)</summary></entry></feed>
+&lt;p&gt;The best non-committal snack is &lt;a href=&quot;https://www.amazon.com/Nutrition-Healthy-Snickerdoodle-Supplement-10-count/dp/B07YYLJL3Y/ref=cm_cr_arp_d_product_top?ie=UTF8&quot;&gt;Mewe snickerdoodle peanut butter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The best committal snack is &lt;a href=&quot;https://www.jonnypops.com/cherry-chocolate&quot;&gt;Jonny Pop’s chocolate dipped cherries ice cream bar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The best YouTube videos to watch while you eat Jonny Pops are &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&amp;amp;app=desktop&quot;&gt;3Blue1Brown’s series on linear algebra&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The best thing about elaborate covid facial getup aside from not getting covid is that nobody can see you crying, which means you can expand your casual Hamilton-listening all the way through the second half.&lt;/p&gt;
+
+&lt;p&gt;The best underwear is &lt;a href=&quot;https://boodywear.com/collections/women-underwear&quot;&gt;boody&lt;/a&gt; and the best work trousers are &lt;a href=&quot;https://www.betabrand.com/collections/dress-pant-yoga-pants-by-leg-opening&quot;&gt;BetaBrand dresspant yoga pants&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The best morning routine component ignoring costs is a tight race between doing something you have never done before, dancing on a rug outside, and acquiring coffee, won by the first.&lt;/p&gt;
+
+&lt;p&gt;The most beautiful thing is everything, in the right frame of mind.&lt;/p&gt;
+
+&lt;p&gt;The best color is &lt;a href=&quot;https://www.pinterest.com/pin/86061042849452453/&quot;&gt;orangey green&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The best person to be argued with by is &lt;a href=&quot;https://www.overcomingbias.com/&quot;&gt;Robin Hanson&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The best mode of transit is the bicycle, with the train close behind.&lt;/p&gt;
+
+&lt;p&gt;The best tourist experience is the do-it-yourself Leo Szilard themed tour of Budapest.&lt;/p&gt;
+
+&lt;p&gt;The best Twitter presence is Lin Manuel Miranda’s.&lt;/p&gt;
+
+&lt;p&gt;The best common time is 7:50pm, and the best rare time is 4:55am.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="review" /><summary type="html">In an atmosphere of general thirst for someone calling something, I’ll call some stuff.</summary></entry><entry><title type="html">Why Trump? A survey</title><link href="https://worldspiritsockpuppet.com/2020/11/06/why-trump.html" rel="alternate" type="text/html" title="Why Trump? A survey" /><published>2020-11-06T03:36:27-08:00</published><updated>2020-11-06T03:36:27-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/06/why-trump</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/06/why-trump.html">&lt;p&gt;It felt strange going into this US election so hopeful for Biden to win while so at a loss regarding why comparably many Americans were badly hoping for the opposite. I heard people &lt;a href=&quot;https://samharris.org/podcasts/224-key-trumps-appeal/&quot;&gt;speculating&lt;/a&gt; about the possible motives, and I considered plausible steelmen. But why should I be guessing about what half of people think? I &lt;a href=&quot;https://worldspiritsockpuppet.com/2020/11/05/election-survey.html&quot;&gt;figured out&lt;/a&gt; how to survey some Americans beyond my vicinity.&lt;/p&gt;
+
+&lt;p&gt;I surveyed about 63 people, asking them:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Who did you vote for in the US presidential election 2020?&lt;/li&gt;
+  &lt;li&gt;What was the reasoning behind your choice?&lt;/li&gt;
+  &lt;li&gt;What would be the worst thing about your least favorite candidate winning?&lt;/li&gt;
+  &lt;li&gt;Who do you think is going to win?&lt;/li&gt;
+  &lt;li&gt;What went through your head when Trump said that he had won the election already on Tuesday night?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;20 out of 63 preferred Trump (19 voted plus one would have chosen Trump if forced to vote). Here is the reasoning they gave for their choices:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HE SUPPORTS FOR WELFARE&lt;/li&gt;
+  &lt;li&gt;spite&lt;/li&gt;
+  &lt;li&gt;I want a better America!&lt;/li&gt;
+  &lt;li&gt;I like the presidency over the lead of the Donald Trump.&lt;/li&gt;
+  &lt;li&gt;THE SOCIETY VERY CAREFUL PERSON OF THE ELECTION VOTE TRUMP AND VERY GOOD ELECTION&lt;/li&gt;
+  &lt;li&gt;SUPPORTING THE WELFARE&lt;/li&gt;
+  &lt;li&gt;the only of good electionship of a best moment&lt;/li&gt;
+  &lt;li&gt;He has been a good ;leader delivering on all his promises.&lt;/li&gt;
+  &lt;li&gt;I’m a republican and i just have to vote for trump because he represents the republican party even though he’s not smart.&lt;/li&gt;
+  &lt;li&gt;IT IS MY OPINION&lt;/li&gt;
+  &lt;li&gt;he was an trusted person and good one&lt;/li&gt;
+  &lt;li&gt;I believe in what Donald Trump stands for. I cannot vote Democrat because I am a Christian who is Pro-Life.&lt;/li&gt;
+  &lt;li&gt;He is the most qualified to lead the country, regardless of his character that many hate.&lt;/li&gt;
+  &lt;li&gt;I support his America First agenda&lt;/li&gt;
+  &lt;li&gt;I feel he is the better choice to lead us&lt;/li&gt;
+  &lt;li&gt;Supreme court, guns, political correctness.&lt;/li&gt;
+  &lt;li&gt;With the economy precociousending radical race theory, creating peace in the middle east, and working with Americans so that we are treated fairly locally and globally, I believe he deserves a second term to continue his work.&lt;/li&gt;
+  &lt;li&gt;Trump is saving america from the chi com globalists.&lt;/li&gt;
+  &lt;li&gt;Trump has done some good things for the economy. I also believe he has strengthened our national security.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is what would go badly if Trump loses, according to these respondents:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HE OPPOSES&lt;/li&gt;
+  &lt;li&gt;fraud against the American electorate&lt;/li&gt;
+  &lt;li&gt;unsure&lt;/li&gt;
+  &lt;li&gt;Choosing the right ecommerce platform for the business digital presence is critical. Also to find the one that meets the needs.&lt;/li&gt;
+  &lt;li&gt;TRUMP WINNING&lt;/li&gt;
+  &lt;li&gt;HE OPPOSE&lt;/li&gt;
+  &lt;li&gt;He’s not likely to win in South Carolina it is the good election&lt;/li&gt;
+  &lt;li&gt;The country will be destroyed.&lt;/li&gt;
+  &lt;li&gt;The Democratic candidate would probably increase the tax on the rich which i think is not fair.&lt;/li&gt;
+  &lt;li&gt;I DONT KNOW&lt;/li&gt;
+  &lt;li&gt;they will not interact with people directly&lt;/li&gt;
+  &lt;li&gt;Turning this country into a socialist country.&lt;/li&gt;
+  &lt;li&gt;A rebellion may start in the country.&lt;/li&gt;
+  &lt;li&gt;Massive increase of illegal immigration&lt;/li&gt;
+  &lt;li&gt;The direction he will take our country&lt;/li&gt;
+  &lt;li&gt;Political correctness winning, them thinking that since they won, they can go to even more extremes.&lt;/li&gt;
+  &lt;li&gt;More wars, corruption in government, and media suppression on conservative thoughts.&lt;/li&gt;
+  &lt;li&gt;China becomes the world super power.&lt;/li&gt;
+  &lt;li&gt;I believe Joe Biden’s policies would move America away from nationalism and toward socialism.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What to make of that?&lt;/p&gt;
+
+&lt;p&gt;I noted yesterday that &lt;a href=&quot;https://worldspiritsockpuppet.com/2020/11/05/election-survey.html&quot;&gt;everyone thinks their candidate will win&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another notable thing is that a large number of responses are hard to make sense of. A friend suggested many are bots, but none of the apparent Biden-leaning responses are like this, and would bots always claim to vote Trump? (Also, aren’t bots good at writing now?)&lt;/p&gt;
+
+&lt;p&gt;Here are a few arbitrarily chosen answers to the reasoning question from Biden supporters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I am a democrat, and I love their policies&lt;/li&gt;
+  &lt;li&gt;I felt we need a traditional U.S president. I also felt he might bring some stability to the U.S.&lt;/li&gt;
+  &lt;li&gt;Trump is the worse leader in US history. We need a strong leader now that unites us and helps us move forward rather than creating division.&lt;/li&gt;
+  &lt;li&gt;Biden is a Democrat.&lt;/li&gt;
+  &lt;li&gt;I am a democrat. But more importantly, I am so sick of Trump’s lies, manipulation, and general hateful divisive attitude. We need to get the country together and reassert ourselves as a respectable nation.&lt;/li&gt;
+  &lt;li&gt;Joe Biden’s policies actually aim to help Americans as well as protecting the environment while Trump is a pseudo dictator who’s broken countless laws and continues to do so, on top of being a racist, misogynistic, terrible person.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1m3c13EOE2nlqQVU-1Ekilcz-wxxZVrUEe8Jm7qjsjLo/edit?usp=sharing&quot;&gt;Here&lt;/a&gt; is all of the data.&lt;/p&gt;
+
+&lt;p&gt;Here’s my summary of the issues that Biden and Trump supporters care about, by number of mentions [ETA: including all that at least two people cared about]:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://worldspiritsockpuppet.com/assets/issues.png&quot; alt=&quot;voter issues&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(There are really about half as many Trump supporters as Biden supporters, but they are under-represented in the graph because I was less able to make out particular issues in what they wrote, whereas Biden supporters often mentioned multiple issues.)&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="politics" /><summary type="html">It felt strange going into this US election so hopeful for Biden to win while so at a loss regarding why comparably many Americans were badly hoping for the opposite. I heard people speculating about the possible motives, and I considered plausible steelmen. But why should I be guessing about what half of people think? I figured out how to survey some Americans beyond my vicinity.</summary></entry><entry><title type="html">Everyone headed to win</title><link href="https://worldspiritsockpuppet.com/2020/11/05/election-survey.html" rel="alternate" type="text/html" title="Everyone headed to win" /><published>2020-11-05T13:00:47-08:00</published><updated>2020-11-05T13:00:47-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/05/election-survey</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/05/election-survey.html">&lt;p&gt;Last night I was especially curious about why people vote as they do, and whether they were experiencing the election similarly to me. So I set up a survey in &lt;a href=&quot;https://www.positly.com/&quot;&gt;Positly&lt;/a&gt; and paid a bunch of people to tell me about such things.&lt;/p&gt;
+
+&lt;p&gt;I haven’t read all of the responses yet, but a notable feature of them so far is the extent to which people expected their own favorite candidate to win the presidency.  If someone said both who they voted for (or would vote for if forced to vote) and who they thought would win, these were the same person 87% of the time.&lt;/p&gt;
+
+&lt;p&gt;Is this just ‘wishful thinking’ (whatever that is) or some more interesting phenomenon?&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="psychology" /><summary type="html">Last night I was especially curious about why people vote as they do, and whether they were experiencing the election similarly to me. So I set up a survey in Positly and paid a bunch of people to tell me about such things.</summary></entry><entry><title type="html">Election night</title><link href="https://worldspiritsockpuppet.com/2020/11/03/election-night.html" rel="alternate" type="text/html" title="Election night" /><published>2020-11-03T21:08:45-08:00</published><updated>2020-11-03T21:08:45-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/03/election-night</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/03/election-night.html">&lt;p&gt;Earlier in the evening, I reasoned that I should not ‘watch’ the election, since I will learn the result in the end and experiencing the uncertainty in the meantime doesn’t seem productive at all, let alone competitive with other things I could do.&lt;/p&gt;
+
+&lt;p&gt;This attitude somehow felt unfriendly though, or like being the kind of spoilsport who says ‘there is no reason to celebrate Christmas, or to celebrate anything for that matter’—both failing to add to the fun, and implicitly asking others to defend their own enthusiasm.&lt;/p&gt;
+
+&lt;p&gt;I think it’s related to how everyone is experiencing this thing together, and whether or not anyone has fun per se, there is something good in sharing it. And I do appreciate being part of a country-sized crowd looking the same way.&lt;/p&gt;
+
+&lt;p&gt;I wish the evening involved more familiarity with voters dissimilar to me though. The evolving plot would be more interesting if every time something surprising happened at a vast statistical level, a camera zoomed in to three random voters from that place who behaved surprisingly, for a short interview on what they were actually thinking. My guess is that it is often more inspiring than suspected, and it would be nice to know the nation better.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="mundane" /><category term="journal" /><summary type="html">Earlier in the evening, I reasoned that I should not ‘watch’ the election, since I will learn the result in the end and experiencing the uncertainty in the meantime doesn’t seem productive at all, let alone competitive with other things I could do.</summary></entry><entry><title type="html">Why are bananas not my brothers?</title><link href="https://worldspiritsockpuppet.com/2020/11/03/why-isnt-a-banana-my-brother.html" rel="alternate" type="text/html" title="Why are bananas not my brothers?" /><published>2020-11-03T01:27:20-08:00</published><updated>2020-11-03T01:27:20-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/03/why-isnt-a-banana-my-brother</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/03/why-isnt-a-banana-my-brother.html">&lt;p&gt;It is said that we share &lt;a href=&quot;https://www.scientificamerican.com/article/what-does-the-fact-that-w/&quot;&gt;99.9%&lt;/a&gt; of our genes with one another, &lt;a href=&quot;https://www.scientificamerican.com/article/what-does-the-fact-that-w/&quot;&gt;95%&lt;/a&gt; with chimpanzees, and &lt;a href=&quot;https://www.breakthroughs.com/foundations-science/how-genetically-related-are-we-bananas&quot;&gt;60%&lt;/a&gt; with bananas. (It is also &lt;a href=&quot;https://science.howstuffworks.com/life/genetic/people-bananas-share-dna.htm&quot;&gt;said&lt;/a&gt; that this isn’t quite right about bananas, but reading about that did not quell my confusion.)&lt;/p&gt;
+
+&lt;p&gt;It is further said that I share 50% of my genes with my brother, and that this is why I like him.&lt;/p&gt;
+
+&lt;p&gt;And yet, I seem to be more closely related to my brother than to a banana.&lt;/p&gt;
+
+&lt;p&gt;A natural way to resolve this incongruity is to suppose that my brother and I share 50% of the 0.01% of genes that might possibly vary between two humans, which we call ‘50% of my genes’ as a shorthand.&lt;/p&gt;
+
+&lt;p&gt;But this raises a problem. The usual explanation for familial affection evolving is that since my brother shares half of my genes, from a genetic perspective it is half-selfish for me to look after his welfare. So genes that make me care about my brother tend to spread.&lt;/p&gt;
+
+&lt;p&gt;But on this new model where ‘50%’ is shorthand for ‘50% of the way between virtually all and all’, taking care of my brother is about as good as taking care of myself (genetically). And a banana is worthy of my kin affection more than I thought my brother was. All living creatures are my family, and all humankind is myself.&lt;/p&gt;
+
+&lt;p&gt;This does not describe my feelings about bananas, and to learn of a basic biological drive for selflessness across vast swathes of the tree of life would be a bit of a surprise.&lt;/p&gt;
+
+&lt;p&gt;How does this actually work?&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="science" /><category term="questions" /><summary type="html">It is said that we share 99.9% of our genes with one another, 95% with chimpanzees, and 60% with bananas. (It is also said that this isn’t quite right about bananas, but reading about that did not quell my confusion.)</summary></entry><entry><title type="html">Questions of the afternoon</title><link href="https://worldspiritsockpuppet.com/2020/11/01/questions-of-the-afternoon.html" rel="alternate" type="text/html" title="Questions of the afternoon" /><published>2020-11-01T16:39:16-08:00</published><updated>2020-11-01T16:39:16-08:00</updated><id>https://worldspiritsockpuppet.com/2020/11/01/questions-of-the-afternoon</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/01/questions-of-the-afternoon.html">&lt;p&gt;Today I spent about three hours chatting with eleven of my closer friends who I’ve mostly hardly seen this year, as a virtual birthday party. I thought the discussion was pretty interesting—so I record here some of the questions that came up (aloud or my mind):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Did various of us err by not doing technical subjects in undergrad? Or should we have tried to do ‘cool’ seeming subjects, technical or not?&lt;/li&gt;
+  &lt;li&gt;What is ‘coolness’? Is coolness always about power? Why is a big, fast train cool? Can you be cool if you are not relaxed? If you are small and scared? If you are mediocre in every way?&lt;/li&gt;
+  &lt;li&gt;Is etymology deep? What do people get out of knowing the origins of words?&lt;/li&gt;
+  &lt;li&gt;What is going on in history, at a high level?&lt;/li&gt;
+  &lt;li&gt;Can history be understood at a high level, or to have a real understanding of ‘what’s going on’, do you need to know about the detailed circumstances in each case?&lt;/li&gt;
+  &lt;li&gt;How did nations come about?&lt;/li&gt;
+  &lt;li&gt;Are various countries evil? What are we even asking here?&lt;/li&gt;
+  &lt;li&gt;How bad would it be if a ‘bad’ country came to control the world, forever?&lt;/li&gt;
+  &lt;li&gt;What reasons do we have to not worry about this, in the current situation?&lt;/li&gt;
+  &lt;li&gt;If history can be considered from various perspectives (a series of wars changing the borders of territories; a sequence of technological discoveries; a sequence of high level changes affecting the nature of technological discovery; a sequence of particular people and their biographies..) why is the version that is all about countries warring for territory always the one taught in ‘history’?&lt;/li&gt;
+  &lt;li&gt;Why do wars happen? What does IR say about this?&lt;/li&gt;
+  &lt;li&gt;How do the different theories of how wars happen relate to one another? On the model where it is all about entities exercising and maximizing power, why does it sometimes seem like ideas or institutions are playing a part?&lt;/li&gt;
+  &lt;li&gt;To the extent history is summarizable at a high level, involving wars between nations say, how too did ‘wars’ come to be a thing (if they are), rather than low level conflict being possible and sometimes realized at all times?&lt;/li&gt;
+  &lt;li&gt;Why don’t we hear more about the Uyghurs?&lt;/li&gt;
+  &lt;li&gt;Is improving the discourse an important cause?&lt;/li&gt;
+  &lt;li&gt;Has the public discourse worsened over time? How could we tell empirically?&lt;/li&gt;
+  &lt;li&gt;If the public discourse has worsened, why?&lt;/li&gt;
+  &lt;li&gt;Does public discourse seem worse because it has been more democratized, and listening to everyone means opening the floor to messages sent with less attention to conceptual clarity, or using different discourse norms, or constructed with less philosophical skill than when public expression was inaccessible to most people? Might it in that case be better overall, in a trade-off between representing values and knowledge from across the population, and average skill of expression and thought?&lt;/li&gt;
+  &lt;li&gt;What would I write if I felt free to express myself online?&lt;/li&gt;
+  &lt;li&gt;What is good about Hegel? Why do such philosophers feel to some like a campaign to gaslight people? What are our experiences of trying to read Hegel? Is it better understood as a guide to tripping?&lt;/li&gt;
+  &lt;li&gt;Supposing such philosophy is a way of conveying non-propositional stuff to put in your mind, couldn’t that still be talked about in an open and propositional way? For instance in an introduction that says ‘This book is a sequence of words that I believe will cause you to have a different experience of your relationship with the world if you read them.’&lt;/li&gt;
+  &lt;li&gt;Why doesn’t someone write a better account of any of these things? &lt;a href=&quot;https://meteuphoric.com/2017/01/04/why-read-old-philosophy/&quot;&gt;Why are we still reading the originals?&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Katja Grace</name></author><category term="mundane" /><category term="journal" /><category term="worldlypositions" /><summary type="html">Today I spent about three hours chatting with eleven of my closer friends who I’ve mostly hardly seen this year, as a virtual birthday party. I thought the discussion was pretty interesting—so I record here some of the questions that came up (aloud or my mind):</summary></entry><entry><title type="html">Automated intelligence is not AI</title><link href="https://worldspiritsockpuppet.com/2020/11/01/automating-intelligence.html" rel="alternate" type="text/html" title="Automated intelligence is not AI" /><published>2020-11-01T01:58:21-07:00</published><updated>2020-11-01T01:58:21-07:00</updated><id>https://worldspiritsockpuppet.com/2020/11/01/automating-intelligence</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/11/01/automating-intelligence.html">&lt;p&gt;Sometimes we think of ‘artificial intelligence’ as whatever technology ultimately automates human cognitive labor.&lt;/p&gt;
+
+&lt;p&gt;I question this equivalence, looking at past automation. In practice human cognitive labor is replaced by things that don’t seem at all cognitive, or like what we otherwise mean by AI.&lt;/p&gt;
+
+&lt;p&gt;Some examples:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Early in the existence of bread, it might have been toasted by someone holding it close to a fire and repeatedly observing it and recognizing its level of doneness and adjusting. Now we have machines that hold the bread exactly the right distance away from a predictable heat source for a perfect amount of time. You could say that the shape of the object embodies a lot of intelligence, or that intelligence went into creating this ideal but non-intelligent tool.&lt;/li&gt;
+  &lt;li&gt;Self-cleaning ovens replace humans cleaning ovens. Humans clean ovens with a lot of thought—looking at and identifying different materials and forming and following plans to remove some of them. Ovens clean themselves by getting very hot.&lt;/li&gt;
+  &lt;li&gt;Carving a rabbit out of chocolate takes knowledge of a rabbit’s details, along with knowledge of how to move your hands to translate such details into chocolate with a knife. A rabbit mold automates this work, and while this route may still involve intelligence in the melting and pouring of the chocolate, all rabbit knowledge is now implicit in the shape of the tool, though I think nobody would call a rabbit-shaped tin ‘artificial intelligence’.&lt;/li&gt;
+  &lt;li&gt;Human pouring of orange juice into glasses involves various mental skills. For instance, classifying orange juice and glasses and judging how they relate to one another in space, and moving them while keeping an eye on this. Automatic orange juice pouring involves for instance a button that can only be pressed with a glass when the glass is in a narrow range of locations, which opens an orange juice faucet running into a spot common to all the possible glass-locations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Some of this is that humans use intelligence where they can use some other resource, because it is cheap on the margin where the other resource is expensive. For instance, to get toast, you could just leave a lot of bread at different distances then eat the one that is good. That is bread-expensive and human-intelligence-cheap (once you come up with the plan at least). But humans had lots of intelligence and not much bread. And if later we automate a task like this, before we have computers that can act very similarly to brains, then the alternate procedure will tend to be one that replaces human thought with something that actually is cheap at the time, such as metal.&lt;/p&gt;
+
+&lt;p&gt;I think a lot of this is that to deal with a given problem you can either use flexible intelligence in the moment, or you can have an inflexible system that happens to be just what you need. Often you will start out using the flexible intelligence, because being flexible it is useful for lots of things, so you have some sitting around for everything, whereas you don’t have an inflexible system that happens to be just what you need. But if a problem seems to be happening a lot, it can become worth investing the up-front cost of getting the ideal tool, to free up your flexible intelligence again.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="ai" /><category term="meteuphoric" /><summary type="html">Sometimes we think of ‘artificial intelligence’ as whatever technology ultimately automates human cognitive labor.</summary></entry><entry><title type="html">Study of a 34th birthday</title><link href="https://worldspiritsockpuppet.com/2020/10/31/birthday.html" rel="alternate" type="text/html" title="Study of a 34th birthday" /><published>2020-10-31T04:06:31-07:00</published><updated>2020-10-31T04:06:31-07:00</updated><id>https://worldspiritsockpuppet.com/2020/10/31/birthday</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/10/31/birthday.html">&lt;p&gt;It was recently my birthday. I started the celebrations by sleeping in so late that I probably wouldn’t be that sleep deprived. My boyfriend continued the celebrations by making me breakfast in bed and setting aside his work, donning a hat, and singing to me when I woke. He actually always makes me breakfast and it is usually in bed, but that didn’t really detract from it.&lt;/p&gt;
+
+&lt;p&gt;I went to work in my own room, and had some success clarifying my thoughts about arguments for catastrophic risk from artificial intelligence in a Google doc. I took a quick walk in the sun. I dropped into a massive online town to have virtual coffee with my colleagues and other passers by.&lt;/p&gt;
+
+&lt;p&gt;I went back and discussed some troubling things with my boyfriend while standing on one leg, so that the discussion couldn’t possibly get out of hand and eat a lot of time.&lt;/p&gt;
+
+&lt;p&gt;We went out for a leisurely walk, but quickly realized that if we were going to eat cake on this day, we probably wanted to acquire it from a bakery a twelve minute walk away and get back to the house for his next appointment within less than 30 minutes. So it became a brisk walk up a giant hill and down the other side, to the slightly alternate universe of Noe Valley, where there are things like children and farmers markets and good but not fancy restaurants. The bakery had a queue, but we did not give up, and it turned out to be an extremely fast one so we got home with a creamy yellow passionfruit cake before too long.&lt;/p&gt;
+
+&lt;p&gt;Alone again, I opened a present I got myself, a &lt;a href=&quot;https://www.amazon.com/gp/product/B07RVMD414/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;giant piece of rope&lt;/a&gt;. I keep having some unexplained hankering for hauling myself up a giant piece of rope. So I thought, why not? Now I am only impeded by my total lack of arm strength or general dexterity. (No this fantasy was not based on prior experience of climbing ropes, I think.)&lt;/p&gt;
+
+&lt;p&gt;In the midst of various kind offers to make food I like for dinner, I became flustered and couldn’t remember what is good to eat. I thought it might be okonomiyaki, but coludn’t find any for sale in my city. Eventually I happily went with what I always make: crispy fried silken tofu with craisins and nuts and greens. With the possible addition of farro, a recent interest. So we cranked up the music and made it together and drank green apple cider and ordered extra fries and jalapenos and such on the side.&lt;/p&gt;
+
+&lt;p&gt;My whole household joined for dinner, and we talked about why it isn’t possible to buy academic papers at prices that someone might plausibly pay, and whether it is generally better for the world if goods like Netflix movies are sold in large bundles (all of Netflix) rather than one at a time (pay per movie).&lt;/p&gt;
+
+&lt;p&gt;Then we got out a neat little box of &lt;a href=&quot;https://www.amazon.com/gp/product/B087P7QHKX/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;polymer clay in many colors&lt;/a&gt; that I recently acquired, and sculpted things while we played a game I remembered from years ago, though still don’t know the name of. You basically try to guess summary statistics of your group for different questions, then reveal the individual answers that let you see who was right. For instance, questions included ‘how many of us can play the tune of happy birthday on two different instruments without sheet music, but with five minutes to think about it?’ and ‘how many of us have kissed someone of our own sex?’&lt;/p&gt;
+
+&lt;p&gt;We then briefly played ‘what’s more unlikely?’ a game where you are presented with two very unlikely things, and try to convince a judge that one of them is less likely. For instance, is it more likely that by 2060 a potato has become president of the United States, or that a head of cabbage has? (Favored answer: potato)&lt;/p&gt;
+
+&lt;p&gt;We then had a round of ‘Katja is interviewed about things’ (“How do you feel about trees?”)&lt;/p&gt;
+
+&lt;p&gt;Then we played &lt;a href=&quot;https://www.askhole.io/&quot;&gt;askhole&lt;/a&gt;, which was tamer and more wholesome than their website led me to expect. It was pretty good.&lt;/p&gt;
+
+&lt;p&gt;Eventually everyone went to bed, except for my boyfriend and I, who stayed to clean up a little more. But cleaning quickly turned to dancing, and dancing turned into dancing a lot. At least for me—he got tired and flopped around on a beanbag mostly. (This was arguably the best bit of the day, but I can’t elaborate  because I am falling asleep so aggressively while writing this that I just concluded this sentence with apparent nonsense.&lt;/p&gt;
+
+&lt;p&gt;In other news, if you don’t have the maximal number of cars in the massive garage of your weirdly proportioned house, and you aren’t allowed to rent out the space to another sub-letter, and you have eaten down some of your quarantine stores, and you mop up all the shards of broken fluorescent tube that fell there, and your housemate kindly lays out the mats, then you can sometimes have a rad private dance floor!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://worldspiritsockpuppet.com/assets/dancepics/birthdaydance8.png&quot; alt=&quot;katjadancing&quot; /&gt;&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="worldlypositions" /><category term="mundane" /><category term="san-francisco" /><category term="journal" /><summary type="html">It was recently my birthday. I started the celebrations by sleeping in so late that I probably wouldn’t be that sleep deprived. My boyfriend continued the celebrations by making me breakfast in bed and setting aside his work, donning a hat, and singing to me when I woke. He actually always makes me breakfast and it is usually in bed, but that didn’t really detract from it.</summary></entry><entry><title type="html">Why don’t presidential candidates seem more ideal?</title><link href="https://worldspiritsockpuppet.com/2020/10/30/why-arent-presidential-candidates-more-ideal.html" rel="alternate" type="text/html" title="Why don't presidential candidates seem more ideal?" /><published>2020-10-30T01:30:10-07:00</published><updated>2020-10-30T01:30:10-07:00</updated><id>https://worldspiritsockpuppet.com/2020/10/30/why-arent-presidential-candidates-more-ideal</id><content type="html" xml:base="https://worldspiritsockpuppet.com/2020/10/30/why-arent-presidential-candidates-more-ideal.html">&lt;p&gt;Without speaking to my own judgments of historical candidates, my impression is that people very often vote (in US primaries and elections at least) with an attitude of ‘ugh well it can’t be Alice, so I guess it has to be Bob, even though he is evil as far as I can tell’ rather than, ‘wow, Alice is one of the most shining examples of an excellent leader and all around good person I have ever witnessed, but I just have to vote for Bob because he is astonishingly even better, and when I see him speak it just makes me cry because I can’t donate money to his campaign fast enough’.&lt;/p&gt;
+
+&lt;p&gt;There are like &lt;a href=&quot;https://www.quora.com/How-many-people-are-eligible-to-become-president&quot;&gt;150 million&lt;/a&gt; eligible US citizens to choose from for president, and in my experience many people generally inspire excitement and warmth in others, and are reasonable and knowledgeable and good. I admit I don’t really know how this whole system works, but if it’s some kind of popularity contest, with this many entrants, shouldn’t the results be reliably almost superhumanly likable? (Which is not to say superhumanly deserving of being liked, or superhumanly competent at running the country.)&lt;/p&gt;
+
+&lt;p&gt;A non-obvious but plausible category of answer is that such people really are superhumanly likable, but that the situation nonetheless leads to them seeming not so.&lt;/p&gt;
+
+&lt;p&gt;Another is that things were different not so long ago, and recent times are a weird aberration. (I welcome insight from anyone who was paying attention in the past.)&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="us-politics" /><category term="economics" /><summary type="html">Without speaking to my own judgments of historical candidates, my impression is that people very often vote (in US primaries and elections at least) with an attitude of ‘ugh well it can’t be Alice, so I guess it has to be Bob, even though he is evil as far as I can tell’ rather than, ‘wow, Alice is one of the most shining examples of an excellent leader and all around good person I have ever witnessed, but I just have to vote for Bob because he is astonishingly even better, and when I see him speak it just makes me cry because I can’t donate money to his campaign fast enough’.</summary></entry></feed>
