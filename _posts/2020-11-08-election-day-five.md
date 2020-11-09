@@ -29,7 +29,8 @@ The next park we got to was even less celebratory—at a glance, more full of in
 But we reached the bakery, and it had stand after stand of them. We asked if we could really buy like ten of them, or whether this would deprive others. We could. We noticed another case with as many kouignoù amann again. We got eleven, and some cookies and cake too. Then on the way home we stumbled upon another noted kouignoù amann bakery, and got one more.
 
 
-
+***
+***
 
 
 [^1]: A kouig amann (plural kouignoù amann) is a kind of French buttery sugary pastry. It's a bit like toffee with quite a lot of pastry in it.
