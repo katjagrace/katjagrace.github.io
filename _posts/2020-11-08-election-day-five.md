@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "On the fifth day of election"
-date: 2020-11-08 01:30:00 -0700
+date: 2020-11-08 19:00:00 -0700
 tags: us-election mundane journal worldlypositions
 comments: true
 ---
@@ -31,7 +31,7 @@ The next park we got to was even less celebratory—at a glance, more full of in
 
 "What are the chances they actually have kouign amann?" For some reason places generally say they will sell kouignoù amann, but then don't actually have any, or only have one, or are closed at all of the times you ever want a kouign amann. Philz Coffee has been out of kouignoù amann for at least a month. I had a better feeling about this place though. The one time I went there years ago, it had more of a kouign amann production outlet vibe, and veritable mounds of kouignoù amann of different flavors. Still, approaching the bakery at last, we hardly dared hope. I put 55% on kouignoù amann, but admitted that that probably meant 40%, empirically. He was much less optimistic.
 
-But we reached the bakery, and it had stand after stand of them. We asked if we could really buy like ten of them, or whether this would deprive others. We could. We noticed another case with as many kouignoù amann again. We got eleven, and some cookies and cake too. Then on the way home we stumbled upon another noted kouignoù amann bakery, and got one more. 
+But we reached the bakery, and it had stand after stand of them. We asked if we could really buy like ten of them, or whether this would deprive others. We could. We noticed another case with as many kouignoù amann again. We got eleven, and some cookies and cake too. Then on the way home we stumbled upon another noted kouignoù amann bakery, and got one more.
 
 
 ---
