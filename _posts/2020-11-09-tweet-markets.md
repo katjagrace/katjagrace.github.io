@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tweet markets"
-date: 2020-11-09 10:50:30 -0700
+title: "Tweet markets for impersonal truth tracking?"
+date: 2020-11-09 11:01:22 -0700
 tags: discourse-improvement society meteuphoric
 comments: true
 ---
@@ -22,3 +22,5 @@ It seems like this would solve:
 - the problem for prediction markets where it's annoying to go somewhere to predict things when you are doing something else, like looking at Twitter
 - the problem for Twitter where it is full of fake claims
 - the problem for Twitter users where they have to listen to fake claims all the time, and worry about whether all kinds of things are true or not
+
+It would be pretty imperfect, since it throws the gavel to future Twitter users, but perhaps they are an improvement on the status quo, or on the status quo without the social media platforms themselves making judgments.
