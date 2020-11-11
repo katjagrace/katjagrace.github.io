@@ -10,6 +10,7 @@ Over toothbrushing tonight, my boyfriend and I analyzed the song '[Colors of the
 A pair of lines that caught my attention were:
 
 >'Come roll in all the riches all around you
+
 >And for once, never wonder what they're worth'
 
 This suggests that wondering what everything is worth negates what is valuable about it, which is to say, makes it worth less to you. Is it true that looking out for value like this is self-undermining? It sounds plausible to me, but why?
