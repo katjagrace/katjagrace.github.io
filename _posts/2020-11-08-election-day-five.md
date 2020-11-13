@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "On the fifth day of election"
 date: 2020-11-08 19:00:00 -0700
 tags: us-election mundane journal worldlypositions
@@ -34,7 +34,7 @@ But we reached the bakery, and it had stand after stand of them. We asked if we 
 
 ---
 
- 
+
 ---
 
 

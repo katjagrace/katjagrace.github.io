@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "American Politics"
 date: 2020-10-20 00:02:26 -0700
 tags: politics psychology worldlypositions

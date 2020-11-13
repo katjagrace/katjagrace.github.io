@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Scale of unrest"
 date: 2020-10-18 02:35:09 -0700
 tags: san-francisco

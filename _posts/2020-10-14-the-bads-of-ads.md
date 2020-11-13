@@ -3,7 +3,6 @@ layout: post
 title: "The bads of ads"
 date: 2020-10-13 22:30:00 -0700
 tags: advertising societal-improvement meteuphoric
-wp: no
 ---
 In London at the start of the year, perhaps there was more advertising than there usually is in my life, because I found its presence disgusting and upsetting. Could I not use public transport without having my mind intruded upon continually by trite performative questions?
 

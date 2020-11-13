@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Problems and gratitudes"
 date: 2020-10-15 02:22:00 -0700
 tags: prioritization improvement worldlypositions

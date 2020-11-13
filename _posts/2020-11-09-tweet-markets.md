@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Tweet markets for impersonal truth tracking?"
 date: 2020-11-09 11:01:22 -0700
 tags: discourse-improvement society meteuphoric

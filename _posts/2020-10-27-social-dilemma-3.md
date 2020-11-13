@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Empirical case study: how optimized are my Facebook ads?"
 date: 2020-10-27 20:18:36 -0700
 tags: advertising societal-improvement

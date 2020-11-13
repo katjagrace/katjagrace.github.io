@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Why are bananas not my brothers?"
 date: 2020-11-03 02:27:20 -0700
 tags: science questions

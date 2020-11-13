@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Questions of the afternoon"
 date: 2020-11-01 17:39:16 -0700
 tags: mundane journal worldlypositions

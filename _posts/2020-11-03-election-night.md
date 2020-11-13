@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Election night"
 date: 2020-11-03 22:08:45 -0700
 tags: us-election mundane journal

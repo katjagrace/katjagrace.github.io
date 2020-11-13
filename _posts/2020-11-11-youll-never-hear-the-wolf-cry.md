@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "And you'll never hear the wolf cry to the blue corn moon"
 date: 2020-11-11 03:21:47 -0700
 tags: review spirituality

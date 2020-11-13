@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Migraine basket"
 date: 2020-11-12 04:24:32 -0700
 tags: self-improvement mundane

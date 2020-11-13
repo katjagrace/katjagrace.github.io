@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Calling it"
 date: 2020-11-07 01:39:26 -0700
 tags: review

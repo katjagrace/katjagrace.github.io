@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Automated intelligence is not AI"
 date: 2020-11-1 01:58:21 -0700
 tags: ai meteuphoric

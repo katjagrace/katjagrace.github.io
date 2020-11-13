@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Where are the concept factories?"
 date: 2020-11-08 02:43:52 -0700
 tags: economics sociology society-strategy

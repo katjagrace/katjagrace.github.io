@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "More seals"
 date: 2020-10-16 12:24:38 -0700
 tags: seals

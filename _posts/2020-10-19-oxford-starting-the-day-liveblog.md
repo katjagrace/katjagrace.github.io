@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Oxford: starting the day liveblog"
 date: 2020-10-19 12:27:42 -0700
 tags: oxford mental-states self-improvement worldlypositions

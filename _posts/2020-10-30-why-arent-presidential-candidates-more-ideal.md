@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Why don't presidential candidates seem more ideal?"
 date: 2020-10-30 01:30:10 -0700
 tags: us-politics economics

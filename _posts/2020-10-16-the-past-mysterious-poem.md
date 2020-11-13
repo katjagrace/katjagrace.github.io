@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The past: mysterious poem"
 date: 2020-10-16 23:25:00 -0700
 tags: poetry worldlypositions past journal

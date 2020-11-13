@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Everyone headed to win"
 date: 2020-11-05 14:00:47 -0700
 tags: us-election psychology

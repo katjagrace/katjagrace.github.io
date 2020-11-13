@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The end of ordinary days"
 date: 2020-10-24 03:46:12 -0700
 tags: worldlypositions experience

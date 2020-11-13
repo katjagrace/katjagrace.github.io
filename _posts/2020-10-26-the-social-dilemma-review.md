@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "But what kinds of puppets are we?"
 date: 2020-10-26 00:52:20 -0700
 tags: advertising societal-improvement meteuphoric journal

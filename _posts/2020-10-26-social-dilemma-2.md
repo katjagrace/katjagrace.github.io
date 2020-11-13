@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Whence the symptoms of social media?"
 date: 2020-10-27 00:22:12 -0700
 tags: advertising societal-improvement meteuphoric
