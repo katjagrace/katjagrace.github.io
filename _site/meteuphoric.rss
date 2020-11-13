@@ -3,11 +3,41 @@
 <channel>
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
- <link>https://worldspiritsockpuppet.com</link>
- <lastBuildDate>Thu, 12 Nov 2020 23:09:00 -0800</lastBuildDate>
- <pubDate>Thu, 12 Nov 2020 23:09:00 -0800</pubDate>
+ <link>http://localhost:4000</link>
+ <lastBuildDate>Fri, 13 Nov 2020 01:41:12 -0800</lastBuildDate>
+ <pubDate>Fri, 13 Nov 2020 01:41:12 -0800</pubDate>
  <ttl>1800</ttl>
 
+ 
+ <item>
+  <title>Misalignment and misuse: whose values are manifest?</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p>AI related disasters are often categorized as involving misaligned AI, or misuse, or accident. Where:</p>
+<ul>
+  <li>misuse means the bad outcomes were wanted by the people involved,</li>
+  <li>misalignment means the bad outcomes were wanted by AI (and not by its human creators), and</li>
+  <li>accident means that the bad outcomes were not wanted by those in power but happened anyway due to error.</li>
+</ul>
+
+<p>In thinking about specific scenarios, these concepts seem less helpful.</p>
+
+<p>I think a likely scenario leading to bad outcomes is that AI can be made which gives a set of people things they want, at the expense of future or distant resources that the relevant people do not care about or do not own.</p>
+
+<p>For example, consider autonomous business strategizing AI systems that are profitable additions to many companies, but in the long run accrue resources and influence and really just want certain businesses to nominally succeed, resulting in a worthless future. Suppose Bob is considering whether to get a business strategizing AI for his business. It will make the difference between his business thriving and struggling, which will change his life. He suspects that within several hundred years, if this sort of thing continues, the AI systems will control everything. Bob probably doesn’t hesitate, in the way that businesses don’t hesitate to use gas vehicles even if the people involved genuinely think that climate change will be a massive catastrophe in hundreds of years.</p>
+
+<p>When the business strategizing AI systems finally plough all of the resources in the universe into a host of thriving 21st Century businesses, was this misuse or misalignment or accident? The strange new values that were satisfied were those of the AI systems, but the entire outcome only happened because people like Bob chose it knowingly (let’s say). Bob liked it more than the long glorious human future where his business was less good. That sounds like misuse. Yet also in a system of many people, letting this decision fall to Bob may well have been an accident on the part of others, such as the technology’s makers or legislators.</p>
+
+<p>Outcomes are the result of the interplay of choices, driven by different values. Thus it isn’t necessarily sensical to think of them as flowing from one entity’s values or another’s. Here, AI technology created a better option for both Bob and some newly-minted misaligned AI values that it also created—‘Bob has a great business, AI gets the future’—and that option was worse for the rest of the world. They chose it together, and the choice needed both Bob to be a misuser and the AI to be misaligned. But this isn’t a weird corner case, this is a natural way for the future to be destroyed in an economy.</p>
+
+<p><em>Thanks to Joe Carlsmith for conversation leading to this post.</em></p>
+
+  </description>
+  <link>/2020/11/13/misalignment-and-misuse.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/13/misalignment-and-misuse.html</guid>
+  <pubDate>Fri, 13 Nov 2020 00:25:04 -0800</pubDate>
+ </item>
  
  <item>
   <title>Tweet markets for impersonal truth tracking?</title>
@@ -38,7 +68,7 @@
 
   </description>
   <link>/2020/11/09/tweet-markets.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/09/tweet-markets.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/09/tweet-markets.html</guid>
   <pubDate>Mon, 09 Nov 2020 10:01:22 -0800</pubDate>
  </item>
  
@@ -65,7 +95,7 @@
 
   </description>
   <link>/2020/11/01/automating-intelligence.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/01/automating-intelligence.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/01/automating-intelligence.html</guid>
   <pubDate>Sun, 01 Nov 2020 01:58:21 -0700</pubDate>
  </item>
  
@@ -110,7 +140,7 @@
 
   </description>
   <link>/2020/10/27/social-dilemma-2.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/27/social-dilemma-2.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/27/social-dilemma-2.html</guid>
   <pubDate>Tue, 27 Oct 2020 00:22:12 -0700</pubDate>
  </item>
  
@@ -141,7 +171,7 @@
 
   </description>
   <link>/2020/10/26/the-social-dilemma-review.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/26/the-social-dilemma-review.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/26/the-social-dilemma-review.html</guid>
   <pubDate>Mon, 26 Oct 2020 00:52:20 -0700</pubDate>
  </item>
  
@@ -158,7 +188,7 @@
 
   </description>
   <link>/2020/10/24/new-blog.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/24/new-blog.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/new-blog.html</guid>
   <pubDate>Sat, 24 Oct 2020 22:11:19 -0700</pubDate>
  </item>
  
@@ -228,7 +258,7 @@
 
   </description>
   <link>/2020/10/13/the-bads-of-ads.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/13/the-bads-of-ads.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/13/the-bads-of-ads.html</guid>
   <pubDate>Tue, 13 Oct 2020 22:30:00 -0700</pubDate>
  </item>
  
