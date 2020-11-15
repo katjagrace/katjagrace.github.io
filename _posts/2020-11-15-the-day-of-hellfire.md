@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The day of Hellfire"
-date: 2020-11-xx 10:30:00 -0700
+date: 2020-11-15 01:04:55 -0700
 tags: mundane advice review
 comments: true
 ---
