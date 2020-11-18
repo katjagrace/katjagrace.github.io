@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-13T23:29:55-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Overlooking the obvious</title><link href="http://localhost:4000/2020/11/13/doing-the-obvious.html" rel="alternate" type="text/html" title="Overlooking the obvious" /><published>2020-11-13T10:20:21-08:00</published><updated>2020-11-13T10:20:21-08:00</updated><id>http://localhost:4000/2020/11/13/doing-the-obvious</id><content type="html" xml:base="http://localhost:4000/2020/11/13/doing-the-obvious.html">&lt;p&gt;One can feel stupid for not having tried the obvious thing. For instance, if you have terrible anxiety, and you tell your friend, and your friend is like, ‘um, have you considered anxiety drugs?’, and somehow it hasn’t occurred to you, you can feel stupid.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-17T22:18:31-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Schelling points amidst communication</title><link href="http://localhost:4000/2020/11/17/schelling-points-amidst-communication.html" rel="alternate" type="text/html" title="Schelling points amidst communication" /><published>2020-11-17T09:17:45-08:00</published><updated>2020-11-17T09:17:45-08:00</updated><id>http://localhost:4000/2020/11/17/schelling-points-amidst-communication</id><content type="html" xml:base="http://localhost:4000/2020/11/17/schelling-points-amidst-communication.html">&lt;p&gt;If two people are trying to meet in New York City, and they forgot to pick a spot, and both of their phones are dead, so they both just go and stand under the clock in Grand Central Station, hoping that the other will expect them to do that, guessing that if they were going to pick a spot to do this, it would be that one, then what you have is a Schelling point.&lt;/p&gt;
+
+&lt;p&gt;This is a pretty contrived circumstance, and I usually hear Schelling points talked of as if they are neat but only relevant in those rare cases when communication is impossible. For instance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Focal_point_(game_theory)&quot;&gt;Wikipedia says&lt;/a&gt; ‘In game theory, a focal point (or Schelling point) is a solution that people tend to choose by default in the absence of communication.’&lt;/p&gt;
+
+&lt;p&gt;As I was falling asleep last night, somewhere after imagining a kind of house made from genetically engineered trees that just grew into pleasing rounded house shapes roofed with massive leaves, it occurred to me that actually Schelling points are perfectly applicable and even very interesting in cases with communication. It’s just that when there is some combination of a relatively small amount of communication and clear norms about how to respond to communication, then communication often provides a particularly salient Schelling point, so there is not much of a question of what to do, and Schelling points don’t seem relevant.&lt;/p&gt;
+
+&lt;p&gt;When many things are being said, or there are other salient Schelling points, or it isn’t clear that everyone’s motives are trustworthy, or probably in other cases, there is no longer a determinate Schelling point necessarily.&lt;/p&gt;
+
+&lt;p&gt;For instance:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ten thousand oppressed people have to decide when to launch a revolution against a tyrant. If a small number try to revolt alone, they are probably captured by the oppressors and useless to the revolution. So all ten thousand would like to coordinate to fight at once. They can communicate perfectly freely with one another. However there are constantly suggestions that it happen tonight from the youngest and least strategic members of the group, so if such a suggestion is made, everyone has to guess whether this is the one that everyone is going to get behind. Even if Alice is wise and makes such a suggestion, and Bob knows her to be wise, if Bob doesn’t think everyone will be sure enough that everyone will be sure enough, then he won’t want to go out tonight.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Charles and Dick are in a fight, and both would strongly like to not be in a fight, however would not like to stop fighting before their opponent, because then they might get punched extra. They also don’t really want to fight beyond when their opponent is fighting, because if they punch him extra, he will hold a grudge. So ideally they would stop at the same time. But there is another Nash equilibrium at both continuing to fight (i.e. if both were going to fight more, neither would want to stop earlier). So they have to try to coordinate on one of the Nash equilibria. Charles says that he is going to stop now, but that doesn’t inform Dick much, because of course Charles wants Dick to think Charles is stopping, since then he too will stop. But Charles always wants Dick to stop sooner, regardless of his own plans. So the communication is hopeless in normal terms, and at least not automatically a Schelling point.&lt;/p&gt;
+
+    &lt;p&gt;Here is the table of payoffs for one punch:&lt;/p&gt;
+
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;stop&lt;/td&gt;
+          &lt;td&gt;punch&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;stop&lt;/td&gt;
+          &lt;td&gt;5, 5&lt;/td&gt;
+          &lt;td&gt;-5, 3&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;punch&lt;/td&gt;
+          &lt;td&gt;3, -5&lt;/td&gt;
+          &lt;td&gt;4, 4&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ellen and Frederick are meeting in New York City, and their phones are working fine, and Ellen texts ‘I’ll meet you outside the station in ten?’ and Fred texts ‘yeah’. But Ellen is somewhat tempted to go in and wait under the clock because she and Fred met there once before under highly romantic circumstances, and she is interested in going back there, as it were, but from their current platonic situation, it would be weird to just ask him to meet under the clock again, or to immediately proposition him. She figures that if he feels the same way, and their coordination game is on point, he will actually wait for her under the clock, then come outside if she doesn’t show up. And if he’s not there, well, she tried, and will be a minute late outside. Frederick also figures he might be able to risk-free learn if she feels the same way, and waits inside.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You might argue that these are not all ‘communication’ in some strict sense of genuine information in fact being cheap to convey. Fair enough probably, but in that strict sense, limits to communication are more common.&lt;/p&gt;
+
+&lt;p&gt;You might argue that these are still all very contrived examples. Which is fair, but I suspect it stems at least partly from how hard it is to come up with examples, especially if they are examples of a game theoretic situation you recently thought of being manifest.&lt;/p&gt;
+
+&lt;p&gt;I assume this is not an original point, but don’t know who it is unoriginal because of. If you liked this post, you might like &lt;a href=&quot;https://www.amazon.com/Strategy-Conflict-New-Preface-Author/dp/0674840313&quot;&gt;The Strategy of Conflict&lt;/a&gt;, which for all I know literally has this point in it, but at least has a lot more good discussion of Schelling points, including introducing the concept.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="game-theory" /><summary type="html">If two people are trying to meet in New York City, and they forgot to pick a spot, and both of their phones are dead, so they both just go and stand under the clock in Grand Central Station, hoping that the other will expect them to do that, guessing that if they were going to pick a spot to do this, it would be that one, then what you have is a Schelling point.</summary></entry><entry><title type="html">Octobillionupling effort</title><link href="http://localhost:4000/2020/11/17/octobillionupling-effort.html" rel="alternate" type="text/html" title="Octobillionupling effort" /><published>2020-11-17T00:10:21-08:00</published><updated>2020-11-17T00:10:21-08:00</updated><id>http://localhost:4000/2020/11/17/octobillionupling-effort</id><content type="html" xml:base="http://localhost:4000/2020/11/17/octobillionupling-effort.html">&lt;p&gt;When basically everyone in the world faces the same problem, it is interesting if everyone does their own working out to solve it. Even if there isn’t a one-size-fits-all answer, you might think it would be massively more efficient to do a good job of answering once with some free variables.&lt;/p&gt;
+
+&lt;p&gt;For instance, my impression is that even before covid, basically everyone was sometimes possibly a bit sick and had to decide whether to go to an event, given that they might be contagious. The usual thing to do, I think, was to consider the question for a bit yourself (or not, depending on conscientiousness), and to maybe mention it to the host and try to guess how annoyed the other guests would be, and then to make a call. But this isn’t a highly personal question—if someone who knew more about infectious disease contagion than most people (which wouldn’t be hard) made a form to tell you what to do based on your symptoms and the number of people at the event, you would probably already be making a better choice, faster, than most people.&lt;/p&gt;
+
+&lt;p&gt;Why doesn’t this happen?&lt;/p&gt;
+
+&lt;p&gt;Some answers I can think of:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;It would be great, but it isn’t anyone’s job, and it’s hard to profit from it because hardly anyone will give you a cent for making their judgment for them.&lt;/li&gt;
+  &lt;li&gt;It would be more effort to open the calculator than the thought most people put into this. (Relatedly, all apparent examples of this are just ‘how worried should I be about X’ where X is something that actually nobody is worried about unless they have an anxiety disorder. There is a form for solving this and it is called a psychiatry intake form.)&lt;/li&gt;
+  &lt;li&gt;If someone made such a thing, there is no way that more than a minuscule fraction of the world would come to know about it.&lt;/li&gt;
+  &lt;li&gt;Such things exist all over the place, and everyone else is using them and have just never mentioned them to me&lt;/li&gt;
+  &lt;li&gt;Such things really do involve a lot of personal information somehow&lt;/li&gt;
+  &lt;li&gt;Few people would trust such a tool enough to do what it said&lt;/li&gt;
+  &lt;li&gt;This sort of thing just isn’t a thing, and people mostly do things that are things. The market isn’t efficient. Everyone’s personal lives are currently like pre-Moneyball baseball.&lt;/li&gt;
+  &lt;li&gt;Nobody knows the answers to these questions. It’s possible to have a better answer than most people’s made up ones (e.g. by averaging most people’s made up answers, or having an expert make something up), but nobody wants to either stand behind that, or pay for it.&lt;/li&gt;
+  &lt;li&gt;This case is a mysterious anomaly, but there aren’t many such cases. For instance, can you think of more good ones right now? No.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Figuring out the covid risk of different activities is another example of massive potential replication of effort, though in that case &lt;a href=&quot;https://www.microcovid.org/&quot;&gt;microcovid.org&lt;/a&gt; (and perhaps others) stepped up.&lt;/p&gt;
+
+&lt;p&gt;I have a similar feeling at a smaller scale about speculating about the future of AI, which is perhaps why I run &lt;a href=&quot;http://aiimpacts.org/&quot;&gt;aiimpacts.org&lt;/a&gt; and other people don’t. (While that enlightens me on some specific things that might go wrong with trying to do this, it’s hard for a particular project to shed light on the problems with a category it is in, since it is in many categories and presumably might have problems from all of them.)&lt;/p&gt;
+
+&lt;p&gt;P.S. Yes, I believe the word is ‘&lt;a href=&quot;https://en.wikipedia.org/wiki/Numeral_prefix&quot;&gt;octobillion&lt;/a&gt; - &lt;a href=&quot;https://en.wikipedia.org/wiki/Tuple#Names_for_tuples_of_specific_lengths&quot;&gt;upling&lt;/a&gt;’&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="CATEGORY-1" /><category term="CATEGORY-2" /><summary type="html">When basically everyone in the world faces the same problem, it is interesting if everyone does their own working out to solve it. Even if there isn’t a one-size-fits-all answer, you might think it would be massively more efficient to do a good job of answering once with some free variables.</summary></entry><entry><title type="html">Schedules versus momentum</title><link href="http://localhost:4000/2020/11/15/task-conflict.html" rel="alternate" type="text/html" title="Schedules versus momentum" /><published>2020-11-15T14:42:13-08:00</published><updated>2020-11-15T14:42:13-08:00</updated><id>http://localhost:4000/2020/11/15/task-conflict</id><content type="html" xml:base="http://localhost:4000/2020/11/15/task-conflict.html">&lt;p&gt;A mundane issue that arises endlessly in my life, but which I haven’t heard that much advice on: what to do when your schedule says you should do one thing, but you have momentum on a different thing? Or more broadly, what to do when scheduling and energy for a task conflict?&lt;/p&gt;
+
+&lt;p&gt;People often have schedules (or other intentions around times or orders of activities), and often have momentum or excitement about activities, so I assume these also conflict for others. I include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;when a period intended for something ends, and you haven’t finished it&lt;/li&gt;
+  &lt;li&gt;when a period for starting something occurs, and you haven’t finished the last thing&lt;/li&gt;
+  &lt;li&gt;when a period for something occurs and you really don’t feel like it relative to something else that is perfectly productive, but not the intended activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some examples:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If it’s ‘bed time’, but you are making a lot of progress on writing, should you go to bed?&lt;/li&gt;
+  &lt;li&gt;If you mean to stop work and go outside at 5pm, and now it is 5pm and you are in the middle of something that will be annoying to get back to, do you stop and go outside?&lt;/li&gt;
+  &lt;li&gt;If you meant to set aside 3h on Sunday for working on some self-improvement things, and it is now an hour into that period because you woke up late, and also you haven’t finished figuring out what you need to do today at all, should you move immediately to the planned time block or finish planning your day and getting up?&lt;/li&gt;
+  &lt;li&gt;If you meant to write in your planner every morning before work, and it is work time and you haven’t done it, should you start work fifteen minutes late?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course the answer is ‘it depends’: there are some circumstances where you should stick with what you are doing or excited about, and others you should stick to the plan. But I wonder how far to lean one way or the other, or what it should depend on.&lt;/p&gt;
+
+&lt;p&gt;I think in practice it is a thing I make many judgments about without a lot of thought, and without remembering or learning from the huge number of other such judgments I’ve made. Has anyone else done better?&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="life-strategy" /><summary type="html">A mundane issue that arises endlessly in my life, but which I haven’t heard that much advice on: what to do when your schedule says you should do one thing, but you have momentum on a different thing? Or more broadly, what to do when scheduling and energy for a task conflict?</summary></entry><entry><title type="html">The day of Hellfire</title><link href="http://localhost:4000/2020/11/15/the-day-of-hellfire.html" rel="alternate" type="text/html" title="The day of Hellfire" /><published>2020-11-15T00:04:55-08:00</published><updated>2020-11-15T00:04:55-08:00</updated><id>http://localhost:4000/2020/11/15/the-day-of-hellfire</id><content type="html" xml:base="http://localhost:4000/2020/11/15/the-day-of-hellfire.html">&lt;p&gt;With the 2020 reduction of variety in places and companionship that might set the days apart, there is a risk of swathes of time blending together and seeming short. One solution is to substitute other sources of visceral variety. Yesterday I had the song &lt;a href=&quot;https://www.youtube.com/watch?v=U3NoDEu7kpg&quot;&gt;Hellfire&lt;/a&gt; from Disney’s The Hunchback of Notre Dame stuck in my head all day, which I can recommend as intense and a different vibe from normal.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="mundane" /><category term="advice" /><category term="review" /><summary type="html">With the 2020 reduction of variety in places and companionship that might set the days apart, there is a risk of swathes of time blending together and seeming short. One solution is to substitute other sources of visceral variety. Yesterday I had the song Hellfire from Disney’s The Hunchback of Notre Dame stuck in my head all day, which I can recommend as intense and a different vibe from normal.</summary></entry><entry><title type="html">Overlooking the obvious</title><link href="http://localhost:4000/2020/11/13/doing-the-obvious.html" rel="alternate" type="text/html" title="Overlooking the obvious" /><published>2020-11-13T10:20:21-08:00</published><updated>2020-11-13T10:20:21-08:00</updated><id>http://localhost:4000/2020/11/13/doing-the-obvious</id><content type="html" xml:base="http://localhost:4000/2020/11/13/doing-the-obvious.html">&lt;p&gt;One can feel stupid for not having tried the obvious thing. For instance, if you have terrible anxiety, and you tell your friend, and your friend is like, ‘um, have you considered anxiety drugs?’, and somehow it hasn’t occurred to you, you can feel stupid.&lt;/p&gt;
 
 &lt;p&gt;I think this is often wrong, because there are so many obvious things. The implicit assumption in the line of reasoning suggesting that you should be embarrassed is that you should have thought of the obvious thing first. But there is at least one obvious thing for every way of looking at a situation. So you can’t think of all of them first because there are so many of them. For instance, having framed your recent life as ‘having an anxiety disorder’, obvious things to do might include therapy, psychiatry, trusting your own assessment of what is alarming less, doing exposure therapy on your own, reading self-help books, exercise, trying to be less anxious.. And if a few days ago you were thinking of your situation as more ‘not being on top of things’, then the obvious things would be different. If earlier today you were thinking of the situation as ‘I really don’t want to leave the house today, for this thing’, then other options will be obvious. And these are all just ways of framing a particular thread in your life. At the same time, there will be obvious things to do about the fact that you don’t have an office chair, and to do about how you like musicals, and to do about being unfit, and so on.&lt;/p&gt;
 
@@ -109,126 +195,4 @@
       &lt;p&gt;A kouig amann (plural kouignoù amann) is a kind of French buttery sugary pastry. It’s a bit like toffee with quite a lot of pastry in it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="mundane" /><category term="journal" /><category term="worldlypositions" /><summary type="html">I was woken yesterday by cheering and whooping in the streets.</summary></entry><entry><title type="html">Where are the concept factories?</title><link href="http://localhost:4000/2020/11/08/Where-are-the-concept-factories.html" rel="alternate" type="text/html" title="Where are the concept factories?" /><published>2020-11-08T01:43:52-08:00</published><updated>2020-11-08T01:43:52-08:00</updated><id>http://localhost:4000/2020/11/08/Where-are-the-concept-factories</id><content type="html" xml:base="http://localhost:4000/2020/11/08/Where-are-the-concept-factories.html">&lt;p&gt;Concepts are arguably critical to our success as humans, our recent success as rich and productive humans, and many of our individual successes at whatever we each individually do.&lt;/p&gt;
-
-&lt;p&gt;Why don’t we produce them in an industrial fashion?&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="economics" /><category term="sociology" /><category term="society-strategy" /><summary type="html">Concepts are arguably critical to our success as humans, our recent success as rich and productive humans, and many of our individual successes at whatever we each individually do.</summary></entry><entry><title type="html">Calling it</title><link href="http://localhost:4000/2020/11/07/calling-it.html" rel="alternate" type="text/html" title="Calling it" /><published>2020-11-07T00:39:26-08:00</published><updated>2020-11-07T00:39:26-08:00</updated><id>http://localhost:4000/2020/11/07/calling-it</id><content type="html" xml:base="http://localhost:4000/2020/11/07/calling-it.html">&lt;p&gt;In an atmosphere of general thirst for someone calling something, I’ll call some stuff.&lt;/p&gt;
-
-&lt;p&gt;In my experience and current judgment:&lt;/p&gt;
-
-&lt;p&gt;The best non-inert art is the musical Hamilton&lt;/p&gt;
-
-&lt;p&gt;The best place in the San Francisco Bay Area is the &lt;a href=&quot;https://worldlypositions.tumblr.com/post/172912945074/experimental-ethics-hot-tub-adventure&quot;&gt;Essex Hot Tub&lt;/a&gt;, and the best place near it is Bodega Bay&lt;/p&gt;
-
-&lt;p&gt;The best undergraduate degree to wish you had done is computer science&lt;/p&gt;
-
-&lt;p&gt;The best non-committal snack is &lt;a href=&quot;https://www.amazon.com/Nutrition-Healthy-Snickerdoodle-Supplement-10-count/dp/B07YYLJL3Y/ref=cm_cr_arp_d_product_top?ie=UTF8&quot;&gt;Mewe snickerdoodle peanut butter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The best committal snack is &lt;a href=&quot;https://www.jonnypops.com/cherry-chocolate&quot;&gt;Jonny Pop’s chocolate dipped cherries ice cream bar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The best YouTube videos to watch while you eat Jonny Pops are &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&amp;amp;app=desktop&quot;&gt;3Blue1Brown’s series on linear algebra&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The best thing about elaborate covid facial getup aside from not getting covid is that nobody can see you crying, which means you can expand your casual Hamilton-listening all the way through the second half.&lt;/p&gt;
-
-&lt;p&gt;The best underwear is &lt;a href=&quot;https://boodywear.com/collections/women-underwear&quot;&gt;boody&lt;/a&gt; and the best work trousers are &lt;a href=&quot;https://www.betabrand.com/collections/dress-pant-yoga-pants-by-leg-opening&quot;&gt;BetaBrand dresspant yoga pants&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The best morning routine component ignoring costs is a tight race between doing something you have never done before, dancing on a rug outside, and acquiring coffee, won by the first.&lt;/p&gt;
-
-&lt;p&gt;The most beautiful thing is everything, in the right frame of mind.&lt;/p&gt;
-
-&lt;p&gt;The best color is &lt;a href=&quot;https://www.pinterest.com/pin/86061042849452453/&quot;&gt;orangey green&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The best person to be argued with by is &lt;a href=&quot;https://www.overcomingbias.com/&quot;&gt;Robin Hanson&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The best mode of transit is the bicycle, with the train close behind.&lt;/p&gt;
-
-&lt;p&gt;The best tourist experience is the do-it-yourself Leo Szilard themed tour of Budapest.&lt;/p&gt;
-
-&lt;p&gt;The best Twitter presence is Lin Manuel Miranda’s.&lt;/p&gt;
-
-&lt;p&gt;The best common time is 7:50pm, and the best rare time is 4:55am.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="review" /><summary type="html">In an atmosphere of general thirst for someone calling something, I’ll call some stuff.</summary></entry><entry><title type="html">Why Trump? A survey</title><link href="http://localhost:4000/2020/11/06/why-trump.html" rel="alternate" type="text/html" title="Why Trump? A survey" /><published>2020-11-06T03:36:27-08:00</published><updated>2020-11-06T03:36:27-08:00</updated><id>http://localhost:4000/2020/11/06/why-trump</id><content type="html" xml:base="http://localhost:4000/2020/11/06/why-trump.html">&lt;p&gt;It felt strange going into this US election so hopeful for Biden to win while so at a loss regarding why comparably many Americans were badly hoping for the opposite. I heard people &lt;a href=&quot;https://samharris.org/podcasts/224-key-trumps-appeal/&quot;&gt;speculating&lt;/a&gt; about the possible motives, and I considered plausible steelmen. But why should I be guessing about what half of people think? I &lt;a href=&quot;https://worldspiritsockpuppet.com/2020/11/05/election-survey.html&quot;&gt;figured out&lt;/a&gt; how to survey some Americans beyond my vicinity.&lt;/p&gt;
-
-&lt;p&gt;I surveyed about 63 people, asking them:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Who did you vote for in the US presidential election 2020?&lt;/li&gt;
-  &lt;li&gt;What was the reasoning behind your choice?&lt;/li&gt;
-  &lt;li&gt;What would be the worst thing about your least favorite candidate winning?&lt;/li&gt;
-  &lt;li&gt;Who do you think is going to win?&lt;/li&gt;
-  &lt;li&gt;What went through your head when Trump said that he had won the election already on Tuesday night?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;20 out of 63 preferred Trump (19 voted plus one would have chosen Trump if forced to vote). Here is the reasoning they gave for their choices:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HE SUPPORTS FOR WELFARE&lt;/li&gt;
-  &lt;li&gt;spite&lt;/li&gt;
-  &lt;li&gt;I want a better America!&lt;/li&gt;
-  &lt;li&gt;I like the presidency over the lead of the Donald Trump.&lt;/li&gt;
-  &lt;li&gt;THE SOCIETY VERY CAREFUL PERSON OF THE ELECTION VOTE TRUMP AND VERY GOOD ELECTION&lt;/li&gt;
-  &lt;li&gt;SUPPORTING THE WELFARE&lt;/li&gt;
-  &lt;li&gt;the only of good electionship of a best moment&lt;/li&gt;
-  &lt;li&gt;He has been a good ;leader delivering on all his promises.&lt;/li&gt;
-  &lt;li&gt;I’m a republican and i just have to vote for trump because he represents the republican party even though he’s not smart.&lt;/li&gt;
-  &lt;li&gt;IT IS MY OPINION&lt;/li&gt;
-  &lt;li&gt;he was an trusted person and good one&lt;/li&gt;
-  &lt;li&gt;I believe in what Donald Trump stands for. I cannot vote Democrat because I am a Christian who is Pro-Life.&lt;/li&gt;
-  &lt;li&gt;He is the most qualified to lead the country, regardless of his character that many hate.&lt;/li&gt;
-  &lt;li&gt;I support his America First agenda&lt;/li&gt;
-  &lt;li&gt;I feel he is the better choice to lead us&lt;/li&gt;
-  &lt;li&gt;Supreme court, guns, political correctness.&lt;/li&gt;
-  &lt;li&gt;With the economy precociousending radical race theory, creating peace in the middle east, and working with Americans so that we are treated fairly locally and globally, I believe he deserves a second term to continue his work.&lt;/li&gt;
-  &lt;li&gt;Trump is saving america from the chi com globalists.&lt;/li&gt;
-  &lt;li&gt;Trump has done some good things for the economy. I also believe he has strengthened our national security.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here is what would go badly if Trump loses, according to these respondents:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HE OPPOSES&lt;/li&gt;
-  &lt;li&gt;fraud against the American electorate&lt;/li&gt;
-  &lt;li&gt;unsure&lt;/li&gt;
-  &lt;li&gt;Choosing the right ecommerce platform for the business digital presence is critical. Also to find the one that meets the needs.&lt;/li&gt;
-  &lt;li&gt;TRUMP WINNING&lt;/li&gt;
-  &lt;li&gt;HE OPPOSE&lt;/li&gt;
-  &lt;li&gt;He’s not likely to win in South Carolina it is the good election&lt;/li&gt;
-  &lt;li&gt;The country will be destroyed.&lt;/li&gt;
-  &lt;li&gt;The Democratic candidate would probably increase the tax on the rich which i think is not fair.&lt;/li&gt;
-  &lt;li&gt;I DONT KNOW&lt;/li&gt;
-  &lt;li&gt;they will not interact with people directly&lt;/li&gt;
-  &lt;li&gt;Turning this country into a socialist country.&lt;/li&gt;
-  &lt;li&gt;A rebellion may start in the country.&lt;/li&gt;
-  &lt;li&gt;Massive increase of illegal immigration&lt;/li&gt;
-  &lt;li&gt;The direction he will take our country&lt;/li&gt;
-  &lt;li&gt;Political correctness winning, them thinking that since they won, they can go to even more extremes.&lt;/li&gt;
-  &lt;li&gt;More wars, corruption in government, and media suppression on conservative thoughts.&lt;/li&gt;
-  &lt;li&gt;China becomes the world super power.&lt;/li&gt;
-  &lt;li&gt;I believe Joe Biden’s policies would move America away from nationalism and toward socialism.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;What to make of that?&lt;/p&gt;
-
-&lt;p&gt;I noted yesterday that &lt;a href=&quot;https://worldspiritsockpuppet.com/2020/11/05/election-survey.html&quot;&gt;everyone thinks their candidate will win&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Another notable thing is that a large number of responses are hard to make sense of. A friend suggested many are bots, but none of the apparent Biden-leaning responses are like this, and would bots always claim to vote Trump? (Also, aren’t bots good at writing now?)&lt;/p&gt;
-
-&lt;p&gt;Here are a few arbitrarily chosen answers to the reasoning question from Biden supporters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I am a democrat, and I love their policies&lt;/li&gt;
-  &lt;li&gt;I felt we need a traditional U.S president. I also felt he might bring some stability to the U.S.&lt;/li&gt;
-  &lt;li&gt;Trump is the worse leader in US history. We need a strong leader now that unites us and helps us move forward rather than creating division.&lt;/li&gt;
-  &lt;li&gt;Biden is a Democrat.&lt;/li&gt;
-  &lt;li&gt;I am a democrat. But more importantly, I am so sick of Trump’s lies, manipulation, and general hateful divisive attitude. We need to get the country together and reassert ourselves as a respectable nation.&lt;/li&gt;
-  &lt;li&gt;Joe Biden’s policies actually aim to help Americans as well as protecting the environment while Trump is a pseudo dictator who’s broken countless laws and continues to do so, on top of being a racist, misogynistic, terrible person.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1m3c13EOE2nlqQVU-1Ekilcz-wxxZVrUEe8Jm7qjsjLo/edit?usp=sharing&quot;&gt;Here&lt;/a&gt; is all of the data.&lt;/p&gt;
-
-&lt;p&gt;Here’s my summary of the issues that Biden and Trump supporters care about, by number of mentions [ETA: including all that at least two people cared about]:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://worldspiritsockpuppet.com/assets/issues.png&quot; alt=&quot;voter issues&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(There are really about half as many Trump supporters as Biden supporters, but they are under-represented in the graph because I was less able to make out particular issues in what they wrote, whereas Biden supporters often mentioned multiple issues.)&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="politics" /><summary type="html">It felt strange going into this US election so hopeful for Biden to win while so at a loss regarding why comparably many Americans were badly hoping for the opposite. I heard people speculating about the possible motives, and I considered plausible steelmen. But why should I be guessing about what half of people think? I figured out how to survey some Americans beyond my vicinity.</summary></entry><entry><title type="html">Everyone headed to win</title><link href="http://localhost:4000/2020/11/05/election-survey.html" rel="alternate" type="text/html" title="Everyone headed to win" /><published>2020-11-05T13:00:47-08:00</published><updated>2020-11-05T13:00:47-08:00</updated><id>http://localhost:4000/2020/11/05/election-survey</id><content type="html" xml:base="http://localhost:4000/2020/11/05/election-survey.html">&lt;p&gt;Last night I was especially curious about why people vote as they do, and whether they were experiencing the election similarly to me. So I set up a survey in &lt;a href=&quot;https://www.positly.com/&quot;&gt;Positly&lt;/a&gt; and paid a bunch of people to tell me about such things.&lt;/p&gt;
-
-&lt;p&gt;I haven’t read all of the responses yet, but a notable feature of them so far is the extent to which people expected their own favorite candidate to win the presidency.  If someone said both who they voted for (or would vote for if forced to vote) and who they thought would win, these were the same person 87% of the time.&lt;/p&gt;
-
-&lt;p&gt;Is this just ‘wishful thinking’ (whatever that is) or some more interesting phenomenon?&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="psychology" /><summary type="html">Last night I was especially curious about why people vote as they do, and whether they were experiencing the election similarly to me. So I set up a survey in Positly and paid a bunch of people to tell me about such things.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Katja Grace</name></author><category term="us-election" /><category term="mundane" /><category term="journal" /><category term="worldlypositions" /><summary type="html">I was woken yesterday by cheering and whooping in the streets.</summary></entry></feed>
