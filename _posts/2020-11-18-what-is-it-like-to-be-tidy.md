@@ -3,7 +3,7 @@ layout: post
 title: "What is it like to be a tidy person?"
 date: 2020-11-18 11:58:34 -0700
 tags: non-universal-human-experience questions
-image: /assets/tidy2.jpg
+image: /assets/tidy3.jpg
 summary: How is being a messy person different from being a tidy person, at a fine level of detail?
 comments: true
 ---
