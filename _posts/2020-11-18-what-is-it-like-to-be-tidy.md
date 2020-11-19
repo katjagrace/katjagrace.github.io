@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is it like to be a tidy person?"
-date: 2020-11-18 11:45:39 -0700
+date: 2020-11-18 11:58:34 -0700
 tags: non-universal-human-experience questions
 comments: true
 ---
