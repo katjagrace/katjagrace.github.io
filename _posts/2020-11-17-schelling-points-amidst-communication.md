@@ -5,7 +5,7 @@ date: 2020-11-17 10:17:45 -0700
 tags: game-theory
 comments: true
 image: /assets/grandcentralclock.jpg
-summary: Schelling points aren't just relevant when talking isn't an option.
+summary: Sometimes Schelling points are relevant even when when you can talk freely.
 
 ---
 If two people are trying to meet in New York City, and they forgot to pick a spot, and both of their phones are dead, so they both just go and stand under the clock in Grand Central Station, hoping that the other will expect them to do that, guessing that if they were going to pick a spot to do this, it would be that one, then what you have is a Schelling point.
