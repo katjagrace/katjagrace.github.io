@@ -3,7 +3,7 @@ layout: post
 title: "Personal covid responses as a technology microcosm or 18 ways I know to make the pandemic suck less"
 date: 2020-11-19 23:56:57 -0700
 tags: covid advice
-small-image: /assets/sky.jpg
+image: /assets/p100downtown.jpg
 comments: true
 ---
 With covid-19, basically everyone in the world is facing a set of personal problems that they didn't have before, but which have much in common with everyone else's new problems. Most basically, how to go about life without catching a deadly or crippling disease. But also, how to make alternative activities workable, and how to thrive and be happy in this potentially oppressive circumstance.
