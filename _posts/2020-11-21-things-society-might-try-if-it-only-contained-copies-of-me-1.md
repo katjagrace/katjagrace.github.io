@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 things society might try having if it only contained variants of me (Part 1)"
+title: "10 things society might try having if it only contained variants of me"
 date: 2020-11-21 02:43:26 -0700
 tags: advice katja-society
 comments: true
