@@ -4,7 +4,7 @@ title: "10 things society might try having if it only contained variants of me"
 date: 2020-11-21 02:43:26 -0700
 tags: advice katja-society
 comments: true
-image: assets/sleeppod.jpg
+image: /assets/sleeppod.jpg
 summary:
 ---
 (Other than desperate efforts to fend off an impending demographic disaster.)
