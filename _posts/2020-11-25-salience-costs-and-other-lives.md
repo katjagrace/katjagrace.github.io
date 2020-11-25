@@ -11,11 +11,11 @@ Alice has a car that can only drive at 65mph.
 
 Bob has a car that can drive at 70mph.
 
-Every time they both drive 70 miles to the city, Alice loses nearly five minutes of her day to extra driving.
+Every time they both drive 70 miles to the city, Alice spends almost five extra minutes driving.
 
-When Bob's car breaks down, he borrows Alice's car. Driving it, he constantly tries to put his foot down, but it doesn't work. The visceral slowness is encumbering and distracting. He loses an hour of driving to frustration.
+When Bob's car breaks down, he borrows Alice's car. Driving it, he constantly has his foot on the accelerator, to no avail. The visceral slowness is encumbering and distracting. He spends more than an hour overcome with frustration, plus that extra five minutes driving.
 
-Bob finds it hard to believe that Alice puts up with this, and supposes she must be really struggling in life, or making errors of judgment, that she hasn't got a new car already.
+Bob finds it hard to believe that Alice puts up with this, and supposes she must be really struggling in life, or making errors of judgment, if she hasn't got a new car already.
 
 *
 
