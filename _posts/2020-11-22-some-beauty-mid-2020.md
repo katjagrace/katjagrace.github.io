@@ -2,7 +2,7 @@
 layout: post
 title: "Some beauty, mid-2020 edition"
 date: 2020-11-22 2:57:05 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: photos san-francisco
 comments: true
 image:
 summary:
