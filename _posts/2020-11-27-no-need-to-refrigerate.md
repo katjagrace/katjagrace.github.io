@@ -27,6 +27,6 @@ But how would I expect it to get better? Here are some partial mechanisms by whi
 
 4. **Some sort of feedback from users of labels**: if the problem with 3) was lack of knowledge, then the customer seems like the most likely person to bridge that gap.
 
-  *Probably if you have users test a simmer sauce or something, you don't go far enough down the details of their response to catch things like this? And nobody writes to the company to complain about something this small.*
+  *Probably if you have users test a simmer sauce or something, you don't go far enough down the details of their response to catch things like this? And nobody writes to the company to complain about something this small. Virtually all people have better things to think about than even noticing this cost.*
 
 Others? (I expect I could think of some, but it is my bed time.) Happy Thanksgiving!
