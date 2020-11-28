@@ -4,8 +4,8 @@ title: "No need to refrigerate"
 date: 2020-11-27 00:42:00 -0700
 tags: societal-functioning institution-design
 comments: true
-image:
-summary:
+image: /assets/Luce-notre-dame.jpg
+summary: Why is there such a mismatch between what seems tasteful to me and what seems tasteful to the makers of Disney's Hunchback of Notre Dame?
 ---
 If you are wondering whether a food needs refrigerating, you look at the label until you either see an instruction to refrigerate it, or have looked at the label enough to exclude the possibility of it containing that instruction somewhere. This seems clearly worse worse than the label just always saying whether or not the food needs refrigerating, so the procedure terminates as soon as you find that sentence.
 
