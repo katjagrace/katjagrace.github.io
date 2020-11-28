@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Room cleaning haikus"
-date: 2020-11-24 12:15:30 -0700
+date: 2020-11-24 00:15:30 -0700
 tags: poetry journal
 comments: true
 image:
