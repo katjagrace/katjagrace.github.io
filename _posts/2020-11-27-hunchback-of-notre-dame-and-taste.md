@@ -4,6 +4,8 @@ title: "The Hunchback of Notre Dame as a 1996 taste datapoint"
 date: 2020-11-27 23:22:05 -0700
 tags: reviews
 comments: true
+image: /assets/Luce-notre-dame.jpg
+summary: Why is there such a mismatch between what seems tasteful to me and what seems tasteful to the makers of Disney's Hunchback of Notre Dame?
 ---
 
 My household watched the 1996 Disney version of *The Hunchback of Notre Dame* recently. A notable thing about it to me was that the humor seemed in such poor taste. Which made me wonder, was 1996 just culturally different? Slapstick humor includes an emaciated old man imprisoned in a cylindrical cage tumbling over and over while someone runs on top of it, before he escapes, only to accidentally fall into some stocks. Ha! During a song, romantic rivals are jovially represented as hanging in the gallows. Various jokes are made around two men being sentenced to hanging without trial or ability to speak ('any last words? didn't think so'). Maybe I'm wrong that this would all seem weird to current viewers, and instead I'm just out of touch.
