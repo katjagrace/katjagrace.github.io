@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another point of view on the details"
-date: 2020-11-xx 10:30:00 -0700
+date: 2020-11-29 00:39:30 -0700
 tags: worldlypositions self-improvement games
 comments: true
 image:
