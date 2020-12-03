@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Milkmaid"
-date: 2020-12-02 10:30:00 -0700
-tags: CATEGORY-1 CATEGORY-2
+date: 2020-12-03 00:19:34 -0700
+tags: art reviw
 comments: true
 image:
 summary:
