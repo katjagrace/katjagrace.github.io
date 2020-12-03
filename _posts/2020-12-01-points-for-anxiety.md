@@ -5,7 +5,7 @@ date: 2020-12-01 03:03:25 -0700
 tags: self-improvement anxiety worldlypositions
 comments: true
 image: /assets/pepparkakor.jpg
-summary:
+summary: An anxiety reduction technique that may or may not work ultimately but is pretty nice in the short term for me.
 ---
 I have an intermittently crippling anxiety disorder, so I recently started trying a new kind of therapy to mitigate it. I've been finding sufficiently great so far that even if it doesn't work long term I will probably think it was worth it. So I'll tell you about it.
 
