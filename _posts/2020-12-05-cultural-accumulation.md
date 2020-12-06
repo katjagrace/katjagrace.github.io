@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cultural accumulation"
-date: 2020-11-05 22:08:11 -0700
+date: 2020-12-05 22:08:11 -0700
 tags: meteuphoric history social-dynamics
 comments: true
 image:
