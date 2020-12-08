@@ -4,7 +4,7 @@ title: "Why are delicious biscuits obscure?"
 date: 2020-12-07 9:06:40 -0700
 tags: worldlypositions meteuphoric
 comments: true
-image:
+image: https://64.media.tumblr.com/677cfd36966af74219450664deb547bf/9f284db7e8490a40-3f/s1280x1920/8e37d3d1547e17df6c38eef25d0536e7ae8466cf.jpg
 summary: Kolakakor, sociological mystery or just not that delicious?
 ---
 I saw a picture of these biscuits (or cookies), and they looked very delicious. So much so that I took the uncharacteristic step of actually making them. They were indeed among the most delicious biscuits of which I am aware. And yet I don't recall hearing of them before. This seems like a telling sign about something. (The capitalist machinery? Culture? Industrial food production constraints? The vagaries of individual enjoyment?)
