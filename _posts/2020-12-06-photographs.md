@@ -4,10 +4,12 @@ title: "What it really looks like"
 date: 2020-12-06 11:45:22 -0700
 tags: worldlypositions perception
 comments: true
-image:
+image: https://photos.app.goo.gl/fFuqseaB9ZBhf9DJ8
 summary:
 ---
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/lRoMfR0" data-context="false" ><a href="//imgur.com/a/lRoMfR0">Near Sutro Tower</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+![Near Sutro Tower](https://photos.app.goo.gl/fFuqseaB9ZBhf9DJ8)
 
 A photograph taken during a discussion of how photographs often fail to capture scenes.
 
