@@ -22,9 +22,9 @@ Some explanations that occur to me:
 If you want to help investigate, you can do so by carrying out the following recipe and reporting on the percentile of deliciousness of the resulting biscuits. (I do not claim that this is a high priority investigation to take part in, unless you are hungry for delicious biscuits or a firsthand encounter with a moderately interesting sociological puzzle.)
 
 &nbsp;
----
----
----
+
+*
+
 &nbsp;
 
 **Kolakakor**
@@ -57,9 +57,8 @@ If you want to help investigate, you can do so by carrying out the following rec
 
 &nbsp;
 
----
----
----
+*
+
 &nbsp;
 
 Bonus mystery: they are gluten free, egg free, and can probably easily be dairy free. The contest with common vegan and/or gluten free biscuit seems even more winnable, so why haven't they even taken over that market?

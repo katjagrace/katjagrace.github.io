@@ -55,3 +55,5 @@ On considering the existence of seals more, I came to wonder how this body desig
 
 
 ![another seal](/assets/roundseal20.jpg)
+
+[Edited Dec 7 2020 for clarity.]
