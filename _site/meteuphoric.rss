@@ -3,9 +3,9 @@
 <channel>
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
- <link>https://worldspiritsockpuppet.com</link>
- <lastBuildDate>Thu, 10 Dec 2020 22:40:57 -0800</lastBuildDate>
- <pubDate>Thu, 10 Dec 2020 22:40:57 -0800</pubDate>
+ <link>http://localhost:4000</link>
+ <lastBuildDate>Fri, 11 Dec 2020 02:40:56 -0800</lastBuildDate>
+ <pubDate>Fri, 11 Dec 2020 02:40:56 -0800</pubDate>
  <ttl>1800</ttl>
 
  
@@ -37,7 +37,7 @@
 
   </description>
   <link>/2020/12/09/unexplored-modes-of-language.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/09/unexplored-modes-of-language.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/09/unexplored-modes-of-language.html</guid>
   <pubDate>Wed, 09 Dec 2020 09:48:56 -0800</pubDate>
  </item>
  
@@ -110,7 +110,7 @@
 
   </description>
   <link>/2020/12/07/why-are-delicious-biscuits-obscure.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
   <pubDate>Mon, 07 Dec 2020 08:06:40 -0800</pubDate>
  </item>
  
@@ -147,7 +147,7 @@
 
   </description>
   <link>/2020/12/05/cultural-accumulation.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/05/cultural-accumulation.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/05/cultural-accumulation.html</guid>
   <pubDate>Sat, 05 Dec 2020 21:08:11 -0800</pubDate>
  </item>
  
@@ -177,7 +177,7 @@
 
   </description>
   <link>/2020/11/13/misalignment-and-misuse.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/13/misalignment-and-misuse.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/13/misalignment-and-misuse.html</guid>
   <pubDate>Fri, 13 Nov 2020 00:25:04 -0800</pubDate>
  </item>
  
@@ -210,7 +210,7 @@
 
   </description>
   <link>/2020/11/09/tweet-markets.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/09/tweet-markets.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/09/tweet-markets.html</guid>
   <pubDate>Mon, 09 Nov 2020 10:01:22 -0800</pubDate>
  </item>
  
@@ -237,7 +237,7 @@
 
   </description>
   <link>/2020/11/01/automating-intelligence.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/01/automating-intelligence.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/01/automating-intelligence.html</guid>
   <pubDate>Sun, 01 Nov 2020 01:58:21 -0700</pubDate>
  </item>
  
@@ -282,7 +282,7 @@
 
   </description>
   <link>/2020/10/27/social-dilemma-2.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/27/social-dilemma-2.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/27/social-dilemma-2.html</guid>
   <pubDate>Tue, 27 Oct 2020 00:22:12 -0700</pubDate>
  </item>
  
@@ -313,7 +313,7 @@
 
   </description>
   <link>/2020/10/26/the-social-dilemma-review.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/26/the-social-dilemma-review.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/26/the-social-dilemma-review.html</guid>
   <pubDate>Mon, 26 Oct 2020 00:52:20 -0700</pubDate>
  </item>
  
@@ -330,7 +330,7 @@
 
   </description>
   <link>/2020/10/24/new-blog.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/24/new-blog.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/new-blog.html</guid>
   <pubDate>Sat, 24 Oct 2020 22:11:19 -0700</pubDate>
  </item>
  
@@ -400,7 +400,7 @@
 
   </description>
   <link>/2020/10/13/the-bads-of-ads.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/13/the-bads-of-ads.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/13/the-bads-of-ads.html</guid>
   <pubDate>Tue, 13 Oct 2020 22:30:00 -0700</pubDate>
  </item>
  
