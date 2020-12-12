@@ -4,7 +4,7 @@ title: "The institution of email"
 date: 2020-12-12 02:25:33 -0700
 tags: social-institutions why-this
 comments: true
-image: https://unsplash.com/photos/yCxBGq7nuA8
+image: https://www.dropbox.com/s/nth1rr9r5mdg31c/mathyas-kurmann-fb7yNPbT0l8-unsplash.jpg?raw=1
 summary: Was the burden of email inevitable?
 ---
 There seems to be a common phenomenon where people get messages, then fail to respond to them, then feel bad. And the rarer strategy of actually dealing with all of one's emails promptly doesn't even seem obviously better. Was that how things were with letters or telegrams? Is it just that there are so many messages now, because they are easy to send?
