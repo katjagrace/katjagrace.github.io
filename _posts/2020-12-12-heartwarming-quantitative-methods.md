@@ -4,7 +4,7 @@ title: "Why quantitative methods are heartwarming"
 date: 2020-12-12 13:38:01 -0700
 tags: worldlypositions feelings
 comments: true
-image:
+image: https://www.dropbox.com/s/1jpz3n0x2nfffih/roofs-from-above.jpg?raw=1
 summary:
 ---
 From Twitter:
