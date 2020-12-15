@@ -2,7 +2,7 @@
 layout: post
 title: "Blog plant"
 date: 2020-12-14 3:28:35 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: journal mundane
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201214_082858652.jpg
 summary:
