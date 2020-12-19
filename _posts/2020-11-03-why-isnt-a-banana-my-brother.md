@@ -3,6 +3,8 @@ layout: post
 title: "Why are bananas not my brothers?"
 date: 2020-11-03 02:27:20 -0700
 tags: science questions
+image: https://hosting.photobucket.com/images/i/katjasgrace/giorgio_trovato_4t0kofpmmnA_unsplash.jpg
+summary: A confusion in lay-genetics
 ---
 It is said that we share [99.9%](https://www.scientificamerican.com/article/what-does-the-fact-that-w/) of our genes with one another, [95%](https://www.scientificamerican.com/article/what-does-the-fact-that-w/) with chimpanzees, and [60%](https://www.breakthroughs.com/foundations-science/how-genetically-related-are-we-bananas) with bananas. (It is also [said](https://science.howstuffworks.com/life/genetic/people-bananas-share-dna.htm) that this isn't quite right about bananas, but reading about that did not quell my confusion.)
 

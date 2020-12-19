@@ -4,6 +4,8 @@ title: "Overlooking the obvious"
 date: 2020-11-13 11:20:21 -0700
 tags: life-strategy
 comments: true
+image:
+summary:
 ---
 One can feel stupid for not having tried the obvious thing. For instance, if you have terrible anxiety, and you tell your friend, and your friend is like, 'um, have you considered anxiety drugs?', and somehow it hasn't occurred to you, you can feel stupid.
 

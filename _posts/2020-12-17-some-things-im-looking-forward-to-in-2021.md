@@ -4,7 +4,7 @@ title: "Some things I'm looking forward to in 2021: probable post-pandemic editi
 date: 2020-12-17 00:12:08 -0700
 tags: worldlypositions list
 comments: true
-image:
+image: https://hosting.photobucket.com/images/i/katjasgrace/IMG_20171208_101559.jpg
 summary:
 ---
 1. Fewer deaths all around

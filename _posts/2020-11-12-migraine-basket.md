@@ -4,6 +4,8 @@ title: "Migraine basket"
 date: 2020-11-12 04:24:32 -0700
 tags: self-improvement mundane
 comments: true
+image: https://worldspiritsockpuppet.com/assets/migraine-basket.jpg
+summary: I find it helpful to put physical versions of everything helpful in a difficult situation in one physical place
 ---
 I get migraines about once a week. They aren't as bad as migraines are classically understood to be&mdash;in fact they always start out pretty mild&mdash;but they sometimes become terrible by the evening.
 
