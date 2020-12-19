@@ -10,7 +10,7 @@ If you see blue-domed chapels with whitewashed walls perched idyllically over th
 
 <br>
 
-![Santorini](/assets/santorini.jpg)
+![Santorini](https://hosting.photobucket.com/images/i/katjasgrace/santorini.jpg)
 
 <br>
 
@@ -18,7 +18,7 @@ Such pictures got a new flavor for me when I realized that the wide circular bay
 
 <br>
 
-![Santorini from above](/assets/Santorini_Landsat.jpg)
+![Santorini from above](https://hosting.photobucket.com/images/i/katjasgrace/Santorini_Landsat.jpg)
 
 <br>
 
@@ -26,7 +26,7 @@ When I say the volcano is large, I don't mean I know anything about the usual di
 
 <br>
 
-![Santorini and Greece](/assets/santorinigreece.png)
+![Santorini and Greece](https://hosting.photobucket.com/images/i/katjasgrace/santorinigreece.png)
 
 <br>
 

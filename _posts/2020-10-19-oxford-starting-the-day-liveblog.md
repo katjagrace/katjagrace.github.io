@@ -64,4 +64,4 @@ I have a sense of a stack of things that I have intended to do, and set aside re
 
 *One hope about letting people see bits of my life in detail is that they will notice that particular bits seem much more stupid than in their own lives. Like one time my friend noticed that I didn’t know that WiFi was all around us, and showed me how to turn it on. Or [one time](https://meteuphoric.com/2016/06/26/are-you-missing-universal-human-skills/), my boyfriend at the time noticed that I don’t know how to cut or chew meat, and showed me how. So comments expressing disbelief that I don’t do things in an obviously better way are especially welcome (in general, not just on this post).*
 
-![morning](/assets/oxfordbreakfastfrombelow.jpg)
+![morning](https://hosting.photobucket.com/images/i/katjasgrace/oxfordbreakfastfrombelow.jpg)

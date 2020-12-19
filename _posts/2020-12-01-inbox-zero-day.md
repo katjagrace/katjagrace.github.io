@@ -11,7 +11,7 @@ Today I spent the entire day emptying my main work email inbox of all its emails
 
 I recorded the time and remaining email count in a spreadsheet as I went along, and watched the expected time to completion at the current rate, to see if it was before or after 10:30pm.
 
-![emails graph](https://worldspiritsockpuppet.com/assets/emailsgraph.png)
+![emails graph](https://hosting.photobucket.com/images/i/katjasgrace/emailsgraph.png)
 
 It was pretty intense, because most of the time it looked borderline whether I would make it, and tearing through reading a plethora of different things in a race against time for about nine almost consecutive hours is a lot. Overall it was pretty interesting.
 

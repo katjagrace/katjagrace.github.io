@@ -4,7 +4,7 @@ title: "Migraine basket"
 date: 2020-11-12 04:24:32 -0700
 tags: self-improvement mundane
 comments: true
-image: https://worldspiritsockpuppet.com/assets/migraine-basket.jpg
+image: https://hosting.photobucket.com/images/i/katjasgrace/migraine_basket.jpg
 summary: I find it helpful to put physical versions of everything helpful in a difficult situation in one physical place
 ---
 I get migraines about once a week. They aren't as bad as migraines are classically understood to be&mdash;in fact they always start out pretty mild&mdash;but they sometimes become terrible by the evening.
@@ -13,6 +13,6 @@ While there are always various things I could do to improve such situations, I h
 
 I have improved this a fair bit with a retrospectively obvious innovation: the migraine basket. It's a diaper caddy which typically contains all things that might help with migraines, or some physical symbol of them if they don't fit (e.g. a pick stands for playing guitar).
 
-![migraine-basket](https://worldspiritsockpuppet.com/assets/migraine-basket.jpg)
+![migraine-basket](https://hosting.photobucket.com/images/i/katjasgrace/migraine_basket.jpg)
 
 Now if I remember at all to do anything, I am reminded of, and handed, everything. And the motion to make this happen is like 'grab or ask for visually obvious basket' not 'try to remember if you put your painkillers in your bag and also where you put your bag'. I've had it for several months, and it seems good.

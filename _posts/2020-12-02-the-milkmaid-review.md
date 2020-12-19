@@ -5,9 +5,9 @@ date: 2020-12-03 00:19:34 -0700
 tags: art reviw
 comments: true
 image: /assets/milkmaid.jpg
-summary:
+summary: https://hosting.photobucket.com/images/i/katjasgrace/milkmaid.jpg
 ---
-![The Milkmaid by Johannes Vermeer](https://worldspiritsockpuppet.com/assets/milkmaid.jpg)
+![The Milkmaid by Johannes Vermeer](https://hosting.photobucket.com/images/i/katjasgrace/milkmaid.jpg)
 
 **The Milkmaid, by Johannes Vermeer.**
 
