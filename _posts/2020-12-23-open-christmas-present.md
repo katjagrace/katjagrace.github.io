@@ -22,7 +22,7 @@ xox
 
 &nbsp;
 
-(Picture: Geboorte van Christus, Robert van den Hoecke, after Jan van den Hoecke, 1632 - 1668)
+*(Picture: Geboorte van Christus, Robert van den Hoecke, after Jan van den Hoecke, 1632 - 1668)*
 
 &nbsp;
 
@@ -48,7 +48,7 @@ xox
 
 10. [Hamilton the Musical](https://www.youtube.com/watch?v=aPSWZUExZ8M&list=RDaPSWZUExZ8M&start_radio=1&t=4435): I know I probably recommended this before, but a) I should note that it might be the strongest artistic recommendation I've ever given, and b) if you did listen to it, I recommend listening to it again.
 
-11. [How to live for much longer in expectation](https://waitbutwhy.com/2016/03/cryonics.html) (I know you don't believe in this, but I encourage you to think about it more, because its important to me that you avoid dying if feasible.)
+11. [How to live for much longer in expectation](https://waitbutwhy.com/2016/03/cryonics.html) (I know you don't believe in this, but I encourage you to think about it more, because it's important to me that you avoid dying if feasible.)
 
 12. [Rijksmuseum](https://www.rijksmuseum.nl/en): the national museum of the Netherlands has a pleasing website for their pleasing art collection.
 
