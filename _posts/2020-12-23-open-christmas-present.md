@@ -2,7 +2,7 @@
 layout: post
 title: "Open Christmas card to my mother"
 date: 2020-12-23 10:33:17 -0700
-tags: christmas open-letter
+tags: christmas open-letter worldlypositions journal
 comments: true
 image:
 summary:
