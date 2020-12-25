@@ -29,7 +29,7 @@ Lots of love from Katja oxo
 
 2. [AI can also generate coherent completions of photographs](https://openai.com/blog/image-gpt/#completions) (See examples under 'Completions')
 
-3. [A lecture about the Bronze Age collapse](https://www.youtube.com/watch?v=bRcu-ysocX4) (I enjoyed this, though your historical understanding being thousands of times greater than mine might make it less so for you)
+3. [A lecture about the Bronze Age collapse](https://www.youtube.com/watch?v=bRcu-ysocX4) (I enjoyed this, though your historical understanding being thousands of times greater than mine might make it less good for you)
 
 4. [Slave voyages](https://slavevoyages.org/): a memorial in the form of a database of 36,000 specific slaving expeditions that took place between 1514 and 1866. Perhaps most easily appreciated in the form of this [timelapse](https://slavevoyages.org/voyage/database#timelapse) of the journeys (note that you can click on any dot and see the details of the ship and captives). I'm pretty impressed at them finding this much data.
 
