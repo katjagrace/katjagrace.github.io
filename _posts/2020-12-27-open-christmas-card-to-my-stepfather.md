@@ -46,8 +46,10 @@ oxo
 8. [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/): I found the writing ironically uncompelling, but the idea interesting
 
 9. [Xkcd](https://xkcd.com), e.g.
-[![xkcd](https://imgs.xkcd.com/comics/tmi.png)](https://xkcd.com/1369/)
-Informative ones: [Earth's temperature over time](https://xkcd.com/1732/), [chart of what improvements are worth the time](https://xkcd.com/1205/)
+
+  [![xkcd](https://imgs.xkcd.com/comics/tmi.png)](https://xkcd.com/1369/)
+
+  Informative ones: [Earth's temperature over time](https://xkcd.com/1732/), [chart of what improvements are worth the time](https://xkcd.com/1205/)
 
 10. [Hamilton the Musical](https://www.youtube.com/watch?v=aPSWZUExZ8M&list=RDaPSWZUExZ8M&start_radio=1&t=4435)
 
