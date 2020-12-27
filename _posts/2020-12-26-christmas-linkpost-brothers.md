@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "An open Christmas card to my brothers"
-date: 2020-12-26 03:30:00 -0700
-tags: CATEGORY-1 CATEGORY-2
+date: 2020-12-26 03:55:41 -0700
+tags: christmas open-letter worldlypositions journal
 comments: true
 image:
 summary:
