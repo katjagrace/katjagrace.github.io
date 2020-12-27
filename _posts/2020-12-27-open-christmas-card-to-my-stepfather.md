@@ -33,8 +33,6 @@ oxo
 
 2. [Epic tomato sorting machine](https://www.youtube.com/watch?v=j4RWJTs0QCk)
 
-<iframe src="https://www.youtube.com/watch?v=j4RWJTs0QCk"></iframe>
-
 3. [Slatestarcodex](https://slatestarcodex.com/) archives, e.g. on [meaning](https://slatestarcodex.com/2019/02/28/meaningful/) and [the problem of evil](https://slatestarcodex.com/2015/03/15/answer-to-job/) and [thinking under conformity pressure](https://slatestarcodex.com/2014/06/03/asches-to-asches/) (these are incidentally all funny stories, but the site is mostly non-fiction)
 
 4. [Test your ability to distinguish real people from AI generated faces](https://www.whichfaceisreal.com/index.php) (or to just see unreal people, look at [thispersondoesnotexist.com](https://thispersondoesnotexist.com/))
