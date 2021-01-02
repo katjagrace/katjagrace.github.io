@@ -4,8 +4,8 @@ title: "Review: The Diving Bell and the Butterfly"
 date: 2021-01-01 5:21:59 -0700
 tags: review book
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/aaron-burden-B3ZWL4FuKdo-unsplash.jpg
+summary: On a lively communication from within a near-lifeless body
 ---
 I suspect my mind of taking its observations of a person's physical energy and dexterity as strong evidence about their mental quickness and clarity.
 
