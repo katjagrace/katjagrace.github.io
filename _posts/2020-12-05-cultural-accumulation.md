@@ -4,7 +4,7 @@ title: "Cultural accumulation"
 date: 2020-12-05 22:08:11 -0700
 tags: meteuphoric history social-dynamics
 comments: true
-image: https://imgur.com/a/ERQ1xlR
+image: https://hosting.photobucket.com/images/i/katjasgrace/Technology_-_Imgur_(1).jpg
 summary: Does culture accumulate an ever increasing pile of ideas or an ever replaced collection of objects and instructions?
 ---
 When I think of humans being so smart due to 'cultural accumulation', I think of lots of tiny innovations in thought and technology being made by different people, and added to the interpersonal currents of culture that wash into each person's brain, leaving a twenty year old in 2020 much better intellectually equipped than a 90 year old who spent their whole life thinking in 1200 AD.
