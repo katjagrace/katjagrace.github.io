@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The Hunchback of Notre Dame as a 1996 taste datapoint"
 date: 2020-11-27 23:22:05 -0700
 tags: reviews
