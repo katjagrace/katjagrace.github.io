@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Theasauring"
+title: "Thesauring"
 date: 2020-12-19 00:10:27 -0700
 tags: worldlypositions mundane
 comments: true
