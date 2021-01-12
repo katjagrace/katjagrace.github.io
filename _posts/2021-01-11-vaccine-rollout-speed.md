@@ -56,15 +56,22 @@ This isn't just an idle inquiry, and shouldn't be just another interesting story
 
 Naively extrapolating, New York City could be fully vaccinated in about seven weeks if we knew how to do what was done in 1947. At the current rate, which will presumably change, vaccinating everyone would take years.[^2]
 
-What if someone figured out how to replicate even part of what New York did before at Weinstein's direction? In America alone, around three thousand people are dying each day now, as they wait for the vaccine. My boyfriend's ninety year old grandmother in Vermont was diagnosed with covid last week. Her center was scheduled to begin vaccinating its residents this Wednesday. 
+What if someone figured out how to replicate even part of what New York did before at Weinstein's direction? In America alone, around three thousand people are dying each day now, as they wait for the vaccine. My boyfriend's ninety year old grandmother in Vermont was diagnosed with covid last week. Her center was scheduled to begin vaccinating its residents this Wednesday.
 
 (Regardless of what makes things slower these days, good on everyone who is working to forward the vaccination effort, and also those doing their best to make it appropriately safe. Good luck being fast and right.)
 
 P.S. In fact the whole of America vaccinated fewer people in the first two weeks of having a covid vaccine than New York did in 1947:
 
 <iframe src="https://ourworldindata.org/grapher/cumulative-covid-vaccinations?tab=chart&stackMode=absolute&country=USA~GBR~CHN~CAN~MEX~DEU~ITA&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<br>
+<br>
 
 Also interestingly, others are not doing better.
+
+
+<br>
+<br>
+---
 
 [^1]: My information about this is all from the [New York Times](https://www.nytimes.com/2020/12/18/nyregion/nyc-smallpox-vaccine.html), [Wikipedia](https://en.wikipedia.org/wiki/1947_New_York_City_smallpox_outbreak), and the [Rachel Maddow Show](https://art19.com/shows/msnbc-rachel-maddow)
 
