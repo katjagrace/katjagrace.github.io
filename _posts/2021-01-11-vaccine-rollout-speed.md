@@ -72,9 +72,8 @@ Also interestingly, others are not doing better.
 <br>
 <br>
 
-!(Photograph shows school children waiting in line for immunization shots at a child health station in New York City, N.Y.)[https://hosting.photobucket.com/images/i/katjasgrace/service-pnp-cph-3c10000-3c10000-3c10400-3c10440v.jpg]
-!(Photograph shows crowd of people waiting to be vaccinated at the Department of Health building, New York City.
-)[https://hosting.photobucket.com/images/i/katjasgrace/download.png]
+![Photograph shows school children waiting in line for immunization shots at a child health station in New York City, N.Y.](https://hosting.photobucket.com/images/i/katjasgrace/service-pnp-cph-3c10000-3c10000-3c10400-3c10440v.jpg)
+![Photograph shows crowd of people waiting to be vaccinated at the Department of Health building, New York City.](https://hosting.photobucket.com/images/i/katjasgrace/download.png)
 
 Photos from the [Office of War Information](https://www.loc.gov/resource/cph.3c10440/) and [Al Ravenna at the World Telegram and Sun](https://www.loc.gov/resource/cph.3c36364/), via the Library of Congress
 ---
