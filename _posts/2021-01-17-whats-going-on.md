@@ -2,7 +2,7 @@
 layout: post
 title: "What is going on in the world?"
 date: 2021-01-17 02:28:39 -0700
-tags: ea meteuphoric
+tags: effective-altruism meteuphoric
 comments: true
 image:
 summary:
