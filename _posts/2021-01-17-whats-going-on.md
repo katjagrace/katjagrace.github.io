@@ -2,7 +2,7 @@
 layout: post
 title: "What is going on in the world?"
 date: 2021-01-17 02:28:39 -0700
-tags: effective-altruism meteuphoric
+tags: effectivealtruism meteuphoric
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/usgs-PuLsDCBbyBM-unsplash.jpg
 summary: What is the central plot?

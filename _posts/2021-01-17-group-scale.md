@@ -2,7 +2,7 @@
 layout: post
 title: "Are the consequences of groups usually highly contingent on their details?"
 date: 2021-01-17 5:22:00 -0700
-tags: effective-altruism organizational-strategy
+tags: effectivealtruism organizational-strategy
 comments: true
 image:
 summary:
