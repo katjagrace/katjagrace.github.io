@@ -4,8 +4,8 @@ title: "What is going on in the world?"
 date: 2021-01-17 02:28:39 -0700
 tags: effective-altruism meteuphoric
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/usgs-PuLsDCBbyBM-unsplash.jpg
+summary: What is the central plot?
 ---
 Here's a list of alternative high level narratives about what is importantly going on in the world&mdash;the central plot, as it were&mdash;for the purpose of thinking about what role in a plot to take:
 
