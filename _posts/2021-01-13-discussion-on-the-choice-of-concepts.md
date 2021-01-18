@@ -4,7 +4,7 @@ title: "Discussion on the choice of concepts"
 date: 2021-01-13 19:52:50 -0700
 tags: dialogue language
 comments: true
-image:
+image: https://hosting.photobucket.com/images/i/katjasgrace/pexels-photography-maghradze-ph-3997309.jpg
 summary:
 ---
 "The reason that you can currently make toast without doing great damage is just that your toaster is stupid."

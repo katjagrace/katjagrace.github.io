@@ -4,7 +4,7 @@ title: "Meditative thinking"
 date: 2021-01-15 18:27:29 -0700
 tags: meditation practical-advice
 comments: true
-image:
+image: https://hosting.photobucket.com/images/i/katjasgrace/matheo-jbt-94ZILxwU2CQ-unsplash.jpg
 summary:
 ---
 I got fairly into meditation in 2018. Not in a way where you do a huge amount of meditation, or seek guidance on how to do meditation well, or on whether what you are doing is meditation at all. I don't think I even graduated from doing meditation largely in five minute bouts. I just really dug a set of mental things which seemed related to meditation. I was riding an ethos. I suppose meditation was a particularly namable point in the space, but not obviously the most exciting part of it, so I ended up being pretty excited about 'meditation...?' while not actually meditating that much.
