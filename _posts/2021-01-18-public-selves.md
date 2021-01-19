@@ -2,7 +2,10 @@
 layout: page
 title: "Public selves"
 date: 2021-01-18 01:04:00 -0000
-categories: life-strategy
+tags: life-strategy
+comments: true
+image: https://hosting.photobucket.com/images/i/katjasgrace/john-noonan-QM_LE41VJJ4-unsplash.jpg
+summary: Do you want to be yourself, on a public stage?
 ---
 A question that I return to in life strategy is whether to lean heavily on 'spending one's weirdness points wisely'&mdash;otherwise put, cowering lonely behind a cardboard cutout of the most forgettable person while proffering optimized propaganda through carefully selected slots&mdash;or whether to offer the world a fuller view of oneself.
 
