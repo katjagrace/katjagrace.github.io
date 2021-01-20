@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Public selves"
 date: 2021-01-18 01:04:00 -0000
 tags: life-strategy
