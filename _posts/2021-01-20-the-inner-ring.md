@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A few thought on the inner ring"
+title: "Thoughts on the inner ring"
 date: 2021-01-20 19:30:00 -0700
 tags: essay review
 comments: true
