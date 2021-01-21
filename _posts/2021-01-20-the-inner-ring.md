@@ -4,11 +4,11 @@ title: "A few thought on the inner ring"
 date: 2021-01-20 19:30:00 -0700
 tags: essay review
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/francesco-ungaro-7gN7Ht39uRk-unsplash.jpg
+summary: On C. S. Lewis' essay
 ---
 
-I enjoyed C.S.Lewis' [The Inner Ring](https://www.lewissociety.org/innerring/), and recommend you read it. It basically claims that much of human effort is directed at being admitted to whatever the local in-group is, that this happens easily to people, and that it is a bad thing to be drawn in to.
+I enjoyed C. S. Lewis' [The Inner Ring](https://www.lewissociety.org/innerring/), and recommend you read it. It basically claims that much of human effort is directed at being admitted to whatever the local in-group is, that this happens easily to people, and that it is a bad thing to be drawn in to.
 
 Some quotes, though I also recommend reading the whole thing:
 
