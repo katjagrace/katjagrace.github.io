@@ -8,7 +8,7 @@ image:
 summary:
 ---
 
-I enjoyed C.S.Lewis' [The Inner Ring](https://www.lewissociety.org/innerring/), in which he claims that much of human effort is directed at being admitted to whatever the local in-group is, and that this is a bad thing to be drawn in to.
+I enjoyed C.S.Lewis' [The Inner Ring](https://www.lewissociety.org/innerring/), and recommend you read it. It basically claims that much of human effort is directed at being admitted to whatever the local in-group is, that this happens easily to people, and that it is a bad thing to be drawn in to.
 
 Some quotes, though I also recommend reading the whole thing:
 
