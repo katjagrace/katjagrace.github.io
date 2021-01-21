@@ -32,7 +32,7 @@ His main explicit reasons for advising against succumbing to this easy set of mo
 
 I think there is further reason not to be drawn into such things:
 
-1. I controversially claim that even the good of being high status is a crappy kind of good relative to those available from other arenas of existence.
+1. I controversially and uncertainly claim that even the good of having especially high social status is a lesser kind of good relative to those available from other arenas of existence. Though I suppose it increases your life expectancy somewhat. 
 2. It is roughly zero sum, so hard to wholly get behind and believe in, what with your success being net bad for the rest of the world.
 3. To the extent it is at the cost of real craftsmanship and focus on the object level, it will make you worse at your profession, and thus less cool in the eyes of God, or an ideal observer, who are even cooler than your local set.
 
