@@ -37,7 +37,7 @@ On 4, One way you might swing this is to have many of the people who work during
 
 Many of these depend on scale, and location. For instance, this can clearly often work at the level of a group house, and is probably too ambitious for a large and ideologically diverse nation (especially one that isn't really organized for people to consistently wear masks after a year). Could it work at the level of a relatively anti-covid city? (The city would then have to limit or quarantine incoming travelers, but that seems doable for many cities.) A small town? A small college campus? A highly religious adult community, where the church was in favor? There are a lot of human groups in the world.
 
-Have I got the main reasons this wouldn't work?
+Have I got the main reasons this wouldn't work? Is there some good solution to them that I haven't seen?
 
 Has anyone done something like this? There have been lots of lockdowns, but have there been time-bounded almost-total lockdowns scheduled in advance, with huge efforts to avert people needing to take risks during that particular period (e.g. treating moving risks to the time earlier as great compared to running them that week)?
 
