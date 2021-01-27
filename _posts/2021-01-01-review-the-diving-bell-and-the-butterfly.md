@@ -9,7 +9,7 @@ summary: On a lively communication from within a near-lifeless body
 ---
 I suspect my mind of taking its observations of a person's physical energy and dexterity as strong evidence about their mental quickness and clarity.
 
-The existence and the wrongness of this presumption were brought into relief for me by reading Jean-Dominique Bauby's *The Diving Bell and the Butterfly*, on his life with locked-in syndrome. Because realizing that the author's lively and intelligent voice was issued from a single blinking eye looking out of a mostly inert body felt like seeing a magic trick.
+The existence and the wrongness of this presumption were brought into relief for me by reading Jean-Dominique Bauby's *The Diving Bell and the Butterfly*, on his life with locked-in syndrome. Because realizing that the author's lively and intelligent voice was issued from a single blinking eye looking out of a mostly inert body felt like seeing a magic trick.<!--ex-->
 
 But perhaps it is just that a writing process without vigorous back-and-forth with a mind-expanding piece of paper or virtual paper&mdash;a place to lay out one's words and see them and move them around, without having to keep the entire gameboard in one's head&mdash;sounds mentally paralyzing to me.
 

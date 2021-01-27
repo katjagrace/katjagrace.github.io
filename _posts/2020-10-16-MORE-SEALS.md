@@ -22,7 +22,7 @@ On considering the existence of seals more, I came to wonder how this body desig
 ![another seal](https://hosting.photobucket.com/images/i/katjasgrace/roundseal5.jpg)
 
 
-![another seal](https://hosting.photobucket.com/images/i/katjasgrace/roundseal8.jpg)
+![another seal](https://hosting.photobucket.com/images/i/katjasgrace/roundseal8.jpg)<!--ex-->
 
 
 ![another seal](https://hosting.photobucket.com/images/i/katjasgrace/roundseal9.jpg)

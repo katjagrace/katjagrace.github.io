@@ -15,7 +15,7 @@ I enjoyed James Somers [account](https://jsomers.net/blog/dictionary) (HT [Liron
 Did you see that last clause? “To shine with a soft and fitful luster, as eyes suffused with tears, or flowers wet with dew.” I’m not sure why you won’t find writing like that in dictionaries these days, but you won’t. Here is the modern equivalent of that sentence in the latest edition of the Merriam-Webster: “glisten applies to the soft sparkle from a wet or oily surface <glistening wet sidewalk>.”
 <br>
 <br>
-Who decided that the American public couldn’t handle “a soft and fitful luster”? I can’t help but think something has been lost. “A soft sparkle from a wet or oily surface” doesn’t just sound worse, it actually describes the phenomenon with less precision. In particular it misses the shimmeriness, the micro movement and action, “the fitful luster,” of, for example, an eye full of tears — which is by the way far more intense and interesting an image than “a wet sidewalk.”
+Who decided that the American public couldn’t handle “a soft and fitful luster”? I can’t help but think something has been lost. “A soft sparkle from a wet or oily surface” doesn’t just sound worse, it actually describes the phenomenon with less precision. In particular it misses the shimmeriness, the micro movement and action, “the fitful luster,” of, for example, an eye full of tears — which is by the way far more intense and interesting an image than “a wet sidewalk.”<!--ex-->
 <br>
 <br>
 It’s as if someone decided that dictionaries these days had to sound like they were written by a Xerox machine, not a person, certainly not a person with a poet’s ear, a man capable of high and mighty English, who set out to write the secular American equivalent of the King James Bible and pulled it off.

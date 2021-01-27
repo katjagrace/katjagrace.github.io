@@ -9,7 +9,7 @@ summary:
 ---
 This evening I became tempted by a YouTube video of an artist painting a portrait, which led me to be tempted by another such video, and then more of them, and then by one of these artists' websites, and then by my own pencils and paper. (I did not become tempted by YouTube videos advertising breaking news of some sort of crazy Trump riot, since I decided not to 'check the internet' until bed time).
 
-Some observations on drawing:
+Some observations on drawing:<!--ex-->
 
 - In my world, art supplies are a kind of archetype of a thing that is viscerally exciting vastly beyond its likelihood of being used (and even further beyond its likelihood of being used well). Like, look at this paper I got! (I did, extensively.) Think of the potential it holds! But actually, for now, it's sitting under my bed. ![Colored paper](https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201107_055554319.jpg)
 - It is sometimes very hard to draw without poking my tongue out. Not in the sense that that without my tongue out, drawing is hard&mdash;I mean, while drawing, it seems infeasible to keep my tongue in my mouth. This feels natural and unsurprising, like how if you stand on one leg it is hard to not fall over, not like an epileptic seizure overcoming my tongue. But stated explicitly, it is pretty weird.

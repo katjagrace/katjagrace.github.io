@@ -9,7 +9,7 @@ summary:
 ---
 Most people get their ethics from a combination of trusting what is normally done in their society and doing what they feel is right.
 
-It seems to me that this has been utterly discredited as a reliable source of ethical advice, because it is the same one that recommended to the average person slavery as labor, and genocide as standard geopolitical strategy, and rape as prize, and torture as entertainment.
+It seems to me that this has been utterly discredited as a reliable source of ethical advice, because it is the same one that recommended to the average person slavery as labor, and genocide as standard geopolitical strategy, and rape as prize, and torture as entertainment.<!--ex-->
 
 I don't know of a clearly better source, for a typical person who isn't a professional ethicist. But given the intense fallibility of this one, I'm inclined to say that the resulting moral views should be held with uncertainty and modesty.
 

@@ -6,7 +6,7 @@ tags: politics psychology worldlypositions
 ---
 The other day I had a dentist appointment, and as an alternative to focusing on whether or not it was currently unpleasant, I tried to become interested in American politics.
 
-It's not that American politics fails to be attention-grabbing. But a casserole falling on the floor is attention grabbing, and I wouldn't say that I'm interested in falling casseroles. I do read about the political situation, but like a casserole-fall viewer, mostly with curiosity and responsive dismay, not with real intellectual engagement or fertile thinking. Why?
+It's not that American politics fails to be attention-grabbing. But a casserole falling on the floor is attention grabbing, and I wouldn't say that I'm interested in falling casseroles. I do read about the political situation, but like a casserole-fall viewer, mostly with curiosity and responsive dismay, not with real intellectual engagement or fertile thinking. Why?<!--ex-->
 
 Politics is important, from what I can gather. And detailed. And probably involves all kinds of normally intellectually gratifying constructions such as game theory, strategy and institution design. So shouldn't it be interesting?
 

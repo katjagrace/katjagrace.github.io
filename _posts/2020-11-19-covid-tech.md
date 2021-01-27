@@ -12,7 +12,7 @@ With everyone thinking about what to do about similar problems, an interesting s
 
 I've been extremely lucky in having a job that can continue fine from my house, living with a bunch of people I like who can also work from home, having started dating someone I already lived with in January, being in San Francisco, and having some spare money this year, so I'm not compelled to do anything very risky and thus my exact problems and solutions may differ from others'. Nonetheless, it seems good to share them.
 
-Here are pieces of my own current apparatus for avoiding covid and enjoying life despite it:
+Here are pieces of my own current apparatus for avoiding covid and enjoying life despite it:<!--ex-->
 
 |**Tool** | **Purpose** | **How it reached me** |
 |[microcovid.org](https://www.microcovid.org/)| estimating covid risk of activities| One of my friends helped make it|

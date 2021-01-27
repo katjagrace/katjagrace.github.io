@@ -19,7 +19,7 @@ oxo
 
 &nbsp;
 
-*(Picture: Christmas Eve, by Carl Larson, 1904-5)*
+*(Picture: Christmas Eve, by Carl Larson, 1904-5)*<!--ex-->
 
 
 

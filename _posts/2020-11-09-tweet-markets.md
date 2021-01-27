@@ -9,7 +9,7 @@ Should social media label statements as false, misleading or contested?
 
 Let's approach it from the perspective of what would make the world best, rather than e.g. what rights do the social media companies have, as owners of the social media companies.
 
-The basic upside seems to be that pragmatically, people share all kinds of false things on social media, and that leads to badness, and this slows that down.
+The basic upside seems to be that pragmatically, people share all kinds of false things on social media, and that leads to badness, and this slows that down.<!--ex-->
 
 The basic problem with it is that maybe we can't distinguish worlds where social media companies label false things as false, and those where they label things they don't like as false, or things that aren't endorsed by other 'official' entities. So maybe we don't want such companies to have the job of deciding what is considered true or false, because a) we don't trust them enough to give them this sacred and highly pressured job forever, or b) we don't expect everyone to trust them forever, and it would be nice to have better recourse when disagreement appears than 'but I believe them'.
 

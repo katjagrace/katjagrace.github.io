@@ -13,7 +13,7 @@ In London at the start of the year, perhaps there was more advertising than ther
 
 Sometimes I fantasize about a future where stealing someone's attention to suggest for the fourteenth time that they watch your awful-looking play is rightly looked upon as akin to picking their pocket.
 
-Stepping back, advertising is widely found to be a distasteful activity. But I think it is helpful to distinguish the different unpleasant flavors potentially involved (and often not involved—there is good advertising):
+Stepping back, advertising is widely found to be a distasteful activity. But I think it is helpful to distinguish the different unpleasant flavors potentially involved (and often not involved—there is good advertising):<!--ex-->
 
 1. **Mind manipulation**: Advertising is famous for uncooperatively manipulating people's beliefs and values in whatever way makes them more likely to pay money somehow. For instance, deceptively encouraging the belief that everyone uses a certain product, or trying to spark unwanted wants.
 

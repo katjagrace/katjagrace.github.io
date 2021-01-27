@@ -12,7 +12,7 @@ AI related disasters are often categorized as involving misaligned AI, or misuse
 - misalignment means the bad outcomes were wanted by AI (and not by its human creators), and
 - accident means that the bad outcomes were not wanted by those in power but happened anyway due to error.
 
-In thinking about specific scenarios, these concepts seem less helpful.
+In thinking about specific scenarios, these concepts seem less helpful.<!--ex-->
 
 I think a likely scenario leading to bad outcomes is that AI can be made which gives a set of people things they want, at the expense of future or distant resources that the relevant people do not care about or do not own.
 

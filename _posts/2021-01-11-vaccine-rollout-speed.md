@@ -9,7 +9,7 @@ summary: Why is New York fifty times slower at rolling out a vaccine now than it
 ---
 When a traveler introduced smallpox to New York City in 1947, the city&mdash;and in particular its health commissioner, Israel Weinstein&mdash;apparently ran an epic vaccination campaign, reaching 5 million people in the first two weeks.[^1] That is, four hundred thousand vaccinations per day. San Francisco in two days.
 
-For covid, the first New York City vaccine [was given](https://abc7ny.com/covid-vaccine-coronavirus-pfizer-ny/8763858/) on the 14th of December, and if I understand, by the 10th of January, twenty seven days later, 203,181 doses [had reportedly been given](https://www.reuters.com/article/us-health-coronavirus-vaccines-new-york/mass-vaccination-sites-open-in-new-york-city-as-covid-19-batters-u-s-idUSKBN29F0NR). That's around eight thousand doses per day. A factor of fifty fewer.
+For covid, the first New York City vaccine [was given](https://abc7ny.com/covid-vaccine-coronavirus-pfizer-ny/8763858/) on the 14th of December, and if I understand, by the 10th of January, twenty seven days later, 203,181 doses [had reportedly been given](https://www.reuters.com/article/us-health-coronavirus-vaccines-new-york/mass-vaccination-sites-open-in-new-york-city-as-covid-19-batters-u-s-idUSKBN29F0NR). That's around eight thousand doses per day. A factor of fifty fewer.<!--ex-->
 
 That's a pretty incredible difference. Why is New York fifty times slower at delivering covid vaccines in 2021 than it was at delivering smallpox vaccines in 1947?
 

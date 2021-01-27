@@ -7,7 +7,7 @@ comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/IMG_20200121_220350.jpg
 summary: Why aren't potato chips sold in boxes?
 ---
-In reviewing my year I came across these photos of a box of potato chips I took in January on a plane. I took them because it seemed so much better to me than chips in a bag:
+In reviewing my year I came across these photos of a box of potato chips I took in January on a plane. I took them because it seemed so much better to me than chips in a bag:<!--ex-->
 
 ![chip box 1](https://hosting.photobucket.com/images/i/katjasgrace/IMG_20200121_220233.jpg)
 ![chip box 2](https://hosting.photobucket.com/images/i/katjasgrace/IMG_20200121_220350.jpg)

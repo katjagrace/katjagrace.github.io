@@ -9,7 +9,7 @@ summary:
 ---
 I thought it would be interesting to try to write my [review](https://worldspiritsockpuppet.com/2021/01/01/review-the-diving-bell-and-the-butterfly.html) of [*the Diving Bell and the Butterfly*](https://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly) in my head without setting pen to paper until the end, and to convey at least some of it by blinking, since I find the fact that the author wrote the whole book in this way astonishing. Perhaps experiencing that process myself would improve my understanding of things, such that I wouldn't be astonished.
 
-I think trying to do this was an even better exercise than I expected, though by the end I was frustrated to the point of tears, and I'm still feeling kind of annoyed, having just put it up.
+I think trying to do this was an even better exercise than I expected, though by the end I was frustrated to the point of tears, and I'm still feeling kind of annoyed, having just put it up.<!--ex-->
 
 (Hopefully this was also a vivid and enlightening experience of signing up for annoying projects, which I do often, but usually the annoyance is months later than the agreeing, so I'm not sure that my intuitive anticipations make the connection.)
 

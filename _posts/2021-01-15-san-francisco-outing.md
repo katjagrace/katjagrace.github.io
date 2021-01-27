@@ -10,7 +10,7 @@ summary: Selected beauty in San Francisco
 <p style="text-align: center;">
 <img src="https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201223_202446423.jpg?width=1920&height=1080&fit=bounds" border="0" style="height: 430px" alt="PXL_20201223_202446423"/>
 <img src="https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201223_202723913.jpg?width=1920&height=1080&fit=bounds" border="0" style="height: 430px" alt="PXL_20201223_202723913"/>
-<img src="https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201223_202241573.jpg?width=1920&height=1080&fit=bounds" border="0" style="height: 430px" alt="PXL_20201223_202241573"/>
+<img src="https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201223_202241573.jpg?width=1920&height=1080&fit=bounds" border="0" style="height: 430px" alt="PXL_20201223_202241573"/><!--ex-->
 
 <img src="https://hosting.photobucket.com/images/i/katjasgrace/PXL_20201223_200936571.jpg?width=1920&height=1080&fit=bounds" border="0" alt="PXL_20201223_200936571"/>
 

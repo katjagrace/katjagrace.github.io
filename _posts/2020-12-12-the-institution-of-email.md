@@ -9,7 +9,7 @@ summary: Was the burden of email inevitable?
 ---
 There seems to be a common phenomenon where people get messages, then fail to respond to them, then feel bad. And the rarer strategy of actually dealing with all of one's emails promptly doesn't even seem obviously better. Was that how things were with letters or telegrams? Is it just that there are so many messages now, because they are easy to send?
 
-Could email, say, have gone a different way?
+Could email, say, have gone a different way?<!--ex-->
 
 I act as though I'm assuming email involves implied norms, though I didn't agree to them. For instance, if someone writes me a personal message, I think I should not delete it without reading it, unless they deserve my disregard for some reason. If someone sends me a message asking me to do something, I act like I think I should do it in a timely fashion, if it is a reasonable request. If I write to someone, I feel like I should make it less terse than 'ok.'. At least, many people seem to constantly feel bad for failing to uphold *some* standards that are I guess implicitly bought into by having an email address. (And not having an email address would be pretty wild.)
 

@@ -13,7 +13,7 @@ summary:
 
 2. **Ubiquitous virtual queues.** Each person’s [phone keeps](https://meteuphoric.wordpress.com/2014/08/20/imaginary-queues/) track of their priority waiting, so they don’t have to keep track of it with the location of their body.
 
-3. **Efficient plane disembarkment.** [Like this](https://meteuphoric.wordpress.com/2016/07/01/aisle-seat-theorizing/). Saving many hours per lifetime of thinking about how planes could be disembarked more efficiently.
+3. **Efficient plane disembarkment.** [Like this](https://meteuphoric.wordpress.com/2016/07/01/aisle-seat-theorizing/). Saving many hours per lifetime of thinking about how planes could be disembarked more efficiently.<!--ex-->
 
 4. **Interactive textbook-exam hybrids** to learn all subjects, on the internet. 
 

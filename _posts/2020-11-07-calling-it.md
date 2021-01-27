@@ -12,7 +12,7 @@ The best non-inert art is the musical Hamilton
 
 The best place in the San Francisco Bay Area is the [Essex Hot Tub](https://worldlypositions.tumblr.com/post/172912945074/experimental-ethics-hot-tub-adventure), and the best place near it is Bodega Bay
 
-The best undergraduate degree to wish you had done is computer science
+The best undergraduate degree to wish you had done is computer science<!--ex-->
 
 The best non-committal snack is [Mewe snickerdoodle peanut butter](https://www.amazon.com/Nutrition-Healthy-Snickerdoodle-Supplement-10-count/dp/B07YYLJL3Y/ref=cm_cr_arp_d_product_top?ie=UTF8).
 

@@ -13,7 +13,7 @@ I enjoyed C. S. Lewis' [The Inner Ring](https://www.lewissociety.org/innerring/)
 Some quotes, though I also recommend reading the whole thing:
 
 >In the passage I have just read from Tolstoy, the young second lieutenant Boris Dubretskoi discovers that there exist in the army two different systems or hierarchies. The one is printed in some little red book and anyone can easily read it up. It also remains constant. A general is always superior to a colonel, and a colonel to a captain. The other is not printed anywhere. Nor is it even a formally organised secret society with officers and rules which you would be told after you had been admitted. You are never formally and explicitly admitted by anyone. You discover gradually, in almost indefinable ways, that it exists and that you are outside it; and then later, perhaps, that you are inside it.
-<br>
+<br><!--ex-->
 <br>
 There are what correspond to passwords, but they are too spontaneous and informal. A particular slang, the use of particular nicknames, an allusive manner of conversation, are the marks. But it is not so constant. It is not easy, even at a given moment, to say who is inside and who is outside. Some people are obviously in and some are obviously out, but there are always several on the borderline. And if you come back to the same Divisional Headquarters, or Brigade Headquarters, or the same regiment or even the same company, after six weeks’ absence, you may find this secondary hierarchy quite altered.
 <br>

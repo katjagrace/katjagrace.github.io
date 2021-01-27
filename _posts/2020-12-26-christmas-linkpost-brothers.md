@@ -19,7 +19,7 @@ Katja
 
 &nbsp;
 
-*(Picture: nearing Christmas in New York 2017)*
+*(Picture: nearing Christmas in New York 2017)*<!--ex-->
 
 &nbsp;
 

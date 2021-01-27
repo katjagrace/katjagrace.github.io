@@ -9,7 +9,7 @@ summary: Tiny definite problems as a microcosm of the market and its powers for 
 ---
 If you are wondering whether a food needs refrigerating, you look at the label until you either see an instruction to refrigerate it, or have looked at the label enough to exclude the possibility of it containing that instruction somewhere. This seems clearly worse worse than the label just always saying whether or not the food needs refrigerating, so the procedure terminates as soon as you find that sentence.
 
-It's only a tiny bit worse&mdash;only a few seconds are at stake each time&mdash;but it is so clearly worse, it is interesting to me that it remains in the worse state.
+It's only a tiny bit worse&mdash;only a few seconds are at stake each time&mdash;but it is so clearly worse, it is interesting to me that it remains in the worse state.<!--ex-->
 
 But how would I expect it to get better? Here are some partial mechanisms by which I might expect things to get better usually, which this is evidence about the strength of:
 

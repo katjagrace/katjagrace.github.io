@@ -7,7 +7,7 @@ comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/Technology_-_Imgur_(1).jpg
 summary: Does culture accumulate an ever increasing pile of ideas or an ever replaced collection of objects and instructions?
 ---
-When I think of humans being so smart due to 'cultural accumulation', I think of lots of tiny innovations in thought and technology being made by different people, and added to the interpersonal currents of culture that wash into each person's brain, leaving a twenty year old in 2020 much better intellectually equipped than a 90 year old who spent their whole life thinking in 1200 AD.
+When I think of humans being so smart due to 'cultural accumulation', I think of lots of tiny innovations in thought and technology being made by different people, and added to the interpersonal currents of culture that wash into each person's brain, leaving a twenty year old in 2020 much better intellectually equipped than a 90 year old who spent their whole life thinking in 1200 AD.<!--ex-->
 
 This morning I was chatting to my boyfriend about whether a person who went back in time (let's say a thousand years) would be able to gather more social power than they can now in their own time. Some folk we know were [discussing](https://www.lesswrong.com/s/mzgtmmTKKn5MuCzFJ/p/oiuZjPfknKsSc5waC#Discussion_on_the_ease_of_taking_control_of_the_world) the claim that some humans would have a shot at literally take over the world if sent back in time, and we found this implausible.
 

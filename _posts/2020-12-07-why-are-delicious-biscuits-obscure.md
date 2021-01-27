@@ -9,7 +9,7 @@ summary: Kolakakor, sociological mystery or just not that delicious?
 ---
 I saw a picture of these biscuits (or cookies), and they looked very delicious. So much so that I took the uncharacteristic step of actually making them. They were indeed among the most delicious biscuits of which I am aware. And yet I don't recall hearing of them before. This seems like a telling sign about something. (The capitalist machinery? Culture? Industrial food production constraints? The vagaries of individual enjoyment?)
 
-![Kolakakor](https://www.dropbox.com/s/91nepe5q84xtbyf/iStock-1088141566.jpg?raw=1)
+![Kolakakor](https://www.dropbox.com/s/91nepe5q84xtbyf/iStock-1088141566.jpg?raw=1)<!--ex-->
 
 Why doesn't the market offer these delicious biscuits all over the place? Isn't this just the kind of rival, excludable, information-available, well-internalized good that markets are on top of?
 

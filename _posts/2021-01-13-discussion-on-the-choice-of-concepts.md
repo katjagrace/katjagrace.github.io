@@ -27,7 +27,7 @@ summary:
 
 "Yes! They are unsure because they are trying to guess what the real concept is, from their limited collection of exposures to it. If it were about making one up, why would they be uncertain?"
 
-"They might be uncertain which one they want to make up"
+"They might be uncertain which one they want to make up"<!--ex-->
 
 "You're saying when people say words, they are ascribing meanings to them that they just made up, according to which definition they like most?"
 

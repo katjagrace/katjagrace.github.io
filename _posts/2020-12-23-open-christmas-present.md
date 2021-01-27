@@ -22,7 +22,7 @@ xox
 
 &nbsp;
 
-*(Picture: Geboorte van Christus, Robert van den Hoecke, after Jan van den Hoecke, 1632 - 1668)*
+*(Picture: Geboorte van Christus, Robert van den Hoecke, after Jan van den Hoecke, 1632 - 1668)*<!--ex-->
 
 &nbsp;
 

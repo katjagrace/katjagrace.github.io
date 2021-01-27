@@ -200,6 +200,8 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  text-decoration: underline;
+  text-decoration-color: lighten($grey-color, 10%);
 }
 
 .post-link {

@@ -10,7 +10,7 @@ Shall we read a poem? Just one?
 <span style="color:grey">*Or we could finish reading that George Saunders essay?*</span>
 
 We finished it-'Stay open, forever, so open it hurts, and then open up some more, until the day you die, world without end, amen.' Remember?
-<!--more-->
+<!--ex-->
 
 <span style="color:grey">*Oh yeah. Alright then.*</span>
 

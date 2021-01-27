@@ -7,7 +7,7 @@ image: /assets/tidy3.jpg
 summary: How is being a messy person different from being a tidy person, at a fine level of detail?
 comments: true
 ---
-A thing I have been curious about since I was about fourteen is why my living quarters are so much messier than other people's. At that point it was mostly not my own fault, and now that it is, they are less messy. But still, there's a clear gap between my room and many other people's rooms that I see. Like for me, if you can see the places where the floor and the walls meet, or if there is a clear path between the door and at least one reasonable place to be in a room, these are victories (bonus points if you don't have to do any unusual jumping or balancing to follow the path). And other people have entire twelve-foot cubes full of immaculately placed objects.
+A thing I have been curious about since I was about fourteen is why my living quarters are so much messier than other people's. At that point it was mostly not my own fault, and now that it is, they are less messy. But still, there's a clear gap between my room and many other people's rooms that I see. Like for me, if you can see the places where the floor and the walls meet, or if there is a clear path between the door and at least one reasonable place to be in a room, these are victories (bonus points if you don't have to do any unusual jumping or balancing to follow the path). And other people have entire twelve-foot cubes full of immaculately placed objects.<!--ex-->
 
 This might seem like a silly thing to wonder about. For one thing, isn't it because I don't choose to clean up my room, whereas they do? Or if not entirely that, isn't it just that people vary, and I have the trait 'messy'?
 

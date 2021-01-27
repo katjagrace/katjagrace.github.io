@@ -11,7 +11,7 @@ I was woken yesterday by cheering and whooping in the streets.
 
 After some music, Champagne, party hats, chatting with the housemates, and putting on our best red-white-and-blue outfits, my boyfriend and I set out for a walk in the city, tentatively toward b. patisserie, legendary and inconveniently distant producer of kouignoù amann.[^1]
 
-Within a few blocks we found cars and pedestrians breaking into rounds of cheering and waving at each other, and a general sense that the whole street was a party to this. We still had our party hats, one with an American flag sticking out of the top, so there was no ambiguity for other street-goers about whether we were.
+Within a few blocks we found cars and pedestrians breaking into rounds of cheering and waving at each other, and a general sense that the whole street was a party to this. We still had our party hats, one with an American flag sticking out of the top, so there was no ambiguity for other street-goers about whether we were.<!--ex-->
 
 We took a detour for downtown Castro, to see if it was more exciting. Apparently that was in fact the Schelling point for being excited together. When we got to the intersection with Castro street, cars were still going through it slowly, but each one seemed like an event somehow. While we watched, the crowd overcame the road entirely.
 

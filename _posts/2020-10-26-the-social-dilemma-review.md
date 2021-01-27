@@ -10,7 +10,7 @@ I watched [The Social Dilemma](https://www.thesocialdilemma.com/) last night. I 
 2. These companies put vast optimization effort into manipulating you, to extract more attention
 3. This means your behavior and attention is probably very shaped by these forces (which you can perhaps confirm by noting your own readiness to scroll through stuff on your phone)
 
-This seems broadly plausible and bad, but I wonder if it isn't quite that bad.
+This seems broadly plausible and bad, but I wonder if it isn't quite that bad.<!--ex-->
 
 I heard the film as suggesting that your behavior and thoughts in general are being twisted by these forces. But lets distinguish between a system where huge resources are going into keeping you scrolling say&mdash;at which point an advertiser will pay for their shot at persuading you&mdash;and a system where those resources are going into manipulating you directly to do the things that the advertiser would like. In the first case, maybe you look at your phone too much, but there isn't a clear pressure on your opinions or behavior besides pro phone. In the second case, maybe you end up with whatever opinions and actions someone paid the most for (this all supposing the system works). Let's call these distorted-looking and distorted-acting.
 

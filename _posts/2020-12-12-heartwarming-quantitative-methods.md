@@ -11,7 +11,7 @@ From Twitter:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you listened to my podcast w/Michael Sandel, you know we have very different views on whether markets are &quot;degrading&quot;<br><br>One thing I didn&#39;t mention to him: This bit in his book cracked me up -- because I remember my friends &amp; I found this aspect of Moneyball SO HEARTWARMING &lt;3 <a href="https://t.co/9W6Op30vF8">pic.twitter.com/9W6Op30vF8</a></p>&mdash; Julia Galef (@juliagalef) <a href="https://twitter.com/juliagalef/status/1337097616639864832?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I haven't actually seen Moneyball, but it does sound heartwarming, and I have had to hide my tears when someone described a payment app their company was working, so I'm probably in Julia's category here.
+I haven't actually seen Moneyball, but it does sound heartwarming, and I have had to hide my tears when someone described a payment app their company was working, so I'm probably in Julia's category here.<!--ex-->
 
 If I didn't feel this way though, reading this I might imagine it as some alien nerdly aberration, and not a way that I could feel from the inside, or that would seem the 'right' way to feel unless I became brain-damaged. Which I think is all wrong&mdash;such feelings seem to me to be a warm and human response to appreciating the situation in certain ways. So I want to try to describe what seems to be going on in my mind when my heart is warmed by quantitative methods and efficient algorithms.
 

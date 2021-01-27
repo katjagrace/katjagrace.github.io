@@ -16,7 +16,7 @@ summary:
 7. Going on a cross-country train and embracing the general lack of hygiene and space
 8. Seeing non-household friends without inadvertently spending a fraction of my attention on air dynamics and mask stability
 9. The stakes of everyday personal choices being lowered enough that people being thoughtless or foolish isn't a critical threat to friendliness, harmony or anyone's life
-10. Helping the economy of restaurants and cafes recover
+10. Helping the economy of restaurants and cafes recover<!--ex-->
 11. Casual minor encounters and non-encounters with strangers in shops, streets and cafes (and these being more of the meeting places of the world, and internet comments being less, for more people)
 12. Meeting new people regularly
 13. More distinct places and place-vibes to conveniently be in

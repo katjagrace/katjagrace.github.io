@@ -4,4 +4,5 @@
 
 layout: home_meteuphoric
 ---
-[FULL](/full.markdown) --- [LIST](/index) --- [WORLDLY POSITIONS](/worldlypositions.markdown) --- [**METEUPHORIC**](meteuphoric.markdown)
+[HOME](/index.markdown) --- [FULL](/full.markdown) --- [LIST](/list.markdown) --- [WORLDLY POSITIONS](/worldlypositions.markdown) --- [**METEUPHORIC**](meteuphoric.markdown)
+<br>

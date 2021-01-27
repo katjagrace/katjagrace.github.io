@@ -11,7 +11,7 @@ summary:
 
 A photograph taken during a discussion of how photographs often fail to capture scenes.
 
-It seems to me that photos often don't capture what the photographer saw in the scene (perhaps especially if the photographer isn't really a photographer). But it's kind of amazing that I think of this as 'the photograph failed to capture what it was really like', rather than 'my perception failed to capture what it was really like, as evidenced by this photograph'!
+It seems to me that photos often don't capture what the photographer saw in the scene (perhaps especially if the photographer isn't really a photographer). But it's kind of amazing that I think of this as 'the photograph failed to capture what it was really like', rather than 'my perception failed to capture what it was really like, as evidenced by this photograph'!<!--ex-->
 
 I wonder if it is possible to make a camera that captures scenes the way they look to a person there.
 

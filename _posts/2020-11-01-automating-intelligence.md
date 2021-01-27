@@ -8,7 +8,7 @@ Sometimes we think of 'artificial intelligence' as whatever technology ultimatel
 
 I question this equivalence, looking at past automation. In practice human cognitive labor is replaced by things that don't seem at all cognitive, or like what we otherwise mean by AI.
 
-Some examples:
+Some examples:<!--ex-->
 1. Early in the existence of bread, it might have been toasted by someone holding it close to a fire and repeatedly observing it and recognizing its level of doneness and adjusting. Now we have machines that hold the bread exactly the right distance away from a predictable heat source for a perfect amount of time. You could say that the shape of the object embodies a lot of intelligence, or that intelligence went into creating this ideal but non-intelligent tool.
 2. Self-cleaning ovens replace humans cleaning ovens. Humans clean ovens with a lot of thought&mdash;looking at and identifying different materials and forming and following plans to remove some of them. Ovens clean themselves by getting very hot.
 3. Carving a rabbit out of chocolate takes knowledge of a rabbit's details, along with knowledge of how to move your hands to translate such details into chocolate with a knife. A rabbit mold automates this work, and while this route may still involve intelligence in the melting and pouring of the chocolate, all rabbit knowledge is now implicit in the shape of the tool, though I think nobody would call a rabbit-shaped tin 'artificial intelligence'.

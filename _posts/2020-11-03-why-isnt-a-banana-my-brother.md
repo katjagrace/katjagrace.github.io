@@ -10,7 +10,7 @@ It is said that we share [99.9%](https://www.scientificamerican.com/article/what
 
 It is further said that I share 50% of my genes with my brother, and that this is why I like him.
 
-And yet, I seem to be more closely related to my brother than to a banana.
+And yet, I seem to be more closely related to my brother than to a banana.<!--ex-->
 
 A natural way to resolve this incongruity is to suppose that my brother and I share 50% of the 0.01% of genes that might possibly vary between two humans, which we call '50% of my genes' as a shorthand.
 

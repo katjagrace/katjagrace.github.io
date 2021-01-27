@@ -17,7 +17,7 @@ Lots of love from Katja oxo
 
 &nbsp;
 
-*(Picture: our Christmas tree)*
+*(Picture: our Christmas tree)*<!--ex-->
 
 &nbsp;
 

@@ -9,7 +9,7 @@ summary:
 ---
 English can be communicated via 2D symbols that can be drawn on paper using a hand and seen with eyes, or via sounds that can be made with a mouth and heard by ears.
 
-These two forms are the same language because the mouth sounds and drawn symbols correspond at the level of words (and usually as far as sounds and letters, at least substantially). That is, if I write 'ambition', there is a specific mouth sound that you would use if converting it to spoken English, whereas if you were converting it to spoken French, there might not be a natural equivalent.
+These two forms are the same language because the mouth sounds and drawn symbols correspond at the level of words (and usually as far as sounds and letters, at least substantially). That is, if I write 'ambition', there is a specific mouth sound that you would use if converting it to spoken English, whereas if you were converting it to spoken French, there might not be a natural equivalent.<!--ex-->
 
 As far as I know, most popular languages are like this: they have a mouth-sound version and a hand-drawn (or hand-typed) version. They often have a braille version, with symbols that can be felt by touch instead of vision. An exception is sign languages (which are generally not just alternate versions of spoken languages), which use 4-D symbols gestured by hands over time, and received by eyes.
 

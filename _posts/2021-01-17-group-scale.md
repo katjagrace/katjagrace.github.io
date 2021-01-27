@@ -7,7 +7,7 @@ comments: true
 image:
 summary:
 ---
-How much of the impact of an organization is covered by it being 'a group of size M working on X', relative to the specifics of how and what they do in working on X? What if we also include a single scale of how functional they are?
+How much of the impact of an organization is covered by it being 'a group of size M working on X', relative to the specifics of how and what they do in working on X? What if we also include a single scale of how functional they are?<!--ex-->
 
 For instance, does it mostly matter that my research group, [AI Impacts](https://aiimpacts.org/), is a certain size force for AI risk related thinking (with the size determined by the number and competence of people and the functionality of the organization, say), or does it matter whether we write journal articles or news stories or blog posts or research pages, or whether we choose our projects collectively vs. individually, or whether we get most of our feedback internally vs. externally? Maybe most of these things can mostly be translated into 'functionality'. But the 'type of thing we are producing' one doesn't seem to as easily.
 

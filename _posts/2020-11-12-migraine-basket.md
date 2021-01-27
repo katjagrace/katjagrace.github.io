@@ -11,7 +11,7 @@ I get migraines about once a week. They aren't as bad as migraines are classical
 
 While there are always various things I could do to improve such situations, I have often failed to do them promptly. Which seems pretty weird, but I suppose I am not at my most energetic and mentally functional. Also, none of the interventions I know of actually resolve migraines instantaneously, so my sense that I should for instance take painkillers is more of an intellectual one than a felt urge. And I think suffering drains my interest in upholding vague intellectual senses that I should do things. Then even if I did remember, it's a further effort to even recall what else might be good, let alone go and find the relevant objects.
 
-I have improved this a fair bit with a retrospectively obvious innovation: the migraine basket. It's a diaper caddy which typically contains all things that might help with migraines, or some physical symbol of them if they don't fit (e.g. a pick stands for playing guitar).
+I have improved this a fair bit with a retrospectively obvious innovation: the migraine basket.<!--ex--> It's a diaper caddy which typically contains all things that might help with migraines, or some physical symbol of them if they don't fit (e.g. a pick stands for playing guitar).
 
 ![migraine-basket](https://hosting.photobucket.com/images/i/katjasgrace/migraine_basket.jpg)
 

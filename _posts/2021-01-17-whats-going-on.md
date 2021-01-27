@@ -7,7 +7,7 @@ comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/usgs-PuLsDCBbyBM-unsplash.jpg
 summary: What is the central plot?
 ---
-Here's a list of alternative high level narratives about what is importantly going on in the world&mdash;the central plot, as it were&mdash;for the purpose of thinking about what role in a plot to take:
+Here's a list of alternative high level narratives about what is importantly going on in the world&mdash;the central plot, as it were&mdash;for the purpose of thinking about what role in a plot to take:<!--ex-->
 
 - The US is falling apart rapidly (on the scale of years), as evident in US politics departing from sanity and honor, sharp polarization, violent civil unrest, hopeless pandemic responses, ensuing economic catastrophe, one in a thousand Americans dying by infectious disease in 2020, and the abiding popularity of Trump in spite of it all.
 - Western civilization is declining on the scale of half a century, as evidenced by its inability to build things it used to be able to build, and the ceasing of apparent economic acceleration toward a singularity.

@@ -11,7 +11,7 @@ I have an intermittently crippling anxiety disorder, so I recently started tryin
 
 It is based on [Reid Wilson's](https://noiseinyourhead.com/) ideas, I think as described in [his book](https://www.amazon.com/Stopping-Noise-Your-Head-Overcome/dp/0757319068), though I haven't read it and most of my understanding comes from my therapist, my friend who also does this, and a [set of humorous videos on Reid Wilson's website](https://noiseinyourhead.com/free-video-series/).
 
-Here is the practice, as I practice it:
+Here is the practice, as I practice it:<!--ex-->
 
 If I'm anxious:
 

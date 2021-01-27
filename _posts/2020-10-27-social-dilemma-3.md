@@ -8,7 +8,7 @@ tags: advertising societal-improvement
 
 For some more direct [evidence](https://worldspiritsockpuppet.com/2020/10/27/social-dilemma-2.html) about how aggressively Facebook optimizes its content, we can also look at its content.
 
-Here are a bunch of ads it showed me yesterday (prompted by me seeing a particularly compelling ad (#2) and thinking of this, then just noting the other ones starting at the top of the page):
+Here are a bunch of ads it showed me yesterday (prompted by me seeing a particularly compelling ad (#2) and thinking of this, then just noting the other ones starting at the top of the page):<!--ex-->
 1. **Gates foundation plans to improve math education:** interesting, but not so much that I even read it enough to know exactly what it was saying. I'm not sure what it wanted me to do, and am probably not going to do it. Probably slightly changes my perception of GF.
 2. **Something you put in your ears to make sounds less annoying:** very well honed to my interests supposing it works, 50% chance I buy it in a few weeks, without checking if it works.
 3. **A kind of exercise object that I searched for yesterday because I found one in my garage:** maybe interesting if I didn't apparently have one, may have still reminded me to use the one I have, which could lead to buying more things from them.

@@ -7,7 +7,7 @@ comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/elia-pellegrini-NfqDQa6953Q-unsplash.jpg
 summary: A strategic lack of long term goals
 ---
-In chess, you can't play by picking a desired end of the game and backward chaining to the first move, because there are vastly more possible chains of moves than your brain can deal with, and the good ones are few. Instead, chess players steer by heuristic senses of the worth of situations. I assume they still back-chain a few moves ('if I go there, she'll have to move her rook, freeing my queen') but just leading from a heuristically worse to a heuristically better situation a short hop away.
+In chess, you can't play by picking a desired end of the game and backward chaining to the first move, because there are vastly more possible chains of moves than your brain can deal with, and the good ones are few. Instead, chess players steer by heuristic senses of the worth of situations. I assume they still back-chain a few moves ('if I go there, she'll have to move her rook, freeing my queen') but just leading from a heuristically worse to a heuristically better situation a short hop away.<!--ex-->
 
 In life, it is often taken for granted that one should pursue goals, not just very locally, but over scales of decades. The alternative is taken to be being unambitious and directionless.
 

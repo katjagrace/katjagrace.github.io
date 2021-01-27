@@ -6,7 +6,7 @@ tags: us-election mundane journal
 ---
 Earlier in the evening, I reasoned that I should not 'watch' the election, since I will learn the result in the end and experiencing the uncertainty in the meantime doesn't seem productive at all, let alone competitive with other things I could do.
 
-This attitude somehow felt unfriendly though, or like being the kind of spoilsport who says 'there is no reason to celebrate Christmas, or to celebrate anything for that matter'—both failing to add to the fun, and implicitly asking others to defend their own enthusiasm.
+This attitude somehow felt unfriendly though, or like being the kind of spoilsport who says 'there is no reason to celebrate Christmas, or to celebrate anything for that matter'—both failing to add to the fun, and implicitly asking others to defend their own enthusiasm.<!--ex-->
 
 I think it's related to how everyone is experiencing this thing together, and whether or not anyone has fun per se, there is something good in sharing it. And I do appreciate being part of a country-sized crowd looking the same way.
 

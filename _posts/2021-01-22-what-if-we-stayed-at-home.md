@@ -13,7 +13,7 @@ Like, if instead of everyone being more or less cautious over a year, we all agr
 
 This wouldn't require less total risky activity. If we just managed to move all of the risky activity from one fortnight to the one before it, then that would destroy the virus (and everyone could do as many previously risky activities as they liked in the following fortnight!). It could be kind of like the Christmas week except twice as long and the government would pay most people to stay at home and watch movies or play games or whatever. Maybe the TV channels and celebrities could cooperate and try to put together an especially entertaining lineup.
 
-How unrealistic is this? It sounds pretty unrealistic, but what goes wrong?
+How unrealistic is this? It sounds pretty unrealistic, but what goes wrong?<!--ex-->
 
 Some possible things:
 1. To actually coordinate that many people, you would need to have serious policing&mdash;beyond what is an acceptable alternative to a year-long pandemic&mdash;or serious buy-in&mdash;beyond what is possible in any normal place of more than ten people.

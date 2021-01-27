@@ -9,7 +9,7 @@ When basically everyone in the world faces the same problem, it is interesting i
 
 For instance, my impression is that even before covid, basically everyone was sometimes possibly a bit sick and had to decide whether to go to an event, given that they might be contagious. The usual thing to do, I think, was to consider the question for a bit yourself (or not, depending on conscientiousness), and to maybe mention it to the host and try to guess how annoyed the other guests would be, and then to make a call. But this isn't a highly personal question&mdash;if someone who knew more about infectious disease contagion than most people (which wouldn't be hard) made a form to tell you what to do based on your symptoms and the number of people at the event, you would probably already be making a better choice, faster, than most people.
 
-Why doesn't this happen?
+Why doesn't this happen?<!--ex-->
 
 Some answers I can think of:
 1. It would be great, but it isn't anyone's job, and it's hard to profit from it because hardly anyone will give you a cent for making their judgment for them.

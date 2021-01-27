@@ -12,7 +12,7 @@ A pair of lines that caught my attention were:
 *'Come roll in all the riches all around you*
 *And for once, never wonder what they're worth'*
 
-This suggests that wondering what everything is worth negates what is valuable about it, which is to say, makes it worth less to you. Is it true that looking out for value like this is self-undermining? It sounds plausible to me, but why?
+This suggests that wondering what everything is worth negates what is valuable about it, which is to say, makes it worth less to you. Is it true that looking out for value like this is self-undermining? It sounds plausible to me, but why?<!--ex-->
 
 A first idea we had is that some goals are self-reinforcing. For instance, if you consume things a lot, then you want to consume even more next time, and when that's hard then you get even more desperate to consume, and so just increasingly focused on consuming, and therefore maybe inattentive to other potentially good things. Similarly for some other goals, such as making money.
 

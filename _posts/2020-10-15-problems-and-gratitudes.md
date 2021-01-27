@@ -8,7 +8,7 @@ Being grateful is often suggested as a good and scientific way to raise some kin
 
 However I am sometimes confused about directing gratitude, in a similar way to how I am confused about considering things ‘problems’. Is there a problem—never spoken of but so much bigger than anything that ever is—of everyone not being able to access vast quantities of wisdom and pleasure by pressing their belly buttons?
 
-Maybe I should be grateful that the horsehead nebula isn’t a real horsehead?
+Maybe I should be grateful that the horsehead nebula isn’t a real horsehead?<!--ex-->
 
 I'm inclined to say that something in the vicinity of the problem thing is a real problem, because ways the world could be better that are not 'problems' are probably relatively ignored, what with the popularity of solving problems. But that sentence was somewhat self-undermining, in that upon recognizing a way that the world might be better (we might notice ways the world could be better that don't correspond to 'problems') I declared the absence of the good thing a problem. Maybe that's what people usually do, so in fact any plausible improvement becomes a 'problem'?
 

@@ -10,7 +10,7 @@ Today I spent about three hours chatting with eleven of my closer friends who I'
 2. What is 'coolness'? Is coolness always about power? Why is a big, fast train cool? Can you be cool if you are not relaxed? If you are small and scared? If you are mediocre in every way?
 3. Is etymology deep? What do people get out of knowing the origins of words?
 2. What is going on in history, at a high level?
-3. Can history be understood at a high level, or to have a real understanding of 'what's going on', do you need to know about the detailed circumstances in each case?
+3. Can history be understood at a high level, or to have a real understanding of 'what's going on', do you need to know about the detailed circumstances in each case?<!--ex-->
 4. How did nations come about?
 3. Are various countries evil? What are we even asking here?
 3. How bad would it be if a 'bad' country came to control the world, forever?
