@@ -9,7 +9,7 @@ summary:
 ---
 I feel like 'efficiency' is often scowled at. It is associated with factories and killing and commercialization, and people who are no fun. Things are openly criticized for being oriented toward efficiency. Nobody hopes to give their children an efficient childhood or asks for an efficient Valentine's day, unless they want to get it over with. I expect wariness in listeners at talk of efficient charity.
 
-This intrigues me, because in what I take to be its explicit definition, 'efficiency' is almost the definition of goodness manifest. The efficiency of a process is the rate with which it turns what you have into what you want.
+This intrigues me, because in what I take to be its explicit definition, 'efficiency' is almost the definition of goodness manifest. The efficiency of a process is the rate with which it turns what you have into what you want.<!--ex-->
 
 I usually wince when people criticize efficiency, and think they are confused and should be criticizing the goal that is being pursued efficiently. Which does seem basically always true. For instance, if they are saying their childcare center cares only for efficiency, they probably mean that it is doing something like trying to minimize financial costs without breaking the law. Perhaps by fitting many children into a room with minimal oversight or attention to thriving. Here, I would complain that the childcare center cares only about its profits and not breaking the law. If it was fulfilling my own values efficiently, that would be awesome.
 
