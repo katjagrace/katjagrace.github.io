@@ -9,7 +9,7 @@ summary:
 ---
 [I am a connoisseur](https://worldspiritsockpuppet.com/2021/01/24/lil-pots.html) of a certain genre of mostly-snack food, combining aesthetics, convenience and the idiosyncratic types of actual food that I like to eat (central examples of food whose substance I like, ignoring form, are parsley, farro, black lentils, pecans, craisins, dark chocolate, feta cheese, swedish crispbread, cream, ginger, brown or raw sugar on its own. Central non-examples are cinnabons, most cereals, cheetos, milk chocolate, cheese-flavored anything, pea protein, Coca-Cola, parmesan cheese, sweet potatos, spinach, beyond burgers.)
 
-Here is a list of some of the best [li'l pot](https://worldspiritsockpuppet.com/2021/01/24/lil-pots.html) style foods I have come across so far (not all literally in small pots). Links for illustration, not guaranteed to be value-for-money instances.
+Here is a list of some of the best [li'l pot](https://worldspiritsockpuppet.com/2021/01/24/lil-pots.html) style foods I have come across so far (not all literally in small pots). Links for illustration, not guaranteed to be value-for-money instances.<!--ex-->
 
 #### Ones regarding which my enthusiasm has extended to writing, photography, transcendent-style elation, notable ongoing quality of life improvement, or extended consideration of the ethical implications of eating all of them before anyone else knows that they exist
 
