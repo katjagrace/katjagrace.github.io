@@ -11,7 +11,7 @@ Somehow while knowing that a) 'sea snail' was a concept, and b) beaches were str
 
 ![land snail](https://hosting.photobucket.com/images/i/katjasgrace/krzysztof-niewolny-OxK32aLJXWU-unsplash.jpg)
 
-But its true. And it seems that not only are the spiral-looking shells from snails, but various flat and non-spiral ones are too.
+But it's true. And it seems that not only are the spiral-looking shells from snails, but various flat and non-spiral ones are too.
 
 ![Abalone](https://hosting.photobucket.com/images/i/katjasgrace/Abalone_OCA.jpg)
 
