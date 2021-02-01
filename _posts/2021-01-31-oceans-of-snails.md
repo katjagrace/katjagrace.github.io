@@ -2,12 +2,12 @@
 layout: post
 title: "Oceans of snails"
 date: 2021-01-31 03:13:00 -0700
-tags: aimals biology sociology 
+tags: aimals biology sociology
 comments: true
 image:
 summary:
 ---
-Somehow while knowing that a) 'sea snail' was a concept, and b) beaches were strewn with sea shells, which involve various snail-reminiscent spirals, I failed to reach the stunning conclusion that the oceans are substantially inhabited by these kinds of characters:
+Somehow while knowing that a) 'sea snail' was a concept, and b) beaches were strewn with sea shells, which involve various snail-reminiscent spirals, I failed to reach the stunning conclusion that the oceans are substantially inhabited by these kinds of characters:<!--ex-->
 
 ![land snail](https://hosting.photobucket.com/images/i/katjasgrace/krzysztof-niewolny-OxK32aLJXWU-unsplash.jpg)
 
