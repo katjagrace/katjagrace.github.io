@@ -2,7 +2,7 @@
 layout: post
 title: "Elephant seal 2"
 date: 2021-02-02 01:25:00 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: seals photographs
 comments: true
 image:
 summary:
