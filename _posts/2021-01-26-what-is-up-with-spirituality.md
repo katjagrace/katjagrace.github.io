@@ -2,7 +2,7 @@
 layout: post
 title: "What is up with spirituality?"
 date: 2021-01-26 10:00:00 -0700
-tags: evolutionary-explanations religion spirituality questions
+tags: evolutionaryexplanations religion spirituality questions
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/annie-spratt-qHWpzufER-A-unsplash(1).jpg
 summary: What is up with spirituality? I mean, from an atheistic perspective?

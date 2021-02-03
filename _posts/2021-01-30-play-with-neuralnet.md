@@ -2,7 +2,7 @@
 layout: post
 title: "Play with neural net"
 date: 2021-01-30 02:36:00 -0700
-tags: AI intuitive-understanding
+tags: AI intuitiveunderstanding
 comments: true
 image:
 summary:

@@ -2,7 +2,7 @@
 layout: post
 title: "Unpopularity of efficiency"
 date: 2021-01-28 00:15:00 -0700
-tags: economics life-strategy
+tags: economics lifestrategy
 comments: true
 image:
 summary:

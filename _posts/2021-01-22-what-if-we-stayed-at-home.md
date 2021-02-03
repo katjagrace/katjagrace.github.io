@@ -2,7 +2,7 @@
 layout: post
 title: "What if we all just stayed at home and didn't get covid for two weeks?"
 date: 2021-01-22 00:14:00 -0700
-tags: covid coordination institution-design
+tags: covid coordination institutiondesign
 comments: true
 image:
 summary:
