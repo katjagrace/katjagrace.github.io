@@ -4,7 +4,7 @@ title: "On fundamental solitude"
 date: 2021-01-20 02:05:00 -0700
 tags: philosophy worldspirit
 comments: true
-image: https://hosting.photobucket.com/images/i/katjasgrace/muhammad-murtaza-ghani-CIVbJZR8aAk-unsplash.jpg
+image: https://hosting.photobucket.com/images/i/katjasgrace/(edited)_muhammad-murtaza-ghani-CIVbJZR8aAk-unsplash.jpg
 summary: "We live together, we act on, and react to, one another; but always and in all circumstances we are by ourselves..."
 ---
 A quote from Aldous Huxley that has stuck in my mind more than perhaps any other over the years:
