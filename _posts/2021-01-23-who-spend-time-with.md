@@ -4,10 +4,10 @@ title: "Who should you expect to spend your life with?"
 date: 2021-01-23 00:56:00 -0700
 tags: sociology forecasting
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/ekaterina-shakharova-L4nwL3195U0-unsplash.jpg
+summary: Survey data from Our World in Data
 ---
-Striking things about the figure below, which I got from [Our World in Data](https://ourworldindata.org/time-use), on time use:
+Striking things about the figure below, which I got from [Our World in Data](https://ourworldindata.org/time-use), on time use [edit: oops, all only known to be true in America]:
 - People spend increasing time alone over their whole lives, with the exception of roughly their twenties. This surprises me a bit because it seems like people like spending time with other people, and I would expect them to increasingly succeed at it with experience and time to acquire partners and families and friends.
 - From 31 to 45, people spend more time with children[^1] on average than they spend with any other category of person, including for instance partners and colleagues.
 - You might think all this children time would be substituting for some partner time, but as the children time swoops downward by three quarters, partner time stays about the same.
