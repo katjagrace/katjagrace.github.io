@@ -11,7 +11,7 @@ I'm puzzled that during the pandemic so few cafes near me have moved to serving 
 
 (I wanted to include a photo, but I actually just can't find a picture online, such an obscure idea it is, I guess?)
 
-Is this harder than it looks to organize? And even if it is for a small business run by a single person without a spare second all year to think about aerosols or reorganize, I'm still surprised that Starbucks doesn't have its act together more.
+Is this harder than it looks to organize? And even if it is for a small business run by a single person without a spare second all year to think about aerosols or reorganize, I'm still surprised that Starbucks doesn't have its act together more.<!--ex-->
 
 How bad is it to have your customers indoors to order and pickup their drinks? Some Microcovid estimates for San Francisco, right now:
 Indoor: [about 20 microcovids](https://www.microcovid.org/?distance=tenFt&duration=6&interaction=oneTime&personCount=5&riskProfile=average&setting=indoor&subLocation=US_06075&theirMask=thin&topLocation=US_06&voice=normal&yourMask=thin)
