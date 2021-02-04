@@ -4,7 +4,7 @@ title: "Covid cafes"
 date: 2021-02-03 00:08:00 -0700
 tags: covid sociology
 comments: true
-image:
+image: https://hosting.photobucket.com/images/i/katjasgrace/brian-asare-z7lTC8cFKKs-unsplash.jpg
 summary:
 ---
 I'm puzzled that during the pandemic so few cafes near me have moved to serving customers outside, by moving their ordering and payment apparatus to the doorway. I've seen about five cafes in San Francisco do this (few enough that none are conveniently close).
