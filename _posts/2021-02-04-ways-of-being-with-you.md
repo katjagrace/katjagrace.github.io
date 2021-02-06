@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ways of being with you"
+date: 2021-02-04 10:44:00 -0700
 tags: mentallandscape psychology
 comments: true
 image:
@@ -8,7 +9,7 @@ summary:
 ---
 Suppose you want to get in touch with your care for someone, or to feel empathy for them. One way is to imagine what it is like to be them, looking out of their eyes and feeling what they are feeling. For instance, if your friend did something frustrating, you might imagine the experience of choosing under pressure that might have led to it, and you might thereby feel warmth toward them and sympathy for their error.
 
-But I think it is more common to do something else, kind of like imagining them from the outside, but such that their mental content is also somehow accessible. For instance, you might imagine them hurrying around, being frazzled and not sure what to do, trying. And it's not just that they look like they might be those things - in imagination, it is available that they *are*. While you aren't in their mind, you also aren't just observing its consequences and inferring things about it from a distance. You experience their feeling.
+But I think it is more common to do something else, kind of like imagining them from the outside, but such that their mental content is also somehow accessible.<!--ex--> For instance, you might imagine them hurrying around, being frazzled and not sure what to do, trying. And it's not just that they look like they might be those things - in imagination, it is available that they *are*. While you aren't in their mind, you also aren't just observing its consequences and inferring things about it from a distance. You experience their feeling.
 
 But what is it to experience a person's sadness, say, without experiencing it *as* an aspect of their experience? i.e. as something that can requires an imagining of their mental experience to imagine, in the way that imagining the wetness of a dog would seem to require&mdash;or be greatly aided by&mdash;imagining the dog?
 
