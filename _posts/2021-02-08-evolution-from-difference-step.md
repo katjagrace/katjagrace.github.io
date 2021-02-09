@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Evolution from distinction difference"
-date: 2021-02-11 20:25:00 -0700
-tags: CATEGORY-1 CATEGORY-2
+date: 2021-02-08 20:25:00 -0700
+tags: sociology systems evolution
 comments: true
 image:
 summary:
