@@ -9,7 +9,7 @@ summary:
 ---
 People have a strong tendency to be different from one another (e.g. are horrified to be caught in the same dress, find it weird to order the same dishes as their companion without comment or to choose the same art for their living room). Yet they also have a strong tendency to conform.
 
-These are even in the same areas, and the best behavior seems to be balancing on an edge between the two forces. You don't want to wear either a dress that someone else is wearing, nor a dress in a style that hasn't been worn since the 1600s.
+These are even in the same areas, and the best behavior seems to be balancing on an edge between the two forces. You don't want to wear either a dress that someone else is wearing, nor a dress in a style that hasn't been worn since the 1600s.<!--ex-->
 
 I have [noticed](https://meteuphoric.com/2017/12/08/rules-of-variety/) both of these human forces before, but I hadn't seen them so vividly as acting in the same realm. You don't want your essay to be on an identical topic to another student's, but you also don't want it to be outside the bounds of what the professor thinks of as an essay, or expressing views beyond a short hop from those others would endorse.
 
