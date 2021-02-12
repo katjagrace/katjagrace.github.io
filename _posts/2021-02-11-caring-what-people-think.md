@@ -4,8 +4,8 @@ title: "The art of caring what people think"
 date: 2020-11-11 21:05:00 -0700
 tags: advice sociology practicalpsychology
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/pexels-fox-1615817.jpg
+summary: You are probably going to care what people think, but you can change who the people are.
 ---
 People care what people think. People often strive to not care what people think. People sometimes appear to succeed.
 
