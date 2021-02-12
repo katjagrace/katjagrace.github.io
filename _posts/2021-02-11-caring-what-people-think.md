@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The art of caring what people think"
-date: 2020-11-11 21:05:00 -0700
+date: 2020-02-11 21:05:00 -0700
 tags: advice sociology practicalpsychology
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/pexels-fox-1615817.jpg
