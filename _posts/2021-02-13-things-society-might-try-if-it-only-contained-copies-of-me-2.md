@@ -14,7 +14,7 @@ summary: If society only contained copies of me, what would be different?
 2. **A wider variety of accommodations.** For instance, you could rent houses in cheap versions of this sort of style:
 
 
-![Mosque](https://hosting.photobucket.com/images/i/katjasgrace/pexels-moe-shammout-2449510.jpg)
+![Mosque](https://hosting.photobucket.com/images/i/katjasgrace/pexels-moe-shammout-2449510.jpg)<!--ex-->
 
 ![Mosque](https://hosting.photobucket.com/images/i/katjasgrace/pexels-konevi-2159549.jpg)
 
