@@ -4,8 +4,8 @@ title: "Things a Katja-society might try (Part 2)"
 date: 2021-02-13 01:04:00 -0700
 tags: advice katjasociety
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/pexels-engin-akyurt-3638731.jpg
+summary: If society only contained copies of me, what would be different?
 ---
 ([Part 1](https://worldspiritsockpuppet.com/2020/11/21/things-society-might-try-if-it-only-contained-copies-of-me-1.html))
 
