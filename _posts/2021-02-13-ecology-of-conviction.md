@@ -2,7 +2,7 @@
 layout: post
 title: "The ecology of conviction"
 date: 2021-02-13 10:30:00 -0700
-tags: sociology history
+tags: sociology history meteuphoric
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/michael-aleo-DpgzNS1yvWg-unsplash.jpg
 summary: Has the internet changed the niches for positive visionaries and uncommitted critics?
