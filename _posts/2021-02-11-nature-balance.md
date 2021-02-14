@@ -2,7 +2,7 @@
 layout: post
 title: "In balance and flux"
 date: 2021-02-11 7:27:00 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: meteuphoric
 comments: true
 ---
 Someone more familiar with ecology recently noted to me that it used to be a popular view that nature was 'in balance' and had some equilibrium state, that it should be returned to. Whereas the new understanding is that there was never an equilibrium state. Natural systems are always changing. Another friend who works in natural management also recently told me that their role in the past might have been trying to restore things to their 'natural state', but now the goal was to prepare yourself for what your ecology was becoming. A brief Googling returns this National Geographic article by Tik Root, [*The ‘balance of nature’ is an enduring concept. But it’s wrong.*](https://www.nationalgeographic.com/environment/global-warming/balance-of-nature-explained/) along the same lines. In fairness, they seem to be arguing against both the idea that nature is in a balance so intense that you can easily disrupt it, and the idea that nature is in a balance so sturdy that it will correct anything you do to it, which sounds plausible. But they don't say that ecosystems are probably in some kind of intermediately sturdy balance, in many dimensions at least. They say that nature is 'in flux' and that the notion of balance is a misconception.
