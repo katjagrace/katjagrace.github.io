@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remember that to value something infinitely is usually to give it a finite dollar value"
-date: 2021-01-xx 10:30:00 -0700
+date: 2021-02-15 10:30:00 -0700
 tags: practicalpsychology lifestrategy economics
 comments: true
 image:
