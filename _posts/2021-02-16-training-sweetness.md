@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Training sweetness"
+date: 2021-02-16 10:30:00 -0700
+tags: rationality psychology cfar advice practicalpsychology
+comments: true
+image:
+summary:
+---
+*(This is my attempt to summarize the 'Taste & Shaping' module in a [CFAR](https://www.rationality.org/) 2018 participant handbook I have, in order to understand it better (later version available online [here](https://drive.google.com/file/d/1UZYBtOJ3QZ7FTI_4eKjVzBSNUqC_Uba3/view)). It may be basically a mixture of their content and my misunderstandings. Sorry for any misunderstandings propagated. I also haven't checked or substantially experimented with most of this, but it seems so far like a good addition to my mental library of concepts.)*
+
+Some things seem nice, and you just automatically do them (or gravitate toward them), and have to put in effort if you don't want that to happen. Other things seem icky, and even though maybe you know they are good, you won't get around to them for months even if they would take a minute and you spend more than that long every week glancing at them and deciding to do them later. (In my own dialect, the former are 'delicious'. As in, 'oh goody, my delicious book').
+
+How delicious things seem is caused by a kind of estimate by your brain of how good that thing will be for the goals it thinks you have.
+
+Your brain makes these estimates in a funny way, with some non-obvious features:<!--ex-->
+- The causal connections between things in the brain's model are not the ones you would give if asked to describe the situation. For instance, you might say that practicing piano causes you to get better at piano, while in the model, practicing piano mostly causes you to be bad at the piano, since you usually experience being bad at piano immediately after you experience practicing it.
+- The effects of an action are based mostly on past visceral experiences with similar actions. For instance, if you usually hit your thumb when you use a hammer, then when you get out a hammer today, it might seem non-delicious. Whereas if you are just told that most people hit their thumbs when using hammers, this might not affect deliciousness as much. It is as though it is not in the right language for your brain's model to take it in. (My guess is that it is more likely to get taken in if you translate it into 'experience' via imagining.)
+- The connection between an action and an outcomes is modeled as much weaker as more delay occurs between them. So that if you press a button which has a good effect in half a second and an equally bad effect in ten seconds, this will sum up in the estimate as good overall, because your brain will model the second effect more weakly.
+- If B is delicious, and you demonstrate a strong empirical connection between A and B in language your brain's model can take in, then A will often come to also be delicious. Thus if doing Z leads to A which leads to the excellent B much later, if the connection between A and B is made clear, then Z can become delicious, even though it is fairly distant from the ultimately good outcome.
+- Since adjusting the deliciousness of options happens based on experience, it is difficult to update ones that happen rarely. For instance, if you want to train a pigeon to peck out drawing of a tree, you can't just reward it when it happens to do that, because it will take way too long for it to even do it once. A way to get around this is to start by rewarding it if it pecks at all, then reward it if it pecks along in a line (then maybe stop rewarding it for pecking at all, since it knows it has to do that now to get the pecking in a line reward), then reward it if it pecks a more tree-shaped line, and so on. This is called 'shaping'.
+- your brain generalizes between things, so if it tried an action and that was bad, then it will estimate that another action like that one is probably also bad. So if someone punishes you when you do almost the right thing, that can make your brain estimate that doing the right thing is bad. This is especially harmful if it doesn't receive a punishment for doing things very far away. For instance, if playing the piano badly gets a frown, and not playing the piano at all gets nothing, your brain might avoid the piano, rather than honing in on the narrow band of good piano playing right next to the punishable bad piano playing. This and the last point means that if you are trying to teach your brain what is good by giving it extra rewards or punishments as soon as it does things, you want to give it rewards for anything near the best action, at least at first.
+
+Quick takeaways:
+1. How nice things seem is in your deliciousness-model, not the world
+2. Your deliciousness-model can be pragmatically shifted, much like a bucket of water can be shifted. Things that are awful can become genuinely nice.
+3. If a thing seems like it should be nice, but your deliciousness-model is rating it as not nice, you can think about why it is wrong and how to communicate its error to it. Has it not taken in the nice consequence? Does it not understand the causal connection, because the consequence takes too long to happen? Does it not realize how bad things are even when you are not near the piano?
+4. You should generally reward or punish yourself according to whether you want yourself to do 'things like this' more or less. Which often means rewarding yourself for getting closer to your goal than in the most available possible worlds where you looked at social media all afternoon or played a computer game, even if your success was less than in some hard to find narrow band nearby.
+
+(I called this post 'training sweetness' because the thought of changing which things taste sweet or not via 'training' sounds kind of wild, and reminds me that what seems like *real, objective niceness in the world* is what we are saying is in your mind and malleable, here. I don't know whether a literal sweet taste can be retrained, though it seems that one can come to dislike it.)
