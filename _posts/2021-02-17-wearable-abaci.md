@@ -4,7 +4,7 @@ title: "Neck abacus"
 date: 2021-02-17 23:12:00 -0700
 tags: craft advice worldlypositions
 comments: true
-image: https://hosting.photobucket.com/images/i/katjasgrace/PXL_20210218_064811541.jpg
+image: https://hosting.photobucket.com/images/i/katjasgrace/PXL_20210218_064803676.jpg
 summary: A nice way to count things in the non-virtual world
 ---
 My [points for anxiety](https://worldspiritsockpuppet.com/2020/12/01/points-for-anxiety.html) system continued to help, but was encumbered by the friction of getting my phone out to mark points. Thus I have turned to wearable abaci.
