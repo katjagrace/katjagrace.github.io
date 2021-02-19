@@ -2,7 +2,7 @@
 layout: post
 title: "No need to refrigerate"
 date: 2020-11-27 00:42:00 -0700
-tags: societal-functioning institution-design
+tags: societalfunctioning institutiondesign
 comments: true
 image: /assets/supermarket.jpg
 summary: Tiny definite problems as a microcosm of the market and its powers for improvement

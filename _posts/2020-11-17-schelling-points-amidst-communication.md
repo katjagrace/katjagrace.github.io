@@ -2,7 +2,7 @@
 layout: post
 title: "Schelling points amidst communication"
 date: 2020-11-17 10:17:45 -0700
-tags: game-theory
+tags: gametheory
 comments: true
 image: /assets/grandcentralclock.jpg
 summary: Sometimes Schelling points are relevant even when when you can talk freely.

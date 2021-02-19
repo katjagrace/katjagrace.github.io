@@ -2,7 +2,7 @@
 layout: post
 title: "Desires as film posters"
 date: 2020-12-29 16:25:29 -0700
-tags: mind-strategy
+tags: mindstrategy
 comments: true
 image:
 summary:

@@ -2,7 +2,7 @@
 layout: post
 title: "Meditative thinking"
 date: 2021-01-15 18:27:29 -0700
-tags: meditation practical-advice
+tags: meditation practicaladvice
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/matheo-jbt-94ZILxwU2CQ-unsplash.jpg
 summary:

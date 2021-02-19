@@ -2,7 +2,7 @@
 layout: post
 title: "Infinite possibilities"
 date: 2020-12-28 1:58:47 -0700
-tags: life-strategy agency economics
+tags: lifestrategy agency economics
 comments: true
 image:
 summary:

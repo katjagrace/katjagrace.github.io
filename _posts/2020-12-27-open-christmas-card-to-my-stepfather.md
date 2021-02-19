@@ -2,7 +2,7 @@
 layout: post
 title: "An open Christmas card to my stepfather"
 date: 2020-12-27 10:30:00 -0700
-tags: christmas open-letter worldlypositions journal
+tags: christmas openletter worldlypositions journal
 comments: true
 image:
 summary:

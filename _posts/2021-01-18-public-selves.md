@@ -2,7 +2,7 @@
 layout: post
 title: "Public selves"
 date: 2021-01-18 01:04:00 -0000
-tags: life-strategy
+tags: lifestrategy
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/john-noonan-QM_LE41VJJ4-unsplash.jpg
 summary: Do you want to be yourself, on a public stage?

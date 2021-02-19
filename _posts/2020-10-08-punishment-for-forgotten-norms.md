@@ -2,7 +2,7 @@
 layout: post
 title: "Punishment for forgotten norms"
 date: 2020-10-08 02:18:06 -0700
-tags: social_norms ethics election
+tags: socialnorms ethics election
 image:
 summary:
 ---

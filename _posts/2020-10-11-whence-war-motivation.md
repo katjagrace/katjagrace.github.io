@@ -2,7 +2,7 @@
 layout: post
 title: "War as a carefully honed coordination failure"
 date: 2020-10-11 02:43:15 -0700
-tags: war sociology game_theory
+tags: war sociology gametheory
 ---
 Today I watched some YouTube videos about the World Wars, and in particular how the first one came about. It did seem like a sequence of plausible sounding steps that led to a giant war. But there is an abstract level at which I still feel confused. Which is one where initially there are basically a very large number of humans who each very much don't want to die presumably, most of whom have very little reason to kill almost any of the others. Then somehow this all turns into everyone putting huge amounts of effort in and risking their lives to kill each other. It is as if you told me that you had a barn full of soaking wet hay, and it turned into a big bonfire.
 

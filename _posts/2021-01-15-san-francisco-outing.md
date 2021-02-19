@@ -2,7 +2,7 @@
 layout: post
 title: "San Francisco outing"
 date: 2021-01-15 03:32:00 -0700
-tags: photography san-francisco journal worldlypositions
+tags: photography sanfrancisco journal worldlypositions
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2021-01-17_at_4.37.45_PM.png
 summary: Selected beauty in San Francisco

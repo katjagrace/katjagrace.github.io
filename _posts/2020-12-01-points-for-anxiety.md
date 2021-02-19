@@ -2,7 +2,7 @@
 layout: post
 title: "Points for anxiety"
 date: 2020-12-01 03:03:25 -0700
-tags: self-improvement anxiety worldlypositions
+tags: selfimprovement anxiety worldlypositions
 comments: true
 image: /assets/pepparkakor.jpg
 summary: An anxiety reduction technique that may or may not work ultimately but is pretty nice in the short term for me.

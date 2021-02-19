@@ -2,7 +2,7 @@
 layout: post
 title: "On the fifth day of election"
 date: 2020-11-08 19:00:00 -0700
-tags: us-election mundane journal worldlypositions
+tags: uselection mundane journal worldlypositions
 comments: true
 ---
 I was woken yesterday by cheering and whooping in the streets.

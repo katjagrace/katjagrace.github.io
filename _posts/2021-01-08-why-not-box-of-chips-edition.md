@@ -2,7 +2,7 @@
 layout: post
 title: "Why not? potato chips in a box edition"
 date: 2021-01-08 12:02:15 -0700
-tags: why-not packaging
+tags: whynot packaging
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/IMG_20200121_220350.jpg
 summary: Why aren't potato chips sold in boxes?

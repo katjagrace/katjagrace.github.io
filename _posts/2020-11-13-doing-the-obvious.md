@@ -2,7 +2,7 @@
 layout: post
 title: "Overlooking the obvious"
 date: 2020-11-13 11:20:21 -0700
-tags: life-strategy
+tags: lifestrategy
 comments: true
 image:
 summary:

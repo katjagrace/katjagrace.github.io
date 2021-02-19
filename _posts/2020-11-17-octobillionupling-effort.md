@@ -2,7 +2,7 @@
 layout: post
 title: "Octobillionupling effort"
 date: 2020-11-17 01:10:21 -0700
-tags: CATEGORY-1 CATEGORY-2
+tags: sociology societalimprovement institutiondesign
 comments: true
 ---
 When basically everyone in the world faces the same problem, it is interesting if everyone does their own working out to solve it. Even if there isn't a one-size-fits-all answer, you might think it would be massively more efficient to do a good job of answering once with some free variables.

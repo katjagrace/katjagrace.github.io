@@ -2,7 +2,7 @@
 layout: post
 title: "Measuring up to incredible potential"
 date: 2020-12-28 11:41:13 -0700
-tags: psychology economics life-strategy
+tags: psychology economics lifestrategy
 comments: true
 image:
 summary:

@@ -2,7 +2,7 @@
 layout: post
 title: "The institution of email"
 date: 2020-12-12 02:25:33 -0700
-tags: social-institutions why-this
+tags: socialinstitutions whythis
 comments: true
 image: https://www.dropbox.com/s/nth1rr9r5mdg31c/mathyas-kurmann-fb7yNPbT0l8-unsplash.jpg?raw=1
 summary: Was the burden of email inevitable?

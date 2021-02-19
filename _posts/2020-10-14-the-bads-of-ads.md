@@ -2,7 +2,7 @@
 layout: post
 title: "The bads of ads"
 date: 2020-10-13 22:30:00 -0700
-tags: advertising societal-improvement meteuphoric
+tags: advertising societalimprovement meteuphoric
 image: https://hosting.photobucket.com/images/i/katjasgrace/markham_ad_paint.jpg
 summary: Six problems with advertising
 ---

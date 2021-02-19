@@ -2,7 +2,7 @@
 layout: post
 title: "Oxford: starting the day liveblog"
 date: 2020-10-19 12:27:42 -0700
-tags: oxford mental-states self-improvement worldlypositions
+tags: oxford mentalstates selfimprovement worldlypositions
 ---
 A draft post from a year ago that I didn't put up then, about a problem that I had forgotten about:
 

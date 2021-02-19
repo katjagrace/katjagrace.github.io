@@ -2,7 +2,7 @@
 layout: post
 title: "Misalignment and misuse: whose values are manifest?"
 date: 2020-11-13 01:25:04 -0700
-tags: ai-safety ai meteuphoric
+tags: aisafety ai meteuphoric
 comments: true
 image:
 summary:

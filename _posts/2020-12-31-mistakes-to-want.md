@@ -2,7 +2,7 @@
 layout: post
 title: "Mistakes to want"
 date: 2020-12-31 20:01:22 -0700
-tags: life-strategy ethics
+tags: lifestrategy ethics
 comments: true
 image:
 summary:

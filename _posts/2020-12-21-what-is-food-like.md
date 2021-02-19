@@ -2,7 +2,7 @@
 layout: post
 title: "What is food like?"
 date: 2020-12-22 04:11:37 -0700
-tags: new-things worldlypositions
+tags: newthings worldlypositions
 comments: true
 image:
 summary:

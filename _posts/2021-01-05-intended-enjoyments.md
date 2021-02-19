@@ -2,7 +2,7 @@
 layout: post
 title: "Intended enjoyment"
 date: 2021-01-05 02:10:49 -0700
-tags: life-strategy culture
+tags: lifestrategy culture
 comments: true
 image:
 summary:

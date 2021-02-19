@@ -2,7 +2,7 @@
 layout: post
 title: "Cultural accumulation"
 date: 2020-12-05 22:08:11 -0700
-tags: meteuphoric history social-dynamics
+tags: meteuphoric history socialdynamics
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/Technology_-_Imgur_(1).jpg
 summary: Does culture accumulate an ever increasing pile of ideas or an ever replaced collection of objects and instructions?

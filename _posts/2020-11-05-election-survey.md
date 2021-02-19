@@ -2,7 +2,7 @@
 layout: post
 title: "Everyone headed to win"
 date: 2020-11-05 14:00:47 -0700
-tags: us-election psychology
+tags: uselection psychology
 ---
 Last night I was especially curious about why people vote as they do, and whether they were experiencing the election similarly to me. So I set up a survey in [Positly](https://www.positly.com/) and paid a bunch of people to tell me about such things.
 

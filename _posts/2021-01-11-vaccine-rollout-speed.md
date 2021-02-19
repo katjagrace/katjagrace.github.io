@@ -2,7 +2,7 @@
 layout: post
 title: "A vastly faster vaccine rollout"
 date: 2021-01-11 21:20:00 -0700
-tags: covid technology civilizational-decline
+tags: covid technology civilizationaldecline
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/download.png
 summary: Why is New York fifty times slower at rolling out a vaccine now than it was in 1947?

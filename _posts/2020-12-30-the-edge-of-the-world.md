@@ -2,7 +2,7 @@
 layout: post
 title: "Seeing the edge of the world"
 date: 2020-12-30 19:26:41 -0700
-tags: mental-strategy imaginative-aids
+tags: mentalstrategy imaginativeaids
 comments: true
 image:
 summary:

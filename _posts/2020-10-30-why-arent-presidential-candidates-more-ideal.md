@@ -2,7 +2,7 @@
 layout: post
 title: "Why don't presidential candidates seem more ideal?"
 date: 2020-10-30 01:30:10 -0700
-tags: us-politics economics
+tags: uspolitics economics
 ---
 Without speaking to my own judgments of historical candidates, my impression is that people very often vote (in US primaries and elections at least) with an attitude of 'ugh well it can't be Alice, so I guess it has to be Bob, even though he is evil as far as I can tell' rather than, 'wow, Alice is one of the most shining examples of an excellent leader and all around good person I have ever witnessed, but I just have to vote for Bob because he is astonishingly even better, and when I see him speak it just makes me cry because I can't donate money to his campaign fast enough'.
 

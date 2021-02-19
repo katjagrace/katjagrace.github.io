@@ -2,7 +2,7 @@
 layout: post
 title: "Unexplored modes of language"
 date: 2020-12-09 10:48:56 -0700
-tags: meteuphoric social-innovation language
+tags: meteuphoric socialinnovation language
 comments: true
 image:
 summary:

@@ -2,7 +2,7 @@
 layout: post
 title: "Whence the symptoms of social media?"
 date: 2020-10-27 00:22:12 -0700
-tags: advertising societal-improvement meteuphoric
+tags: advertising societalimprovement meteuphoric
 ---
 
 A thing I liked about *The Social Dilemma* was the evocative image of oneself being in an epic contest for one's attention with a massive and sophisticated data-nourished machine, tended by teams of manipulation experts. The hopelessness of the usual strategies&mdash;like spur-of-the-moment deciding to 'try to use social media less'&mdash;in the face of such power seems clear.

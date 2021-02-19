@@ -2,7 +2,7 @@
 layout: post
 title: "Sincerity trends"
 date: 2020-11-29 23:22:52 -0700
-tags: historic-social-trends sociology
+tags: historicsocialtrends sociology
 comments: true
 image:
 summary: What do the historic trends in sincerity look like?

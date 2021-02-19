@@ -2,7 +2,7 @@
 layout: post
 title: "Migraine basket"
 date: 2020-11-12 04:24:32 -0700
-tags: self-improvement mundane
+tags: selfimprovement mundane
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/migraine_basket.jpg
 summary: I find it helpful to put physical versions of everything helpful in a difficult situation in one physical place

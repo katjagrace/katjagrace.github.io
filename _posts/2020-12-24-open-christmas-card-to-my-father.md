@@ -2,7 +2,7 @@
 layout: post
 title: "Open Christmas card to my father"
 date: 2020-12-24 10:31:25 -0700
-tags: christmas open-letter worldlypositions journal
+tags: christmas openletter worldlypositions journal
 comments: true
 image:
 summary:

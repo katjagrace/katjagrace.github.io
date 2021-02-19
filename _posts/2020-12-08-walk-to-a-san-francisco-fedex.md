@@ -2,7 +2,7 @@
 layout: post
 title: "Walk to a San Francisco FedEx"
 date: 2020-12-09 10:30:00 -0700
-tags: worldlypositions san-francisco journal mundane
+tags: worldlypositions sanfrancisco journal mundane
 comments: true
 image:
 summary:

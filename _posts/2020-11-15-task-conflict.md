@@ -2,7 +2,7 @@
 layout: post
 title: "Schedules versus momentum"
 date: 2020-11-15 15:42:13 -0700
-tags: life-strategy
+tags: lifestrategy
 comments: true
 ---
 A mundane issue that arises endlessly in my life, but which I haven't heard that much advice on: what to do when your schedule says you should do one thing, but you have momentum on a different thing? Or more broadly, what to do when scheduling and energy for a task conflict?<!--ex-->

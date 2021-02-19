@@ -2,7 +2,7 @@
 layout: post
 title: "Condition-directedness"
 date: 2021-01-08 02:21:42 -0700
-tags: meteuphoric life-strategy mental-strategy
+tags: meteuphoric lifestrategy mentalstrategy
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/elia-pellegrini-NfqDQa6953Q-unsplash.jpg
 summary: A strategic lack of long term goals

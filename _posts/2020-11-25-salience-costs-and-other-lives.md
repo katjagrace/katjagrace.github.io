@@ -2,7 +2,7 @@
 layout: post
 title: "Salience costs and other lives"
 date: 2020-11-25 00:29:12 -0700
-tags: psychology interpersonal-dynamics
+tags: psychology interpersonaldynamics
 comments: true
 image: /assets/cars.jpg
 summary: A bias in accurately appreciating other people's problems

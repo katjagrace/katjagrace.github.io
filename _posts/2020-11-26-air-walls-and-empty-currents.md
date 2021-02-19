@@ -2,7 +2,7 @@
 layout: post
 title: "Air walls and empty currents"
 date: 2020-11-26 01:32:33 -0700
-tags: psychology other-minds
+tags: psychology otherminds
 comments: true
 image: /assets/current.jpg
 summary: you have been carefully navigating around a landscape of walls, or inching forward against an overwhelming current. Intently battling hard obstacles. Then you tentatively try walking right into a wall, and realize that they are all actually just air...

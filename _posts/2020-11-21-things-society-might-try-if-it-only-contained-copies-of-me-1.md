@@ -2,7 +2,7 @@
 layout: post
 title: "10 things society might try having if it only contained variants of me"
 date: 2020-11-21 02:43:26 -0700
-tags: advice katja-society
+tags: advice katjasociety
 comments: true
 image: /assets/sleeppod.jpg
 summary:
