@@ -7,7 +7,7 @@ comments: true
 image:
 summary:
 ---
-I lately listened to Julia Galef and Jonathan Haidt [discuss](http://rationallyspeakingpodcast.org/show/episode-252-understanding-moral-disagreements-jonathan-haidt.html) Haidt's theorized palate of 'moral foundations'&mdash;basic flavors of moral motivation&mdash;and how Julia should understand the ones that she doesn't naturally feel.
+I lately enjoyed listening to Julia Galef and Jonathan Haidt [discuss](http://rationallyspeakingpodcast.org/show/episode-252-understanding-moral-disagreements-jonathan-haidt.html) Haidt's theorized palate of 'moral foundations'&mdash;basic flavors of moral motivation&mdash;and how Julia should understand the ones that she doesn't naturally feel.
 
 I was interested in Julia's question of whether she was just using different words to those who for instance would say that incest or consensual cannibalism are 'morally wrong'.
 
