@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Remarks on morality, shuddering, judging, friendship and the law"
-date: 2021-01-xx 10:30:00 -0700
-tags: CATEGORY-1 CATEGORY-2
+date: 2021-02-21 12:02:00 -0700
+tags: ethics response
 comments: true
 image:
 summary:
