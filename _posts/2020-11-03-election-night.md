@@ -2,7 +2,7 @@
 layout: post
 title: "Election night"
 date: 2020-11-03 22:08:45 -0700
-tags: us-election mundane journal
+tags: uselection mundane journal
 ---
 Earlier in the evening, I reasoned that I should not 'watch' the election, since I will learn the result in the end and experiencing the uncertainty in the meantime doesn't seem productive at all, let alone competitive with other things I could do.
 
