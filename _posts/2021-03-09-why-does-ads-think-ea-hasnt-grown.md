@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why does Applied Divinity Studies think EA hasn't grown since 2015?"
-date: 2021-02-09 01:32:00 -0700
+date: 2021-03-09 01:32:00 -0700
 tags: effective-altruism critique
 comments: true
 image:
