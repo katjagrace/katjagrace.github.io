@@ -32,6 +32,11 @@ excerpt_separator: <!--ex-->
 # Build settings
 theme: minima
 markdown: kramdown
+
+# configure kramdown
+kramdown:
+  parse_block_html: true
+  
 plugins:
   - jekyll-feed
 

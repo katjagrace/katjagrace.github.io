@@ -4,10 +4,65 @@
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
  <link>http://localhost:4000</link>
- <lastBuildDate>Tue, 26 Jan 2021 22:12:51 -0800</lastBuildDate>
- <pubDate>Tue, 26 Jan 2021 22:12:51 -0800</pubDate>
+ <lastBuildDate>Fri, 26 Mar 2021 21:28:37 -0700</lastBuildDate>
+ <pubDate>Fri, 26 Mar 2021 21:28:37 -0700</pubDate>
  <ttl>1800</ttl>
 
+ 
+ <item>
+  <title>The ecology of conviction</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p>Supposing that <a href="https://worldspiritsockpuppet.com/2020/11/30/sincerity-trends.html">sincerity has declined</a>, why?</p>
+
+<p>It feels natural to me that sincere enthusiasms should be rare relative to criticism and half-heartedness. But I would have thought this was born of fairly basic features of the situation, and so wouldn’t change over time.</p>
+
+<p>It seems clearly easier and less socially risky to be critical of things, or non-committal, than to stand for a positive vision. It is easier to produce a valid criticism than an idea immune to valid criticism (and easier again to say, ‘this is very simplistic - the situation is subtle’). And if an idea is criticized, the critic gets to seem sophisticated, while the holder of the idea gets to seem naïve. A criticism is smaller than a positive vision, so a critic is usually not staking their reputation on their criticism as much, or claiming that it is good, in the way that the enthusiast is.<!--ex--></p>
+
+<p>But there are also rewards for positive visions and for sincere enthusiasm that aren’t had by critics and routine doubters. So for things to change over time, you really just need the scale of these incentives to change, whether in a basic way or because the situation is changing.</p>
+
+<p>One way this could have happened is that the internet (or even earlier change in the information economy) somehow changed the ecology of enthusiasts and doubters, pushing the incentives away from enthusiasm. e.g. The ease, convenience and anonymity of criticizing and doubting on the internet puts a given positive vision in contact with many more critics, making it basically impossible for an idea to emerge not substantially marred by doubt and teeming with uncertainties and summarizable as ‘maybe X, but I don’t know, it’s complicated’. This makes presenting positive visions less appealing, reducing the population of positive vision havers, and making them either less confident or more the kinds of people whose confidence isn’t affected by the volume of doubt other people might have about what they are saying. Which all make them even easier targets for criticism, and make confident enthusiasm for an idea increasingly correlated with being some kind of arrogant fool. Which decreases the basic respect offered by society for someone seeming to have a positive vision.</p>
+
+<p>This is a very speculative story, but something like these kinds of dynamics seems plausible.</p>
+
+<p>These thoughts were inspired by a conversation I had with Nick Beckstead.</p>
+
+  </description>
+  <link>/2021/02/13/ecology-of-conviction.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/13/ecology-of-conviction.html</guid>
+  <pubDate>Sat, 13 Feb 2021 09:30:00 -0800</pubDate>
+ </item>
+ 
+ <item>
+  <title>In balance and flux</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p>Someone more familiar with ecology recently noted to me that it used to be a popular view that nature was ‘in balance’ and had some equilibrium state, that it should be returned to. Whereas the new understanding is that there was never an equilibrium state. Natural systems are always changing. Another friend who works in natural management also recently told me that their role in the past might have been trying to restore things to their ‘natural state’, but now the goal was to prepare yourself for what your ecology was becoming. A brief Googling returns this National Geographic article by Tik Root, <a href="https://www.nationalgeographic.com/environment/global-warming/balance-of-nature-explained/"><em>The ‘balance of nature’ is an enduring concept. But it’s wrong.</em></a> along the same lines. In fairness, they seem to be arguing against both the idea that nature is in a balance so intense that you can easily disrupt it, and the idea that nature is in a balance so sturdy that it will correct anything you do to it, which sounds plausible. But they don’t say that ecosystems are probably in some kind of intermediately sturdy balance, in many dimensions at least. They say that nature is ‘in flux’ and that the notion of balance is a misconception.</p>
+
+<p>It seems to me though that there is very often equilibrium in some dimensions, even in a system that is in motion in other dimensions, and that that balance can be very important to maintain.</p>
+
+<p>Some examples:</p>
+<ul>
+  <li>bicycle</li>
+  <li>society with citizens with a variety of demeanors, undergoing broad social change</li>
+  <li>human growing older, moving to Germany, and getting pregnant, while maintaining a narrow range of temperatures and blood concentrations of different chemicals<!--ex--></li>
+</ul>
+
+<p>So the observation that a system is in flux seems fairly irrelevant to whether it is in equilibrium.</p>
+
+<p>Any system designed to go somewhere relies on some of its parameters remaining within narrow windows. Nature isn’t designed to go somewhere, so the issue of what ‘should’ happen with it is non-obvious. But the fact that ecosystems always gradually change along some dimensions (e.g. grassland becoming forest) doesn’t seem to imply that there are not still balance in other dimensions, where they don’t change so much, and where changing is more liable to lead to very different and arguably less good states.</p>
+
+<p>For instance, as a grassland gradually reforests, it might continue to have a large number of plant eating bugs, and bug-eating birds, such that the plant eating bugs would destroy the plants entirely if there were ever too many of them, but as there become more of them, the birds also flourish, and then eat them. As the forest grows, the tree-eating bugs become more common relative to the grass-eating bugs, but the rough equilibrium of plants, bugs, and birds remains. If the modern world was disrupting the reproduction of the birds, so that they were diminishing even while the bugs to eat were plentiful, threatening a bug-explosion-collapse in which the trees and grass would be destroyed by the brief insect plague, I think it would be reasonable to say that the modern world was disrupting the equilibrium, or putting nature out of balance.</p>
+
+<p>The fact that your bike has been moving forward for miles doesn’t mean that leaning a foot to the left suddenly is meaningless, in systems terms.</p>
+
+  </description>
+  <link>/2021/02/11/nature-balance.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/11/nature-balance.html</guid>
+  <pubDate>Thu, 11 Feb 2021 06:27:00 -0800</pubDate>
+ </item>
  
  <item>
   <title>What is going on in the world?</title>
