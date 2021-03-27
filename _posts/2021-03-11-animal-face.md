@@ -40,6 +40,7 @@ Do the facial expressions of animals mean anything like what I'm inclined to tak
 <a href="https://app.photobucket.com/u/katjasgrace/p/2442a0d7-0a52-447f-9dbc-6b5c91d6de68" target="_blank"><img src="https://hosting.photobucket.com/images/i/katjasgrace/sand-crain-8jk64drEMcw-unsplash.jpg?width=1920&height=1080&fit=bounds" width="500" class="center" alt="sand-crain-8jk64drEMcw-unsplash"/></a>
 
 On the one hand, we can't have been the first creatures to have the innovation of facial expressions. And the same kind of animal is often seen to have different facial expressions, which has got to happen for a reason. But on the other hand, the whole race of dolphins just looks vaguely elated, and surely that can't track the collective personality of the species.
+<!--ex-->
 
 <a href="https://app.photobucket.com/u/katjasgrace/p/a197818e-6e8f-42a2-a898-40567c77fa15" target="_blank"><img src="https://hosting.photobucket.com/images/i/katjasgrace/louan-garcia-Xsq5ie5f498-unsplash.jpg?width=1920&height=1080&fit=bounds" width="500" class="center" alt="louan-garcia-Xsq5ie5f498-unsplash"/></a>
 

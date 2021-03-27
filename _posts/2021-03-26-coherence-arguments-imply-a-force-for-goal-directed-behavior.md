@@ -7,7 +7,6 @@ comments: true
 image:
 summary:
 ---
-<!--ex-->
 
 <em><em>Crossposted from <a href="https://aiimpacts.org/">AI Impacts</a></em></em>
 
@@ -37,7 +36,7 @@ I’d reconstruct the original argument that Rohin is arguing against as somethi
 
 
 And since the point of all this is to argue that advanced AI might be hard to deal with, note that we can get to that conclusion with:
-
+<!--ex-->
 
 <!-- wp:list {"ordered":true,"start":5} -->
 <ol start="5"><li><strong>‘Highly intelligent goal-directed agents are dangerous’</strong><strong><br></strong>If AI systems exist that very competently pursue goals, they will likely be better than us at attaining their goals, and therefore to the extent there is a risk of mismatch between their goals and ours, we face a serious risk.</li></ol>
