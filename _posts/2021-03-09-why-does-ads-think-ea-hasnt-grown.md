@@ -7,7 +7,7 @@ comments: true
 image:
 summary:
 ---
-[Applied Divinity Studies](https://applieddivinitystudies.com/) seeks to explain why the EA community hasn't grown since 2015. The observations they initially call the EA community not having grown are:
+[Applied Divinity Studies](https://applieddivinitystudies.com/ea-growth/) seeks to explain why the EA community hasn't grown since 2015. The observations they initially call the EA community not having grown are:
 1. GiveWell money moved increased a lot in 2015, then grew only slightly since then.
 2. Open Phil (I guess money allocated) hasn't increased since 2017
 3. Google Trends "Effective Altruism" 'grows quickly starting in 2013, peaks in 2017, then falls back down to around 2015 levels'.
