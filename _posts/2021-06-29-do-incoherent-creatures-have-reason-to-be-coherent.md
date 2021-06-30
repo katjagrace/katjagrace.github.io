@@ -41,34 +41,22 @@ My understanding is that various ‘coherence’ arguments exist of the form:
 
 For example, from [Arbital](https://arbital.com/p/expected_utility_formalism/?l=7hh):
 
+>Well, but suppose I declare to you that I simultaneously:
+  *   Prefer onions to pineapple on my pizza.
+  *   Prefer pineapple to mushrooms on my pizza.
+  *   Prefer mushrooms to onions on my pizza.  
 
-    Well, but suppose I declare to you that I simultaneously:
+ ...
 
-
-
-    *   Prefer onions to pineapple on my pizza.
-    *   Prefer pineapple to mushrooms on my pizza.
-    *   Prefer mushrooms to onions on my pizza.
-
-    ...
-
-
-    Suppose I tell you that I prefer pineapple to mushrooms on my pizza. Suppose you're about to give me a slice of mushroom pizza; but by paying one penny ($0.01) I can instead get a slice of pineapple pizza (which is just as fresh from the oven). It seems realistic to say that most people with a pineapple pizza preference would probably pay the penny, if they happened to have a penny in their pocket.[1]
-
-
-    After I pay the penny, though, and just before I'm about to get the pineapple pizza, you offer me a slice of onion pizza instead--no charge for the change! If I was telling the truth about preferring onion pizza to pineapple, I should certainly accept the substitution if it's free.
-
-
-    And then to round out the day, you offer me a mushroom pizza instead of the onion pizza, and again, since I prefer mushrooms to onions, I accept the swap.
-
-
-    I end up with exactly the same slice of mushroom pizza I started with... and one penny poorer, because I previously paid $0.01 to swap mushrooms for pineapple.
-
-
-    This seems like a qualitatively bad behavior on my part. By virtue of my incoherent preferences which cannot be given a consistent ordering, I have shot myself in the foot, done something self-defeating. We haven't said how I ought to sort out my inconsistent preferences. But no matter how it shakes out, it seems like there must be some better alternative--some better way I could reason that wouldn't spend a penny to go in circles. That is, I could at least have kept my original pizza slice and not spent the penny.
-
-
-    In a phrase you're going to keep hearing, I have executed a 'dominated strategy': there exists some other strategy that does strictly better.
+>Suppose I tell you that I prefer pineapple to mushrooms on my pizza. Suppose you're about to give me a slice of mushroom pizza; but by paying one penny ($0.01) I can instead get a slice of pineapple pizza (which is just as fresh from the oven). It seems realistic to say that most people with a pineapple pizza preference would probably pay the penny, if they happened to have a penny in their pocket.[1]  
+<br>
+After I pay the penny, though, and just before I'm about to get the pineapple pizza, you offer me a slice of onion pizza instead--no charge for the change! If I was telling the truth about preferring onion pizza to pineapple, I should certainly accept the substitution if it's free.  
+<br>
+And then to round out the day, you offer me a mushroom pizza instead of the onion pizza, and again, since I prefer mushrooms to onions, I accept the swap.  
+<br>I end up with exactly the same slice of mushroom pizza I started with... and one penny poorer, because I previously paid $0.01 to swap mushrooms for pineapple.  
+<br>
+This seems like a qualitatively bad behavior on my part. By virtue of my incoherent preferences which cannot be given a consistent ordering, I have shot myself in the foot, done something self-defeating. We haven't said how I ought to sort out my inconsistent preferences. But no matter how it shakes out, it seems like there must be some better alternative--some better way I could reason that wouldn't spend a penny to go in circles. That is, I could at least have kept my original pizza slice and not spent the penny.  
+<br>In a phrase you're going to keep hearing, I have executed a 'dominated strategy': there exists some other strategy that does strictly better.
 
 
 On the face of it, this seems wrong to me.<!--ex--> Losing money for no reason is bad if you have a coherent utility function. But from the perspective of the creature actually in this situation, losing money isn’t obviously bad, or reason to change. (In a sense, the only reason you are losing money is that you consider it to be good to do so.)
@@ -107,3 +95,5 @@ And from that position of being able to evaluate anything any amount, can you sa
 In fact slightly incoherent people don’t seem to think that they are indifferent between everything (and slightly inconsistent people don’t think they believe everything). And my impression is that people do become more coherent with time, rather than less, or a mixture at random.
 
 If you wanted to apply this to alien AI minds though, it would seem nice to have a version of the arguments that go through, even if just via a clear account of the pragmatic considerations that compel human behavior in one direction. Does someone have an account of this? Do I misunderstand these arguments? (I haven’t actually read them for the most part, so it wouldn’t be shocking.)
+
+<test>
