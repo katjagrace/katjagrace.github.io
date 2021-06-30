@@ -95,5 +95,3 @@ And from that position of being able to evaluate anything any amount, can you sa
 In fact slightly incoherent people don’t seem to think that they are indifferent between everything (and slightly inconsistent people don’t think they believe everything). And my impression is that people do become more coherent with time, rather than less, or a mixture at random.
 
 If you wanted to apply this to alien AI minds though, it would seem nice to have a version of the arguments that go through, even if just via a clear account of the pragmatic considerations that compel human behavior in one direction. Does someone have an account of this? Do I misunderstand these arguments? (I haven’t actually read them for the most part, so it wouldn’t be shocking.)
-
-<test>
