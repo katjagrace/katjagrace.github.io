@@ -62,7 +62,7 @@ If these were not lines, but higher-dimensional planes with lots of outcomes oth
 
 (I don’t know if all incoherent creatures value _everything_ the same amount - it seems like it should maybe be possible to just have a restricted region of incoherence in some cases, but I haven’t thought this through.)
 
-This seems related to having inconsistent beliefs in logic. When once you believe a contradiction, everything follows. When once you evaluate inhorecently, every evaluation follows.
+This seems related to having inconsistent beliefs in logic. When once you believe a contradiction, everything follows. When once you evaluate incoherently, every evaluation follows.
 
 And from that position of being able to evaluate anything any amount, can you say that it is better to reform your preferences to be more coherent? Yes. But you can also say that it is better to reform them to make them less coherent. Does coherence for some reason win out?
 
