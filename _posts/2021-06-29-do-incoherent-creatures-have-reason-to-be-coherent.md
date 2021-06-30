@@ -8,33 +8,7 @@ image: https://hosting.photobucket.com/images/i/katjasgrace/Indifference_apple_i
 summary: It doesn't seem like it, on logical grounds
 ---
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.234 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Tue Jun 29 2021 22:19:01 GMT-0700 (PDT)
-* Source doc: Do coherence arguments work?
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-
-My understanding is that various ‘coherence’ arguments exist of the form:
-
-
+My understanding is that various ‘coherence arguments' exist, of the form:
 
 1. If your preferences diverged from being representable by a utility function in some way, then you would do strictly worse in some way than by having some kind of preferences that were representable by a utility function. For instance, you will lose money, for nothing.
 2. You have good reason not to do that / don’t do that / you should predict that reasonable creatures will stop doing that if they notice that they are doing it.
