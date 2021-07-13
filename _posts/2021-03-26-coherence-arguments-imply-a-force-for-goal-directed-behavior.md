@@ -260,7 +260,7 @@ Together, this does not imply that advanced AI will tend to be goal-directed<sub
 <br>
 <br>
 
-<figure class="wp-block-image size-large is-resized"><a href="http://aiimpacts.org/wp-content/uploads/2021/03/Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880-scaled.jpeg"><img src="http://aiimpacts.org/wp-content/uploads/2021/03/Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880-1024x804.jpeg" alt="" class="wp-image-2877" width="768" height="603"/></a><figcaption><em>Two dogs attached to the same leash are pulling in different directions</em>. <a href="https://commons.wikimedia.org/wiki/File:Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880.jpg">Etching by J. Fyt</a>, <a href="https://catalogue.wellcomelibrary.org/record=b1199389">1642</a></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><a href="http://aiimpacts.org/wp-content/uploads/2021/03/Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880-scaled.jpeg"><img src="http://aiimpacts.org/wp-content/uploads/2021/03/Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880-1024x804.jpeg" alt="" class="wp-image-2877" width="768" height="603"/></a><em>Two dogs attached to the same leash are pulling in different directions</em>. <a href="https://commons.wikimedia.org/wiki/File:Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880.jpg">Etching by J. Fyt</a>, <a href="https://catalogue.wellcomelibrary.org/record=b1199389">1642</a></figure>
 
 
 <br>
