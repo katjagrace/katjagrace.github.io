@@ -2,7 +2,7 @@
 layout: post
 title: Typology of blog posts that don't always add anything clear and insightful
 date: 2021-07-12 18:28:00 -0700
-tags: writing typology
+tags: writing typology effectivealtruism
 comments: true
 image: https://katjagrace.files.wordpress.com/2021/07/katja-2-e1626132069362.png
 summary: In categorization and defense of some modes of creations that I haven't always appreciated
