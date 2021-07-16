@@ -2,7 +2,7 @@
 layout: post
 title: "Lafayette: traffic vessels"
 date: 2021-07-14 17:56:00 -0700
-tags: worldlypositions lafayette
+tags: worldlypositions lafayette travel
 comments: true
 image:
 summary:
