@@ -7,7 +7,7 @@ comments: true
 image: https://katjagrace.files.wordpress.com/2021/07/katja-2-e1626132069362.png
 summary: In categorization and defense of some modes of creations that I haven't always appreciated
 ---
-I used to think a good blog post should basically be a description of a novel insight.
+I used to think a good blog post should basically be a description of a novel insight.<!--ex-->
 
 To break it down more, on this view:
 
@@ -21,7 +21,7 @@ To break it down more, on this view:
 
 I probably would have agreed that the odd vignette was also a good blog post, but ideally it should be contained in some explicit discussion of what was to be learned from it. I probably wouldn’t have held my more recent [Worldly Positions](https://worldspiritsockpuppet.com/worldlypositions.html) blog[^1] in high esteem.
 
-I now think that departures from all of these things are often good. So in the spirit of novel descriptions of explicit and general claims, I have made a typology of different combinations of these axes. <!--ex-->
+I now think that departures from all of these things are often good. So in the spirit of novel descriptions of explicit and general claims, I have made a typology of different combinations of these axes.
 
 Before getting to it, I’ll explain some part of the value of each category that I think I overlooked, for anyone similar to my twenty year old self.
 
