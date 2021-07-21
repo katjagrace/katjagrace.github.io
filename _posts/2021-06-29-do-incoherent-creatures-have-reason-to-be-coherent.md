@@ -11,7 +11,7 @@ summary: It doesn't seem like it, on logical grounds
 My understanding is that various ‘coherence arguments' exist, of the form:
 
 1. If your preferences diverged from being representable by a utility function in some way, then you would do strictly worse in some way than by having some kind of preferences that were representable by a utility function. For instance, you will lose money, for nothing.
-2. You have good reason not to do that / don’t do that / you should predict that reasonable creatures will stop doing that if they notice that they are doing it.
+2. You have good reason not to do that / don’t do that / you should predict that reasonable creatures will stop doing that if they notice that they are doing it.<!--ex-->
 
 For example, from [Arbital](https://arbital.com/p/expected_utility_formalism/?l=7hh):
 
@@ -33,7 +33,7 @@ This seems like a qualitatively bad behavior on my part. By virtue of my incoher
 <br>In a phrase you're going to keep hearing, I have executed a 'dominated strategy': there exists some other strategy that does strictly better.
 
 
-On the face of it, this seems wrong to me.<!--ex--> Losing money for no reason is bad if you have a coherent utility function. But from the perspective of the creature actually in this situation, losing money isn’t obviously bad, or reason to change. (In a sense, the only reason you are losing money is that you consider it to be good to do so.)
+On the face of it, this seems wrong to me. Losing money for no reason is bad if you have a coherent utility function. But from the perspective of the creature actually in this situation, losing money isn’t obviously bad, or reason to change. (In a sense, the only reason you are losing money is that you consider it to be good to do so.)
 
 It’s true that losing money is equivalent to losing pizza that you like. But losing money is also equivalent to a series of pizza improvements that you like (as just shown), so why do you want to reform based on one, while ignoring the other?
 
