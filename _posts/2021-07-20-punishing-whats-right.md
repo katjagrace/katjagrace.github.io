@@ -4,7 +4,7 @@ title: "Punishing the good"
 date: 2021-07-20 16:18:00 -0700
 tags: meteuphoric practicalethics philosophy
 comments: true
-image:
+image: https://hosting.photobucket.com/images/i/katjasgrace/roman-kraft-RtDwtRDvYQg-unsplash.jpg
 summary:
 ---
 Should you punish people for wronging others, or for making the wrong call about wronging others?<!--ex-->
