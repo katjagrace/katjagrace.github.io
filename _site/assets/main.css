@@ -194,3 +194,9 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+
+h1 { font-size: 32px; }
+
+h2 { font-size: 28px !important; }
+
+h4 { font-weight: 500; }
