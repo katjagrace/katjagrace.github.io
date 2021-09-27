@@ -4,7 +4,7 @@ title: "Beyond fire alarms: freeing the groupstruck"
 date: 2021-09-26 01:20:00 -0700
 tags: AI argument sociology
 comments: true
-image:
+image: /assets/thisisfinedogs.png
 summary: Fire alarms are the wrong way to think about the public AGI conversation.
 ---
 Crossposted from [AI Impacts](https://aiimpacts.org/beyond-fire-alarms-freeing-the-groupstruck/)
@@ -365,7 +365,7 @@ So upon noting that there will be no fire alarm for AGI, if your best guess prev
 
 I think it’s interesting to notice how much fire alarms are about social infrastructure. Reading Eliezer’s post, I got the impression of the kind of ‘fire alarm’ that was missing as a clear and incontrovertible feature of the environment. For instance, an AI development that would leave everyone clear that there was danger, while still being early enough to respond. But the authority and pain infliction mechanisms are just about someone having created a trigger-action plan for you, and aggressive incentives for you to follow it, ahead of time. Even the common knowledge mechanisms work through humans having previously created the concept of a ‘fire alarm’ and everyone somehow knowing that it means you go outside. If fire alarms were instead a kind of organic object that we had discovered, with the kind of sensitivity to real fires that fire alarms have, I don’t even think that we’d run outside so fast. (I’m not actually even sure we would think of them as responding to fire—or like, maybe it would be rumored or known to fire alarm aficionados?)
 
-Developments are basically always worrying for some people and not for others - so it seems hard for anything like common knowledge to come from a particular development. If you want something like universal common knowledge that such-and-such is non-embarrassing now to think, you are more likely to get it with a change in the social situation. E.g. “Steven Hawkings now says AI is a problem” is arguably more like a fire alarm in this regard than AlphaGo—it is socially constructed, and involves someone else taking responsibility for the judgment of danger.
+Developments are basically always worrying for some people and not for others - so it seems hard for anything like common knowledge to come from a particular development. If you want something like universal common knowledge that such-and-such is non-embarrassing now to think, you are more likely to get it with a change in the social situation. E.g. “Steven Hawking now says AI is a problem” is arguably more like a fire alarm in this regard than AlphaGo—it is socially constructed, and involves someone else taking responsibility for the judgment of danger.
 
 Even the components of fire alarm efficacy that are about conveying evidence of fire—to a person who hadn’t seen smoke, or understood it, or who was elsewhere, or asleep—are not naturally occurring. We built a system to respond to a particular subtle amount of smoke with a blaring alarm. The fact that there isn’t something like that for AI is appears to be because we haven’t built one. (New EA project proposal? Set up alarm system so that when we get to GPT-7 piercing alarms blare from all buildings until it’s out and responsible authorities have checked that the situation is safe.)
 
