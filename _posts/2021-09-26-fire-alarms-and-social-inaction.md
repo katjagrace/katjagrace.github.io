@@ -4,7 +4,7 @@ title: "Beyond fire alarms: freeing the groupstruck"
 date: 2021-09-26 01:20:00 -0700
 tags: AI argument sociology
 comments: true
-image: /assets/thisisfinedogs.png
+image: https://worldspiritsockpuppet.com/assets/thisisfinedogs.png
 summary: Fire alarms are the wrong way to think about the public AGI conversation.
 ---
 Crossposted from [AI Impacts](https://aiimpacts.org/beyond-fire-alarms-freeing-the-groupstruck/)
