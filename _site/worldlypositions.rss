@@ -3,9 +3,9 @@
 <channel>
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
- <link>http://0.0.0.0:4000</link>
- <lastBuildDate>Sun, 26 Sep 2021 21:40:50 -0700</lastBuildDate>
- <pubDate>Sun, 26 Sep 2021 21:40:50 -0700</pubDate>
+ <link>http://localhost:4000</link>
+ <lastBuildDate>Sun, 19 Dec 2021 17:37:12 -0800</lastBuildDate>
+ <pubDate>Sun, 19 Dec 2021 17:37:12 -0800</pubDate>
  <ttl>1800</ttl>
 
  
@@ -40,7 +40,7 @@
 
   </description>
   <link>/2021/07/15/lafayette-norms.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/07/15/lafayette-norms.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/07/15/lafayette-norms.html</guid>
   <pubDate>Thu, 15 Jul 2021 10:30:00 -0700</pubDate>
  </item>
  
@@ -61,7 +61,7 @@
 
   </description>
   <link>/2021/07/14/traffic-vessels.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/07/14/traffic-vessels.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/07/14/traffic-vessels.html</guid>
   <pubDate>Wed, 14 Jul 2021 17:56:00 -0700</pubDate>
  </item>
  
@@ -84,7 +84,7 @@
 
   </description>
   <link>/2021/06/06/holidaying-and-purpose.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/06/06/holidaying-and-purpose.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/06/06/holidaying-and-purpose.html</guid>
   <pubDate>Sun, 06 Jun 2021 12:17:00 -0700</pubDate>
  </item>
  
@@ -101,7 +101,7 @@
 
   </description>
   <link>/2021/03/09/the-variety-never-went-away.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/03/09/the-variety-never-went-away.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/03/09/the-variety-never-went-away.html</guid>
   <pubDate>Tue, 09 Mar 2021 23:34:00 -0800</pubDate>
  </item>
  
@@ -120,7 +120,7 @@
 
   </description>
   <link>/2021/02/17/wearable-abaci.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/02/17/wearable-abaci.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/17/wearable-abaci.html</guid>
   <pubDate>Wed, 17 Feb 2021 22:12:00 -0800</pubDate>
  </item>
  
@@ -170,7 +170,7 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/02/14/what-didnt-happen.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/02/14/what-didnt-happen.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/14/what-didnt-happen.html</guid>
   <pubDate>Sun, 14 Feb 2021 19:30:00 -0800</pubDate>
  </item>
  
@@ -197,7 +197,7 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/02/09/a-nice-day.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/02/09/a-nice-day.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/09/a-nice-day.html</guid>
   <pubDate>Tue, 09 Feb 2021 09:54:00 -0800</pubDate>
  </item>
  
@@ -241,7 +241,7 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/01/24/lil-pots.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/01/24/lil-pots.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/24/lil-pots.html</guid>
   <pubDate>Sun, 24 Jan 2021 03:30:00 -0800</pubDate>
  </item>
  
@@ -282,7 +282,7 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/01/15/san-francisco-outing.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/01/15/san-francisco-outing.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/15/san-francisco-outing.html</guid>
   <pubDate>Fri, 15 Jan 2021 02:32:00 -0800</pubDate>
  </item>
  
@@ -355,7 +355,7 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/12/haikus.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/01/12/haikus.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/12/haikus.html</guid>
   <pubDate>Tue, 12 Jan 2021 23:00:34 -0800</pubDate>
  </item>
  
@@ -370,7 +370,7 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/11/poker.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/01/11/poker.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/11/poker.html</guid>
   <pubDate>Mon, 11 Jan 2021 03:49:42 -0800</pubDate>
  </item>
  
@@ -397,7 +397,7 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/07/evening-drawing.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/01/07/evening-drawing.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/07/evening-drawing.html</guid>
   <pubDate>Thu, 07 Jan 2021 01:37:14 -0800</pubDate>
  </item>
  
@@ -429,7 +429,7 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/02/on-writing-like-a-butterfly.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2021/01/02/on-writing-like-a-butterfly.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/02/on-writing-like-a-butterfly.html</guid>
   <pubDate>Sat, 02 Jan 2021 11:06:55 -0800</pubDate>
  </item>
  
@@ -496,7 +496,7 @@ oxo</p>
 
   </description>
   <link>/2020/12/27/open-christmas-card-to-my-stepfather.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/27/open-christmas-card-to-my-stepfather.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/27/open-christmas-card-to-my-stepfather.html</guid>
   <pubDate>Sun, 27 Dec 2020 09:30:00 -0800</pubDate>
  </item>
  
@@ -567,7 +567,7 @@ Katja</p>
 
   </description>
   <link>/2020/12/26/christmas-linkpost-brothers.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/26/christmas-linkpost-brothers.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/26/christmas-linkpost-brothers.html</guid>
   <pubDate>Sat, 26 Dec 2020 02:55:41 -0800</pubDate>
  </item>
  
@@ -631,7 +631,7 @@ Katja</p>
 
   </description>
   <link>/2020/12/24/open-christmas-card-to-my-father.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/24/open-christmas-card-to-my-father.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/24/open-christmas-card-to-my-father.html</guid>
   <pubDate>Thu, 24 Dec 2020 09:31:25 -0800</pubDate>
  </item>
  
@@ -709,7 +709,7 @@ xox</p>
 
   </description>
   <link>/2020/12/23/open-christmas-present.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/23/open-christmas-present.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/23/open-christmas-present.html</guid>
   <pubDate>Wed, 23 Dec 2020 09:33:17 -0800</pubDate>
  </item>
  
@@ -744,7 +744,7 @@ xox</p>
 
   </description>
   <link>/2020/12/22/what-is-food-like.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/22/what-is-food-like.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/22/what-is-food-like.html</guid>
   <pubDate>Tue, 22 Dec 2020 03:11:37 -0800</pubDate>
  </item>
  
@@ -755,7 +755,7 @@ xox</p>
 
   </description>
   <link>/2020/12/18/thesauring.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/18/thesauring.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/18/thesauring.html</guid>
   <pubDate>Fri, 18 Dec 2020 23:10:27 -0800</pubDate>
  </item>
  
@@ -770,7 +770,7 @@ xox</p>
 
   </description>
   <link>/2020/12/17/genetic-magic.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/17/genetic-magic.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/17/genetic-magic.html</guid>
   <pubDate>Thu, 17 Dec 2020 20:13:12 -0800</pubDate>
  </item>
  
@@ -803,7 +803,7 @@ xox</p>
 
   </description>
   <link>/2020/12/16/some-things-im-looking-forward-to-in-2021.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/16/some-things-im-looking-forward-to-in-2021.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/16/some-things-im-looking-forward-to-in-2021.html</guid>
   <pubDate>Wed, 16 Dec 2020 23:12:08 -0800</pubDate>
  </item>
  
@@ -838,7 +838,7 @@ xox</p>
 
   </description>
   <link>/2020/12/15/art.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/15/art.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/15/art.html</guid>
   <pubDate>Tue, 15 Dec 2020 00:15:00 -0800</pubDate>
  </item>
  
@@ -849,32 +849,33 @@ xox</p>
 
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">If you listened to my podcast w/Michael Sandel, you know we have very different views on whether markets are "degrading"<br /><br />One thing I didn't mention to him: This bit in his book cracked me up – because I remember my friends &amp; I found this aspect of Moneyball SO HEARTWARMING &lt;3 <a href="https://t.co/9W6Op30vF8">pic.twitter.com/9W6Op30vF8</a></p>
-  <p>— Julia Galef (@juliagalef) <a href="https://twitter.com/juliagalef/status/1337097616639864832?ref_src=twsrc%5Etfw">December 10, 2020</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
-  <p>I haven’t actually seen Moneyball, but it does sound heartwarming, and I have had to hide my tears when someone described a payment app their company was working, so I’m probably in Julia’s category here.<!--ex--></p>
-
-  <p>If I didn’t feel this way though, reading this I might imagine it as some alien nerdly aberration, and not a way that I could feel from the inside, or that would seem the ‘right’ way to feel unless I became brain-damaged. Which I think is all wrong—such feelings seem to me to be a warm and human response to appreciating the situation in certain ways. So I want to try to describe what seems to be going on in my mind when my heart is warmed by quantitative methods and efficient algorithms.</p>
-
-  <p>When using good quantitative methods makes something better, it means that there wasn’t any concrete physical obstacle to it being better in the past. We were just making the wrong choices, because we didn’t know better. And often suffering small losses from it at a scale that is hard to imagine.</p>
-
-  <p>Suppose the pricing algorithm for ride sharing isn’t as good as it could be. Then day after day there will be people who decide to walk even though they are tired, people who wait somewhere they don’t feel safe for a bit longer, countless people who stand in their hallway a bit longer, people who save up their health problems a bit more before making the expensive trip to a doctor, people who decide to keep a convenient car and so have a little bit less money for everything else. All while someone who would happily to drive each of them at a price they would happily pay lives nearby, suffering for lack of valuable work.</p>
-
-  <p>I’m not too concerned if we make bad choices in baseball, but in lots of areas, I imagine that there are these slow-accreting tragedies, in thousands or millions or billions of small inconveniences and pains accruing each day across the country or the world. And where this is for lack of good algorithms, it feels like it is for absolutely nothing. Just unforced error.</p>
-
-  <p>Daily efforts and suffering for nothing are a particular flavor of badness. Like if someone erroneously believed that it was important for them to count to five thousand out loud at 10am each day, and every day they did this—and if they traveled they made sure there would be somewhere non-disturbing to do it, and if they stayed up late they got up by 10am; and if they were doing something they stepped out—there would be a particular elation in them escaping this senseless waste of their life, perhaps mixed with sorrow for what had been senselessly lost.</p>
-
-  <p>Also, having found the better method, you can usually just do it at no extra cost forever. So it feels reelingly scalable in a way that a hero fighting a bad guy definitively does not. This feels like suddenly being able to fly, or <a href="https://worldspiritsockpuppet.com/2020/11/26/air-walls-and-empty-currents.html">walk through walls</a>.</p>
-
-  <p>So basically, it is some combination of escape from a senseless corrosion of life, effortlessly, at a scale that leaves me reeling.</p>
-
-  <p>Another thing that might be going on, is that it is a triumph of what is definitely right over what is definitely wrong. Lots of moral issues are fraught in some way. No humans are absolutely bad and without a side to the story. But worse quantitative methods are just straightforwardly wrong. The only reason for picking baseball players badly is not knowing how to do it better. The only reason for using worse estimates for covid risk is that you don’t have better ones. So a victory for better quantitative methods is an unsullied victory for light over darkness in a way that conflicts between human forces of good and bad can’t be.</p>
-
-  <p>Yet another thing is that a victory for quantitative methods <em>is</em> always a victory for people. And if you don’t know who they are, that means that they quietly worked to end some ongoing blight on humanity, and did it, and weren’t even recognized. Often, even the good they did will look like a boring technical detail and won’t look morally important, because saving every American ten seconds doesn’t look like saving a life. And I’m not sure if there is anything more heartwarming than someone working hard to do great good, relieving the world from ongoing suffering, knowing that neither they nor and what they have given will be appreciated.</p>
+  <p>— Julia Galef (@juliagalef) <a href="https://twitter.com/juliagalef/status/1337097616639864832?ref_src=twsrc%5Etfw">December 10, 2020</a></p>
 </blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>I haven’t actually seen Moneyball, but it does sound heartwarming, and I have had to hide my tears when someone described a payment app their company was working, so I’m probably in Julia’s category here.<!--ex--></p>
+
+<p>If I didn’t feel this way though, reading this I might imagine it as some alien nerdly aberration, and not a way that I could feel from the inside, or that would seem the ‘right’ way to feel unless I became brain-damaged. Which I think is all wrong—such feelings seem to me to be a warm and human response to appreciating the situation in certain ways. So I want to try to describe what seems to be going on in my mind when my heart is warmed by quantitative methods and efficient algorithms.</p>
+
+<p>When using good quantitative methods makes something better, it means that there wasn’t any concrete physical obstacle to it being better in the past. We were just making the wrong choices, because we didn’t know better. And often suffering small losses from it at a scale that is hard to imagine.</p>
+
+<p>Suppose the pricing algorithm for ride sharing isn’t as good as it could be. Then day after day there will be people who decide to walk even though they are tired, people who wait somewhere they don’t feel safe for a bit longer, countless people who stand in their hallway a bit longer, people who save up their health problems a bit more before making the expensive trip to a doctor, people who decide to keep a convenient car and so have a little bit less money for everything else. All while someone who would happily to drive each of them at a price they would happily pay lives nearby, suffering for lack of valuable work.</p>
+
+<p>I’m not too concerned if we make bad choices in baseball, but in lots of areas, I imagine that there are these slow-accreting tragedies, in thousands or millions or billions of small inconveniences and pains accruing each day across the country or the world. And where this is for lack of good algorithms, it feels like it is for absolutely nothing. Just unforced error.</p>
+
+<p>Daily efforts and suffering for nothing are a particular flavor of badness. Like if someone erroneously believed that it was important for them to count to five thousand out loud at 10am each day, and every day they did this—and if they traveled they made sure there would be somewhere non-disturbing to do it, and if they stayed up late they got up by 10am; and if they were doing something they stepped out—there would be a particular elation in them escaping this senseless waste of their life, perhaps mixed with sorrow for what had been senselessly lost.</p>
+
+<p>Also, having found the better method, you can usually just do it at no extra cost forever. So it feels reelingly scalable in a way that a hero fighting a bad guy definitively does not. This feels like suddenly being able to fly, or <a href="https://worldspiritsockpuppet.com/2020/11/26/air-walls-and-empty-currents.html">walk through walls</a>.</p>
+
+<p>So basically, it is some combination of escape from a senseless corrosion of life, effortlessly, at a scale that leaves me reeling.</p>
+
+<p>Another thing that might be going on, is that it is a triumph of what is definitely right over what is definitely wrong. Lots of moral issues are fraught in some way. No humans are absolutely bad and without a side to the story. But worse quantitative methods are just straightforwardly wrong. The only reason for picking baseball players badly is not knowing how to do it better. The only reason for using worse estimates for covid risk is that you don’t have better ones. So a victory for better quantitative methods is an unsullied victory for light over darkness in a way that conflicts between human forces of good and bad can’t be.</p>
+
+<p>Yet another thing is that a victory for quantitative methods <em>is</em> always a victory for people. And if you don’t know who they are, that means that they quietly worked to end some ongoing blight on humanity, and did it, and weren’t even recognized. Often, even the good they did will look like a boring technical detail and won’t look morally important, because saving every American ten seconds doesn’t look like saving a life. And I’m not sure if there is anything more heartwarming than someone working hard to do great good, relieving the world from ongoing suffering, knowing that neither they nor and what they have given will be appreciated.</p>
 
   </description>
   <link>/2020/12/12/heartwarming-quantitative-methods.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/12/heartwarming-quantitative-methods.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/12/heartwarming-quantitative-methods.html</guid>
   <pubDate>Sat, 12 Dec 2020 12:38:01 -0800</pubDate>
  </item>
  
@@ -905,7 +906,7 @@ xox</p>
 
   </description>
   <link>/2020/12/09/walk-to-a-san-francisco-fedex.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/09/walk-to-a-san-francisco-fedex.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/09/walk-to-a-san-francisco-fedex.html</guid>
   <pubDate>Wed, 09 Dec 2020 09:30:00 -0800</pubDate>
  </item>
  
@@ -976,7 +977,7 @@ xox</p>
 
   </description>
   <link>/2020/12/07/why-are-delicious-biscuits-obscure.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
   <pubDate>Mon, 07 Dec 2020 08:06:40 -0800</pubDate>
  </item>
  
@@ -1001,7 +1002,7 @@ xox</p>
 
   </description>
   <link>/2020/12/06/photographs.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/06/photographs.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/06/photographs.html</guid>
   <pubDate>Sun, 06 Dec 2020 10:45:22 -0800</pubDate>
  </item>
  
@@ -1018,7 +1019,7 @@ xox</p>
 
   </description>
   <link>/2020/12/04/distanced-christmas-book-celebration.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/04/distanced-christmas-book-celebration.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/04/distanced-christmas-book-celebration.html</guid>
   <pubDate>Fri, 04 Dec 2020 22:34:34 -0800</pubDate>
  </item>
  
@@ -1056,7 +1057,7 @@ xox</p>
 
   </description>
   <link>/2020/12/01/points-for-anxiety.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/12/01/points-for-anxiety.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/01/points-for-anxiety.html</guid>
   <pubDate>Tue, 01 Dec 2020 02:03:25 -0800</pubDate>
  </item>
  
@@ -1075,7 +1076,7 @@ xox</p>
 
   </description>
   <link>/2020/11/28/another-point-of-view-on-the-details.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/11/28/another-point-of-view-on-the-details.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/28/another-point-of-view-on-the-details.html</guid>
   <pubDate>Sat, 28 Nov 2020 23:39:30 -0800</pubDate>
  </item>
  
@@ -1121,7 +1122,7 @@ xox</p>
 
   </description>
   <link>/2020/11/08/election-day-five.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/11/08/election-day-five.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/08/election-day-five.html</guid>
   <pubDate>Sun, 08 Nov 2020 18:00:00 -0800</pubDate>
  </item>
  
@@ -1157,7 +1158,7 @@ xox</p>
 
   </description>
   <link>/2020/11/01/questions-of-the-afternoon.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/11/01/questions-of-the-afternoon.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/01/questions-of-the-afternoon.html</guid>
   <pubDate>Sun, 01 Nov 2020 16:39:16 -0800</pubDate>
  </item>
  
@@ -1194,7 +1195,7 @@ xox</p>
 
   </description>
   <link>/2020/10/31/birthday.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/31/birthday.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/31/birthday.html</guid>
   <pubDate>Sat, 31 Oct 2020 04:06:31 -0700</pubDate>
  </item>
  
@@ -1209,7 +1210,7 @@ xox</p>
 
   </description>
   <link>/2020/10/24/new-blog.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/24/new-blog.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/new-blog.html</guid>
   <pubDate>Sat, 24 Oct 2020 22:11:19 -0700</pubDate>
  </item>
  
@@ -1220,7 +1221,7 @@ xox</p>
 
   </description>
   <link>/2020/10/24/the-end-of-ordinary-days.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/24/the-end-of-ordinary-days.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/the-end-of-ordinary-days.html</guid>
   <pubDate>Sat, 24 Oct 2020 03:46:12 -0700</pubDate>
  </item>
  
@@ -1255,7 +1256,7 @@ xox</p>
 
   </description>
   <link>/2020/10/20/my-city.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/20/my-city.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/20/my-city.html</guid>
   <pubDate>Tue, 20 Oct 2020 23:27:41 -0700</pubDate>
  </item>
  
@@ -1289,7 +1290,7 @@ xox</p>
 
   </description>
   <link>/2020/10/20/american-politics.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/20/american-politics.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/20/american-politics.html</guid>
   <pubDate>Tue, 20 Oct 2020 00:02:26 -0700</pubDate>
  </item>
  
@@ -1366,7 +1367,7 @@ I have a sense of a stack of things that I have intended to do, and set aside re
 
   </description>
   <link>/2020/10/19/oxford-starting-the-day-liveblog.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/19/oxford-starting-the-day-liveblog.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/19/oxford-starting-the-day-liveblog.html</guid>
   <pubDate>Mon, 19 Oct 2020 12:27:42 -0700</pubDate>
  </item>
  
@@ -1401,7 +1402,7 @@ It’s all I have,</em></p>
 
   </description>
   <link>/2020/10/16/the-past-mysterious-poem.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/16/the-past-mysterious-poem.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/16/the-past-mysterious-poem.html</guid>
   <pubDate>Fri, 16 Oct 2020 23:25:00 -0700</pubDate>
  </item>
  
@@ -1433,7 +1434,7 @@ It’s all I have,</em></p>
 
   </description>
   <link>/2020/10/15/problems-and-gratitudes.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/15/problems-and-gratitudes.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/15/problems-and-gratitudes.html</guid>
   <pubDate>Thu, 15 Oct 2020 02:22:00 -0700</pubDate>
  </item>
  
@@ -1472,7 +1473,7 @@ It’s all I have,</em></p>
 
   </description>
   <link>/2020/10/09/heavenly-hellfire.html</link>
-  <guid isPermaLink="true">http://0.0.0.0:4000/2020/10/09/heavenly-hellfire.html</guid>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/09/heavenly-hellfire.html</guid>
   <pubDate>Fri, 09 Oct 2020 23:30:00 -0700</pubDate>
  </item>
  
