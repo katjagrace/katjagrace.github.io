@@ -5,14 +5,14 @@ date: 2022-01-14 06:31:00 -0700
 tags: covid survey advice
 comments: true
 image:
-summary:
+summary: Tentative results on how bad life is from a 200 person Positly survey
 ---
 
-I wanted more clues about whether we live in a world where really bad long covid outcomes are vanishingly rare (but concentrated a lot in my [Twitter](https://twitter.com/KatjaGrace/status/1480780277156773889)) or in a world where for instance a large fraction of ‘brain fogs’ reported are anything like the horrors sometimes described. I went to Positly, hoping that a randomish sample of people who want my money would answer.
+I wanted more clues about whether really bad long covid outcomes were vanishingly rare (but concentrated a lot in my [Twitter](https://twitter.com/KatjaGrace/status/1480780277156773889)) or whether for instance a large fraction of ‘brain fogs’ reported in datasets are anything like the horrors sometimes described. So I took my questions to [Positly](https://app.positly.com/), hoping that the set of people who would answer questions for money there was fairly random relative to covid outcomes.
 
 I hope to write something more careful about this survey soon, especially if it is of interest, but figure the basic data is better to share sooner. This summary is not very careful, and may e.g. conflate slightly differently worded questions, or fail to exclude obviously confused answers, or slightly miscount.
 
-This is a survey of ~200 Positly survey takers, all between 20 and 40 years old. Very few of the responses I’ve looked at seem incoherent or botlike, unlike the survey I did around the time of the election.<!--ex-->
+This is a survey of ~230 [Positly](https://app.positly.com/) survey takers, all between 20 and 40 years old. Very few of the responses I’ve looked at seem incoherent or botlike, unlike those in the [survey](https://worldspiritsockpuppet.com/2020/11/06/why-trump.html) I did around the time of the election.<!--ex-->
 
 # Results
 
