@@ -12,7 +12,7 @@ I wanted more clues about whether really bad long covid outcomes were vanishingl
 
 I hope to write something more careful about this survey soon, especially if it is of interest, but figure the basic data is better to share sooner. This summary is not very careful, and may e.g. conflate slightly differently worded questions, or fail to exclude obviously confused answers, or slightly miscount.
 
-This is a survey of ~230 [Positly](https://app.positly.com/) survey takers, all between 20 and 40 years old. Very few of the responses I’ve looked at seem incoherent or botlike, unlike those in the [survey](https://worldspiritsockpuppet.com/2020/11/06/why-trump.html) I did around the time of the election.<!--ex-->
+This is a survey of ~230 [Positly](https://app.positly.com/) survey takers in the US, all between 20 and 40 years old. Very few of the responses I’ve looked at seem incoherent or botlike, unlike those in the [survey](https://worldspiritsockpuppet.com/2020/11/06/why-trump.html) I did around the time of the election.<!--ex-->
 
 # Results
 
