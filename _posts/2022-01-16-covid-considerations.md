@@ -57,17 +57,22 @@ Among this cascade of terrible stories is a response from one of the handful of 
 
 Excerpts from [his account](https://twitter.com/maosbot/status/1450465063056420874):
 
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I got <a href="https://twitter.com/hashtag/LongCovid?src=hash&amp;ref_src=twsrc%5Etfw">#LongCovid</a> in March 2020, I was 38 and healthy. If you are anything like I was then, it is hard to understand how bad Long Covid is. I think that we all have an instinct to just… look away. But, please, it is important that you look. 1/15</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465063056420874?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I got <a href="https://twitter.com/hashtag/LongCovid?src=hash&amp;ref_src=twsrc%5Etfw">#LongCovid</a> in March 2020, I was 38 and healthy. If you are anything like I was then, it is hard to understand how bad Long Covid is. I think that we all have an instinct to just… look away. But, please, it is important that you look. 1/15</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465063056420874?ref_src=twsrc%5Etfw">October 19, 2021</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My own low-points: early on, I collapsed, shaking, and was taken to A&amp;E in an ambulance. A year later, I did not have the energy to leave the house. Formerly, I was a marathon runner, but I brought on a bad relapse with a 700m walk. Many people have it much, much, worse. 2/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465065224843266?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My own low-points: early on, I collapsed, shaking, and was taken to A&amp;E in an ambulance. A year later, I did not have the energy to leave the house. Formerly, I was a marathon runner, but I brought on a bad relapse with a 700m walk. Many people have it much, much, worse. 2/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465065224843266?ref_src=twsrc%5Etfw">October 19, 2021</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The name &quot;brain fog&quot; doesn&#39;t do justice to the experience. Practically, it means that you can&#39;t think right. It turns out that thinking is pretty core to meaningful existence! At my worst, over several minutes, I couldn&#39;t work out a seatbelt. 5/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465070308380677?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The name &quot;brain fog&quot; doesn&#39;t do justice to the experience. Practically, it means that you can&#39;t think right. It turns out that thinking is pretty core to meaningful existence! At my worst, over several minutes, I couldn&#39;t work out a seatbelt. 5/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465070308380677?ref_src=twsrc%5Etfw">October 19, 2021</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brain fog is a bit like being *extremely* sleep-deprived—remember, sleep deprivation is literally a technique of torture—but you can&#39;t sleep off brain fog. It feels like being lost in a fog, sensing dark shapes shifting around you, losing yourself. 6/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465071797313537?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brain fog is a bit like being *extremely* sleep-deprived—remember, sleep deprivation is literally a technique of torture—but you can&#39;t sleep off brain fog. It feels like being lost in a fog, sensing dark shapes shifting around you, losing yourself. 6/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465071797313537?ref_src=twsrc%5Etfw">October 19, 2021</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Fatigue&quot; similarly does no justice to the experience. Fatigue means there is less of you. You are less. You can&#39;t, just can&#39;t, get out of bed. This is *not* psychological (although fatigue may *cause* depression!). Your body, physically, does not have the energy. 7/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465073567354891?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Fatigue&quot; similarly does no justice to the experience. Fatigue means there is less of you. You are less. You can&#39;t, just can&#39;t, get out of bed. This is *not* psychological (although fatigue may *cause* depression!). Your body, physically, does not have the energy. 7/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465073567354891?ref_src=twsrc%5Etfw">October 19, 2021</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-(Another distant elative in my generation just told me that they have long covid, but I take that as much less evidence, since I only know about them having covid at all because they saw this long covid discussion.)
+(Another distant relative in my generation just told me that they have long covid, but I take that as much less evidence, since I only know about them having covid at all because they saw this long covid discussion.)
 
 **C. Rates of ambiguously-maybe-quite-bad symptoms seem very high, even for people who only had mild covid**
 
@@ -275,19 +280,15 @@ In [my survey](https://worldspiritsockpuppet.com/2022/01/14/preliminary-long-cov
 
 **O. It’s not 100% that you will get it.**
 
-I'd guess there's a decent chance you'll be able avoid it, via reasonable-to-pay costs. For instance, maybe omicron basically brings herd immunity. Maybe rapid tests get more reliable, easy, and cheap. Maybe long covid becomes a bigger concern, and people worry enough to get R0 generally below 1. Or other technologies improve: Fend really does cut covid exhalations massively and is taken up widely, or something like Novid finds a way to be taken up. (Or your path takes you to being a hermit or living in Asia, or we spend next year hiding in bunkers from cyborg bees, and you are glad you didn’t pay all that covid risk up front for parties that aren’t happening.)
+I'd guess there's a decent chance you'll be able avoid it, via reasonable-to-pay costs. For instance, maybe omicron basically brings herd immunity. Maybe rapid tests get more reliable, easy, and cheap. Maybe long covid becomes a bigger concern, and people worry enough to get R0 generally below 1. Or other technologies improve: Fend really does cut covid exhalations massively and is taken up widely, or something like Novid finds a way to be taken up. (Or your path takes you to being a hermit or living in China, or we spend next year hiding in bunkers from cyborg bees, and you are glad you didn’t pay all that covid risk up front for parties that aren’t happening.)
 
 (If we were doing exactly what we are doing so far, but with air purifiers in most buildings, would R0 would have been ¼ instead of ~1, and would it have died out? Is the problem that we are psychologically incapable of maintaining slightly more caution than needed to keep infections steady?)
 
-Are things so predictable here?
+Are things so predictable?
 
 <!-- bwr while it's evocative, I might be a bit more circumspect about the shit thing - seems like we find shit disgusting, probably partly because avoiding it has been good on the margin. -->
 
 <!-- xxx[It isn’t like a physical law: you get it when you spend time breathing near someone else who has it. This is controllable, if costly. If it’s bad enough, you should do what you can to avoid people like that. Also, avoiding people like that can be made much cheaper. For instance, the costs can be bounded at moving to Japan or New Zealand.xxx  -->
-
-
-
-
 
 <!-- 1.  -->
 <!-- 2. How easy it is to avoid depends a lot on the person. Reclusiveness was already a popular choice before the pandemic; a one percent threat to your life could push you over the edge into exploring it. -->
