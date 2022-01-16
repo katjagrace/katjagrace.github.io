@@ -7,7 +7,7 @@ comments: true
 image:
 summary:
 ---
-<!--ex-->
+
 <!-----
 
 You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
@@ -36,7 +36,7 @@ Conversion notes:
 
 <!--bwr I don't think you need to count the considerations-->
 
-I hear friends reasoning, “I’ll get covid eventually and long covid probably isn't that bad; therefore it’s not worth much to avoid it now”. Here are some things informing my sense that that’s an error:
+I hear friends reasoning, “I’ll get covid eventually and long covid probably isn't that bad; therefore it’s not worth much to avoid it now”. Here are some things informing my sense that that’s an error:<!--ex-->
 
 **A. Really bad anecdotes aren’t hard to find.**
 I [asked](https://twitter.com/KatjaGrace/status/1480780277156773889) for people’s long-covid experiences on Twitter and got more than a hundred comments mostly full of truly awful stories, almost entirely from people I don’t know at all, presumably somehow brought via the active Long Covid community.
@@ -52,12 +52,12 @@ This is a bit hard to interpret as a datum, due to the intense selection effects
 
 See [this](https://www.washingtonpost.com/business/2021/12/09/long-covid-work-unemployed/) for more heavily selected but still scary anecdotes about what bad cases can look like.
 
-**B. Bad anecdotes are common enough to show up in my network.**
+**B. Bad anecdotes are common enough to show up in my vicinity.**
 Among this cascade of terrible stories is a response from one of the handful of people from my extended network who I already knew had had covid, Oxford machine learning professor Michael Osborne. I take this as strong evidence that that level of bad experience isn’t vanishingly rare, though he has been well for the last few months, so this is only direct evidence of this kind of thing happening for about two years.
 
 Excerpts from [his account](https://twitter.com/maosbot/status/1450465063056420874):
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I got <a href="https://twitter.com/hashtag/LongCovid?src=hash&amp;ref_src=twsrc%5Etfw">#LongCovid</a> in March 2020, I was 38 and healthy. If you are anything like I was then, it is hard to understand how bad Long Covid is. I think that we all have an instinct to just… look away. But, please, it is important that you look. 1/15</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465063056420874?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I got <a href="https://twitter.com/hashtag/LongCovid?src=hash&amp;ref_src=twsrc%5Etfw">#LongCovid</a> in March 2020, I was 38 and healthy. If you are anything like I was then, it is hard to understand how bad Long Covid is. I think that we all have an instinct to just… look away. But, please, it is important that you look. 1/15</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465063056420874?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My own low-points: early on, I collapsed, shaking, and was taken to A&amp;E in an ambulance. A year later, I did not have the energy to leave the house. Formerly, I was a marathon runner, but I brought on a bad relapse with a 700m walk. Many people have it much, much, worse. 2/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465065224843266?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -65,7 +65,7 @@ Excerpts from [his account](https://twitter.com/maosbot/status/14504650630564208
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Brain fog is a bit like being *extremely* sleep-deprived—remember, sleep deprivation is literally a technique of torture—but you can&#39;t sleep off brain fog. It feels like being lost in a fog, sensing dark shapes shifting around you, losing yourself. 6/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465071797313537?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Fatigue&quot; similarly does no justice to the experience. Fatigue means there is less of you. You are less. You can&#39;t, just can&#39;t, get out of bed. This is *not* psychological (although fatigue may *cause* depression!). Your body, physically, does not have the energy. 7/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465073567354891?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Fatigue&quot; similarly does no justice to the experience. Fatigue means there is less of you. You are less. You can&#39;t, just can&#39;t, get out of bed. This is *not* psychological (although fatigue may *cause* depression!). Your body, physically, does not have the energy. 7/</p>&mdash; Michael A Osborne (@maosbot) <a href="https://twitter.com/maosbot/status/1450465073567354891?ref_src=twsrc%5Etfw">October 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 (Another distant elative in my generation just told me that they have long covid, but I take that as much less evidence, since I only know about them having covid at all because they saw this long covid discussion.)
 
@@ -147,7 +147,8 @@ It's also a bad sign about what a bad time you might have during that year. I do
 
 <iframe src="https://ourworldindata.org/grapher/excess-mortality-p-scores-projected-baseline-by-age?country=~USA" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 <!-- xxx -->
-
+<br>
+<br>
 [For context](https://www.thecentersquare.com/indiana/indiana-life-insurance-ceo-says-deaths-are-up-40-among-people-ages-18-64/article_71473b12-6b1e-11ec-8641-5b2c06725e2c.html):
 
 >(The Center Square) – The head of Indianapolis-based insurance company OneAmerica said the death rate is up a stunning 40% from pre-pandemic levels among working-age people.
