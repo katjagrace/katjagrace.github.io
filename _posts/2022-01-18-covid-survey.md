@@ -62,9 +62,7 @@ There are only nine cases of long covid from more than two months ago, and I ask
 
 <a href="https://photobucket.com/u/katjasgrace/p/6c0225a5-5cbf-4dfa-96d3-e352e8f0357c" target="_blank"><img class="full-width" src="https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-01-17_at_10.26.00_PM.png?width=1920&height=1080&fit=bounds" border="0" alt="Screen_Shot_2022-01-17_at_10.26.00_PM"/></a>
 
-Notes:
-  - 8th column heading ends: "...you were on average in 2019";
-  - For the second column, other options that nobody in this group agreed to were 'I am unable to walk up stairs without resting afterward', and 'A doctor has diagnosed me with having specific organ damage'.
+*(8th column heading ends: "...you were on average in 2019"; for the second column, other options that nobody in this group agreed to were 'I am unable to walk up stairs without resting afterward', and 'A doctor has diagnosed me with having specific organ damage'.)*
 
 
 Taking answers at face value, about eight of these sound pretty bad to me, just on column Q grounds. However it seems likely that some amount of miscommunication is going on, so I trust more impressions coming from several questions. On that basis, maybe half sound like very likely a big deal to me, holistically (and most of the others plausibly so).
@@ -72,7 +70,7 @@ Taking answers at face value, about eight of these sound pretty bad to me, just 
 
 To be maybe continued later...
 
-(Maybe coming up soon: What's going on with all these people who don't want to be vaccinated? Are people still taking many precautions? Which ones? What fraction of people's covid-infected acquaintances seem to be severely ongoingly unwell from it? &mdash;I had a lot of prepaid survey-taking minutes from people who didn't have covid with which to satisfy some of my pandemic curiosities.)
+(Maybe coming up later: What's going on with all these people who don't want to be vaccinated? Are people still taking many precautions? Which ones? What fraction of people's covid-infected acquaintances seem to be severely ongoingly unwell from it? &mdash;I had a lot of prepaid survey-taking minutes from people who didn't have covid with which to satisfy some of my pandemic curiosities.)
 
 ---
 ## Full guidedtrack.com code for this survey
