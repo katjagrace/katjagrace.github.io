@@ -1,4 +1,328 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-16T03:33:13-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Long covid: probably worth avoiding—some considerations</title><link href="http://localhost:4000/2022/01/16/covid-considerations.html" rel="alternate" type="text/html" title="Long covid: probably worth avoiding—some considerations" /><published>2022-01-16T02:10:00-08:00</published><updated>2022-01-16T02:10:00-08:00</updated><id>http://localhost:4000/2022/01/16/covid-considerations</id><content type="html" xml:base="http://localhost:4000/2022/01/16/covid-considerations.html">&lt;!-----
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-17T22:36:27-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Long covid survey</title><link href="http://localhost:4000/2022/01/17/covid-survey.html" rel="alternate" type="text/html" title="Long covid survey" /><published>2022-01-17T21:05:00-08:00</published><updated>2022-01-17T21:05:00-08:00</updated><id>http://localhost:4000/2022/01/17/covid-survey</id><content type="html" xml:base="http://localhost:4000/2022/01/17/covid-survey.html">&lt;h2 id=&quot;lc-from-covid-cases-2-months-ago-by-vaccination-status&quot;&gt;LC from covid cases &amp;gt;2 months ago by vaccination status&lt;/h2&gt;
+
+&lt;p&gt;Vaccination status is at the time of illness. Two people had multiple cases of covid more than two months ago; each case is included separately here (I asked about the date, vaccination status and health consequences for each, so e.g. one person says they got long covid from the second case, so the first is counted under ‘no LC’).&lt;/p&gt;
+
+&lt;p&gt;Long covid question:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do you seem to have ongoing health problems or symptoms after recovering from acute covid illness?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;All&lt;/th&gt;
+      &lt;th&gt;Vac&lt;/th&gt;
+      &lt;th&gt;No vac&lt;/th&gt;
+      &lt;th&gt;(Vac N/A)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;All&lt;/td&gt;
+      &lt;td&gt;39&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;31&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;LC&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;no LC&lt;/td&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;P(LC)&lt;/td&gt;
+      &lt;td&gt;0.23&lt;/td&gt;
+      &lt;td&gt;0.33&lt;/td&gt;
+      &lt;td&gt;0.23&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://photobucket.com/u/katjasgrace/p/40183e73-fb74-4052-8f31-c948dd49241d&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://hosting.photobucket.com/images/i/katjasgrace/2mLCbyvac.png?width=590&amp;amp;height=370&amp;amp;fit=bounds&quot; border=&quot;0&quot; alt=&quot;2mLCbyvac&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://photobucket.com/u/katjasgrace/p/ad7dcf12-e166-4214-a4fa-6e7ff1f4972a&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://hosting.photobucket.com/images/i/katjasgrace/LCvac.png?width=1920&amp;amp;height=1080&amp;amp;fit=bounds&quot; border=&quot;0&quot; alt=&quot;LCvac&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In this group:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Around quarter of people who had covid &amp;gt;2 months ago report long covid.&lt;/li&gt;
+  &lt;li&gt;For people vaccinated at time of illness, the rate was if anything worse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;who-are-these-people&quot;&gt;Who are these people?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://photobucket.com/u/katjasgrace/p/ec1a1890-1e39-4a2b-843d-c8a475232ddc&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-01-17_at_10.25.31_PM.png?width=4000&quot; border=&quot;0&quot; alt=&quot;Screen_Shot_2022-01-17_at_10.25.31_PM&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://photobucket.com/u/katjasgrace/p/6c0225a5-5cbf-4dfa-96d3-e352e8f0357c&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-01-17_at_10.26.00_PM.png?width=1920&amp;amp;height=1080&amp;amp;fit=bounds&quot; border=&quot;0&quot; alt=&quot;Screen_Shot_2022-01-17_at_10.26.00_PM&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;li&gt;&lt;/li&gt;
+&lt;p&gt;&amp;lt;/ul&amp;gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+   &lt;td&gt;Recent productivity compared to 2019 (combining 3 questions; asked before covid questions)
+   &lt;/td&gt;
+   &lt;td&gt;&lt;strong&gt;Which of these things are true for you, as a result of having covid? (vj9p4s2)&lt;/strong&gt;
+   &lt;/td&gt;
+   &lt;td&gt;How much do your ongoing health problems from covid reduce your capacity to do things you would have normally done in a day? (6wapqsp)
+   &lt;/td&gt;
+   &lt;td&gt;Would you rather: A) be rid of ongoing covid related health issues and symptoms forever, B) a 10% increase in your income this year, C) Not applicable
+   &lt;/td&gt;
+   &lt;td&gt;[Same but:] B) a 50% increase in your income this year
+   &lt;/td&gt;
+   &lt;td&gt;[Same but:] B) a 200% increase in your income this year
+   &lt;/td&gt;
+   &lt;td&gt;Are you currently working less as a result of the covid pandemic? (k0t9h12)
+   &lt;/td&gt;
+   &lt;td&gt;Roughly how many fewer hours do you think you are working per week than you were on average in 2019? (3q77gos)
+   &lt;/td&gt;
+   &lt;td&gt;In words, please tell us about the biggest impacts that having covid has had on your life (ddthyf)
+   &lt;/td&gt;
+   &lt;td&gt;In words, please tell us about the biggest impacts that the pandemic has had on your life (m109htr)
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;72%
+   &lt;/td&gt;
+   &lt;td&gt;My life is miserable,I am markedly less able to think clearly, more than half of the hours of the day,My senses of taste and smell continue to be off
+   &lt;/td&gt;
+   &lt;td&gt;34
+   &lt;/td&gt;
+   &lt;td&gt;N/A
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Yes, because I had covid and it left me with ongoing problems with physical or mental health // Yes, to avoid covid risks at work
+   &lt;/td&gt;
+   &lt;td&gt;30
+   &lt;/td&gt;
+   &lt;td&gt;I use to be able to stay up but now I am so tired
+   &lt;/td&gt;
+   &lt;td&gt;I lost a lot of time with my far friends
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;~75%
+   &lt;/td&gt;
+   &lt;td&gt;I feel substantially cognitively damaged,I am markedly less able to think clearly, more than half of the hours of the day,I had a really bad time for over a month,My senses of taste and smell continue to be off
+   &lt;/td&gt;
+   &lt;td&gt;60
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Income
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Yes, because I had covid and it left me with ongoing problems with physical or mental health // Yes, because of other distractions, burdens or mental health issues stemming from the situation
+   &lt;/td&gt;
+   &lt;td&gt;40
+   &lt;/td&gt;
+   &lt;td&gt;I am still only at about 40% of what I was pre covid.  Train of thought is almost non existent, depression, unpredictable menstral cycles with an implant in my arm, hypothyroidism with hashimotos, almost no energy for anything, still next to no sense of smell.  I can barely walk more than a block without feeling fatigue when previously I could walk for 2 miles before feeling fatigued.
+   &lt;/td&gt;
+   &lt;td&gt;When I was still working I saw a large reduction of hours, was unemployed for 3 months and still never fully recovered that lost income.
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&amp;lt;&amp;lt;100%
+   &lt;/td&gt;
+   &lt;td&gt;My life is miserable
+   &lt;/td&gt;
+   &lt;td&gt;33
+   &lt;/td&gt;
+   &lt;td&gt;Income
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Yes, for other reasons
+   &lt;/td&gt;
+   &lt;td&gt;3
+   &lt;/td&gt;
+   &lt;td&gt;Seems like I spend 2 hours a day ruminating about wearing masks and social distancing etc. I hate it it s always on my mind
+   &lt;/td&gt;
+   &lt;td&gt;I have had not much of a impact on any area of my life besides my thoughts
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;76%
+   &lt;/td&gt;
+   &lt;td&gt;I am unable to read things I used to be able to read,I am markedly less able to think clearly, more than half of the hours of the day
+   &lt;/td&gt;
+   &lt;td&gt;66
+   &lt;/td&gt;
+   &lt;td&gt;N/A
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Yes, to care for others (e.g. children)
+   &lt;/td&gt;
+   &lt;td&gt;45
+   &lt;/td&gt;
+   &lt;td&gt;made me a little lonely
+   &lt;/td&gt;
+   &lt;td&gt;gained wait
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&amp;gt;=~100%
+   &lt;/td&gt;
+   &lt;td&gt;I have lingering symptoms, but nothing that makes my life more than 10% worse,My senses of taste and smell continue to be off
+   &lt;/td&gt;
+   &lt;td&gt;39
+   &lt;/td&gt;
+   &lt;td&gt;Income
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;Yes, because of other distractions, burdens or mental health issues stemming from the situation // Yes, for other reasons
+   &lt;/td&gt;
+   &lt;td&gt;15
+   &lt;/td&gt;
+   &lt;td&gt;I would say the lethargy and feeling run down. I definitely did not feel like this before i got covid. I feel more tired for at keast half of the day roughly 12 hours
+   &lt;/td&gt;
+   &lt;td&gt;I used to go to the gym almost every day now I haven&apos;t gone in two years almost.
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;66%
+   &lt;/td&gt;
+   &lt;td&gt;I am markedly less able to think clearly, more than half of the hours of the day
+   &lt;/td&gt;
+   &lt;td&gt;57
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;No, I work as much as usual
+   &lt;/td&gt;
+   &lt;td&gt;0
+   &lt;/td&gt;
+   &lt;td&gt;i feel half retarded because of this bull shit lab leaked virus
+   &lt;/td&gt;
+   &lt;td&gt;prices are going up because our government keeps doubling down on their poor decisions.
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&amp;gt;=~100%
+   &lt;/td&gt;
+   &lt;td&gt;I have lingering symptoms, but nothing that makes my life more than 10% worse
+   &lt;/td&gt;
+   &lt;td&gt;0
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Income
+   &lt;/td&gt;
+   &lt;td&gt;
+   &lt;/td&gt;
+   &lt;td&gt;No, I work as much as usual
+   &lt;/td&gt;
+   &lt;td&gt;0
+   &lt;/td&gt;
+   &lt;td&gt;It has mostly gotten better now I believe. but for several months after having covid, my heart rate was a lot higher than usual, sometimes having huge spikes just turning around in bed or standing up. It was very scary and anxiety inducing and I couldn&apos;t do a lot of physical activity for fear of it going too high
+   &lt;/td&gt;
+   &lt;td&gt;I used to work for a cruise line and travel around the world for my job, now I leave my home once a week at most. When I was home in the past, I would go social dancing at least once a week, now I don&apos;t go at all.
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&amp;lt;&amp;lt;100%
+   &lt;/td&gt;
+   &lt;td&gt;I have lingering symptoms, but nothing that makes my life more than 10% worse
+   &lt;/td&gt;
+   &lt;td&gt;69
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Income
+   &lt;/td&gt;
+   &lt;td&gt;No, I work as much as usual
+   &lt;/td&gt;
+   &lt;td&gt;0
+   &lt;/td&gt;
+   &lt;td&gt;I used to be able to walk several miles without getting winded and I can&apos;t do that anymore.
+   &lt;/td&gt;
+   &lt;td&gt;Mainly it has just had health effects and nothing more. My job is still the same and my husband even worked more during covid times.
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td&gt;&amp;gt;200%
+   &lt;/td&gt;
+   &lt;td&gt;I have lingering symptoms, but nothing that makes my life more than 10% worse
+   &lt;/td&gt;
+   &lt;td&gt;30
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Health
+   &lt;/td&gt;
+   &lt;td&gt;Income
+   &lt;/td&gt;
+   &lt;td&gt;No, I work as much as usual
+   &lt;/td&gt;
+   &lt;td&gt;0
+   &lt;/td&gt;
+   &lt;td&gt;I am a registered nurse, so I am around a lot of COVID. The lingering symptom that has been the worst is the fatigue. I feel like I am never rested. It actually lead to a car accident because I fell asleep driving after the second round of COVID. I also am not sure if the fatigue is because I never have been given the opportunity to fully rest and recover. I have 2 kids. And with the new &quot;5 day&quot; policy work expects us to come back even symptomatic.
+   &lt;/td&gt;
+   &lt;td&gt;The pandemic has had a huge impact on my life. As a nurse, we learn about pandemics in school but no one ever expects to live through it.  I try to avoid going around high-risk family, I sterilize everything, and I get negative looks if I am in the store in scrubs. I have had to work so many house (especially now because half our staff has COVID), but there has not been any increase in pay. I cannot cook dinner because I am too tired all of the time from the side effects of COVID and from being overworked. I used to love healthcare and now I dont. I think the CDC has lost all credit from anyone in healthcare because their &quot;guidelines&quot; are no longer about the science, it is about the economy. I feel like no one takes it serious and it has defiantly taken a tole on my mental health. Oh, I also had a baby in May of 2020 right when it was getting bad. The fear of the unknown at the time was overwhelming.
+   &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;loss-of-productivity-by-covid-no-covid-long-covid&quot;&gt;Loss of productivity, by covid, no covid, long covid&lt;/h2&gt;
+
+&lt;p&gt;Does long covid show up in the less productivity (which I asked before I brought the topic to covid)&lt;/p&gt;
+
+&lt;p&gt;Does the ‘working less due to covid’ match lower productivity?&lt;/p&gt;
+
+&lt;p&gt;How much less productive are long-covid sufferers
+How much less worky?&lt;/p&gt;
+
+&lt;p&gt;How much less productive are covid sufferers
+How much less worky?&lt;/p&gt;
+
+&lt;p&gt;How much less productive are non-covid sufferers
+How much less worky?&lt;/p&gt;
+
+&lt;p&gt;How many people say they work less due to long covid?&lt;/p&gt;
+
+&lt;p&gt;Frequency of checkable statements&lt;/p&gt;
+
+&lt;p&gt;Readthrough of ‘bad cases’ to check stories&lt;/p&gt;
+
+&lt;p&gt;How much do your ongoing health problems from covid reduce your capacity to do things you would have normally done in a day? Average&lt;/p&gt;
+
+&lt;p&gt;Associations with:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;age&lt;/li&gt;
+  &lt;li&gt;chronic illness&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How much are non-vac people isolating?&lt;/p&gt;
+
+&lt;!--ex--&gt;</content><author><name>Katja Grace</name></author><category term="CATEGORY-1" /><category term="CATEGORY-2" /><summary type="html">LC from covid cases &amp;gt;2 months ago by vaccination status Vaccination status is at the time of illness. Two people had multiple cases of covid more than two months ago; each case is included separately here (I asked about the date, vaccination status and health consequences for each, so e.g. one person says they got long covid from the second case, so the first is counted under ‘no LC’). Long covid question: Do you seem to have ongoing health problems or symptoms after recovering from acute covid illness?   All Vac No vac (Vac N/A) All 39 6 31 2 LC 9 2 7 0 no LC 30 4 24 2 P(LC) 0.23 0.33 0.23   In this group: Around quarter of people who had covid &amp;gt;2 months ago report long covid. For people vaccinated at time of illness, the rate was if anything worse. Who are these people? &amp;lt;/ul&amp;gt; Recent productivity compared to 2019 (combining 3 questions; asked before covid questions) Which of these things are true for you, as a result of having covid? (vj9p4s2) How much do your ongoing health problems from covid reduce your capacity to do things you would have normally done in a day? (6wapqsp) Would you rather: A) be rid of ongoing covid related health issues and symptoms forever, B) a 10% increase in your income this year, C) Not applicable [Same but:] B) a 50% increase in your income this year [Same but:] B) a 200% increase in your income this year Are you currently working less as a result of the covid pandemic? (k0t9h12) Roughly how many fewer hours do you think you are working per week than you were on average in 2019? (3q77gos) In words, please tell us about the biggest impacts that having covid has had on your life (ddthyf) In words, please tell us about the biggest impacts that the pandemic has had on your life (m109htr) 72% My life is miserable,I am markedly less able to think clearly, more than half of the hours of the day,My senses of taste and smell continue to be off 34 N/A Yes, because I had covid and it left me with ongoing problems with physical or mental health // Yes, to avoid covid risks at work 30 I use to be able to stay up but now I am so tired I lost a lot of time with my far friends ~75% I feel substantially cognitively damaged,I am markedly less able to think clearly, more than half of the hours of the day,I had a really bad time for over a month,My senses of taste and smell continue to be off 60 Health Income Yes, because I had covid and it left me with ongoing problems with physical or mental health // Yes, because of other distractions, burdens or mental health issues stemming from the situation 40 I am still only at about 40% of what I was pre covid. Train of thought is almost non existent, depression, unpredictable menstral cycles with an implant in my arm, hypothyroidism with hashimotos, almost no energy for anything, still next to no sense of smell. I can barely walk more than a block without feeling fatigue when previously I could walk for 2 miles before feeling fatigued. When I was still working I saw a large reduction of hours, was unemployed for 3 months and still never fully recovered that lost income. &amp;lt;&amp;lt;100% My life is miserable 33 Income Yes, for other reasons 3 Seems like I spend 2 hours a day ruminating about wearing masks and social distancing etc. I hate it it s always on my mind I have had not much of a impact on any area of my life besides my thoughts 76% I am unable to read things I used to be able to read,I am markedly less able to think clearly, more than half of the hours of the day 66 N/A Yes, to care for others (e.g. children) 45 made me a little lonely gained wait &amp;gt;=~100% I have lingering symptoms, but nothing that makes my life more than 10% worse,My senses of taste and smell continue to be off 39 Income Yes, because of other distractions, burdens or mental health issues stemming from the situation // Yes, for other reasons 15 I would say the lethargy and feeling run down. I definitely did not feel like this before i got covid. I feel more tired for at keast half of the day roughly 12 hours I used to go to the gym almost every day now I haven&apos;t gone in two years almost. 66% I am markedly less able to think clearly, more than half of the hours of the day 57 Health Health Health No, I work as much as usual 0 i feel half retarded because of this bull shit lab leaked virus prices are going up because our government keeps doubling down on their poor decisions. &amp;gt;=~100% I have lingering symptoms, but nothing that makes my life more than 10% worse 0 Health Income No, I work as much as usual 0 It has mostly gotten better now I believe. but for several months after having covid, my heart rate was a lot higher than usual, sometimes having huge spikes just turning around in bed or standing up. It was very scary and anxiety inducing and I couldn&apos;t do a lot of physical activity for fear of it going too high I used to work for a cruise line and travel around the world for my job, now I leave my home once a week at most. When I was home in the past, I would go social dancing at least once a week, now I don&apos;t go at all. &amp;lt;&amp;lt;100% I have lingering symptoms, but nothing that makes my life more than 10% worse 69 Health Health Income No, I work as much as usual 0 I used to be able to walk several miles without getting winded and I can&apos;t do that anymore. Mainly it has just had health effects and nothing more. My job is still the same and my husband even worked more during covid times. &amp;gt;200% I have lingering symptoms, but nothing that makes my life more than 10% worse 30 Health Health Income No, I work as much as usual 0 I am a registered nurse, so I am around a lot of COVID. The lingering symptom that has been the worst is the fatigue. I feel like I am never rested. It actually lead to a car accident because I fell asleep driving after the second round of COVID. I also am not sure if the fatigue is because I never have been given the opportunity to fully rest and recover. I have 2 kids. And with the new &quot;5 day&quot; policy work expects us to come back even symptomatic. The pandemic has had a huge impact on my life. As a nurse, we learn about pandemics in school but no one ever expects to live through it. I try to avoid going around high-risk family, I sterilize everything, and I get negative looks if I am in the store in scrubs. I have had to work so many house (especially now because half our staff has COVID), but there has not been any increase in pay. I cannot cook dinner because I am too tired all of the time from the side effects of COVID and from being overworked. I used to love healthcare and now I dont. I think the CDC has lost all credit from anyone in healthcare because their &quot;guidelines&quot; are no longer about the science, it is about the economy. I feel like no one takes it serious and it has defiantly taken a tole on my mental health. Oh, I also had a baby in May of 2020 right when it was getting bad. The fear of the unknown at the time was overwhelming. Loss of productivity, by covid, no covid, long covid Does long covid show up in the less productivity (which I asked before I brought the topic to covid) Does the ‘working less due to covid’ match lower productivity? How much less productive are long-covid sufferers How much less worky? How much less productive are covid sufferers How much less worky? How much less productive are non-covid sufferers How much less worky? How many people say they work less due to long covid? Frequency of checkable statements Readthrough of ‘bad cases’ to check stories How much do your ongoing health problems from covid reduce your capacity to do things you would have normally done in a day? Average Associations with: age chronic illness How much are non-vac people isolating?</summary></entry><entry><title type="html">Long covid: probably worth avoiding—some considerations</title><link href="http://localhost:4000/2022/01/16/covid-considerations.html" rel="alternate" type="text/html" title="Long covid: probably worth avoiding—some considerations" /><published>2022-01-16T02:10:00-08:00</published><updated>2022-01-16T02:10:00-08:00</updated><id>http://localhost:4000/2022/01/16/covid-considerations</id><content type="html" xml:base="http://localhost:4000/2022/01/16/covid-considerations.html">&lt;!-----
 
 You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
 * ERRORs: 0
@@ -300,11 +624,11 @@ I know I already mentioned death and various bodily systems being messed up, but
 
 &lt;p&gt;&lt;strong&gt;O. It’s not 100% that you will get it.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I’d guess there’s a decent chance you’ll be able avoid it, via reasonable-to-pay costs. For instance, maybe omicron basically brings herd immunity. Maybe rapid tests get more reliable, easy, and cheap. Maybe long covid becomes a bigger concern, and people worry enough to get R0 generally below 1. Or other technologies improve: Fend really does cut covid exhalations massively and is taken up widely, or something like Novid finds a way to be taken up. (Or your path takes you to being a hermit or living in Asia, or we spend next year hiding in bunkers from cyborg bees, and you are glad you didn’t pay all that covid risk up front for parties that aren’t happening.)&lt;/p&gt;
+&lt;p&gt;I’d guess there’s a decent chance you’ll be able avoid it, via reasonable-to-pay costs. For instance, maybe omicron basically brings herd immunity. Maybe rapid tests get more reliable, easy, and cheap. Maybe long covid becomes a bigger concern, and people worry enough to get R0 generally below 1. Or other technologies improve: Fend really does cut covid exhalations massively and is taken up widely, or something like Novid finds a way to be taken up. (Or your path takes you to being a hermit or living in China, or we spend next year hiding in bunkers from cyborg bees, and you are glad you didn’t pay all that covid risk up front for parties that aren’t happening.)&lt;/p&gt;
 
 &lt;p&gt;(If we were doing exactly what we are doing so far, but with air purifiers in most buildings, would R0 would have been ¼ instead of ~1, and would it have died out? Is the problem that we are psychologically incapable of maintaining slightly more caution than needed to keep infections steady?)&lt;/p&gt;
 
-&lt;p&gt;Are things so predictable here?&lt;/p&gt;
+&lt;p&gt;Are things so predictable?&lt;/p&gt;
 
 &lt;!-- bwr while it&apos;s evocative, I might be a bit more circumspect about the shit thing - seems like we find shit disgusting, probably partly because avoiding it has been good on the margin. --&gt;
 
@@ -1368,232 +1692,4 @@ This seems like a qualitatively bad behavior on my part. By virtue of my incoher
 
 &lt;p&gt;&lt;a href=&quot;https://app.photobucket.com/u/katjasgrace/p/3fffa8a1-4e0c-48cf-823e-7aa01f7406d1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://hosting.photobucket.com/images/i/katjasgrace/PXL_20210606_133843306.jpg?width=1920&amp;amp;height=1080&amp;amp;fit=bounds&quot; border=&quot;0&quot; alt=&quot;PXL_20210606_133843306&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Now we are going to the zoo.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="madison" /><category term="mundane" /><category term="worldlypositions" /><summary type="html">I’m on holiday. A basic issue with holidays is that it feels more satisfying and meaningful to do purposeful things, but for a thing to actually serve a purpose, it often needs to pass a higher bar than a less purposeful thing does. In particular, you often have to finish a thing and do it well in order for it to achieve its purpose. And finishing things well is generally harder and less fun than starting them, and so in other ways contrary to holidaying.</summary></entry><entry><title type="html">Coherence arguments imply a force for goal-directed behavior</title><link href="http://localhost:4000/2021/03/26/coherence-arguments-imply-a-force-for-goal-directed-behavior.html" rel="alternate" type="text/html" title="Coherence arguments imply a force for goal-directed behavior" /><published>2021-03-26T21:20:00-07:00</published><updated>2021-03-26T21:20:00-07:00</updated><id>http://localhost:4000/2021/03/26/coherence-arguments-imply-a-force-for-goal-directed-behavior</id><content type="html" xml:base="http://localhost:4000/2021/03/26/coherence-arguments-imply-a-force-for-goal-directed-behavior.html">&lt;p&gt;&lt;em&gt;&lt;em&gt;Crossposted from &lt;a href=&quot;https://aiimpacts.org/&quot;&gt;AI Impacts&lt;/a&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[Epistemic status: my current view, but I haven’t read all the stuff on this topic even in the LessWrong community, let alone more broadly.]&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There is a line of thought that says that advanced AI will tend to be ‘goal-directed’—that is, consistently doing whatever makes certain favored outcomes more likely—and that this is to do with the ‘coherence arguments’. &lt;a href=&quot;https://www.lesswrong.com/posts/NxF5G6CJiof6cemTw/coherence-arguments-do-not-imply-goal-directed-behavior&quot;&gt;Rohin Shah&lt;/a&gt;, and probably others&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; , have argued against this. I want to argue against them.&lt;/p&gt;
-
-&lt;!-- wp:heading --&gt;
-&lt;h2&gt;The old argument for coherence implying (worrisome) goal-directedness&lt;/h2&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;I’d reconstruct the original argument that Rohin is arguing against as something like this (making no claim about my own beliefs here):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;‘Whatever things you care about, you are best off assigning consistent numerical values to them and maximizing the expected sum of those values’&lt;/strong&gt; &lt;br /&gt; ‘Coherence arguments’&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; mean that if you don’t maximize ‘expected utility’ (EU)—that is, if you don’t make every choice in accordance with what gets the highest average score, given consistent preferability scores that you assign to all outcomes—then you will make strictly worse choices by your own lights than if you followed some alternate EU-maximizing strategy (at least in some situations, though they may not arise). For instance, you’ll be vulnerable to ‘&lt;a href=&quot;https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100205601&quot;&gt;money-pumping&lt;/a&gt;’—being predictably parted from your money for nothing.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;‘Advanced AI will tend to do better things instead of worse things, by its own lights’&lt;/strong&gt; &lt;br /&gt;Advanced AI will tend to avoid options that are predictably strictly worse by its own lights, due to being highly optimized for making good choices (by some combination of external processes that produced it, its own efforts, and the selection pressure acting on its existence).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;‘Therefore advanced AI will maximize EU, roughly’&lt;/strong&gt; &lt;br /&gt;Advanced AI will tend to be fairly coherent, at least to a level of approximation where becoming more coherent isn’t worth the cost.&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Which will probably be fairly coherent (e.g. close enough to coherent that &lt;a href=&quot;https://arbital.com/p/optimized_agent_appears_coherent/&quot;&gt;humans can’t anticipate the inconsistencies&lt;/a&gt;).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;‘Maximizing EU is pretty much the same as being goal-directed’&lt;/strong&gt;&lt;br /&gt;To maximize expected utility is to pursue the goal of that which you have assigned higher utility to.&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And since the point of all this is to argue that advanced AI might be hard to deal with, note that we can get to that conclusion with:
-&lt;!--ex--&gt;&lt;/p&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true,&quot;start&quot;:5} --&gt;
-&lt;ol start=&quot;5&quot;&gt;&lt;li&gt;&lt;strong&gt;‘Highly intelligent goal-directed agents are dangerous’&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;If AI systems exist that very competently pursue goals, they will likely be better than us at attaining their goals, and therefore to the extent there is a risk of mismatch between their goals and ours, we face a serious risk.&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;!-- wp:heading --&gt;
-&lt;h2&gt;Rohin’s counterargument&lt;/h2&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;Rohin’s counterargument begins with an observation made by others before: any behavior is consistent with maximizing expected utility, given &lt;em&gt;some&lt;/em&gt; utility function. For instance, a creature just twitching around on the ground may have the utility function that returns 1 if the agent does whatever it in fact does in each situation (where ‘situation’ means, ‘entire history of the world so far’), and 0 otherwise. This is a creature that just wants to make the right twitch in each detailed, history-indexed situation, with no regard for further consequences. Alternately the twitching agent might care about outcomes, but just happen to want the particular holistic unfolding of the universe that is occurring, including this particular series of twitches. Or it could be indifferent between all outcomes.&lt;/p&gt;
-
-&lt;p&gt;The basic point is that rationality doesn’t say what ‘things’ you can want. And in particular, it doesn’t say that you have to care about particular atomic units that larger situations can be broken down into. If I try to call you out for first spending money to get to Paris, then spending money to get back from Paris, there is nothing to say you can’t just have wanted to go to Paris for a bit and then to come home. In fact, this is a common human situation. ‘Aha, I money pumped you!’ says the airline, but you aren’t worried. The twitching agent might always be like this—a creature of more refined tastes, who cares about whole delicate histories and relationships, rather than just summing up modular momentarily-defined successes. And given this freedom, any behavior might conceivably be what a creature wants. &lt;/p&gt;
-
-&lt;p&gt;Then I would put the full argument, as I understand it, like this:&lt;/p&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
-&lt;ol&gt;&lt;li&gt;Any observable sequence of behavior is consistent with the entity doing EU maximization (see observation above)&lt;/li&gt;&lt;li&gt;Doing EU maximization doesn’t imply anything about what behavior we might observe (from 1)&lt;/li&gt;&lt;li&gt;In particular, knowing that a creature is an EU maximizer doesn’t imply that it will behave in a ‘goal-directed’ way, assuming that &lt;em&gt;that&lt;/em&gt; concept doesn’t apply to all behavior. (from 2)&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;p&gt;Is this just some disagreement about the meaning of the word ‘goal-directed’? No, because we can get back to a major difference in physical expectations by adding:&lt;/p&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true,&quot;start&quot;:4} --&gt;
-&lt;ol start=&quot;4&quot;&gt;&lt;li&gt;&amp;nbsp;Not all behavior in a creature implicates dire risk to humanity, so any concept of goal-directedness that is consistent with any behavior—and so might be implied by the coherence arguments—cannot imply AI risk.&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;p&gt;So where the original argument says that the coherence arguments plus some other assumptions imply danger from AI, this counterargument says that they do not. &lt;/p&gt;
-
-&lt;p&gt;(There is also at least some variety in the meaning of ‘goal-directed’. I’ll use goal-directed&lt;sub&gt;Rohin&lt;/sub&gt; to refer to what I think is Rohin’s &lt;a href=&quot;https://www.lesswrong.com/s/4dHMdK5TLN6xcqtyc/p/DfcywmqRSkBaCB6Ma&quot;&gt;preferred&lt;/a&gt; usage: roughly, that which seems intuitively goal directed to us, e.g. behaving similarly across situations, and accruing resources, and not flopping around in possible pursuit of some exact history of personal floppage, or peaceably preferring to always take the option labeled ‘A’.&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
-
-&lt;!-- wp:heading --&gt;
-&lt;h2&gt;My counter-counterarguments&lt;/h2&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;What’s wrong with Rohin’s counterargument? It sounded tight. &lt;/p&gt;
-
-&lt;p&gt;In brief, I see two problems:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A. The whole argument is in terms of logical implication. But what seems to matter is changes in probability. Coherence doesn’t need to rule out any behavior to matter, it just has to change the probabilities of behaviors. Understood in terms of probability, argument 2 is a false inference: just because any sequence of behavior is consistent with EU maximization doesn’t mean that EU maximization says nothing about what behavior we will see, probabilistically. All it says is that the probability of a behavioral sequence is never reduced to zero by considerations of coherence alone, which is hardly saying anything.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You might then think that a probabilistic version still applies: since every entity appears to be in good standing with the coherence arguments, the arguments don’t exert any force, probabilistically, on what entities we might see. But:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;B. An outside observer being able to rationalize a sequence of observed behavior as coherent doesn’t mean that the behavior is actually coherent. Coherence arguments constrain combinations of external behavior and internal features—‘preferences’&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; and beliefs. So whether an actor is coherent depends on what preferences and beliefs it actually has. And if it isn’t coherent in light of these, then coherence pressures will apply, whether or not its behavior &lt;em&gt;looks&lt;/em&gt; coherent. And in many cases, revision of preferences due to coherence pressures will end up affecting external behavior. So 2) is not only not a sound inference from 1), but actually a wrong conclusion: if a system moves toward EU maximization, that does imply things about the behavior that we will observe (probabilistically).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Perhaps Rohin only meant to argue about whether it is &lt;em&gt;logically possible&lt;/em&gt; to be coherent and not goal-directed-seeming, for the purpose of arguing that humanity can construct creatures in that perhaps-unlikely-in-nature corner of mindspace, if we try hard. In which case, I agree that it is logically possible. But I think his argument is often taken to be relevant more broadly, to questions of whether advanced AI will tend to be goal-directed, or to be goal-directed in places where they were not intended to be.&lt;/p&gt;
-
-&lt;p&gt;I take A) to be fairly clear. I’ll lay out B) in more detail.&lt;/p&gt;
-
-&lt;!-- wp:heading --&gt;
-&lt;h2&gt;My counter-counterarguments in more detail&lt;/h2&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
-&lt;h3&gt;&lt;strong&gt;How might coherence arguments affect creatures?&lt;/strong&gt;&lt;/h3&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;Let us step back.&lt;/p&gt;
-
-&lt;p&gt;How would coherence arguments affect an AI system—or anyone—anyway? They’re not going to fly in from the platonic realm and reshape irrational creatures.&lt;/p&gt;
-
-&lt;p&gt;The main routes, as I see it, are via implying:&lt;/p&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
-&lt;ol&gt;&lt;li&gt;incentives for the agent itself to reform incoherent preferences&lt;/li&gt;&lt;li&gt;incentives for the processes giving rise to the agent (explicit design, or selection procedures directed at success) to make them more coherent&lt;/li&gt;&lt;li&gt;some advantage for coherent agents in competition with incoherent agents&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;p&gt;To be clear, the agent, the makers, or the world are not necessarily thinking about the arguments here—the arguments correspond to incentives in the world, which these parties are responding to. So I’ll often talk about ‘incentives for coherence’ or ‘forces for coherence’ rather than ‘coherence arguments’.&lt;/p&gt;
-
-&lt;p&gt;I’ll talk more about 1 for simplicity, expecting 2 and 3 to be similar, though I haven’t thought them through.&lt;/p&gt;
-
-&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
-&lt;h3&gt;&lt;strong&gt;&lt;em&gt;Looking&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt; coherent isn’t enough: if you aren’t coherent inside, coherence forces apply&lt;/strong&gt;&lt;/h3&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;If self-adjustment is the mechanism for the coherence, this doesn’t depend on what a sequence of actions looks like from the outside, but from what it looks like from the inside.&lt;/p&gt;
-
-&lt;p&gt;Consider the aforementioned creature just twitching sporadically on the ground. Let’s call it Alex.&lt;/p&gt;
-
-&lt;p&gt;As noted earlier, there is a utility function under which Alex is maximizing expected utility: the one that assigns utility 1 to however Alex in fact acts in every specific history, and utility 0 to anything else.&lt;/p&gt;
-
-&lt;p&gt;But from the inside, this creature you excuse as ‘maybe just wanting that series of twitches’ has—let us suppose—actual preferences and beliefs. And if its preferences do not in fact prioritize this elaborate sequence of twitching in an unconflicted way, and it has the self-awareness and means to make corrections, then it will make corrections&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. And having done so, its behavior will change. &lt;/p&gt;
-
-&lt;p&gt;Thus excusable-as-coherent Alex is still moved by coherence arguments, even while the arguments have no complaints about its behavior &lt;em&gt;per se&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;For a more realistic example: suppose Assistant-Bot is observed making this sequence of actions: &lt;/p&gt;
-
-&lt;!-- wp:list --&gt;
-&lt;ul&gt;&lt;li&gt;Offers to buy gym membership for $5/week&amp;nbsp;&lt;/li&gt;&lt;li&gt;Consents to upgrade to gym-pro membership for $7/week, which is like gym membership but with added morning classes&lt;/li&gt;&lt;li&gt;Takes discounted ‘off-time’ deal, saving $1 per week for only using gym in evenings&lt;/li&gt;&lt;/ul&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;p&gt;This is consistent with coherence: Assistant-Bot might prefer that exact sequence of actions over all others, or might prefer incurring gym costs with a larger sum of prime factors, or might prefer talking to Gym-sales-bot over ending the conversation, or prefer agreeing to things.&lt;/p&gt;
-
-&lt;p&gt;But suppose that &lt;em&gt;in fact&lt;/em&gt;, in terms of the structure of the internal motivations producing this behavior, Assistant-Bot just prefers you to have a gym membership, and prefers you to have a better membership, and prefers you to have money, but is treating these preferences with inconsistent levels of strength in the different comparisons. Then there appears to be a coherence-related force for Assistant-Bot to change. One way that that could look is that since Assistant-Bot’s overall behavioral policy currently entails giving away money for nothing, and also Assistant-Bot prefers money over nothing, that preference gives Assistant-Bot reason to alter its current overall policy, to avert the ongoing exchange of money for nothing.&lt;sup id=&quot;fnref:10&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; And if its behavioral policy is arising from something like preferences, then the natural way to alter it is via altering those preferences, and in particular, altering them in the direction of coherence.&lt;/p&gt;
-
-&lt;p&gt;One issue with this line of thought is that it’s not obvious in what sense there is anything inside a creature that corresponds to ‘preferences’. Often when people posit preferences, the preferences are defined in terms of behavior. Does it make sense to discuss different possible ‘internal’ preferences, distinct from behavior? I find it helpful to consider the behavior and ‘preferences’ of groups:&lt;/p&gt;
-
-&lt;p&gt;Suppose two cars are parked in driveways, each containing a couple. One couple are just enjoying hanging out in the car. The other couple are dealing with a conflict: one wants to climb a mountain together, and the other wants to swim in the sea together, and they aren’t moving because neither is willing to let the outing proceed as the other wants. ‘Behaviorally’, both cars are the same: stopped. But their internal parts (the partners) are importantly different. And in the long run, we expect different behavior: the car with the unconflicted couple will probably stay where it is, and the conflicted car will (hopefully) eventually resolve the conflict and drive off.&lt;/p&gt;
-
-&lt;p&gt;I think here it makes sense to talk about internal parts, separate from behavior, and real. And similarly in the single agent case: there are physical mechanisms producing the behavior, which can have different characteristics, and which in particular can be ‘in conflict’—in a way that motivates change—or not. I think it is also worth observing that humans find their preferences ‘in conflict’ and try to resolve them, which is suggests that they at least are better understood in terms of both behavior and underlying preferences that are separate from it. &lt;/p&gt;
-
-&lt;p&gt;So we have: even if you can excuse any seizuring as consistent with coherence, coherence incentives still exert a force on creatures that are&lt;em&gt; in fact&lt;/em&gt; incoherent, given their real internal state (or would be incoherent if created). At least if they or their creator have machinery for noticing their incoherence, caring about it, and making changes.&lt;/p&gt;
-
-&lt;p&gt;Or put another way, coherence doesn’t exclude overt behaviors alone, but does exclude combinations of preferences, and preferences beget behaviors. This changes how specific creatures behave, even if it doesn’t entirely rule out any behavior ever being correct for some creature, somewhere. &lt;/p&gt;
-
-&lt;p&gt;That is, the coherence theorems may change what behavior is &lt;em&gt;likely&lt;/em&gt; to appear amongst creatures with preferences. &lt;/p&gt;
-
-&lt;!-- wp:heading {&quot;level&quot;:3} --&gt;
-&lt;h3&gt;&lt;strong&gt;Reform for coherence probably makes a thing more goal-directed&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;Rohin&lt;/sub&gt;&lt;/strong&gt;&lt;/h3&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;Ok, but moving toward coherence might sound totally innocuous, since, per Rohin’s argument, coherence includes all sorts of things, such as absolutely any sequence of behavior. &lt;/p&gt;
-
-&lt;p&gt;But the relevant question is again whether a coherence-increasing reform process is likely to result in some kinds of behavior over others, probabilistically.&lt;/p&gt;
-
-&lt;p&gt;This is partly a practical question—what kind of reform process is it? Where a creature ends up depends not just on what it incoherently ‘prefers’, but on what kinds of things its so-called ‘preferences’ are at all&lt;sup id=&quot;fnref:11&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;, and what mechanisms detect problems, and how problems are resolved.&lt;/p&gt;
-
-&lt;p&gt;My guess is that there are also things we can say in general. It’s is too big a topic to investigate properly here, but some initially plausible hypotheses about a wide range of coherence-reform processes:&lt;/p&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;
-&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Coherence-reformed entities will tend to end up looking similar to their starting point but less conflicted&lt;br /&gt;&lt;/strong&gt;For instance, if a creature starts out being indifferent to buying red balls when they cost between ten and fifteen blue balls, it is more likely to end up treating red balls as exactly 12x the value of blue balls than it is to end up very much wanting the sequence where it takes the blue ball option, then the red ball option, then blue, red, red, blue, red. Or wanting red squares. Or wanting to ride a dolphin.&lt;br /&gt;&lt;br /&gt;(I agree that if a creature starts out valuing Tuesday-red balls at fifteen blue balls and yet all other red balls at ten blue balls, then it faces no obvious pressure from within to become ‘coherent’, since it is not incoherent.)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;More coherent strategies are systematically less wasteful, and waste inhibits goal-direction&lt;sub&gt;Rohin&lt;/sub&gt;, which means more coherent strategies are more forcefully goal-directed&lt;sub&gt;Rohin&lt;/sub&gt; on average&lt;/strong&gt;&lt;br /&gt;In general, if you are sometimes a force for A and sometimes a force against A, then you are not moving the world with respect to A as forcefully as you would be if you picked one or the other. Two people intermittently changing who is in the driving seat, who want to go to different places, will not cover distance in any direction as effectively as either one of them. A company that cycles through three CEOs with different evaluations of everything will—even if they don’t actively scheme to thwart one another—tend to waste a lot of effort bringing in and out different policies and efforts (e.g. one week trying to expand into textiles, the next week trying to cut everything not involved in the central business).&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true,&quot;start&quot;:3} --&gt;
-&lt;ol start=&quot;3&quot;&gt;&lt;li&gt;&lt;strong&gt;Combining points 1 and 2 above, as entities become more coherent, they generally become more goal-directed&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;Rohin&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;. &lt;/strong&gt;As opposed to, for instance, becoming more goal-directed&lt;sub&gt;Rohin&lt;/sub&gt; &lt;em&gt;on average,&lt;/em&gt; but individual agents being about as likely to become worse as better as they are reformed. Consider: a creature that values red balls at 12x blue balls is very similar to one that values them inconsistently, except a little less wasteful. So it is probably similar but more goal-directed&lt;sub&gt;Rohin&lt;/sub&gt;. Whereas it’s fairly unclear how goal-directed&lt;sub&gt;Rohin &lt;/sub&gt;a creature that wants to ride a dolphin is compared to one that wanted red balls inconsistently much. In a world with lots of balls and no possible access to dolphins, it might be much less goal-directed&lt;sub&gt;Rohin&lt;/sub&gt;, in spite of its greater coherence.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;!-- wp:list {&quot;ordered&quot;:true,&quot;start&quot;:4} --&gt;
-&lt;ol start=&quot;4&quot;&gt;&lt;li&gt;&lt;strong&gt;Coherence-increasing processes rarely lead to non-goal-directed&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;Rohin&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt; agents—like the one that twitches on the ground&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;In the abstract, few starting points and coherence-motivated reform processes will lead to an agent with the goal of carrying out a specific convoluted moment-indexed policy without regard for consequence, like Rohin’s twitching agent, or to valuing the sequence of history-action pairs that will happen anyway, or to being indifferent to everything. And these outcomes will be even less likely in practice, where AI systems with anything like preferences probably start out caring about much more normal things, such as money and points and clicks, so will probably land at a more consistent and shrewd version of that, if 1 is true. (Which is not to say that you couldn’t intentionally create such a creature.)&lt;br /&gt;&lt;/li&gt;&lt;/ol&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;p&gt;These hypotheses suggest to me that the changes in behavior brought about by coherence forces favor moving toward goal-directedness&lt;sub&gt;Rohin&lt;/sub&gt;, and therefore at least weakly toward risk.&lt;/p&gt;
-
-&lt;!-- wp:heading --&gt;
-&lt;h2&gt;Does this mean advanced AI will be goal-directed&lt;sub&gt;Rohin&lt;/sub&gt;?&lt;/h2&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;Together, this does not imply that advanced AI will tend to be goal-directed&lt;sub&gt;Rohin&lt;/sub&gt;. We don’t know how strong such forces are. Evidently not so strong that humans&lt;sup id=&quot;fnref:12&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;, or our other artifacts, are whipped into coherence in mere hundreds of thousands of years&lt;sup id=&quot;fnref:13&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:13&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;. If a creature doesn’t have anything like preferences (beyond a tendency to behave certain ways), then coherence arguments don’t obviously even apply to it (though discrepancies between the creature’s behavior and its makers’ preferences probably produce an analogous force&lt;sup id=&quot;fnref:14&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:14&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt; and competitive pressures probably produce a similar force for coherence in valuing resources instrumental to survival). Coherence arguments mark out an aspect of the incentive landscape, but to say that there is an incentive for something, all things equal, is not to say that it will happen.&lt;/p&gt;
-
-&lt;!-- wp:heading --&gt;
-&lt;h2&gt;In sum&lt;/h2&gt;
-&lt;!-- /wp:heading --&gt;
-
-&lt;p&gt;1) Even though any behavior could be coherent in principle, if it is not coherent in combination with an entity’s internal state, then coherence arguments point to a real force for different (more coherent) behavior.&lt;/p&gt;
-
-&lt;p&gt;2) My guess is that this force for coherent behavior is also a force for goal-directed behavior. This isn’t clear, but seems likely, and also isn’t undermined by Rohin’s argument, as seems commonly believed.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;wp-block-image size-large is-resized&quot;&gt;
-  &lt;p&gt;&lt;a href=&quot;http://aiimpacts.org/wp-content/uploads/2021/03/Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880-scaled.jpeg&quot;&gt;&lt;img src=&quot;http://aiimpacts.org/wp-content/uploads/2021/03/Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880-1024x804.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2877&quot; width=&quot;768&quot; height=&quot;603&quot; /&gt;&lt;/a&gt;&lt;em&gt;Two dogs attached to the same leash are pulling in different directions&lt;/em&gt;. &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Two_dogs_attached_to_the_same_leash_are_pulling_in_different_Wellcome_V0021880.jpg&quot;&gt;Etching by J. Fyt&lt;/a&gt;, &lt;a href=&quot;https://catalogue.wellcomelibrary.org/record=b1199389&quot;&gt;1642&lt;/a&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-  &lt;!-- wp:separator --&gt;
-  &lt;hr /&gt;
-
-  &lt;!-- /wp:separator --&gt;
-
-  &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;/figure&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;For instance, Richard Ngo agrees &lt;a href=&quot;https://www.lesswrong.com/posts/vphFJzK3mWA4PJKAg/coherent-behaviour-in-the-real-world-is-an-incoherent&quot;&gt;here&lt;/a&gt;, and Eric Drexler makes a related argument &lt;a href=&quot;https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf&quot;&gt;here&lt;/a&gt;, section 6.4. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Something something &lt;a href=&quot;https://arbital.com/p/expected_utility_formalism/?l=7hh&quot;&gt;This&lt;/a&gt; has more on these arguments. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I haven’t read all of this, and don’t yet see watertight versions of these arguments, but this is not the time I’m going to get into that. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Assuming being ‘more coherent’ is meaningful and better than being ‘less coherent’, granting that one is not coherent, which sounds plausible, but which I haven’t got into. One argument against is that if you are incoherent at all, then it looks to me like you can logically evaluate any bundle of things at any price. Which would seem to make all incoherences identical—much like how all logical contradictions equivalently lead to every belief. However this seems unlikely to predict well how creatures behave in practice if they have an incoherent preferences. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;This isn’t quite right, since ‘goal’ suggests one outcome that is being pursued ahead of all others, whereas EU-maximizing implies that all possible outcomes have an ordering, and you care about getting higher ones in general, not just the top one above all others, but this doesn’t seem like a particularly relevant distinction here. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I am not sold on this usage myself for ‘goal-directed’—there is an appeal to using that phrase for ‘pursues goals’ in its most basic sense, but I am also tentatively in favor of having as many concepts as possible. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;It seems perhaps misleading to call these ‘preferences’, if they are incoherent, and so do not together implicate orderings of outcomes being better than one another. If a creature is not coherent, what are even the objects of its decision calculus? I am inclined to think in terms of ‘decision criteria’, e.g. ‘given X and Y, choose X’, and ‘given Y and Z, choose Y’, which don’t necessarily imply anything about ‘given Z and X, choose …’, but I haven’t thought about this much, and it seems like a technical detail of the creature in question. Whatever they are though, if the creature has behavior, then there are internal dynamics that produce it. When exactly an aspect of these should be considered a ‘preference’ for the sake of this argument isn’t entirely clear to me, but would seem to depend on something like whether it tends to produce actions favoring certain outcomes over other outcomes across a range of circumstances (similar to the unclear definition of ‘agent’). &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The ‘right’ way to correct your own incoherent preferences seems complicated and not obviously well defined or existent, and perhaps there is not much more to say than that what you do will depend on your design. It’s also not clear to me that a genuinely incoherent creature should necessarily want to reform, by its own lights, but that is a question for another time—here I’m assuming that the coherence arguments do have this implication that seems commonly attributed to them. My guess is that in practice, such creatures often do want to reform, and exactly how they do it doesn’t matter for my argument here. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I’m describing the force potentially felt by Assistant-Bot itself, but to the extent that its makers, or users also have preferences for money over nothing, and wish to use Assistant-Bot, and can alter it, they would seem to have similar incentives to mitigate its self-defeating behavior. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The creature’s ‘preferences’ can’t be in terms of consistent numerical values assigned to everything, because those would be consistent. So what are they? For instance, one might imagine that they are pairwise comparisons between some kind of things (which can include ‘A &amp;gt; B’ and ‘B &amp;gt; C’ and ‘C &amp;gt; A’), or that they are a set of ‘situation—&amp;gt;action’ mappings, or they are a noisy ‘options—&amp;gt;feelings’ mapping combined with a set of deontological constraints over actions and feelings (‘choose things you feel better about, except don’t choose things out of selfishness, except when you feel more than 50% scared…’, etc. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:12&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;For instance, humans are insistently incoherent on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Allais_paradox&quot;&gt;Allais paradox&lt;/a&gt;. &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:13&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;That seems pretty interesting—but note that well-designed computers have been known to do things that took humans participating in biological and cultural evolution hundreds of thousands of years before, so inference here not straightforward, and the forces of coherence depend on the costs of reform, which depend on the machinery for it. Also, we don’t know what other forces were in play—there might even have been forces for apparent incoherence, e.g. insofar as hypocrisy can benefit social animals, and dishonesty is complicated (&lt;a href=&quot;https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995&quot;&gt;The Elephant in the Brain&lt;/a&gt; discusses such ideas). &lt;a href=&quot;#fnref:13&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:14&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;For instance, the coherent creature that evaluates red balls differently on Tuesday and Wednesday might be in conflict with its creators, if they have a more consistent red ball evaluation, giving them reason to reform it. You might class this under the question, ‘what kinds of advanced AI will people want?’, but the reason for it is very similar to the reasons for internal pressure for coherence. If you refuse to pay $13 for a red ball, and your AI then goes out and buys you one for $15 because it is Tuesday, then the pair of you together could have done better. &lt;a href=&quot;#fnref:14&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Katja Grace</name></author><category term="ai" /><category term="airisk" /><summary type="html">Crossposted from AI Impacts [Epistemic status: my current view, but I haven’t read all the stuff on this topic even in the LessWrong community, let alone more broadly.] There is a line of thought that says that advanced AI will tend to be ‘goal-directed’—that is, consistently doing whatever makes certain favored outcomes more likely—and that this is to do with the ‘coherence arguments’. Rohin Shah, and probably others1 , have argued against this. I want to argue against them. The old argument for coherence implying (worrisome) goal-directedness I’d reconstruct the original argument that Rohin is arguing against as something like this (making no claim about my own beliefs here): ‘Whatever things you care about, you are best off assigning consistent numerical values to them and maximizing the expected sum of those values’ ‘Coherence arguments’2 mean that if you don’t maximize ‘expected utility’ (EU)—that is, if you don’t make every choice in accordance with what gets the highest average score, given consistent preferability scores that you assign to all outcomes—then you will make strictly worse choices by your own lights than if you followed some alternate EU-maximizing strategy (at least in some situations, though they may not arise). For instance, you’ll be vulnerable to ‘money-pumping’—being predictably parted from your money for nothing.3 ‘Advanced AI will tend to do better things instead of worse things, by its own lights’ Advanced AI will tend to avoid options that are predictably strictly worse by its own lights, due to being highly optimized for making good choices (by some combination of external processes that produced it, its own efforts, and the selection pressure acting on its existence). ‘Therefore advanced AI will maximize EU, roughly’ Advanced AI will tend to be fairly coherent, at least to a level of approximation where becoming more coherent isn’t worth the cost.4 Which will probably be fairly coherent (e.g. close enough to coherent that humans can’t anticipate the inconsistencies). ‘Maximizing EU is pretty much the same as being goal-directed’To maximize expected utility is to pursue the goal of that which you have assigned higher utility to.5 And since the point of all this is to argue that advanced AI might be hard to deal with, note that we can get to that conclusion with: For instance, Richard Ngo agrees here, and Eric Drexler makes a related argument here, section 6.4. &amp;#8617; Something something This has more on these arguments. &amp;#8617; I haven’t read all of this, and don’t yet see watertight versions of these arguments, but this is not the time I’m going to get into that. &amp;#8617; Assuming being ‘more coherent’ is meaningful and better than being ‘less coherent’, granting that one is not coherent, which sounds plausible, but which I haven’t got into. One argument against is that if you are incoherent at all, then it looks to me like you can logically evaluate any bundle of things at any price. Which would seem to make all incoherences identical—much like how all logical contradictions equivalently lead to every belief. However this seems unlikely to predict well how creatures behave in practice if they have an incoherent preferences. &amp;#8617; This isn’t quite right, since ‘goal’ suggests one outcome that is being pursued ahead of all others, whereas EU-maximizing implies that all possible outcomes have an ordering, and you care about getting higher ones in general, not just the top one above all others, but this doesn’t seem like a particularly relevant distinction here. &amp;#8617;</summary></entry></feed>
+&lt;p&gt;Now we are going to the zoo.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="madison" /><category term="mundane" /><category term="worldlypositions" /><summary type="html">I’m on holiday. A basic issue with holidays is that it feels more satisfying and meaningful to do purposeful things, but for a thing to actually serve a purpose, it often needs to pass a higher bar than a less purposeful thing does. In particular, you often have to finish a thing and do it well in order for it to achieve its purpose. And finishing things well is generally harder and less fun than starting them, and so in other ways contrary to holidaying.</summary></entry></feed>
