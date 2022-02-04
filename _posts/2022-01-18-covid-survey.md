@@ -5,7 +5,7 @@ date: 2022-01-17 22:05:00 -0700
 tags: covid advice
 comments: true
 image: https://photobucket.com/u/katjasgrace/p/ad7dcf12-e166-4214-a4fa-6e7ff1f4972a
-summary: In a small survey, a quarter of covid-infected people seemed to have ongoing problems more than two months after recovery, most of which they say impact their lives a lot.
+summary: In a small survey, a quarter of covid-infected people seemed to have ongoing problems more than two months after recovery, most of which they say impact their lives a lot.    
 ---
 Here are some more careful results from a [survey](https://worldspiritsockpuppet.com/2022/01/14/preliminary-long-covid-survey.html) I ran the other day on [Positly](https://app.positly.com/), to test whether it's trivial to find people who have had their lives seriously impacted by long covid, and to get a better sense of the distribution of what people mean by things like 'brain fog', in bigger, vaguer, research efforts.<!--ex-->
 
