@@ -36,9 +36,10 @@ markdown: kramdown
 # configure kramdown
 kramdown:
   parse_block_html: true
-  
+
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 feed:
   tags: true
@@ -55,6 +56,9 @@ disqus:
   shortname: worldspiritsockpuppet
 
 author: Katja Grace
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
