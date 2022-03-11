@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<a href=/index.html>HOME</a> &mdash; <a href=/full.html>FULL</a> &mdash; <a href=/list.html>LIST</a> &mdash; <a href=/worldlypositions.html>WORLDLY POSITIONS</a> &mdash; <a href=/meteuphoric.html><b>METEUPHORIC</b></a>
+<br>
+<br>
 
 <div class="home">
   {%- if page.title -%}
@@ -11,29 +14,9 @@ layout: default
 
 &nbsp;
 
-  {%- if site.posts.size > 0 -%}
-<!---    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>--->
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-        {% if post.tags contains "meteuphoric" %}
-        <li>
-          <!---{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}--->
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          {{ post.content }}
-          <!-- {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%} -->
-        </li>
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed/by_tag/meteuphoric.xml" | relative_url }}">via RSS feed</a> or <a href="{{ "/subscribe-form.html" | relative_url }}">via email</a></p>
-  {%- endif -%}
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed/by_tag/meteuphoric.xml" | relative_url }}">via RSS feed</a> or <a href="{{ "/subscribe-form.html" | relative_url }}">via email</a></p>
+
 
 </div>

@@ -1,0 +1,48 @@
+---
+layout: home
+title:
+---
+<a href=/index.html><b>HOME</b></a> &mdash; <a href=/full.html>FULL</a> &mdash; <a href=/list.html>LIST</a> &mdash; <a href=/worldlypositions.html>WORLDLY POSITIONS</a> &mdash; <a href=/meteuphoric.html>METEUPHORIC</a>
+<br>
+<br>
+
+<!-- This loops through the paginated posts -->
+<ul class="post-list">
+  {% for post in paginator.posts %}
+    <li>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}</a><span class="post-meta"> {{ post.date | date: "%b %d, %Y" }}</span>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}{% if post.content.size > post.excerpt.size %}<a href="{{ post.url | relative_url }}" span class="post-meta">{{ '&#8594;' }}</a>{%- endif -%}
+      {%- endif -%}
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+<!-- Feel free to add content and custom Front Matter to this file.
+To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults [message that came with blog I think]
+
+Originally I had a file index.markdown, which I replaced with this one in order to try to get pagination to work.
+I also added two loops to a mostly empty page for that.-->
