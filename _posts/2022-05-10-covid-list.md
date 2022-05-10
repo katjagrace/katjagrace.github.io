@@ -11,7 +11,7 @@ In case anyone wants a rough and likely inaccurate guide to what I might do if I
 
 <a href="https://photobucket.com/u/katjasgrace/p/0dc9afd2-c217-4caa-8921-429331332c31" target="_blank"><img src="https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-05-07_at_1.35.17_PM.png?width=960&height=720&fit=bounds" border="0" alt="Screen_Shot_2022-05-07_at_1.35.17_PM"/></a><!--ex-->
 
-[Here's](https://docs.google.com/document/d/11cF4k9NUltfiEYv8yhsw2Ku8qRITQY5IqxJ71jFpVO4/edit?usp=sharing) a Google doc version, where any comments you leave might be seen by the next person looking.
+[Here's](https://docs.google.com/document/d/11cF4k9NUltfiEYv8yhsw2Ku8qRITQY5IqxJ71jFpVO4/edit?usp=sharing) a Google doc version, where any comments you leave might be seen by the next person looking (and you might see comments added by others).
 
 [Here's](https://docs.google.com/document/d/10awWMz3DyJi2OibnVlMg-2sipWfZ3jm8P_MyLUbK_ZE/edit?usp=sharing) a much longer doc with the reasoning, citations and more comments.
 
