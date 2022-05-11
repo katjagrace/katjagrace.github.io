@@ -4,7 +4,7 @@ title: "Stuff I might do if I had covid"
 date: 2022-05-10 16:50:00 -0700
 tags: covid advice
 comments: true
-image: https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-05-07_at_1.35.17_PM.png?width=960&height=720&fit=bounds
+image: https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-05-07_at_1.35.17_PM.png
 summary: What a non-expert might do if they had covid.
 ---
 In case anyone wants a rough and likely inaccurate guide to what I might do if I had covid to mitigate it, I looked into this a bit recently and wrote notes. It's probably better than if one's plan was to do less than a few hours of research, but is likely flawed all over the place and wasn't written with public sharing in mind, and um, isn't medical advice:  
