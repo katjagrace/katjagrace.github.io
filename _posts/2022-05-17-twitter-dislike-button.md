@@ -4,7 +4,7 @@ title: "Proposal: Twitter dislike button"
 date: 2022-05-17 12:21:00 -0700
 tags: advice institutiondesign twitter
 comments: true
-image: https://hosting.photobucket.com/images/i/katjasgrace/downvote.png
+image: https://hosting.photobucket.com/images/i/katjasgrace/downvote2.png
 summary: What if writing trash on Twitter got less attention instead of more attention?
 ---
 The popular story of Twitter's role in the ruin of civilization is that it is a runaway trash fire of reciprocal anger and offense, where otherwise nice people are possessed by overwhelming outrages, and drawn into throwing their own energy behind creating the vilest and most vindictive responses to what they see, turning away from reason and hurting others in turn, and so the place continues.<!--ex-->
