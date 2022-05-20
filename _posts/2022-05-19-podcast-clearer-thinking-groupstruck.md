@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podcast: Spencer Greenberg talks to me about dealing with our groupstruckness and boundedness"
+title: "Podcast: with Spencer Greenberg on groupstruckness and boundedness"
 date: 2022-05-19 20:57:00 -0700
 tags: podcast sociology psychology decisionmaking anthropics
 comments: true
