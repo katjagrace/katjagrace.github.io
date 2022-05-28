@@ -19,4 +19,5 @@ Sometimes I get excited about running surveys. [Here](https://docs.google.com/sp
 8. Are you paying attention to the US election?
 9. What was the biggest news story this year?
 
-I don't recall any notable constraints other than the India location requirement, but I barely remember doing this.
+<br>
+I don't recall any notable constraints other than the location requirement, but I barely remember doing this.
