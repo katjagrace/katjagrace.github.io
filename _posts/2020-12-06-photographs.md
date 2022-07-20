@@ -7,7 +7,7 @@ comments: true
 image:
 summary:
 ---
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lRoMfR0" data-context="false" ><a href="//imgur.com/a/lRoMfR0">Near Sutro Tower</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Near Sutro Tower](https://hosting.photobucket.com/images/i/katjasgrace/8F8qDbv.jpeg)
 
 A photograph taken during a discussion of how photographs often fail to capture scenes.
 
@@ -20,3 +20,5 @@ For a mundane example, it would need to make the moon appear big, when a camera 
 With sufficiently good what-it-seemed-like-to-the-photographer cameras, we could make substantial progress on bridging the gaping gaps between different minds.
 
 For now, I suppose you can always edit the colors a bit.
+
+<!-- Original image link: <blockquote class="imgur-embed-pub" lang="en" data-id="a/lRoMfR0" data-context="false" ><a href="//imgur.com/a/lRoMfR0">Near Sutro Tower</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
