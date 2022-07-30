@@ -131,8 +131,8 @@ a {
  */
 blockquote {
   color: $grey-color;
-  border-left: 16px solid $grey-color-light;// 4px
-  padding-left: $spacing-unit * 2;//divided by 2
+  border-left: 1px solid $grey-color;// 4px
+  padding-left: $spacing-unit;//divided by 2
   padding-right: $spacing-unit * 2;//added by me
   padding-top: 10px;
   padding-bottom: 10px;
