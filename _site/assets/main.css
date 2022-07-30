@@ -1,9 +1,8 @@
-@font-face { font-family: 'benneregular'; src: url("benne-regular-webfont.woff2") format("woff2"), url("benne-regular-webfont.woff") format("woff"); font-weight: normal; font-style: normal; }
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 200 18px/1.5 "benneregular", "Optima", Baskerville, Benne, Georgia, "GTAmericaMono-Light", "Editor-Regular", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+body { font: 400 18px/1.5 "benneregular", "Optima", Baskerville, Georgia, "GTAmericaMono-Light", "Editor-Regular", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -25,7 +24,7 @@ ul, ol { margin-left: 30px; }
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 200; }
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
 a { color: #15317E; text-decoration: underline; }
@@ -198,6 +197,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .full-width { left: 50%; margin-left: -50vw; margin-right: -50vw; max-width: 100vw; position: relative; right: 50%; width: 100vw; }
 
+@font-face { font-family: 'benneregular'; src: url("/benne-regular-webfont.woff2") format("woff2"), url("/benne-regular-webfont.woff") format("woff"); }
 h1 { font-size: 32px; }
 
 h2 { font-size: 28px !important; }
