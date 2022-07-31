@@ -2,8 +2,9 @@
 layout: page
 title: Subscribe
 permalink: /subscribe/
+symbol: #https://static.vecteezy.com/system/resources/previews/002/332/861/original/rss-feed-icon-free-vector.jpg
 ---
-## ...to everything
+## ...to everything:
 <ul class="rss-subscribe">
 <li><a href="{{ "/feed.xml" | relative_url }}">RSS feed</a></li>
 <li><a href="{{ "/subscribe-form.html" | relative_url }}">Email (Mailchimp)</a></li>

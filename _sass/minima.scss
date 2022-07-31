@@ -346,6 +346,7 @@ $on-laptop:        800px !default;
   }
 }
 
+
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
@@ -518,6 +519,17 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+//Just for the list page
+#archive-list {
+  margin-left: 0;
+  list-style: none;
+  font-size: $small-font-size;
+  color: $brand-color !important;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
 
 
 h3 a {
@@ -559,6 +571,10 @@ a {
     //text-decoration: underline;
   }
 
+  &.archive-list {
+    color: $brand-color !important;
+  }
+
   .social-media-list &:hover {
     text-decoration: none;
 
@@ -567,7 +583,6 @@ a {
     }
   }
 }
-
 
 
 
