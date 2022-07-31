@@ -5,9 +5,27 @@
 layout: home_worldlypositions
 # title: Worldly Positions
 ---
+<a href=/index.html>EVERYTHING</a> &mdash; <a href=/worldlypositions.html>WORLDLY POSITIONS</a> &mdash; <a href=/meteuphoric.html>METEUPHORIC</a>
+<br>
+<br>
 
-<!-- [HOME](/index.markdown) --- [FULL](/full.markdown) --- [LIST](/list.markdown) --- [**WORLDLY POSITIONS**](/worldlypositions.markdown) --- [METEUPHORIC](meteuphoric.markdown)
-<br> -->
-<a href=/index.html>HOME</a> &mdash; <a href=/full.html>FULL</a> &mdash; <a href=/list.html>LIST</a> &mdash; <a href=/worldlypositions.html><b>WORLDLY POSITIONS</b></a> &mdash; <a href=/meteuphoric.html>METEUPHORIC</a>
-<br>
-<br>
+{%- if site.posts.size > 0 -%}
+<!---    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>--->
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+      {% if post.tags contains "worldlypositions" %}
+      <li>
+        <!---{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}--->
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}</a><span class="post-meta"> {{ post.date | date: date_format }}</span>
+        </h3>
+        {{ post.content }}
+        <!-- {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%} -->
+      </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

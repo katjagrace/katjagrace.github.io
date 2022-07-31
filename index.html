@@ -2,7 +2,7 @@
 layout: home
 title:
 ---
-<a href=/index.html><b>HOME</b></a> &mdash; <a href=/full.html>FULL</a> &mdash; <a href=/list.html>LIST</a> &mdash; <a href=/worldlypositions.html>WORLDLY POSITIONS</a> &mdash; <a href=/meteuphoric.html>METEUPHORIC</a>
+<a href=/index.html><b>EVERYTHING</b></a> &mdash; <a href=/worldlypositions.html>WORLDLY POSITIONS</a> &mdash; <a href=/meteuphoric.html>METEUPHORIC</a>
 <br>
 <br>
 
@@ -15,7 +15,7 @@ title:
           {{ post.title | escape }}</a><span class="post-meta"> {{ post.date | date: "%b %d, %Y" }}</span>
       </h3>
       {%- if site.show_excerpts -%}
-        {{ post.excerpt }}{% if post.content.size > post.excerpt.size %}<a href="{{ post.url | relative_url }}" span class="post-meta">{{ '&#8594;' }}</a>{%- endif -%}
+        {{ post.excerpt }}{% if post.content.size > post.excerpt.size %}<a href="{{ post.url | relative_url }}" span class="post-meta">{{ 'Continue reading &#8594;' }}</a>{%- endif -%}
       {%- endif -%}
     </li>
   {% endfor %}
