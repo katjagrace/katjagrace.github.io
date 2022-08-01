@@ -3,6 +3,8 @@ layout: page
 title: Subscribe
 permalink: /subscribe/
 symbol: #https://static.vecteezy.com/system/resources/previews/002/332/861/original/rss-feed-icon-free-vector.jpg
+featured-img: https://hosting.photobucket.com/images/i/katjasgrace/lettershelvestwotonesmall4.png
+fim-offset: 0% 0%
 ---
 ## ...to everything:
 <ul class="rss-subscribe">

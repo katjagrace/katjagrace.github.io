@@ -6,6 +6,8 @@ tags: book review
 comments: true
 image:
 summary:
+featured-img: https://hosting.photobucket.com/images/i/katjasgrace/pexels-eskil-bjerkestrand-24142972tone4.png
+fim-offset: 50% 50%
 ---
 <p>
 <span class="aside">Spoiler warning: spoilers for The Passenger by Lisa Lutz, and In the Cart, by Anton Chekhov.
