@@ -4,10 +4,50 @@
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
  <link>http://localhost:4000</link>
- <lastBuildDate>Sun, 31 Jul 2022 22:59:13 -0700</lastBuildDate>
- <pubDate>Sun, 31 Jul 2022 22:59:13 -0700</pubDate>
+ <lastBuildDate>Fri, 05 Aug 2022 00:23:01 -0700</lastBuildDate>
+ <pubDate>Fri, 05 Aug 2022 00:23:01 -0700</pubDate>
  <ttl>1800</ttl>
 
+ 
+ <item>
+  <title>What do ML researchers think about AI in 2022?</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p><em>Crossposted from <a href="https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/">AI Impacts</a></em></p>
+
+<p>AI Impacts just finished collecting data from a new survey of ML researchers, as similar to the <a href="https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/" data-type="post" data-id="753">2016 one</a> as practical, aside from a couple of new questions that seemed too interesting not to add.<!--ex--></p>
+
+<p><a href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" data-type="post" data-id="3246">This page</a> reports on it preliminarily, and we’ll be adding more details there. But so far, some things that might interest you:</p>
+
+<ul><li><strong>37 years until a 50% chance of <a href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/#Definitions">HLMI</a> </strong>according to a complicated aggregate forecast (and biasedly not including data from questions about the conceptually similar Full Automation of Labor, which in 2016 prompted strikingly later estimates)<strong>.</strong> This 2059 aggregate HLMI timeline has become about eight years shorter in the six years since 2016, when the aggregate prediction was 2061, or 45 years out. Note that all of these estimates are conditional on &#8220;human scientific activity continu[ing] without major negative disruption.&#8221;</li><li><strong>P(extremely bad outcome)=5%</strong> The median respondent believes the probability that the long-run effect of advanced AI on humanity will be &#8220;extremely bad (e.g., human extinction)&#8221; is 5%. This is the same as it was in 2016 (though Zhang et al 2022 found 2% in a similar but non-identical question). Many respondents put the chance substantially higher: 48% of respondents gave at least 10% chance of an extremely bad outcome. Though another 25% put it at 0%.</li><li><strong>Explicit P(doom)=5-10% </strong>The levels of badness involved in that last question seemed ambiguous in retrospect, so I added two new questions about human extinction explicitly. The median respondent&#8217;s probability of x-risk from humans failing to control AI<span id="easy-footnote-1-3250" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-1-3250" title="Or, &amp;#8216;human inability to control future advanced AI systems causing human extinction or similarly permanent and severe disempowerment of the human species&amp;#8217;"><sup>1</sup></a></span> was 10%, weirdly more than median chance of human extinction from AI in general<span id="easy-footnote-2-3250" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-2-3250" title="That is, &amp;#8216;future AI advances causing human extinction or similarly permanent and severe disempowerment of the human species&amp;#8217;"><sup>2</sup></a></span>, at 5%. This might just be because different people got these questions and the median is quite near the divide between 5% and 10%. The most interesting thing here is probably that these are both very high—it seems the &#8216;extremely bad outcome&#8217; numbers in the old question were not just catastrophizing merely disastrous AI outcomes. </li><li><strong>Support for AI safety research is up</strong>: 69% of respondents believe society should prioritize AI safety research &#8220;more&#8221; or &#8220;much more&#8221; than it is currently prioritized, up from 49% in 2016. </li><li><strong>The median respondent thinks there is an &#8220;about even chance&#8221; that an argument given for an intelligence explosion is broadly correct.</strong> The median respondent also believes machine intelligence will probably (60%) be &#8220;vastly better than humans at all professions&#8221; within 30 years of HLMI, and that the rate of global technological improvement will probably (80%) dramatically increase (e.g., by a factor of ten) as a result of machine intelligence within 30 years of HLMI.</li><li><strong>Years/probabilities framing effect persists: </strong>if you ask people for probabilities of things occurring in a fixed number of years, you get later estimates than if you ask for the number of years until a fixed probability will obtain. This looked very robust in 2016, and shows up again in the 2022 HLMI data. Looking at just the people we asked for years, the aggregate forecast is 29 years, whereas it is 46 years for those asked for probabilities. (We haven&#8217;t checked in other data or for the bigger framing effect yet.)</li><li><strong>Predictions vary a lot</strong>. Pictured below: the attempted reconstructions of people&#8217;s probabilities of HLMI over time, which feed into the aggregate number above. There are few times and probabilities that someone doesn&#8217;t basically endorse the combination of.</li><li><strong>You can download the data</strong> <a href="https://docs.google.com/spreadsheets/d/1u_qcG6erXkH4EJgygl2fpkpJENAv6-kFWJejsw1oA1Q/edit?usp=sharing">here</a> (slightly cleaned and anonymized) and do your own analysis. (If you do, I encourage you to share it!)</li></ul>
+
+<div class="center">
+  <p><img src="http://aiimpacts.org/wp-content/uploads/2022/08/Screen-Shot-2022-08-04-at-02.55.28.jpg" alt="Individual inferred gamma distributions" /></p>
+
+  <p>Individual inferred gamma distributions</p>
+</div>
+
+<p>The survey had a lot of questions (randomized between participants to make it a reasonable length for any given person), so this blog post doesn’t cover much of it. A bit more is on <a href="https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/" data-type="post" data-id="3246">the page</a> and more will be added. </p>
+
+<p>Thanks to many people for help and support with this project! (Many but probably not all listed on the survey page.)</p>
+
+<hr class="wp-block-separator has-text-color has-background has-cyan-bluish-gray-background-color has-cyan-bluish-gray-color is-style-wide" />
+
+<p><em>Cover image: Probably a bootstrap confidence interval around an aggregate of the above forest of inferred gamma distributions, but honestly everyone who can be sure about that sort of thing went to bed a while ago. So, one for a future update. I have more confidently held views on whether one should let uncertainty be the enemy of putting things up.</em></p>
+
+<hr class="wp-block-separator has-text-color has-background has-cyan-bluish-gray-background-color has-cyan-bluish-gray-color is-style-wide" />
+
+<ol class="easy-footnotes-wrapper"><li class="easy-footnote-single"><span id="easy-footnote-bottom-1-3250" class="easy-footnote-margin-adjust"></span>Or, &#8216;human inability to control future advanced AI systems causing human extinction or similarly permanent and severe disempowerment of the human species&#8217;<a class="easy-footnote-to-top" href="#easy-footnote-1-3250"></a></li><li class="easy-footnote-single"><span id="easy-footnote-bottom-2-3250" class="easy-footnote-margin-adjust"></span>That is, &#8216;future AI advances causing human extinction or similarly permanent and severe disempowerment of the human species&#8217;<a class="easy-footnote-to-top" href="#easy-footnote-2-3250"></a></li></ol>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/div&gt;&lt;div id="custom_html-19" class="widget_text mh-widget mh-posts-2 widget_custom_html"&gt;&lt;div class="textwidget custom-html-widget"&gt;&lt;div&gt;
+</code></pre></div></div>
+
+
+  </description>
+  <link>/2022/08/04/ai_2022_survey.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2022/08/04/ai_2022_survey.html</guid>
+  <pubDate>Thu, 04 Aug 2022 10:30:00 -0700</pubDate>
+ </item>
  
  <item>
   <title>Why do people avoid vaccination?</title>
