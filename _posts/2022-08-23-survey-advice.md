@@ -7,7 +7,7 @@ comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/mic-narra-RA3f0b26qwE-unsplash.jpg
 summary: Things I believe about making surveys after making some surveys
 ---
-Things I believe about making surveys, [after](https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/) [making](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/)[some](https://worldspiritsockpuppet.com/2022/01/18/covid-survey.html) [surveys](https://worldspiritsockpuppet.com/2020/11/06/why-trump.html):
+Things I believe about making surveys, [after](https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/) [making](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) [some](https://worldspiritsockpuppet.com/2022/01/18/covid-survey.html) [surveys](https://worldspiritsockpuppet.com/2020/11/06/why-trump.html):
 1. If you write a question that seems clear, there's an unbelievably high chance that any given reader will misunderstand it. (Possibly this applies to things that aren't survey questions also, but that's a problem for another time.)
 2. A better way to find out if your questions are clear is to repeatedly take a single individual person, and sit down with them, and ask them to take your survey while narrating the process: reading the questions aloud, telling you what they think the question is asking, explaining their thought process in answering it. If you do this repeatedly with different people until some are not confused at all, the questions are probably clear.
 3. If you ask people very similar questions in different sounding ways, you can get very different answers (possibly related to the above, though that's not obviously the main thing going on).<!--ex-->
