@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-05T23:36:30-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">What do ML researchers think about AI in 2022?</title><link href="http://localhost:4000/2022/08/04/ai_2022_survey.html" rel="alternate" type="text/html" title="What do ML researchers think about AI in 2022?" /><published>2022-08-04T10:30:00-07:00</published><updated>2022-08-04T10:30:00-07:00</updated><id>http://localhost:4000/2022/08/04/ai_2022_survey</id><content type="html" xml:base="http://localhost:4000/2022/08/04/ai_2022_survey.html">&lt;p&gt;&lt;em&gt;Crossposted from &lt;a href=&quot;https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/&quot;&gt;AI Impacts&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-10T23:29:37-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Survey advice</title><link href="http://localhost:4000/2022/08/23/survey-advice.html" rel="alternate" type="text/html" title="Survey advice" /><published>2022-08-23T19:54:00-07:00</published><updated>2022-08-23T19:54:00-07:00</updated><id>http://localhost:4000/2022/08/23/survey-advice</id><content type="html" xml:base="http://localhost:4000/2022/08/23/survey-advice.html">&lt;p&gt;Things I believe about making surveys, &lt;a href=&quot;https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/&quot;&gt;after&lt;/a&gt; &lt;a href=&quot;https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/&quot;&gt;making&lt;/a&gt; &lt;a href=&quot;https://worldspiritsockpuppet.com/2022/01/18/covid-survey.html&quot;&gt;some&lt;/a&gt; &lt;a href=&quot;https://worldspiritsockpuppet.com/2020/11/06/why-trump.html&quot;&gt;surveys&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;If you write a question that seems clear, there’s an unbelievably high chance that any given reader will misunderstand it. (Possibly this applies to things that aren’t survey questions also, but that’s a problem for another time.)&lt;/li&gt;
+  &lt;li&gt;A better way to find out if your questions are clear is to repeatedly take a single individual person, and sit down with them, and ask them to take your survey while narrating the process: reading the questions aloud, telling you what they think the question is asking, explaining their thought process in answering it. If you do this repeatedly with different people until some are not confused at all, the questions are probably clear.&lt;/li&gt;
+  &lt;li&gt;If you ask people very similar questions in different sounding ways, you can get very different answers (possibly related to the above, though that’s not obviously the main thing going on).&lt;!--ex--&gt;&lt;/li&gt;
+  &lt;li&gt;One specific case of that: for some large class of events, if you ask people how many years until a 10%, 50%, 90% chance of event X occurring, you will get an earlier distribution of times than if you ask the probability that X will happen in 10, 20, 50 years. (I’ve only tried this with AI related things, but my guess is that it at least generalizes to other low-probability-seeming things. Also, if you just ask about 10% on its own, it is consistently different from 10% alongside 50% and 90%.&lt;/li&gt;
+  &lt;li&gt;Given the complicated landscape of people’s beliefs about the world and proclivities to say certain things, there is a huge amount of scope for choosing questions to get answers that sound different to listeners (e.g. support a different side in a debate).&lt;/li&gt;
+  &lt;li&gt;There is also scope for helping people think through a thing in a way that they would endorse, e.g. by asking a sequence of questions. This can also change what the answer sounds like, but seems ethical to me, whereas applications of 5 seem generally suss.&lt;/li&gt;
+  &lt;li&gt;Often your respondent knows thing P and you want to know Q, and it is possible to infer something about Q from P. You then have a choice about which point in this inference chain to ask the person about. It seems helpful to notice this choice. For instance, if AI researchers know most about what AI research looks like, and you want to know whether human civilization will be imminently destroyed by renegade AI systems, you can ask about a) how fast AI progress appears to be progressing, b) when it will reach a certain performance bar, c) whether AI will cause something like human extinction. In the 2016 survey, we asked all of these.&lt;/li&gt;
+  &lt;li&gt;Given the choice, if you are hoping to use the data as information, it is often good to ask people about things they know about. In 7, this points to aiming your question early in the reasoning chain, then doing the inference yourself.&lt;/li&gt;
+  &lt;li&gt;Interest in surveys doesn’t seem very related to whether a survey is a good source of information on the topic surveyed on. One of the strongest findings of the 2016 survey IMO was that surveys like that are unlikely to be a reliable guide to the future.&lt;/li&gt;
+  &lt;li&gt;This makes sense because surveys fulfill other purposes. Surveys are great if you want to know what people think about X, rather than what is true about X. Knowing what people think is often the important question. It can be good for legitimizing a view, or letting a group of people have common knowledge about what they think so they can start to act on it, including getting out of bad equilibria where everyone nominally supports claim P because they think others will judge them if not.&lt;/li&gt;
+  &lt;li&gt;If you are surveying people with the intention of claiming a thing, it is helpful to think ahead about what you want to claim, and make sure you ask questions that will let you claim that, in a simple way. For instance, it is better to be able to say ‘80% of a random sample of shoppers at Tesco said that they like tomato more than beans’ than to say ‘80% of a sample of shoppers who were mostly at Tesco but also at Aldi (see footnote for complicated shopper selection process) say that they prefer tomato to peas, or (using a separate subset of shoppers) prefer peas to beans, from which we can infer that probably about 80% of shoppers in general, or more, prefer tomato to beans’. You want to be able to describe the setup and question in a way that is simple enough that the listener understands what happened, and see the significance of the finding.&lt;/li&gt;
+  &lt;li&gt;If you are running a survey multiple times, and you want informative answers about whether there were differences in views between those times, you should probably run exactly the same survey and not change the questions even a tiny bit unless there is very strong reason to. This follows from 3.&lt;/li&gt;
+  &lt;li&gt;Qualtrics costs thousands of dollars to use, and won’t let you sign up for an account or even know how much it might cost unless you book a meeting to talk to someone to sell it to you. &lt;a href=&quot;http://guidedtrack.com/&quot;&gt;Guidedtrack.com&lt;/a&gt; seems pretty nice, but I might not have been trying to do such complicated things there.&lt;/li&gt;
+  &lt;li&gt;Running surveys seems underrated as an activity.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Katja Grace</name></author><category term="survey" /><category term="advice" /><summary type="html">Things I believe about making surveys, after making some surveys: If you write a question that seems clear, there’s an unbelievably high chance that any given reader will misunderstand it. (Possibly this applies to things that aren’t survey questions also, but that’s a problem for another time.) A better way to find out if your questions are clear is to repeatedly take a single individual person, and sit down with them, and ask them to take your survey while narrating the process: reading the questions aloud, telling you what they think the question is asking, explaining their thought process in answering it. If you do this repeatedly with different people until some are not confused at all, the questions are probably clear. If you ask people very similar questions in different sounding ways, you can get very different answers (possibly related to the above, though that’s not obviously the main thing going on).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/mic-narra-RA3f0b26qwE-unsplash.jpg" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/mic-narra-RA3f0b26qwE-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What do ML researchers think about AI in 2022?</title><link href="http://localhost:4000/2022/08/04/ai_2022_survey.html" rel="alternate" type="text/html" title="What do ML researchers think about AI in 2022?" /><published>2022-08-04T10:30:00-07:00</published><updated>2022-08-04T10:30:00-07:00</updated><id>http://localhost:4000/2022/08/04/ai_2022_survey</id><content type="html" xml:base="http://localhost:4000/2022/08/04/ai_2022_survey.html">&lt;p&gt;&lt;em&gt;Crossposted from &lt;a href=&quot;https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/&quot;&gt;AI Impacts&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;AI Impacts just finished collecting data from a new survey of ML researchers, as similar to the &lt;a href=&quot;https://aiimpacts.org/2016-expert-survey-on-progress-in-ai/&quot; data-type=&quot;post&quot; data-id=&quot;753&quot;&gt;2016 one&lt;/a&gt; as practical, aside from a couple of new questions that seemed too interesting not to add.&lt;!--ex--&gt;&lt;/p&gt;
 
@@ -24,7 +40,7 @@
 
 &lt;ol class=&quot;easy-footnotes-wrapper&quot;&gt;&lt;li class=&quot;easy-footnote-single&quot;&gt;&lt;span id=&quot;easy-footnote-bottom-1-3250&quot; class=&quot;easy-footnote-margin-adjust&quot;&gt;&lt;/span&gt;Or, &amp;#8216;human inability to control future advanced AI systems causing human extinction or similarly permanent and severe disempowerment of the human species&amp;#8217;&lt;a class=&quot;easy-footnote-to-top&quot; href=&quot;#easy-footnote-1-3250&quot;&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;easy-footnote-single&quot;&gt;&lt;span id=&quot;easy-footnote-bottom-2-3250&quot; class=&quot;easy-footnote-margin-adjust&quot;&gt;&lt;/span&gt;That is, &amp;#8216;future AI advances causing human extinction or similarly permanent and severe disempowerment of the human species&amp;#8217;&lt;a class=&quot;easy-footnote-to-top&quot; href=&quot;#easy-footnote-2-3250&quot;&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;/div&amp;gt;&amp;lt;div id=&quot;custom_html-19&quot; class=&quot;widget_text mh-widget mh-posts-2 widget_custom_html&quot;&amp;gt;&amp;lt;div class=&quot;textwidget custom-html-widget&quot;&amp;gt;&amp;lt;div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Katja Grace</name></author><category term="meteuphoric" /><category term="ai" /><summary type="html">Crossposted from AI Impacts AI Impacts just finished collecting data from a new survey of ML researchers, as similar to the 2016 one as practical, aside from a couple of new questions that seemed too interesting not to add.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-08-04_at_02.53.13.png" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-08-04_at_02.53.13.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Book review: The Passenger by Lisa Lutz</title><link href="http://localhost:4000/2022/06/23/book-review-the-passenger.html" rel="alternate" type="text/html" title="Book review: The Passenger by Lisa Lutz" /><published>2022-06-23T15:57:00-07:00</published><updated>2022-06-23T15:57:00-07:00</updated><id>http://localhost:4000/2022/06/23/book-review-the-passenger</id><content type="html" xml:base="http://localhost:4000/2022/06/23/book-review-the-passenger.html">&lt;p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Katja Grace</name></author><category term="meteuphoric" /><category term="ai" /><category term="effectivealtruism" /><summary type="html">Crossposted from AI Impacts AI Impacts just finished collecting data from a new survey of ML researchers, as similar to the 2016 one as practical, aside from a couple of new questions that seemed too interesting not to add.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-08-04_at_02.53.13.png" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-08-04_at_02.53.13.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Book review: The Passenger by Lisa Lutz</title><link href="http://localhost:4000/2022/06/23/book-review-the-passenger.html" rel="alternate" type="text/html" title="Book review: The Passenger by Lisa Lutz" /><published>2022-06-23T15:57:00-07:00</published><updated>2022-06-23T15:57:00-07:00</updated><id>http://localhost:4000/2022/06/23/book-review-the-passenger</id><content type="html" xml:base="http://localhost:4000/2022/06/23/book-review-the-passenger.html">&lt;p&gt;
 &lt;span class=&quot;aside&quot;&gt;Spoiler warning: spoilers for The Passenger by Lisa Lutz, and In the Cart, by Anton Chekhov.
 &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -278,289 +294,4 @@ I don’t recall any notable constraints other than the location requirement, bu
 
 &lt;p&gt;Shorter rides favored the hypothesis that it was fun but not extraordinary.&lt;/p&gt;
 
-&lt;p&gt;I returned to the first bike shop, and asked a man there to adjust my new bike to be exactly like their floor bike, ignoring the very likely possibility that they had adjusted the floor bike since my visit. He didn’t seem to obviously understand either the situation or my request, but was willing to make some changes, and phone me when done. He also sold me an expensive lock and some neat (and expensive) panniers. I went and tried to buy crepes, but the store was closed. But then I found a cafe and a restaurant next door to each other with back patios, a recent passion of mine, and took a nice iced coffee from one to the other, where I ate fries and read about words for an hour, in the company of a cat, someone else reading a book, and some kind of raw European music. It was pretty good. My phone died, because my life is too complicated and/or I’m an idiot. I went back to the bike store. He had changed some things, such as—promisingly—the angle of the handlebars. I rode home via the circle park, detouring to fly around it, iced coffee lodged in my front gear cables. It seemed amazing. But I’m uncertain, and doesn’t that mean it wasn’t? Well I smiled a lot on the way home, anyway.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="worldlypositions" /><category term="bernalheights" /><category term="mundane" /><summary type="html">The measure of a good bicycle, according to me, is that you can’t ride it without opening your mouth in joy and occasionally exclaiming things like ‘fuck yeah bicycle’. This is an idiosyncratic spec, and I had no reason to think that it might be fulfilled by any electric bicycle—a genre I was new to—so while I intended to maybe search through every electric bicycle in The New Wheel for one that produced irrepressible, physically manifest joy, I also expected this to likely fail, and to be meanwhile embarrassingly inexplicable and irritating to bike shop employees—people who often expect one’s regard for bikes to map fairly well to facts about their price, frame shape, and whether the gears are Shimano. But several bikes in, when I uncomfortably explained to a guy there that, while the ones I had tried so far were nice, bicycles had been known to make me, like, very happy, he said of course we should find the bicycle that I loved. So I at least felt somewhat supported in my ongoing disruption of his colleague’s afternoon, with requests that bicycle after bicycle be brought out for me to pedal around the streets of Bernal Heights. The guy would maneuver each bike out of the crowded shop and to the sidewalk, and adjust it to fit me, and we would chat, often about his suggestion that I maybe ride up to the hill on the other side of the main road. Which I would agree might be a good idea, before riding off, deciding that turning left was too hard, and heading in the other direction, through back streets and around a swooping circle park with a big ring road, where I would loop a few times if the mood took me. Some bicycles were heavy, and rode like refrigerators. Most bicycles were unsteady, and urged even my cycling-seasoned bottom to the seat while pedaling. Most bicycles added considerable assistance to going up hills. Many bicycles seemed fine.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/iStock-871204870.png" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/iStock-871204870.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Positly covid survey 2: controlled productivity data</title><link href="http://localhost:4000/2022/02/03/long-covid-survey-2.html" rel="alternate" type="text/html" title="Positly covid survey 2: controlled productivity data" /><published>2022-02-03T22:20:00-08:00</published><updated>2022-02-03T22:20:00-08:00</updated><id>http://localhost:4000/2022/02/03/long-covid-survey-2</id><content type="html" xml:base="http://localhost:4000/2022/02/03/long-covid-survey-2.html">&lt;p&gt;&lt;em&gt;(This continues data from the survey I did the other day on Positly (some other bits &lt;a href=&quot;https://worldspiritsockpuppet.com/2022/01/14/preliminary-long-covid-survey.html&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://worldspiritsockpuppet.com/2022/01/18/covid-survey.html&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Before asking everyone whether they had had covid, or have ongoing problems from it, or anything else, I asked them about their recent productivity relative to 2019. I was hoping to minimize the influence of their narratives about their covid situation and how it should affect their productivity on their productivity estimates.&lt;/p&gt;
-
-&lt;p&gt;The clearest takeaway, I think: people who would later report ongoing post-covid symptoms also reported being way less productive on average than people who didn’t report any covid.&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- tell from this data whether people who had covid were overall less productive - this data alone seems consistent with covid-infected people having a similar range of outcomes, but reporting long covid when the outcomes are bad, or covid somehow improving people&apos;s productivity. --&gt;&lt;/p&gt;
-
-&lt;!--ex--&gt;
-
-&lt;!-- The first question of the survey was about how productive people were lately relative to their 2019 productivity.  --&gt;
-&lt;p&gt;Perhaps stupidly, I asked people about their productivity in one of three randomly selected ways, to better tell if results were sensitive to misunderstandings, wording or other vagaries of survey taking. While I stand by this for higher commitment surveys, here it meant trying to aggregate a bunch of slightly mismatched claims about how unproductive a year people are having, when I could have just been averaging a column of numbers. And people did give different-looking distributions of answers for different questions, and different numbers of people with covid got randomized into different kinds of questions, so combining them is messy.&lt;/p&gt;
-
-&lt;p&gt;The different questions were these:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;How productive were you this week, relative to your average in 2019?
-    &lt;ul&gt;
-      &lt;li&gt;More than twice as productive&lt;/li&gt;
-      &lt;li&gt;About 1.5x as productive&lt;/li&gt;
-      &lt;li&gt;About as productive&lt;/li&gt;
-      &lt;li&gt;About three quarters as productive&lt;/li&gt;
-      &lt;li&gt;Less than half as productive&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How productive were you this week, as a percentage of average for you in 2019?&lt;/p&gt;
-
-    &lt;p&gt;(slider: 0-200%; instruction: For more than 200%, just put 200%)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Were you much less productive in 2021 than in 2019?
-    &lt;ul&gt;
-      &lt;li&gt;Yes&lt;/li&gt;
-      &lt;li&gt;No&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Below are the answers, divided up by question type. Note that the numbers of respondents involved are tiny and things are noisy. For example, the category question only got two long covid sufferers, and one of them was the nurse apparently working 200% as much as in 2019 but fatigued to the point of crashing her car. (In general, productivity varying because of demand as well as supply is an obvious-in-retrospect theme, according to my reading of the long answers to later questions.)&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt;0-200% slider (average %)&lt;/th&gt;
-      &lt;th&gt;Not ‘much less’ productive (fraction of people)&lt;/th&gt;
-      &lt;th&gt;Category choice (average 1st-5th option, higher more productive)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Productivity of demographic&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;All respondents&lt;/td&gt;
-      &lt;td&gt;106%&lt;/td&gt;
-      &lt;td&gt;48%&lt;/td&gt;
-      &lt;td&gt;3.15&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;No covid&lt;/td&gt;
-      &lt;td&gt;108%&lt;/td&gt;
-      &lt;td&gt;54%&lt;/td&gt;
-      &lt;td&gt;3.09&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid&lt;/td&gt;
-      &lt;td&gt;100%&lt;/td&gt;
-      &lt;td&gt;31%&lt;/td&gt;
-      &lt;td&gt;3.28&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid &amp;amp; not long covid&lt;/td&gt;
-      &lt;td&gt;109%&lt;/td&gt;
-      &lt;td&gt;29%&lt;/td&gt;
-      &lt;td&gt;3.26&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Long covid&lt;/td&gt;
-      &lt;td&gt;70%&lt;/td&gt;
-      &lt;td&gt;33%&lt;/td&gt;
-      &lt;td&gt;3.50&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;n in demographic&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total n&lt;/td&gt;
-      &lt;td&gt;85&lt;/td&gt;
-      &lt;td&gt;54&lt;/td&gt;
-      &lt;td&gt;89&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid n&lt;/td&gt;
-      &lt;td&gt;18&lt;/td&gt;
-      &lt;td&gt;13&lt;/td&gt;
-      &lt;td&gt;25&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Long covid n&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;(Probably I should have given you the ‘people who had covid more than two months ago’ numbers, but I didn’t and I’m short on time for this, sorry! All the data is available at the end.)
-&lt;!-- |if no LC	|115 | 108 |50 | --&gt;&lt;/p&gt;
-
-&lt;p&gt;It would be nice to combine all these answers. A natural way to do it might be to assign plausible seeming numerical values to all the answers to 1 and 3 , then average all these values.&lt;/p&gt;
-
-&lt;!-- Maybe that explains why for the category choice question, having covid makes you substantially more productive than not having covid, and why only one of the three questions returned the answer that if you have covid, it&apos;s worse to also have long covid? Not sure.  --&gt;
-
-&lt;p&gt;For instance, let’s use the following conversion:&lt;/p&gt;
-
-&lt;p&gt;Question 1&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;More than twice as productive: 200%&lt;/li&gt;
-  &lt;li&gt;About 1.5x as productive: 150%&lt;/li&gt;
-  &lt;li&gt;About as productive: 100%&lt;/li&gt;
-  &lt;li&gt;About three quarters as productive: 75%&lt;/li&gt;
-  &lt;li&gt;Less than half as productive: 50%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Question 3&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Yes (i.e. much less productive): 80%&lt;/li&gt;
-  &lt;li&gt;No: 100%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- I expect this could be done better, but I am already spending too long on it. I didn&apos;t mess around with these to get more desirable answers. The only thing I fiddled with was changing &apos;No&apos; to question 3 from 120% to 100%, because after a little more thought it seemed more reasonable as a guess for how productive a person is if they say they aren&apos;t way less productive. --&gt;
-
-&lt;p&gt;With these we get:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Respondents&lt;/th&gt;
-      &lt;th&gt;Average productivity relative to 2019*&lt;/th&gt;
-      &lt;th&gt;n&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;All&lt;/td&gt;
-      &lt;td&gt;106%&lt;/td&gt;
-      &lt;td&gt;228&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid&lt;/td&gt;
-      &lt;td&gt;106%&lt;/td&gt;
-      &lt;td&gt;56&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Long covid&lt;/td&gt;
-      &lt;td&gt;89%&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid &amp;amp; not LC&lt;/td&gt;
-      &lt;td&gt;110%&lt;/td&gt;
-      &lt;td&gt;44&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;No covid&lt;/td&gt;
-      &lt;td&gt;106%&lt;/td&gt;
-      &lt;td&gt;172&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;*According to above described questionable quantification procedure (for those of you skipping to the table)&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;!-- We can possibly make this slightly better by supposing that the different groups should have had the same average, and dividing everything by the average productivity for that question:
-
-|Respondents | Productivity relative to 2019* | n |
-|--|--|--|
-|All |	106%| 228 |
-|Covid |	106%| 56 |
-|Long covid|	89%| 12 |
-|Covid &amp; not LC |	110%| 44 |
-|No covid|	106%| 172 | --&gt;
-
-&lt;p&gt;A different thing to do is call everything below 80% ‘much less productive’ then convert everything into fraction of people avoiding that fate:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Demographic&lt;/th&gt;
-      &lt;th&gt;P(not much less productive)&lt;/th&gt;
-      &lt;th&gt;n&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;All&lt;/td&gt;
-      &lt;td&gt;68%&lt;/td&gt;
-      &lt;td&gt;228&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid&lt;/td&gt;
-      &lt;td&gt;64%&lt;/td&gt;
-      &lt;td&gt;56&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Long covid&lt;/td&gt;
-      &lt;td&gt;25%&lt;/td&gt;
-      &lt;td&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Covid &amp;amp; not LC&lt;/td&gt;
-      &lt;td&gt;75%&lt;/td&gt;
-      &lt;td&gt;44&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;No covid&lt;/td&gt;
-      &lt;td&gt;69%&lt;/td&gt;
-      &lt;td&gt;172&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The ‘covid &amp;amp; not LC’ category is notably more productive than the ‘no covid’ category in both combinings, which seems interesting. Some things that might be going on:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Covid is overall negligibly bad for productivity, and the quarter of people whose lives would have gotten worse lately anyway classify it as ‘long covid’, leaving the other covid sufferers unusually productive. (This being the main thing going on seems inconsistent with other evidence to me, but maybe there’s some of that, or maybe my understanding of the other evidence is mistaken.)&lt;/li&gt;
-  &lt;li&gt;People who get long covid are disproportionately those whose productivities were on a less uphill trajectory.&lt;/li&gt;
-  &lt;li&gt;People who get covid and not long covid have a relatively productive time because they are freed from avoiding covid, whereas people without covid are often paying costs that are a large fraction of the cost of having covid to avoid it.&lt;/li&gt;
-  &lt;li&gt;Maybe people’s sense of their own productivity is higher when they had reason that it might be low.&lt;/li&gt;
-  &lt;li&gt;Maybe people with covid but no ongoing problems are disproportionately in households with other people who have some kind of problem from covid (including for instance having died, or having lost income from a brief illness), and capable of helping, and so are being more productive by necessity.&lt;/li&gt;
-  &lt;li&gt;This data is so meagre and messy that reading anything into it that’s not about a huge effect is a mistake, and this is already too much thought on the topic.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I tend to think it’s the latter, but if anyone wants to actually do statistics, or anything else with this data:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1RcGe3ZiizCkSnCPtLE7UiYQr7TdNTxF1kdJpoWM8j-A/edit?usp=sharing&quot;&gt;Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;!-- , but I&apos;m just saying the data here seems to suggest it. Though not that strongly I think, because all of this is so noisy that even if that was the story I wouldn&apos;t expect it to line up that nicely.) --&gt;
-
-&lt;!-- It&apos;s interesting that covid and no covid come out the same here, in spite of huge variation in general, and covid being comprised one quarter by long covid sufferers who are 15% less productive. In particular, it isn&apos;t just that the &apos;covid&apos; category is full of people who don&apos;t have long covid, bringing it up to normal. The people who don&apos;t report long covid are actually claiming to be more productive than people without covid at all, and what&apos;s more, exactly enough more to make up for how unproductive the long covid sufferers are.
-
-xxx[but this isn&apos;t even right, because the covid should be &gt;2mo old, which makes covid even better, so no more the coincidence]
-
-These two things&amp;mdash;that the non-LC folks are more productive, and that they are exactly the balancing amount more productive&amp;mdash;point at a story where covid is negligibly bad for people, and the quarter of people whose lives would have gotten worse lately anyway classify it as &apos;long covid&apos;. (This sounds fairly implausible to me for other reasons, but I&apos;m just saying the data here seems to suggest it. Though not that strongly I think, because all of this is so noisy that even if that was the story I wouldn&apos;t expect it to line up that nicely.)
-
-Is that what&apos;s going on? Some other things that might be going on:
-- The bizarro question where the more covid you have the better has disproportionately many covid-havers randomized into it, and disproportionately few long-covid-havers. It also has substantially higher average numbers. Supposing the higher numbers for that question are an artifact of the question somehow, this increases the apparent productivity of people who had covid but not long covid. xxx
-
-Maybe looking at the data separately first will help.
-
-
-
-However this seems like a coincidence of the numbers I chose, which doesn&apos;t show up otherwise (xxx check). We can tell these numbers are bad, because they lead to very different average productivities based on which category you are randomized into. (Though possibly there is no way to rectify this.)
-
-Note that two of the kinds of questions find that no covid is better than covid. Though only one of the three finds that no long covid is better than long covid. The category choice column is pretty weird, getting both of these counterintuitive answers. It also has an unusually high rate of covid cases and low rate of long covid cases, and generally very high productivity numbers. So probably this is just making people with covid and no long covid look extra productive.
-
-On second thought, I think combining them may be too hard to do well.
-
-but my first attempt to quickly correct for this error still has the pattern, so that&apos;s interesting.
-
-&lt;!-- A different thing to do:
-
-|Situation per later answers | P(not much less productive) | n |
-|--|--|--|
-|All |	68% | 228 |
-|Covid |	64%| 56 |
-|Long covid|	25%| 12 |
-|Covid &amp; not LC |	75%| 44 |
-|No covid|	69%| 172 | --&gt;
-
-&lt;!-- This thing where people who had covid and didn&apos;t have long covid are more productive than people without covid seems at least a bit consistent, and is interesting. One hypothesis it suggests is that some amount of badness that would happen anyway is being counted as long covid.
-
-
-
-
-(Note that I didn&apos;t remove the nurse who was at 200% productivity and attributed crashing her car to fatigue, though that seems like an example that shouldn&apos;t really be bringing the average expected outcome of long covid up a lot.)
-
-Note that productivity is a weird thing to measure, and that the data seems to include various people whose productivity is being impacted by the need for productivity rather than the ease of it: the twice-infected nurse who says she has long covid but also that she is twice as productive as in 2019 (though does attribute a recent car crash to fatigue). People become sole supporters of families when their partners get sick or lose jobs, workplaces become short staffed, people need to look after children on top of whatever of their usual responsibilities can be salvaged. Glancing through the longer answers for people with covid who are more productive, I don&apos;t know what&apos;s going on. xxx[true?] Glancing through the longer answers for people with long covid who are less productive, it&apos;s also not always super clear what&apos;s going on, but a fair bit seems to have the straightforward narrative you might expect.  --&gt;</content><author><name>Katja Grace</name></author><category term="covid" /><category term="survey" /><summary type="html">(This continues data from the survey I did the other day on Positly (some other bits here and here.) Before asking everyone whether they had had covid, or have ongoing problems from it, or anything else, I asked them about their recent productivity relative to 2019. I was hoping to minimize the influence of their narratives about their covid situation and how it should affect their productivity on their productivity estimates. The clearest takeaway, I think: people who would later report ongoing post-covid symptoms also reported being way less productive on average than people who didn’t report any covid.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://photobucket.com/u/katjasgrace/p/ad7dcf12-e166-4214-a4fa-6e7ff1f4972a" /><media:content medium="image" url="https://photobucket.com/u/katjasgrace/p/ad7dcf12-e166-4214-a4fa-6e7ff1f4972a" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I returned to the first bike shop, and asked a man there to adjust my new bike to be exactly like their floor bike, ignoring the very likely possibility that they had adjusted the floor bike since my visit. He didn’t seem to obviously understand either the situation or my request, but was willing to make some changes, and phone me when done. He also sold me an expensive lock and some neat (and expensive) panniers. I went and tried to buy crepes, but the store was closed. But then I found a cafe and a restaurant next door to each other with back patios, a recent passion of mine, and took a nice iced coffee from one to the other, where I ate fries and read about words for an hour, in the company of a cat, someone else reading a book, and some kind of raw European music. It was pretty good. My phone died, because my life is too complicated and/or I’m an idiot. I went back to the bike store. He had changed some things, such as—promisingly—the angle of the handlebars. I rode home via the circle park, detouring to fly around it, iced coffee lodged in my front gear cables. It seemed amazing. But I’m uncertain, and doesn’t that mean it wasn’t? Well I smiled a lot on the way home, anyway.&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="worldlypositions" /><category term="bernalheights" /><category term="mundane" /><summary type="html">The measure of a good bicycle, according to me, is that you can’t ride it without opening your mouth in joy and occasionally exclaiming things like ‘fuck yeah bicycle’. This is an idiosyncratic spec, and I had no reason to think that it might be fulfilled by any electric bicycle—a genre I was new to—so while I intended to maybe search through every electric bicycle in The New Wheel for one that produced irrepressible, physically manifest joy, I also expected this to likely fail, and to be meanwhile embarrassingly inexplicable and irritating to bike shop employees—people who often expect one’s regard for bikes to map fairly well to facts about their price, frame shape, and whether the gears are Shimano. But several bikes in, when I uncomfortably explained to a guy there that, while the ones I had tried so far were nice, bicycles had been known to make me, like, very happy, he said of course we should find the bicycle that I loved. So I at least felt somewhat supported in my ongoing disruption of his colleague’s afternoon, with requests that bicycle after bicycle be brought out for me to pedal around the streets of Bernal Heights. The guy would maneuver each bike out of the crowded shop and to the sidewalk, and adjust it to fit me, and we would chat, often about his suggestion that I maybe ride up to the hill on the other side of the main road. Which I would agree might be a good idea, before riding off, deciding that turning left was too hard, and heading in the other direction, through back streets and around a swooping circle park with a big ring road, where I would loop a few times if the mood took me. Some bicycles were heavy, and rode like refrigerators. Most bicycles were unsteady, and urged even my cycling-seasoned bottom to the seat while pedaling. Most bicycles added considerable assistance to going up hills. Many bicycles seemed fine.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/iStock-871204870.png" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/iStock-871204870.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
