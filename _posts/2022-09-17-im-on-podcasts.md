@@ -2,7 +2,7 @@
 layout: post
 title: "Podcasts on surveys, slower AI, AI arguments"
 date: 2022-09-17 23:16:00 -0700
-tags: ai xrisk podcast effectivealtruism
+tags: ai xrisk podcast effectivealtruism meteuphoric worldlypositions
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2022-09-17_at_11.35.55_PM.png
 summary: You can listen to Michael Trazzi and I discuss AI
