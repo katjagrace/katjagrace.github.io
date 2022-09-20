@@ -8,7 +8,7 @@ fim-offset: 0% 0%
 ---
 ## ...to everything:
 <ul class="rss-subscribe">
-<li><a href="https://worldspiritsockpuppet.substack.com/">Substack</a></li>
+<li><a href="https://worldspiritsockpuppet.substack.com/">Substack</a> (recommended)</li>
 <li><a href="{{ "/feed.xml" | relative_url }}">RSS feed</a></li>
 <li><a href="{{ "/subscribe-form.html" | relative_url }}">Email (Mailchimp)</a></li>
 </ul>
