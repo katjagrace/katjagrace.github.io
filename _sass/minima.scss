@@ -432,6 +432,12 @@ bold {
   }
 }
 
+//.footnotes::before {
+//  display: block;
+//  content: "Notes";
+//  class: "header";
+//}
+
 
 //Was _base.scss:
 
@@ -522,6 +528,7 @@ figcaption {
  */
 ul, ol {
   margin-left: $spacing-unit;
+  margin-bottom: $spacing-unit * 2;
 }
 
 li {

@@ -162,7 +162,7 @@ figure > img { display: block; }
 figcaption { font-size: 17.5px; }
 
 /** Lists */
-ul, ol { margin-left: 30px; }
+ul, ol { margin-left: 30px; margin-bottom: 60px; }
 
 li > ul, li > ol { margin-bottom: 45px; }
 
