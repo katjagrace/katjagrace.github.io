@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calibration of a thousand predictions"
-date: 2022-09-22 01:30:00 -0700
+date: 2022-10-12 01:38:00 -0700
 tags: experiment prediction
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/Calibration_for_no-special-context_forecasts_(mostly_excluding_much_own-behavior_prediction)(1).png
