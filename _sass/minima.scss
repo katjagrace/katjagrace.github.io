@@ -63,6 +63,7 @@ $on-laptop:        800px !default;
 
 bold {
   font-family: "baskerville"
+  
 }
 
 
@@ -545,6 +546,11 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+}
+
+h4 {
+	text-decoration: underline;
+	font-size: $base-font-size * 1.1;
 }
 
 //Just for the list page
