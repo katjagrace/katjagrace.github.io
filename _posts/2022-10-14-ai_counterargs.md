@@ -7,7 +7,7 @@ comments: true
 image: https://lh5.googleusercontent.com/mb3BSXp0EmzWZ7Xeiu_0NzeKeWR66fvYHhaG_zDo7QPPGKwZR9WALKHpMTSXx5JHUl8ygFgM4FSTyXYKcqYD60uyCWGNJa77hPzVON0gr8yPA8P0vzSlSIJv42G3Ydd_qwWGHZP9_GUHm45JBEqeaOM2dQyq4RXDWHboHmyVRvWDbTputoxjS5cZcg
 summary: Sixteen or so weaknesses in the classic argument for AI risk. 
 ---
-*Crossposted from [AI Impacts' blog](https://aiimpacts.org/counterarguments-to-the-basic-ai-x-risk-case/).*
+*Crossposted from [The AI Impacts blog](https://aiimpacts.org/counterarguments-to-the-basic-ai-x-risk-case/).*
 
 <p>This is going to be a list of holes I see in the basic argument for existential risk from superhuman AI systems<span id='easy-footnote-1-3345' class='easy-footnote-margin-adjust'></span><span class='easy-footnote'><a href='#easy-footnote-bottom-1-3345' title='That is, systems that are somewhat more capable than the most capable human.'><sup>1</sup></a></span>.&nbsp;</p>
 
