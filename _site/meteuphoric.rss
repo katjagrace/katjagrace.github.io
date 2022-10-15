@@ -4,8 +4,8 @@
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
  <link>http://localhost:4000</link>
- <lastBuildDate>Fri, 14 Oct 2022 06:53:39 -0700</lastBuildDate>
- <pubDate>Fri, 14 Oct 2022 06:53:39 -0700</pubDate>
+ <lastBuildDate>Fri, 14 Oct 2022 19:42:45 -0700</lastBuildDate>
+ <pubDate>Fri, 14 Oct 2022 19:42:45 -0700</pubDate>
  <ttl>1800</ttl>
 
  
@@ -14,11 +14,11 @@
   <description>
     <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
     <br>
-    <p><em>Crossposted from <a href="https://aiimpacts.org/counterarguments-to-the-basic-ai-x-risk-case/">AI Impacts’ blog</a>.</em></p>
+    <p><em>Crossposted from <a href="https://aiimpacts.org/counterarguments-to-the-basic-ai-x-risk-case/">The AI Impacts blog</a>.</em></p>
 
-<p>This is going to be a list of holes I see in the basic argument for existential risk from superhuman AI systems<span id="easy-footnote-1-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-1-3345" title="That is, systems that are somewhat more capable than the most capable human."><sup>1</sup></a></span>. </p>
+<p>This is going to be a list of holes I see in the basic argument for existential risk from superhuman AI systems<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>.</p>
 
-<p>To start, here’s an outline of what I take to be the basic case<span id="easy-footnote-2-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-2-3345" title="Based on countless conversations in the AI risk community, and various reading."><sup>2</sup></a></span>:</p>
+<p>To start, here’s an outline of what I take to be the basic case<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">2</a></sup>:</p>
 
 <blockquote>
 
@@ -46,6 +46,8 @@
 
 <p>This blog post is an attempt to run various arguments by you all on the way to making pages on <a href="http://aiimpacts.org/">AI Impacts</a> about arguments for AI risk and corresponding counterarguments. At some point in that process I hope to also read others’ arguments, but this is not that day. So what you have here is a bunch of arguments that occur to me, not an exhaustive literature review. </p>
 
+<!--ex-->
+
 <h2><strong>Counterarguments</strong></h2>
 
 <h3><strong><em>A. Contra “superhuman AI systems will be ‘goal-directed’”</em></strong></h3>
@@ -56,7 +58,7 @@
 
 <p>One well-defined concept of goal-directedness is ‘utility maximization’: always doing what maximizes a particular utility function, given a particular set of beliefs about the world. </p>
 
-<p>Utility maximization does seem to quickly engender an interest in controlling literally everything, at least for many utility functions one might have<span id="easy-footnote-3-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-3-3345" title="Though not all: you might have an easily satiable utility function, or only care about the near future."><sup>3</sup></a></span>. If you want things to go a certain way, then you have reason to control anything which gives you any leverage over that, i.e. potentially all resources in the universe (i.e. agents have ‘<a href="https://en.wikipedia.org/wiki/Instrumental_convergence">convergent instrumental goals</a>’). This is in serious conflict with anyone else with resource-sensitive goals, even if <em>prima facie</em> those goals didn’t look particularly opposed. For instance, a person who wants all things to be red and another person who wants all things to be cubes may not seem to be at odds, given that all things could be red cubes. However if these projects might each fail for lack of energy, then they are probably at odds. </p>
+<p>Utility maximization does seem to quickly engender an interest in controlling literally everything, at least for many utility functions one might have<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote">3</a></sup>. If you want things to go a certain way, then you have reason to control anything which gives you any leverage over that, i.e. potentially all resources in the universe (i.e. agents have ‘<a href="https://en.wikipedia.org/wiki/Instrumental_convergence">convergent instrumental goals</a>’). This is in serious conflict with anyone else with resource-sensitive goals, even if <em>prima facie</em> those goals didn’t look particularly opposed. For instance, a person who wants all things to be red and another person who wants all things to be cubes may not seem to be at odds, given that all things could be red cubes. However if these projects might each fail for lack of energy, then they are probably at odds. </p>
 
 <p>Thus utility maximization is a notion of goal-directedness that allows Part II of the argument to work, by making a large class of goals deadly.</p>
 
@@ -102,7 +104,7 @@
 
 <p>There is a further larger region, ‘that which can be reliably enough aligned with typical human values via incentives in the environment’, which is arguably larger than the circle containing most human values. Human society makes use of this a lot: for instance, most of the time particularly evil humans don’t do anything too objectionable because it isn’t in their interests. This region is probably smaller for more capable creatures such as advanced AIs, but still it is some size.</p>
 
-<p>Thus it seems that some amount<span id="easy-footnote-4-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-4-3345" title="We are talking about divergence in a poorly specified multi-dimensional space, so it isn’t going to be a fixed distance in every direction from the ideal point. It could theoretically be zero distance on some dimensions, such that if AI was misaligned at all in those directions it was catastrophic. My point here is merely that there is some area larger than a point."><sup>4</sup></a></span> of AI divergence from your own values is probably broadly fine, i.e. not worse than what you should otherwise expect without AI. </p>
+<p>Thus it seems that some amount<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote">4</a></sup> of AI divergence from your own values is probably broadly fine, i.e. not worse than what you should otherwise expect without AI.</p>
 
 <p>Thus in order to arrive at a conclusion of doom, it is not enough to argue that we cannot align AI perfectly. The question is a quantitative one of whether we can get it close enough. And how close is ‘close enough’ is not known. </p>
 
@@ -159,11 +161,11 @@
 
   <p>The argument claims (or assumes) that surpassing ‘human-level’ intelligence (i.e. the mental capacities of an individual human) is the relevant bar for matching the power-gaining capacity of humans, such that passing this bar in individual intellect means outcompeting humans in general in terms of power (argument III.2), if not being able to immediately destroy them all outright (argument III.1.). In a similar vein, introductions to AI risk often start by saying that humanity has triumphed over the other species because it is more intelligent, as a lead in to saying that if we make something more intelligent still, it will inexorably triumph over humanity.</p>
 
-  <p>This hypothesis about the provenance of human triumph seems wrong. Intellect surely helps, but humans look to be powerful largely because they share their meager intellectual discoveries with one another and consequently save them up over time<span id="easy-footnote-5-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-5-3345" title="&lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Secret-Our-Success-Evolution-Domesticating/dp/0691166854&quot;&gt;The Secrets of Our Success&lt;/a&gt;&lt;/em&gt; seems to be the canonical reference for this, but I haven’t read it. I don’t know how controversial this is, but also don’t presently see how it could fail to be true."><sup>5</sup></a></span>. You can see this starkly by comparing the material situation of Alice, a genius living in the stone age, and Bob, an average person living in 21st Century America. Alice might struggle all day to get a pot of water, while Bob might be able to summon all manner of delicious drinks from across the oceans, along with furniture, electronics, information, etc. Much of Bob’s power probably did flow from the application of intelligence, but not Bob’s individual intelligence. Alice’s intelligence, and that of those who came between them.</p>
+  <p>This hypothesis about the provenance of human triumph seems wrong. Intellect surely helps, but humans look to be powerful largely because they share their meager intellectual discoveries with one another and consequently save them up over time<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote">5</a></sup>. You can see this starkly by comparing the material situation of Alice, a genius living in the stone age, and Bob, an average person living in 21st Century America. Alice might struggle all day to get a pot of water, while Bob might be able to summon all manner of delicious drinks from across the oceans, along with furniture, electronics, information, etc. Much of Bob’s power probably did flow from the application of intelligence, but not Bob’s individual intelligence. Alice’s intelligence, and that of those who came between them.</p>
 
   <p>Bob’s greater power isn’t directly just from the knowledge and artifacts Bob inherits from other humans. He also seems to be helped for instance by much better coordination: both from a larger number people coordinating together, and from better infrastructure for that coordination (e.g. for Alice the height of coordination might be an occasional big multi-tribe meeting with trade, and for Bob it includes global instant messaging and banking systems and the Internet). One might attribute all of this ultimately to innovation, and thus to intelligence and communication, or not. I think it’s not important to sort out here, as long as it’s clear that individual intelligence isn’t the source of power.</p>
 
-  <p>It could still be that with a given bounty of shared knowledge (e.g. within a given society), intelligence grants huge advantages. But even that doesn’t look true here: 21st Century geniuses live basically like 21st Century people of average intelligence, give or take<span id="easy-footnote-6-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-6-3345" title="See section &amp;#8216;Intelligence may not be an overwhelming advantage&amp;#8217;"><sup>6</sup></a></span>.</p>
+  <p>It could still be that with a given bounty of shared knowledge (e.g. within a given society), intelligence grants huge advantages. But even that doesn’t look true here: 21st Century geniuses live basically like 21st Century people of average intelligence, give or take<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote">6</a></sup>.</p>
 
   <p>Why does this matter? Well for one thing, if you make AI which is merely as smart as a human, you shouldn’t then expect it to do that much better than a genius living in the stone age. That’s what human-level intelligence gets you: nearly nothing. <a href="https://meteuphoric.com/2017/12/28/why-did-everything-take-so-long/">A piece of rope</a> after millions of lifetimes. Humans without their culture are much like other animals. </p>
 
@@ -179,7 +181,7 @@
 
   <p>In contrast, I think people are often imagining that a single entity somewhat smarter than a human will be able to quickly use technologies that are somewhat better than current human technologies. This seems to be mistaking the actions of a human and the actions of a human society. If <a href="https://en.wikipedia.org/wiki/Manhattan_Project#Personnel">a hundred thousand people sometimes get together for a few years and make fantastic new weapons</a>, you should not expect an entity somewhat smarter than a person to make even better weapons. That’s off by a factor of about a hundred thousand. </p>
 
-  <p>There might be places you can get far ahead of humanity by being better than a single human—it depends how much accomplishments depend on the few most capable humans in the field, and how few people are working on the problem<span id="easy-footnote-7-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-7-3345" title="E.g. for the metric ‘hardness of math problem solvable’, maybe no human can solve a level 10 math problem, but several can solve 9s. Then human society as a whole also can’t solve a 10. So the first AI that can is only mildly surpassing the best human, but is at the same time surpassing all of human society."><sup>7</sup></a></span>. But for instance the Manhattan Project <a href="https://en.wikipedia.org/wiki/Manhattan_Project#Personnel">took</a> a hundred thousand people several years, and von Neumann (a mythically smart scientist) joining the project did not reduce it to an afternoon. Plausibly to me, some specific people being on the project caused it to not take twice as many person-years, though the plausible candidates here seem to be more in the business of running things than doing science directly (though that also presumably involves intelligence). But even if you are an ambitious somewhat superhuman intelligence, the influence available to you seems to plausibly be limited to making a large dent in the effort required for some particular research endeavor, not single-handedly outmoding humans across many research endeavors.</p>
+  <p>There might be places you can get far ahead of humanity by being better than a single human—it depends how much accomplishments depend on the few most capable humans in the field, and how few people are working on the problem<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote">7</a></sup>. But for instance the Manhattan Project <a href="https://en.wikipedia.org/wiki/Manhattan_Project#Personnel">took</a> a hundred thousand people several years, and von Neumann (a mythically smart scientist) joining the project did not reduce it to an afternoon. Plausibly to me, some specific people being on the project caused it to not take twice as many person-years, though the plausible candidates here seem to be more in the business of running things than doing science directly (though that also presumably involves intelligence). But even if you are an ambitious somewhat superhuman intelligence, the influence available to you seems to plausibly be limited to making a large dent in the effort required for some particular research endeavor, not single-handedly outmoding humans across many research endeavors.</p>
 
   <p>This is all reason to doubt that a small number of superhuman intelligences will rapidly take over or destroy the world (as in III.i.). This doesn’t preclude a set of AI systems that are together more capable than a large number of people from making great progress. However some related issues seem to make that less likely.</p>
 
@@ -225,7 +227,12 @@
 
   <p>Categories of task where a lot of headroom seems likely:</p>
 
-  <ol start="4"><li>Competitive tasks where the value of a certain level of performance depends on whether one is better or worse than one’s opponent, so that the marginal value of more performance doesn’t hit diminishing returns, as long as your opponent keeps competing and taking back what you just won. Though in one way this is like having little headroom: there’s no more value to be had—the game is zero sum. And while there might often be a lot of value to be gained by doing a bit better on the margin, still if all sides can invest, then nobody will end up better off than they were. So whether this seems more like high or low headroom depends on what we are asking exactly. Here we are asking if AI systems can do much better than humans: in a zero sum contest like this, they likely can in the sense that they can beat humans, but not in the sense of reaping anything more from the situation than the humans ever got.</li><li>Tasks where it is twice as good to do the same task twice as fast, and where speed is bottlenecked on thinking time.</li><li>Tasks where there is reason to think that optimal performance is radically better than we have seen. For instance, perhaps we can estimate how high Chess Elo rankings must go before reaching perfection by reasoning theoretically about the game, and perhaps it is very high (I don’t know).</li><li>Tasks where humans appear to use very inefficient methods. For instance, it was perhaps predictable before calculators that they would be able to do mathematics much faster than humans, because humans can only keep a small number of digits in their heads, which doesn’t seem like an intrinsically hard problem. Similarly, I hear humans often use mental machinery designed for one mental activity for fairly different ones, through analogy.<span id="easy-footnote-8-3345" class="easy-footnote-margin-adjust"></span><span class="easy-footnote"><a href="#easy-footnote-bottom-8-3345" title="Probably I have this impression from reading Steven Pinker at some point."><sup>8</sup></a></span> For instance, when I think about macroeconomics, I seem to be basically using my intuitions for dealing with water. When I do mathematics in general, I think I’m probably using my mental capacities for imagining physical objects.</li></ol>
+  <ol>
+    <li>Competitive tasks where the value of a certain level of performance depends on whether one is better or worse than one’s opponent, so that the marginal value of more performance doesn’t hit diminishing returns, as long as your opponent keeps competing and taking back what you just won. Though in one way this is like having little headroom: there’s no more value to be had—the game is zero sum. And while there might often be a lot of value to be gained by doing a bit better on the margin, still if all sides can invest, then nobody will end up better off than they were. So whether this seems more like high or low headroom depends on what we are asking exactly. Here we are asking if AI systems can do much better than humans: in a zero sum contest like this, they likely can in the sense that they can beat humans, but not in the sense of reaping anything more from the situation than the humans ever got.</li>
+    <li>Tasks where it is twice as good to do the same task twice as fast, and where speed is bottlenecked on thinking time.</li>
+    <li>Tasks where there is reason to think that optimal performance is radically better than we have seen. For instance, perhaps we can estimate how high Chess Elo rankings must go before reaching perfection by reasoning theoretically about the game, and perhaps it is very high (I don’t know).</li>
+    <li>Tasks where humans appear to use very inefficient methods. For instance, it was perhaps predictable before calculators that they would be able to do mathematics much faster than humans, because humans can only keep a small number of digits in their heads, which doesn’t seem like an intrinsically hard problem. Similarly, I hear humans often use mental machinery designed for one mental activity for fairly different ones, through analogy.<sup id="fnref:8" role="doc-noteref"><a href="#fn:8" class="footnote">8</a></sup> For instance, when I think about macroeconomics, I seem to be basically using my intuitions for dealing with water. When I do mathematics in general, I think I’m probably using my mental capacities for imagining physical objects.</li>
+  </ol>
 
   <p><strong><em>What it might look like if this gap matters: </em></strong><em>many challenges in today’s world remain challenging for AI. Human behavior is not readily predictable or manipulable very far beyond what we have explored, only slightly more complicated schemes are feasible before the world’s uncertainties overwhelm planning; much better ads are soon met by much better immune responses; much better commercial decision-making ekes out some additional value across the board but most products were already fulfilling a lot of their potential; incredible virtual prosecutors meet incredible virtual defense attorneys and everything is as it was; there are a few rounds of attack-and-defense in various corporate strategies before a new equilibrium with broad recognition of those possibilities; conflicts and ‘social issues’ remain mostly intractable. There is a brief golden age of science before the newly low-hanging fruit are again plucked and it is only lightning fast in areas where thinking was the main bottleneck, e.g. not in medicine.</em></p>
 
@@ -314,7 +321,36 @@
   <p>I think there are quite a few gaps in the argument, as I understand it. My current guess (prior to reviewing other arguments and integrating things carefully) is that enough uncertainties might resolve in the dangerous directions that existential risk from AI is a reasonable concern. I don’t at present though see how one would come to think it was overwhelmingly likely.</p>
 
   <p></p>
+
 </figure>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>That is, systems that are somewhat more capable than the most capable human. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Based on countless conversations in the AI risk community, and various reading. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Though not all: you might have an easily satiable utility function, or only care about the near future. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>We are talking about divergence in a poorly specified multi-dimensional space, so it isn’t going to be a fixed distance in every direction from the ideal point. It could theoretically be zero distance on some dimensions, such that if AI was misaligned at all in those directions it was catastrophic. My point here is merely that there is some area larger than a point. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>The Secrets of Our Success seems to be the canonical reference for this, but I haven’t read it. I don’t know how controversial this is, but also don’t presently see how it could fail to be true. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:6" role="doc-endnote">
+      <p>See section ‘Intelligence may not be an overwhelming advantage’. <a href="#fnref:6" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:7" role="doc-endnote">
+      <p>E.g. for the metric ‘hardness of math problem solvable’, maybe no human can solve a level 10 math problem, but several can solve 9s. Then human society as a whole also can’t solve a 10. So the first AI that can is only mildly surpassing the best human, but is at the same time surpassing all of human society. <a href="#fnref:7" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:8" role="doc-endnote">
+      <p>Probably I have this impression from reading Steven Pinker at some point. <a href="#fnref:8" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
   </description>
   <link>/2022/10/14/ai_counterargs.html</link>
