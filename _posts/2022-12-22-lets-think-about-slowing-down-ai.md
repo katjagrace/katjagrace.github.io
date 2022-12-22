@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's think about slowing down AI"
-date: 2022-12-21 10:14:00 -0700
+date: 2022-12-22 10:14:00 -0700
 tags: ai meteuphoric
 comments: true
 image: https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6333c761-362a-431d-ba20-d6fc9ffcddf1_512x512.png
