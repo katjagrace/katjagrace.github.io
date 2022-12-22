@@ -4,9 +4,11 @@ title: "Let's think about slowing down AI"
 date: 2022-12-21 10:14:00 -0700
 tags: ai meteuphoric
 comments: true
-image: 
-summary:
+image: https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6333c761-362a-431d-ba20-d6fc9ffcddf1_512x512.png
+summary: 18 or so reasons to reflexively dismiss slowing down AI and why I think they fail and leave it worth thinking seriously about. 
 ---
+
+(Crossposted from AI Impacts Blog)
 
 <h2><strong>Averting doom by not building the doom machine</strong></h2>
 
@@ -60,7 +62,7 @@ summary:
 
 <p>This seems like an error to me. (And <a target="_blank" rel="noreferrer noopener" href="https://www.lesswrong.com/posts/kipMvuaK3NALvFHc9/what-an-actually-pessimistic-containment-strategy-looks-like">lately</a>, <a target="_blank" rel="noreferrer noopener" href="https://forum.effectivealtruism.org/posts/8CMuNwKMcR55jhd8W/instead-of-technical-research-more-people-should-focus-on">to</a> <a target="_blank" rel="noreferrer noopener" href="https://twitter.com/KerryLVaughan/status/1536364299089854471">a</a> <a target="_blank" rel="noreferrer noopener" href="https://www.lesswrong.com/posts/yhRTjBs6oiNcjRgcx/the-case-for-doing-something-else-if-alignment-is-doomed">bunch</a> <a target="_blank" rel="noreferrer noopener" href="https://twitter.com/scholl_adam/status/1556989092784615424">of</a> <a target="_blank" rel="noreferrer noopener" href="https://forum.effectivealtruism.org/posts/6LNvQYyNQpDQmnnux/slowing-down-ai-progress-is-an-underexplored-alignment">other</a> <a target="_blank" rel="noreferrer noopener" href="https://forum.effectivealtruism.org/posts/pJuS5iGbazDDzXwJN/the-history-epistemology-and-strategy-of-technological">people</a>.)&nbsp;</p>
 
-
+<!--ex-->
 
 <p>I don’t have a strong view on whether anything in the space of ‘try to slow down some AI research’ should be done. But I think a) the naive first-pass guess should be a strong ‘probably’, and b) a decent amount of thinking should happen before writing off everything in this large space of interventions. Whereas customarily the tentative answer seems to be, ‘of course not’ and then the topic seems to be avoided for further thinking. (At least in my experience—the AI safety community is large, and for most things I say here, different experiences are probably had in different bits of it.)</p>
 
