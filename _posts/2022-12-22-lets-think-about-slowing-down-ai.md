@@ -4,11 +4,11 @@ title: "Let's think about slowing down AI"
 date: 2022-12-22 10:14:00 -0700
 tags: ai meteuphoric
 comments: true
-image: https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6333c761-362a-431d-ba20-d6fc9ffcddf1_512x512.png
+image:  https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6333c761-362a-431d-ba20-d6fc9ffcddf1_512x512.png
 summary: 18 or so reasons to reflexively dismiss slowing down AI and why I think they fail and leave it worth thinking seriously about. 
 ---
 
-(Crossposted from AI Impacts Blog)
+<em>(Crossposted from AI Impacts Blog)</em>
 
 <h2><strong>Averting doom by not building the doom machine</strong></h2>
 
@@ -39,7 +39,7 @@ summary: 18 or so reasons to reflexively dismiss slowing down AI and why I think
 
 
 
-[Work on it for a decade and a half]
+<p>[Work on it for a decade and a half]</p>
 
 
 
