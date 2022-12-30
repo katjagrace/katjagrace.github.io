@@ -1008,7 +1008,7 @@ summary: 18 or so reasons to reflexively dismiss slowing down AI and why I think
 
 
 
-<p>Thanks to Adam Scholl, Matthijs Maas, Joe Carlsmith, Ben Weinstein-Raun, Ronny Fernandez, Aysja Johnson, Jaan Tallinn, Rick Korzekwa, Owain Evans, Andrew Critch, Michael Vassar, Jessica Taylor, Rohin Shah, Jeffrey Heninger, Zach Stein-Perlman, Anthony Aguirre, Matthew Barnett, David Krueger, Harlan Stewart, Rafe Kennedy, Nick Beckstead, Leopold Aschenbrenner, Michaël Trazzi, Oliver Habryka, Shahar Avin, Luke Muehlhauser, Michael Nielsen, Nathan Young and quite a few others for discussion and/or encouragement.</p>
+<p>Thanks to Scott Alexander, Adam Scholl, Matthijs Maas, Joe Carlsmith, Ben Weinstein-Raun, Ronny Fernandez, Aysja Johnson, Jaan Tallinn, Rick Korzekwa, Owain Evans, Andrew Critch, Michael Vassar, Jessica Taylor, Rohin Shah, Jeffrey Heninger, Zach Stein-Perlman, Anthony Aguirre, Matthew Barnett, David Krueger, Harlan Stewart, Rafe Kennedy, Nick Beckstead, Leopold Aschenbrenner, Michaël Trazzi, Oliver Habryka, Shahar Avin, Luke Muehlhauser, Michael Nielsen, Nathan Young and quite a few others for discussion and/or encouragement.</p>
 
 
 
