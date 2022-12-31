@@ -5,7 +5,7 @@ date: 2022-12-30 3:56:00 -0700
 tags: meta worldlypositions
 comments: true
 image: https://static.tumblr.com/010f7823b98a70509677554b6bbb2f46/j5ffzji/yiIoqg5l6/tumblr_static_6naihwpnpqww8okw804s08g_2048_v2.jpg
-summary: I made the Worldly Positions archive readableb on Substack, and Substack made my private drafts readable too
+summary: "I made the Worldly Positions archive readable on Substack, and Substack made my private drafts readable too!"
 ---
 
 I realized it was hard to peruse past [Worldly Positions](https://worldlypositions.tumblr.com) posts without logging in to Tumblr, which seemed pretty bad. So I followed Substack's instructions to import the archives into [world spirit sock stack](https://worldspiritsockpuppet.substack.com/). And it worked pretty well, except that SUBSTACK ALSO PUBLISHED MY UNPUBLISHED WORLDLY POSITIONS DRAFTS! What on Earth? That's so bad. Did I misunderstand what happened somehow in my rush to unpublish them? Maybe. But they definitely had 'unpublish' buttons, so that's pretty incriminating. <!--ex-->
