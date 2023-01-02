@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Have we foresaken natural selection?"
+title: "What if we haven't foresaken natural selection?"
 date: 2021-01-xx 10:30:00 -0700
 tags: CATEGORY-1 CATEGORY-2
 comments: true
@@ -20,6 +20,8 @@ Natural selection, in its broadest, truest sense, doesn't care a jot about genes
 - I'm not saying it's the strongest urge. But I think the reasoning above is decent: it's not obvious that we should expect humans to care about survival per se. And yet they seem to care about it a fair bit.
 - weirdly, a bunch of the efforts to get to the far corners of space will have come from more historically explicable urges, e.g. to get dicks in desirable places. Yet the invisible hand coordinating our species directs these local urges into a non-negligible society-wide effort for survival.
 - having children at this point isn't obviously that good for the survival of a person's genes, relative to them having more financial wealth and flexibility. I don't think many people are failing to have children because they appreciate that they might soon be able to produce genetically enhanced clones or upload their brains, but it's interesting to me that at the point we might complain that they are under-procreating for proper manifestors of evolution's values for them, it doesn't seem actually true. 
+
+What does this imply?
 
 This seems like a pretty obvious point, so I'm not put off it by it not applying that well to the example. But I think it doesn't. 
 
