@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What if we haven't foresaken natural selection?"
-date: 2021-01-xx 10:30:00 -0700
+date: 2023-01-10 10:30:00 -0700
 tags: CATEGORY-1 CATEGORY-2
 comments: true
 image:
