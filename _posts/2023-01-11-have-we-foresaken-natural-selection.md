@@ -4,8 +4,8 @@ title: "Have we really foresaken natural selection?"
 date: 2023-01-11 15:50:00 -0700
 tags: ai meteuphoric
 comments: true
-image:
-summary:
+image: https://hosting.photobucket.com/images/i/katjasgrace/nasa-Yj1M5riCKk4-unsplash.jpg
+summary: Natural selection 'wants' us to exist, and we're doing well above average at that
 ---
 Natural selection is often charged with having goals for humanity, and humanity is often charged with falling down on them. The big accusation, I think, is of sub-maximal procreation. If we cared at all about the genetic proliferation that natural selection wanted for us, then this time of riches would be a time of fifty-child families, not one of coddled dogs and state-of-the-art sitting rooms. 
 
