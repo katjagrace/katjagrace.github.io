@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Have we really foresaken natural selection?"
+title: "Have we really forsaken natural selection?"
 date: 2023-01-11 15:50:00 -0700
 tags: ai meteuphoric
 comments: true
