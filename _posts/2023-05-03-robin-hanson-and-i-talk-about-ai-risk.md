@@ -4,7 +4,7 @@ title: "Robin Hanson and I talk about AI risk"
 date: 2023-05-03 20:20:00 -0700
 tags: ai meteuphoric podcast
 comments: true
-image: https://hosting.photobucket.com/images/i/katjasgrace/nasa-Yj1M5riCKk4-unsplash.jpg
+image: 
 summary: New episode in our series of very occasional podcasts
 ---
 
