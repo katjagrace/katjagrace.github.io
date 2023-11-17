@@ -2,7 +2,7 @@
 layout: post
 title: "The other side of the tidal wave"
 date: 2023-11-02 22:25:00 -0700
-tags: advice
+tags: AI worldlypositions
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/matt-power-TpHmEoVSmfQ-unsplash.jpg
 summary: What will happen to everything I like?

@@ -2,7 +2,7 @@
 layout: post
 title: "A to Z of things"
 date: 2023-11-03 01:25:00 -0700
-tags: advice
+tags: worldlypositions
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/5dea6d4e-f024-4121-a335-57a47a7e1e3b_2448x1590.webp
 summary: A book
