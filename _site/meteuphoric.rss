@@ -3,9 +3,9 @@
 <channel>
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
- <link>https://worldspiritsockpuppet.com</link>
- <lastBuildDate>Thu, 04 May 2023 18:12:46 -0400</lastBuildDate>
- <pubDate>Thu, 04 May 2023 18:12:46 -0400</pubDate>
+ <link>http://localhost:4000</link>
+ <lastBuildDate>Fri, 03 Nov 2023 01:39:50 -0700</lastBuildDate>
+ <pubDate>Fri, 03 Nov 2023 01:39:50 -0700</pubDate>
  <ttl>1800</ttl>
 
  
@@ -20,8 +20,8 @@
 
   </description>
   <link>/2023/05/03/robin-hanson-and-i-talk-about-ai-risk.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2023/05/03/robin-hanson-and-i-talk-about-ai-risk.html</guid>
-  <pubDate>Wed, 03 May 2023 23:20:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2023/05/03/robin-hanson-and-i-talk-about-ai-risk.html</guid>
+  <pubDate>Wed, 03 May 2023 20:20:00 -0700</pubDate>
  </item>
  
  <item>
@@ -49,8 +49,8 @@
 
   </description>
   <link>/2023/01/11/have-we-foresaken-natural-selection.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2023/01/11/have-we-foresaken-natural-selection.html</guid>
-  <pubDate>Wed, 11 Jan 2023 17:50:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2023/01/11/have-we-foresaken-natural-selection.html</guid>
+  <pubDate>Wed, 11 Jan 2023 14:50:00 -0800</pubDate>
  </item>
  
  <item>
@@ -136,8 +136,8 @@
 
   </description>
   <link>/2023/01/10/we-dont-trade-with-ants.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html</guid>
-  <pubDate>Tue, 10 Jan 2023 16:55:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2023/01/10/we-dont-trade-with-ants.html</guid>
+  <pubDate>Tue, 10 Jan 2023 13:55:00 -0800</pubDate>
  </item>
  
  <item>
@@ -160,8 +160,8 @@
 
   </description>
   <link>/2022/12/31/pacing.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/12/31/pacing.html</guid>
-  <pubDate>Sat, 31 Dec 2022 22:00:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/12/31/pacing.html</guid>
+  <pubDate>Sat, 31 Dec 2022 19:00:00 -0800</pubDate>
  </item>
  
  <item>
@@ -1197,8 +1197,8 @@
 
   </description>
   <link>/2022/12/22/lets-think-about-slowing-down-ai.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/12/22/lets-think-about-slowing-down-ai.html</guid>
-  <pubDate>Thu, 22 Dec 2022 12:14:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/12/22/lets-think-about-slowing-down-ai.html</guid>
+  <pubDate>Thu, 22 Dec 2022 09:14:00 -0800</pubDate>
  </item>
  
  <item>
@@ -1546,8 +1546,8 @@
 
   </description>
   <link>/2022/10/14/ai_counterargs.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/10/14/ai_counterargs.html</guid>
-  <pubDate>Fri, 14 Oct 2022 08:43:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/10/14/ai_counterargs.html</guid>
+  <pubDate>Fri, 14 Oct 2022 05:43:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1614,8 +1614,8 @@
 
   </description>
   <link>/2022/09/22/2022-game.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/09/22/2022-game.html</guid>
-  <pubDate>Thu, 22 Sep 2022 22:16:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/09/22/2022-game.html</guid>
+  <pubDate>Thu, 22 Sep 2022 19:16:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1630,9 +1630,9 @@
 <p>For completeness of podcast reporting: I forgot to mention that <a href="https://axrp.net/episode/2021/07/23/episode-10-ais-future-and-dangers-katja-grace.html">I also talked to Daniel Filan on AXRP</a>, like a year ago. In other old news, I am opposed to the vibe of time-sensitivity often implicit in the public conversation.</p>
 
   </description>
-  <link>/2022/09/18/im-on-podcasts.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/09/18/im-on-podcasts.html</guid>
-  <pubDate>Sun, 18 Sep 2022 02:16:00 -0400</pubDate>
+  <link>/2022/09/17/im-on-podcasts.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2022/09/17/im-on-podcasts.html</guid>
+  <pubDate>Sat, 17 Sep 2022 23:16:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1670,8 +1670,8 @@
 
   </description>
   <link>/2022/08/04/ai_2022_survey.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/08/04/ai_2022_survey.html</guid>
-  <pubDate>Thu, 04 Aug 2022 13:30:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/08/04/ai_2022_survey.html</guid>
+  <pubDate>Thu, 04 Aug 2022 10:30:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1794,8 +1794,8 @@
 
   </description>
   <link>/2022/02/10/why-not-vaccinate.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/02/10/why-not-vaccinate.html</guid>
-  <pubDate>Thu, 10 Feb 2022 14:17:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/02/10/why-not-vaccinate.html</guid>
+  <pubDate>Thu, 10 Feb 2022 11:17:00 -0800</pubDate>
  </item>
  
  <item>
@@ -1823,8 +1823,8 @@
 
   </description>
   <link>/2021/07/20/punishing-whats-right.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/07/20/punishing-whats-right.html</guid>
-  <pubDate>Tue, 20 Jul 2021 19:18:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/07/20/punishing-whats-right.html</guid>
+  <pubDate>Tue, 20 Jul 2021 16:18:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1974,8 +1974,8 @@
 
   </description>
   <link>/2021/07/12/typology-of-blog-posts.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/07/12/typology-of-blog-posts.html</guid>
-  <pubDate>Mon, 12 Jul 2021 21:28:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/07/12/typology-of-blog-posts.html</guid>
+  <pubDate>Mon, 12 Jul 2021 18:28:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1999,8 +1999,8 @@
 
   </description>
   <link>/2021/02/13/ecology-of-conviction.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/02/13/ecology-of-conviction.html</guid>
-  <pubDate>Sat, 13 Feb 2021 12:30:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/13/ecology-of-conviction.html</guid>
+  <pubDate>Sat, 13 Feb 2021 09:30:00 -0800</pubDate>
  </item>
  
  <item>
@@ -2029,8 +2029,8 @@
 
   </description>
   <link>/2021/02/11/nature-balance.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/02/11/nature-balance.html</guid>
-  <pubDate>Thu, 11 Feb 2021 09:27:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/11/nature-balance.html</guid>
+  <pubDate>Thu, 11 Feb 2021 06:27:00 -0800</pubDate>
  </item>
  
  <item>
@@ -2080,8 +2080,8 @@
 
   </description>
   <link>/2021/01/17/whats-going-on.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/17/whats-going-on.html</guid>
-  <pubDate>Sun, 17 Jan 2021 04:28:39 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/17/whats-going-on.html</guid>
+  <pubDate>Sun, 17 Jan 2021 01:28:39 -0800</pubDate>
  </item>
  
  <item>
@@ -2109,8 +2109,8 @@
 
   </description>
   <link>/2021/01/08/condition-directedness.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/08/condition-directedness.html</guid>
-  <pubDate>Fri, 08 Jan 2021 04:21:42 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/08/condition-directedness.html</guid>
+  <pubDate>Fri, 08 Jan 2021 01:21:42 -0800</pubDate>
  </item>
  
  <item>
@@ -2144,8 +2144,8 @@
 
   </description>
   <link>/2020/12/19/opposite-attractions.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/19/opposite-attractions.html</guid>
-  <pubDate>Sat, 19 Dec 2020 16:00:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/19/opposite-attractions.html</guid>
+  <pubDate>Sat, 19 Dec 2020 13:00:00 -0800</pubDate>
  </item>
  
  <item>
@@ -2171,8 +2171,8 @@
 
   </description>
   <link>/2020/12/16/war.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/16/war.html</guid>
-  <pubDate>Wed, 16 Dec 2020 03:09:35 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/16/war.html</guid>
+  <pubDate>Wed, 16 Dec 2020 00:09:35 -0800</pubDate>
  </item>
  
  <item>
@@ -2203,8 +2203,8 @@
 
   </description>
   <link>/2020/12/09/unexplored-modes-of-language.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/09/unexplored-modes-of-language.html</guid>
-  <pubDate>Wed, 09 Dec 2020 12:48:56 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/09/unexplored-modes-of-language.html</guid>
+  <pubDate>Wed, 09 Dec 2020 09:48:56 -0800</pubDate>
  </item>
  
  <item>
@@ -2276,8 +2276,8 @@
 
   </description>
   <link>/2020/12/07/why-are-delicious-biscuits-obscure.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
-  <pubDate>Mon, 07 Dec 2020 11:06:40 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
+  <pubDate>Mon, 07 Dec 2020 08:06:40 -0800</pubDate>
  </item>
  
  <item>
@@ -2312,9 +2312,9 @@
 <p>Is this is how things are, or is my first impression more true?</p>
 
   </description>
-  <link>/2020/12/06/cultural-accumulation.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/06/cultural-accumulation.html</guid>
-  <pubDate>Sun, 06 Dec 2020 00:08:11 -0500</pubDate>
+  <link>/2020/12/05/cultural-accumulation.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/05/cultural-accumulation.html</guid>
+  <pubDate>Sat, 05 Dec 2020 21:08:11 -0800</pubDate>
  </item>
  
  <item>
@@ -2343,8 +2343,8 @@
 
   </description>
   <link>/2020/11/13/misalignment-and-misuse.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/13/misalignment-and-misuse.html</guid>
-  <pubDate>Fri, 13 Nov 2020 03:25:04 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/13/misalignment-and-misuse.html</guid>
+  <pubDate>Fri, 13 Nov 2020 00:25:04 -0800</pubDate>
  </item>
  
  <item>
@@ -2376,8 +2376,8 @@
 
   </description>
   <link>/2020/11/09/tweet-markets.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/09/tweet-markets.html</guid>
-  <pubDate>Mon, 09 Nov 2020 13:01:22 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/09/tweet-markets.html</guid>
+  <pubDate>Mon, 09 Nov 2020 10:01:22 -0800</pubDate>
  </item>
  
  <item>
@@ -2403,8 +2403,8 @@
 
   </description>
   <link>/2020/11/01/automating-intelligence.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/01/automating-intelligence.html</guid>
-  <pubDate>Sun, 01 Nov 2020 03:58:21 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/01/automating-intelligence.html</guid>
+  <pubDate>Sun, 01 Nov 2020 01:58:21 -0700</pubDate>
  </item>
  
  <item>
@@ -2448,8 +2448,8 @@
 
   </description>
   <link>/2020/10/27/social-dilemma-2.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/27/social-dilemma-2.html</guid>
-  <pubDate>Tue, 27 Oct 2020 03:22:12 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/27/social-dilemma-2.html</guid>
+  <pubDate>Tue, 27 Oct 2020 00:22:12 -0700</pubDate>
  </item>
  
  <item>
@@ -2479,8 +2479,8 @@
 
   </description>
   <link>/2020/10/26/the-social-dilemma-review.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/26/the-social-dilemma-review.html</guid>
-  <pubDate>Mon, 26 Oct 2020 03:52:20 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/26/the-social-dilemma-review.html</guid>
+  <pubDate>Mon, 26 Oct 2020 00:52:20 -0700</pubDate>
  </item>
  
  <item>
@@ -2495,9 +2495,9 @@
 <p>The main remaining thing is to add comments. If anyone has views about how those should be, er, tweet at me?</p>
 
   </description>
-  <link>/2020/10/25/new-blog.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/25/new-blog.html</guid>
-  <pubDate>Sun, 25 Oct 2020 01:11:19 -0400</pubDate>
+  <link>/2020/10/24/new-blog.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/new-blog.html</guid>
+  <pubDate>Sat, 24 Oct 2020 22:11:19 -0700</pubDate>
  </item>
  
  <item>
@@ -2565,9 +2565,9 @@
 </div>
 
   </description>
-  <link>/2020/10/14/the-bads-of-ads.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/14/the-bads-of-ads.html</guid>
-  <pubDate>Wed, 14 Oct 2020 01:30:00 -0400</pubDate>
+  <link>/2020/10/13/the-bads-of-ads.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/13/the-bads-of-ads.html</guid>
+  <pubDate>Tue, 13 Oct 2020 22:30:00 -0700</pubDate>
  </item>
  
 

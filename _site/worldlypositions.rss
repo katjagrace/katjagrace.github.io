@@ -3,9 +3,9 @@
 <channel>
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
- <link>https://worldspiritsockpuppet.com</link>
- <lastBuildDate>Thu, 04 May 2023 18:12:46 -0400</lastBuildDate>
- <pubDate>Thu, 04 May 2023 18:12:46 -0400</pubDate>
+ <link>http://localhost:4000</link>
+ <lastBuildDate>Fri, 03 Nov 2023 01:39:50 -0700</lastBuildDate>
+ <pubDate>Fri, 03 Nov 2023 01:39:50 -0700</pubDate>
  <ttl>1800</ttl>
 
  
@@ -29,8 +29,8 @@
 
   </description>
   <link>/2022/12/30/worldly-positions-archives.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/12/30/worldly-positions-archives.html</guid>
-  <pubDate>Fri, 30 Dec 2022 05:56:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/12/30/worldly-positions-archives.html</guid>
+  <pubDate>Fri, 30 Dec 2022 02:56:00 -0800</pubDate>
  </item>
  
  <item>
@@ -95,8 +95,8 @@
 
   </description>
   <link>/2022/09/22/2022-game.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/09/22/2022-game.html</guid>
-  <pubDate>Thu, 22 Sep 2022 22:16:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/09/22/2022-game.html</guid>
+  <pubDate>Thu, 22 Sep 2022 19:16:00 -0700</pubDate>
  </item>
  
  <item>
@@ -109,9 +109,9 @@
 <p>For completeness of podcast reporting: I forgot to mention that <a href="https://axrp.net/episode/2021/07/23/episode-10-ais-future-and-dangers-katja-grace.html">I also talked to Daniel Filan on AXRP</a>, like a year ago. In other old news, I am opposed to the vibe of time-sensitivity often implicit in the public conversation.</p>
 
   </description>
-  <link>/2022/09/18/im-on-podcasts.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/09/18/im-on-podcasts.html</guid>
-  <pubDate>Sun, 18 Sep 2022 02:16:00 -0400</pubDate>
+  <link>/2022/09/17/im-on-podcasts.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2022/09/17/im-on-podcasts.html</guid>
+  <pubDate>Sat, 17 Sep 2022 23:16:00 -0700</pubDate>
  </item>
  
  <item>
@@ -169,8 +169,8 @@
 
   </description>
   <link>/2022/02/09/bernal-bicycle.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2022/02/09/bernal-bicycle.html</guid>
-  <pubDate>Wed, 09 Feb 2022 14:46:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2022/02/09/bernal-bicycle.html</guid>
+  <pubDate>Wed, 09 Feb 2022 11:46:00 -0800</pubDate>
  </item>
  
  <item>
@@ -204,8 +204,8 @@
 
   </description>
   <link>/2021/07/15/lafayette-norms.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/07/15/lafayette-norms.html</guid>
-  <pubDate>Thu, 15 Jul 2021 13:30:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/07/15/lafayette-norms.html</guid>
+  <pubDate>Thu, 15 Jul 2021 10:30:00 -0700</pubDate>
  </item>
  
  <item>
@@ -225,8 +225,8 @@
 
   </description>
   <link>/2021/07/14/traffic-vessels.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/07/14/traffic-vessels.html</guid>
-  <pubDate>Wed, 14 Jul 2021 20:56:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/07/14/traffic-vessels.html</guid>
+  <pubDate>Wed, 14 Jul 2021 17:56:00 -0700</pubDate>
  </item>
  
  <item>
@@ -248,8 +248,8 @@
 
   </description>
   <link>/2021/06/06/holidaying-and-purpose.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/06/06/holidaying-and-purpose.html</guid>
-  <pubDate>Sun, 06 Jun 2021 15:17:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/06/06/holidaying-and-purpose.html</guid>
+  <pubDate>Sun, 06 Jun 2021 12:17:00 -0700</pubDate>
  </item>
  
  <item>
@@ -264,9 +264,9 @@
 <p>Which means that the variety is not fully out of safe reach in the way that, say, a big lick-a-stranger party might be. At least some of it is just informationally inaccessible, like finding the correct answer to a hard math problem. If I could somehow spend a day living like a person stuck in their house across the street lives, I would see all kinds of new things. My home itself—especially with its connection to the internet and Amazon—is capable of vastly more variety than I typically see.</p>
 
   </description>
-  <link>/2021/03/10/the-variety-never-went-away.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/03/10/the-variety-never-went-away.html</guid>
-  <pubDate>Wed, 10 Mar 2021 02:34:00 -0500</pubDate>
+  <link>/2021/03/09/the-variety-never-went-away.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2021/03/09/the-variety-never-went-away.html</guid>
+  <pubDate>Tue, 09 Mar 2021 23:34:00 -0800</pubDate>
  </item>
  
  <item>
@@ -283,9 +283,9 @@
 <p>You can buy bracelet versions in a very small number of places online, and also keychain or general hanging clip-on versions, but I don’t think I saw necklaces anywhere. This seems striking, given the clear superiority to a phone counter for me so far, and the likely scale of phone counter usage in the world.</p>
 
   </description>
-  <link>/2021/02/18/wearable-abaci.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/02/18/wearable-abaci.html</guid>
-  <pubDate>Thu, 18 Feb 2021 01:12:00 -0500</pubDate>
+  <link>/2021/02/17/wearable-abaci.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/17/wearable-abaci.html</guid>
+  <pubDate>Wed, 17 Feb 2021 22:12:00 -0800</pubDate>
  </item>
  
  <item>
@@ -334,8 +334,8 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/02/14/what-didnt-happen.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/02/14/what-didnt-happen.html</guid>
-  <pubDate>Sun, 14 Feb 2021 22:30:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/14/what-didnt-happen.html</guid>
+  <pubDate>Sun, 14 Feb 2021 19:30:00 -0800</pubDate>
  </item>
  
  <item>
@@ -361,8 +361,8 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/02/09/a-nice-day.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/02/09/a-nice-day.html</guid>
-  <pubDate>Tue, 09 Feb 2021 12:54:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/02/09/a-nice-day.html</guid>
+  <pubDate>Tue, 09 Feb 2021 09:54:00 -0800</pubDate>
  </item>
  
  <item>
@@ -405,8 +405,8 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/01/24/lil-pots.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/24/lil-pots.html</guid>
-  <pubDate>Sun, 24 Jan 2021 06:30:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/24/lil-pots.html</guid>
+  <pubDate>Sun, 24 Jan 2021 03:30:00 -0800</pubDate>
  </item>
  
  <item>
@@ -446,8 +446,8 @@ Nonplussed, angered by his dismissive stupidity, but sheepishly unable to forgo 
 
   </description>
   <link>/2021/01/15/san-francisco-outing.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/15/san-francisco-outing.html</guid>
-  <pubDate>Fri, 15 Jan 2021 05:32:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/15/san-francisco-outing.html</guid>
+  <pubDate>Fri, 15 Jan 2021 02:32:00 -0800</pubDate>
  </item>
  
  <item>
@@ -518,9 +518,9 @@ Draw on my mind<br />
 Cleaner than fifty lines</p>
 
   </description>
-  <link>/2021/01/13/haikus.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/13/haikus.html</guid>
-  <pubDate>Wed, 13 Jan 2021 02:00:34 -0500</pubDate>
+  <link>/2021/01/12/haikus.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/12/haikus.html</guid>
+  <pubDate>Tue, 12 Jan 2021 23:00:34 -0800</pubDate>
  </item>
  
  <item>
@@ -534,8 +534,8 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/11/poker.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/11/poker.html</guid>
-  <pubDate>Mon, 11 Jan 2021 06:49:42 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/11/poker.html</guid>
+  <pubDate>Mon, 11 Jan 2021 03:49:42 -0800</pubDate>
  </item>
  
  <item>
@@ -561,8 +561,8 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/07/evening-drawing.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/07/evening-drawing.html</guid>
-  <pubDate>Thu, 07 Jan 2021 04:37:14 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/07/evening-drawing.html</guid>
+  <pubDate>Thu, 07 Jan 2021 01:37:14 -0800</pubDate>
  </item>
  
  <item>
@@ -593,8 +593,8 @@ Cleaner than fifty lines</p>
 
   </description>
   <link>/2021/01/02/on-writing-like-a-butterfly.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2021/01/02/on-writing-like-a-butterfly.html</guid>
-  <pubDate>Sat, 02 Jan 2021 14:06:55 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2021/01/02/on-writing-like-a-butterfly.html</guid>
+  <pubDate>Sat, 02 Jan 2021 11:06:55 -0800</pubDate>
  </item>
  
  <item>
@@ -660,8 +660,8 @@ oxo</p>
 
   </description>
   <link>/2020/12/27/open-christmas-card-to-my-stepfather.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/27/open-christmas-card-to-my-stepfather.html</guid>
-  <pubDate>Sun, 27 Dec 2020 12:30:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/27/open-christmas-card-to-my-stepfather.html</guid>
+  <pubDate>Sun, 27 Dec 2020 09:30:00 -0800</pubDate>
  </item>
  
  <item>
@@ -731,8 +731,8 @@ Katja</p>
 
   </description>
   <link>/2020/12/26/christmas-linkpost-brothers.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/26/christmas-linkpost-brothers.html</guid>
-  <pubDate>Sat, 26 Dec 2020 05:55:41 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/26/christmas-linkpost-brothers.html</guid>
+  <pubDate>Sat, 26 Dec 2020 02:55:41 -0800</pubDate>
  </item>
  
  <item>
@@ -795,8 +795,8 @@ Katja</p>
 
   </description>
   <link>/2020/12/24/open-christmas-card-to-my-father.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/24/open-christmas-card-to-my-father.html</guid>
-  <pubDate>Thu, 24 Dec 2020 12:31:25 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/24/open-christmas-card-to-my-father.html</guid>
+  <pubDate>Thu, 24 Dec 2020 09:31:25 -0800</pubDate>
  </item>
  
  <item>
@@ -873,8 +873,8 @@ xox</p>
 
   </description>
   <link>/2020/12/23/open-christmas-present.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/23/open-christmas-present.html</guid>
-  <pubDate>Wed, 23 Dec 2020 12:33:17 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/23/open-christmas-present.html</guid>
+  <pubDate>Wed, 23 Dec 2020 09:33:17 -0800</pubDate>
  </item>
  
  <item>
@@ -908,8 +908,8 @@ xox</p>
 
   </description>
   <link>/2020/12/22/what-is-food-like.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/22/what-is-food-like.html</guid>
-  <pubDate>Tue, 22 Dec 2020 06:11:37 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/22/what-is-food-like.html</guid>
+  <pubDate>Tue, 22 Dec 2020 03:11:37 -0800</pubDate>
  </item>
  
  <item>
@@ -918,9 +918,9 @@ xox</p>
     <p>Sometimes I really enjoy opening a thesaurus. I don’t know why. It’s just a moment of opening it, anticipating feeling around amongst the meanings of different words, weighing their rightnesses, which seems like a kind of heavenliness, sometimes. I think it was better in 2018, and now I’m mostly remembering that.</p>
 
   </description>
-  <link>/2020/12/19/thesauring.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/19/thesauring.html</guid>
-  <pubDate>Sat, 19 Dec 2020 02:10:27 -0500</pubDate>
+  <link>/2020/12/18/thesauring.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/18/thesauring.html</guid>
+  <pubDate>Fri, 18 Dec 2020 23:10:27 -0800</pubDate>
  </item>
  
  <item>
@@ -934,8 +934,8 @@ xox</p>
 
   </description>
   <link>/2020/12/17/genetic-magic.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/17/genetic-magic.html</guid>
-  <pubDate>Thu, 17 Dec 2020 23:13:12 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/17/genetic-magic.html</guid>
+  <pubDate>Thu, 17 Dec 2020 20:13:12 -0800</pubDate>
  </item>
  
  <item>
@@ -966,9 +966,9 @@ xox</p>
 </ol>
 
   </description>
-  <link>/2020/12/17/some-things-im-looking-forward-to-in-2021.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/17/some-things-im-looking-forward-to-in-2021.html</guid>
-  <pubDate>Thu, 17 Dec 2020 02:12:08 -0500</pubDate>
+  <link>/2020/12/16/some-things-im-looking-forward-to-in-2021.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/16/some-things-im-looking-forward-to-in-2021.html</guid>
+  <pubDate>Wed, 16 Dec 2020 23:12:08 -0800</pubDate>
  </item>
  
  <item>
@@ -1002,8 +1002,8 @@ xox</p>
 
   </description>
   <link>/2020/12/15/art.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/15/art.html</guid>
-  <pubDate>Tue, 15 Dec 2020 03:15:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/15/art.html</guid>
+  <pubDate>Tue, 15 Dec 2020 00:15:00 -0800</pubDate>
  </item>
  
  <item>
@@ -1039,8 +1039,8 @@ xox</p>
 
   </description>
   <link>/2020/12/12/heartwarming-quantitative-methods.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/12/heartwarming-quantitative-methods.html</guid>
-  <pubDate>Sat, 12 Dec 2020 15:38:01 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/12/heartwarming-quantitative-methods.html</guid>
+  <pubDate>Sat, 12 Dec 2020 12:38:01 -0800</pubDate>
  </item>
  
  <item>
@@ -1070,8 +1070,8 @@ xox</p>
 
   </description>
   <link>/2020/12/09/walk-to-a-san-francisco-fedex.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/09/walk-to-a-san-francisco-fedex.html</guid>
-  <pubDate>Wed, 09 Dec 2020 12:30:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/09/walk-to-a-san-francisco-fedex.html</guid>
+  <pubDate>Wed, 09 Dec 2020 09:30:00 -0800</pubDate>
  </item>
  
  <item>
@@ -1141,8 +1141,8 @@ xox</p>
 
   </description>
   <link>/2020/12/07/why-are-delicious-biscuits-obscure.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
-  <pubDate>Mon, 07 Dec 2020 11:06:40 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/07/why-are-delicious-biscuits-obscure.html</guid>
+  <pubDate>Mon, 07 Dec 2020 08:06:40 -0800</pubDate>
  </item>
  
  <item>
@@ -1166,8 +1166,8 @@ xox</p>
 
   </description>
   <link>/2020/12/06/photographs.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/06/photographs.html</guid>
-  <pubDate>Sun, 06 Dec 2020 13:45:22 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/06/photographs.html</guid>
+  <pubDate>Sun, 06 Dec 2020 10:45:22 -0800</pubDate>
  </item>
  
  <item>
@@ -1182,9 +1182,9 @@ xox</p>
 <p>This year lots of people are forced to stay at home, so I have plenty of company. But if I were going to celebrate relatively alone at the same time as my friends or family were doing the same thing elsewhere, I like the idea of trying to combine these ideas somehow.</p>
 
   </description>
-  <link>/2020/12/05/distanced-christmas-book-celebration.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/05/distanced-christmas-book-celebration.html</guid>
-  <pubDate>Sat, 05 Dec 2020 01:34:34 -0500</pubDate>
+  <link>/2020/12/04/distanced-christmas-book-celebration.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/04/distanced-christmas-book-celebration.html</guid>
+  <pubDate>Fri, 04 Dec 2020 22:34:34 -0800</pubDate>
  </item>
  
  <item>
@@ -1221,8 +1221,8 @@ xox</p>
 
   </description>
   <link>/2020/12/01/points-for-anxiety.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/12/01/points-for-anxiety.html</guid>
-  <pubDate>Tue, 01 Dec 2020 05:03:25 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/12/01/points-for-anxiety.html</guid>
+  <pubDate>Tue, 01 Dec 2020 02:03:25 -0800</pubDate>
  </item>
  
  <item>
@@ -1239,9 +1239,9 @@ xox</p>
 <p>But another virtue of this is in the never-ending effort to see what other people’s worlds are like. In hearing someone describe how your world looks to them, you perhaps get to infer something about the landscape of the place that view is coming from.</p>
 
   </description>
-  <link>/2020/11/29/another-point-of-view-on-the-details.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/29/another-point-of-view-on-the-details.html</guid>
-  <pubDate>Sun, 29 Nov 2020 02:39:30 -0500</pubDate>
+  <link>/2020/11/28/another-point-of-view-on-the-details.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/28/another-point-of-view-on-the-details.html</guid>
+  <pubDate>Sat, 28 Nov 2020 23:39:30 -0800</pubDate>
  </item>
  
  <item>
@@ -1286,8 +1286,8 @@ xox</p>
 
   </description>
   <link>/2020/11/08/election-day-five.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/08/election-day-five.html</guid>
-  <pubDate>Sun, 08 Nov 2020 21:00:00 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/08/election-day-five.html</guid>
+  <pubDate>Sun, 08 Nov 2020 18:00:00 -0800</pubDate>
  </item>
  
  <item>
@@ -1322,8 +1322,8 @@ xox</p>
 
   </description>
   <link>/2020/11/01/questions-of-the-afternoon.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/11/01/questions-of-the-afternoon.html</guid>
-  <pubDate>Sun, 01 Nov 2020 19:39:16 -0500</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/11/01/questions-of-the-afternoon.html</guid>
+  <pubDate>Sun, 01 Nov 2020 16:39:16 -0800</pubDate>
  </item>
  
  <item>
@@ -1359,8 +1359,8 @@ xox</p>
 
   </description>
   <link>/2020/10/31/birthday.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/31/birthday.html</guid>
-  <pubDate>Sat, 31 Oct 2020 07:06:31 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/31/birthday.html</guid>
+  <pubDate>Sat, 31 Oct 2020 04:06:31 -0700</pubDate>
  </item>
  
  <item>
@@ -1373,9 +1373,9 @@ xox</p>
 <p>The main remaining thing is to add comments. If anyone has views about how those should be, er, tweet at me?</p>
 
   </description>
-  <link>/2020/10/25/new-blog.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/25/new-blog.html</guid>
-  <pubDate>Sun, 25 Oct 2020 01:11:19 -0400</pubDate>
+  <link>/2020/10/24/new-blog.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/new-blog.html</guid>
+  <pubDate>Sat, 24 Oct 2020 22:11:19 -0700</pubDate>
  </item>
  
  <item>
@@ -1385,8 +1385,8 @@ xox</p>
 
   </description>
   <link>/2020/10/24/the-end-of-ordinary-days.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/24/the-end-of-ordinary-days.html</guid>
-  <pubDate>Sat, 24 Oct 2020 06:46:12 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/24/the-end-of-ordinary-days.html</guid>
+  <pubDate>Sat, 24 Oct 2020 03:46:12 -0700</pubDate>
  </item>
  
  <item>
@@ -1419,9 +1419,9 @@ xox</p>
 </figure>
 
   </description>
-  <link>/2020/10/21/my-city.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/21/my-city.html</guid>
-  <pubDate>Wed, 21 Oct 2020 02:27:41 -0400</pubDate>
+  <link>/2020/10/20/my-city.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/20/my-city.html</guid>
+  <pubDate>Tue, 20 Oct 2020 23:27:41 -0700</pubDate>
  </item>
  
  <item>
@@ -1454,8 +1454,8 @@ xox</p>
 
   </description>
   <link>/2020/10/20/american-politics.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/20/american-politics.html</guid>
-  <pubDate>Tue, 20 Oct 2020 03:02:26 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/20/american-politics.html</guid>
+  <pubDate>Tue, 20 Oct 2020 00:02:26 -0700</pubDate>
  </item>
  
  <item>
@@ -1531,8 +1531,8 @@ I have a sense of a stack of things that I have intended to do, and set aside re
 
   </description>
   <link>/2020/10/19/oxford-starting-the-day-liveblog.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/19/oxford-starting-the-day-liveblog.html</guid>
-  <pubDate>Mon, 19 Oct 2020 15:27:42 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/19/oxford-starting-the-day-liveblog.html</guid>
+  <pubDate>Mon, 19 Oct 2020 12:27:42 -0700</pubDate>
  </item>
  
  <item>
@@ -1565,9 +1565,9 @@ don’t let me near you, to my dream,<br />
 It’s all I have,</em></p>
 
   </description>
-  <link>/2020/10/17/the-past-mysterious-poem.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/17/the-past-mysterious-poem.html</guid>
-  <pubDate>Sat, 17 Oct 2020 02:25:00 -0400</pubDate>
+  <link>/2020/10/16/the-past-mysterious-poem.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/16/the-past-mysterious-poem.html</guid>
+  <pubDate>Fri, 16 Oct 2020 23:25:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1598,8 +1598,8 @@ It’s all I have,</em></p>
 
   </description>
   <link>/2020/10/15/problems-and-gratitudes.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/15/problems-and-gratitudes.html</guid>
-  <pubDate>Thu, 15 Oct 2020 05:22:00 -0400</pubDate>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/15/problems-and-gratitudes.html</guid>
+  <pubDate>Thu, 15 Oct 2020 02:22:00 -0700</pubDate>
  </item>
  
  <item>
@@ -1636,9 +1636,9 @@ It’s all I have,</em></p>
 <p>If you asked me to predict how well I would do living on the island rim of an underwater volcano sixteen hundred years before the birth of Christ, on the unlucky occasion of it erupting intensely, I would have guessed ‘very badly’. Apparently the buildings of Akrotiri were often several stories high and some had indoor water-flushing toilets though, so it seems they had their shit together much more than I would have expected.</p>
 
   </description>
-  <link>/2020/10/10/heavenly-hellfire.html</link>
-  <guid isPermaLink="true">https://worldspiritsockpuppet.com/2020/10/10/heavenly-hellfire.html</guid>
-  <pubDate>Sat, 10 Oct 2020 02:30:00 -0400</pubDate>
+  <link>/2020/10/09/heavenly-hellfire.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2020/10/09/heavenly-hellfire.html</guid>
+  <pubDate>Fri, 09 Oct 2020 23:30:00 -0700</pubDate>
  </item>
  
 
