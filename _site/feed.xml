@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-16T21:27:42-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">I put odds on ends with Nathan Young</title><link href="http://localhost:4000/2023/11/07/i-put-odds-on-ends-with-nathan-young.html" rel="alternate" type="text/html" title="I put odds on ends with Nathan Young" /><published>2023-11-07T21:25:00-08:00</published><updated>2023-11-07T21:25:00-08:00</updated><id>http://localhost:4000/2023/11/07/i-put-odds-on-ends-with-nathan-young</id><content type="html" xml:base="http://localhost:4000/2023/11/07/i-put-odds-on-ends-with-nathan-young.html">&lt;p&gt;I forgot to post this in August when we did it, so one might hope it would be out of date now but luckily/sadly my understanding of things is sufficiently coarse-grained that it probably isn’t much. Though all this policy and global coordination stuff of late sounds promising.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-10T19:13:29-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">world spirit sock puppet</title><subtitle>Inclusive writings of Katja Grace</subtitle><author><name>Katja Grace</name></author><entry><title type="html">Survey of 2,778 AI authors: six parts in pictures</title><link href="http://localhost:4000/2024/01/04/survey-of-2778-ai.html" rel="alternate" type="text/html" title="Survey of 2,778 AI authors: six parts in pictures" /><published>2024-01-04T17:00:01-08:00</published><updated>2024-01-04T17:00:01-08:00</updated><id>http://localhost:4000/2024/01/04/survey-of-2778-ai</id><content type="html" xml:base="http://localhost:4000/2024/01/04/survey-of-2778-ai.html">&lt;p&gt;
+&lt;em&gt;Crossposted from&lt;a href=&quot;https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things&quot;&gt; AI Impacts blog&lt;/a&gt;&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;
+The 2023 Expert Survey on Progress in AI is&lt;a href=&quot;https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf&quot;&gt; out&lt;/a&gt;, this time with 2778 participants from six top AI venues (up from&lt;a href=&quot;https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2022_expert_survey_on_progress_in_ai#population&quot;&gt; about 700&lt;/a&gt; and two in the&lt;a href=&quot;https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2022_expert_survey_on_progress_in_ai&quot;&gt; 2022 ESPAI&lt;/a&gt;), making it probably the biggest ever survey of AI researchers.
+&lt;/p&gt;
+&lt;p&gt;
+People answered in October, an eventful fourteen months after the 2022 survey, which had mostly identical questions for comparison.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf&quot;&gt;Here&lt;/a&gt; is the preprint. And here are six interesting bits in pictures (with figure numbers matching paper, for ease of learning more):
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;1. Expected time to human-level performance dropped 1-5 decades since the 2022 survey. &lt;/strong&gt;As always, our questions about ‘high level machine intelligence’ (HLMI) and ‘full automation of labor’ (FAOL) got very different answers, and individuals disagreed a lot (shown as thin lines below), but the aggregate forecasts for both sets of questions dropped sharply. For context, between 2016 and 2022 surveys, the forecast for HLMI had only shifted about a year.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/kvngwylqnpf0tvlf8g8a&quot; width=&quot;&quot; alt=&quot;Probability assigned to HLMI over time&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 3)
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/nllvn2ilyfuifmyoboa2&quot; width=&quot;&quot; alt=&quot;Probability assigned to FAOL over time&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 4)
+&lt;/p&gt;
+&lt;!--ex--&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2. Time to most narrow milestones decreased, some by a lot. &lt;/strong&gt;AI researchers are expected to be professionally fully automatable a quarter of a century earlier than in 2022, and NYT bestselling fiction dropped by more than half to ~2030. Within five years, AI systems are forecast to be feasible that can fully make a payment processing site from scratch, or entirely generate a new song that sounds like it’s by e.g. Taylor Swift, or autonomously download and fine-tune a large language model.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/lkogl5wintmggyw4upeg&quot; width=&quot;&quot; alt=&quot;Change in guesses about time to specific narrow capabilities&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 2)
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;3. Median respondents put 5% or more on advanced AI leading to human extinction or similar, and a third to a half of participants gave 10% or more. &lt;/strong&gt;This was across four questions, one about overall value of the future and three more directly about extinction.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/czh3xjxt7w1hwtojijeh&quot; width=&quot;&quot; alt=&quot;Around 40% of participants gave at least 10% chance to human extinction from AI&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 10)
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;4. Many participants found many scenarios worthy of substantial concern over the next 30 years.&lt;/strong&gt; For every one of eleven scenarios and ‘other’ that we asked about, at least a third of participants considered it deserving of substantial or extreme concern.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/pkrmpgh619mzaa703ncu&quot; width=&quot;&quot; alt=&quot;Level of concern warranted by different scenarios&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 9)
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;5. There are few confident optimists or pessimists about advanced AI: high hopes and dire concerns are usually found together.&lt;/strong&gt; 68% of participants who thought HLMI was more likely to lead to good outcomes than bad, but nearly half of these people put at least 5% on extremely bad outcomes such as human extinction, and 59% of net pessimists gave 5% or more to extremely good outcomes.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/zusla2aogk561nuoejku&quot; width=&quot;&quot; alt=&quot;800 responses to how likely the future being different levels of good is after HLMI&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 11: a random 800 responses as vertical bars, higher definition below)
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&quot;https://blog.aiimpacts.org/api/v1/file/29c9bfb8-5d57-4b5f-9ffe-e50691268b4d.pdf&quot;&gt;Download&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;6. 70% of participants would like to see research aimed at minimizing risks of AI systems be prioritized more highly.&lt;/strong&gt; This is much like 2022, and in both years a third of participants asked for “much more”—more than doubling since 2016.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;img src=&quot;https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/zk5xgvtclrtpeuc8ymkh&quot; width=&quot;&quot; alt=&quot;how much should safety research be prioritized?&quot; title=&quot;image_tooltip&quot; /&gt;
+(Fig 15)
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+If you enjoyed this,&lt;a href=&quot;https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf&quot;&gt; the paper&lt;/a&gt; covers many other questions, as well as more details on the above. What makes AI progress go? Has it sped up? Would it be better if it were slower or faster? What will AI systems be like in 2043? Will we be able to know the reasons for its choices before then? Do people from academia and industry have different views? Are concerns about AI due to misunderstandings of AI research? Do people who completed undergraduate study in Asia put higher chances on extinction from AI than those who studied in America? Is the ‘alignment problem’ worth working on?
+&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="ai" /><category term="meteuphoric" /><summary type="html">Crossposted from AI Impacts blog The 2023 Expert Survey on Progress in AI is out, this time with 2778 participants from six top AI venues (up from about 700 and two in the 2022 ESPAI), making it probably the biggest ever survey of AI researchers. People answered in October, an eventful fourteen months after the 2022 survey, which had mostly identical questions for comparison. Here is the preprint. And here are six interesting bits in pictures (with figure numbers matching paper, for ease of learning more): 1. Expected time to human-level performance dropped 1-5 decades since the 2022 survey. As always, our questions about ‘high level machine intelligence’ (HLMI) and ‘full automation of labor’ (FAOL) got very different answers, and individuals disagreed a lot (shown as thin lines below), but the aggregate forecasts for both sets of questions dropped sharply. For context, between 2016 and 2022 surveys, the forecast for HLMI had only shifted about a year. (Fig 3) (Fig 4)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/zusla2aogk561nuoejku" /><media:content medium="image" url="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/6uJBqeG5ywE6Wcdqw/zusla2aogk561nuoejku" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">I put odds on ends with Nathan Young</title><link href="http://localhost:4000/2023/11/07/i-put-odds-on-ends-with-nathan-young.html" rel="alternate" type="text/html" title="I put odds on ends with Nathan Young" /><published>2023-11-07T21:25:00-08:00</published><updated>2023-11-07T21:25:00-08:00</updated><id>http://localhost:4000/2023/11/07/i-put-odds-on-ends-with-nathan-young</id><content type="html" xml:base="http://localhost:4000/2023/11/07/i-put-odds-on-ends-with-nathan-young.html">&lt;p&gt;I forgot to post this in August when we did it, so one might hope it would be out of date now but luckily/sadly my understanding of things is sufficiently coarse-grained that it probably isn’t much. Though all this policy and global coordination stuff of late sounds promising.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://youtu.be/Zum2QTaByeo&quot;&gt;&lt;img src=&quot;https://hosting.photobucket.com/images/i/katjasgrace/Screen_Shot_2023-11-16_at_9.12.15_PM.png&quot; alt=&quot;YouTube video of Odds and Ends episode&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Katja Grace</name></author><category term="podcast" /><summary type="html">I forgot to post this in August when we did it, so one might hope it would be out of date now but luckily/sadly my understanding of things is sufficiently coarse-grained that it probably isn’t much. Though all this policy and global coordination stuff of late sounds promising.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/matt-power-TpHmEoVSmfQ-unsplash.jpg" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/matt-power-TpHmEoVSmfQ-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A to Z of things</title><link href="http://localhost:4000/2023/11/03/a-to-z-of-things.html" rel="alternate" type="text/html" title="A to Z of things" /><published>2023-11-03T01:25:00-07:00</published><updated>2023-11-03T01:25:00-07:00</updated><id>http://localhost:4000/2023/11/03/a-to-z-of-things</id><content type="html" xml:base="http://localhost:4000/2023/11/03/a-to-z-of-things.html">&lt;p&gt;I wanted to give my good friends’ baby a book, in honor of her existence. And I recalled children’s books being an exciting genre. Yet checking in on that thirty years later, Amazon had none I could super get behind. They did have books I used to like, but for reasons now lost. And I wonder if as a child I just had no taste because I just didn’t know how good things could be.&lt;/p&gt;
 
@@ -149,25 +236,4 @@
   &lt;li&gt;&lt;a href=&quot;https://worldspiritsockpuppet.substack.com/p/home-up-and-down-colder-and-warmer-20-02-20&quot;&gt;Home: up and down, colder and warmer&lt;/a&gt;: miscellanious thoughts on e.g. warmth and coldness, the sincerity of historic advertising, and why negativity is deep&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://worldspiritsockpuppet.substack.com/p/bay-bridge-having-fun-19-06-06&quot;&gt;How I learned to have fun on command&lt;/a&gt; though I rarely remember to do it&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://worldspiritsockpuppet.substack.com/p/england-attunement-and-borders-20-01-30&quot;&gt;England: Attunement and borders&lt;/a&gt;, in which I get possible attunement, companionship, and a visa&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Katja Grace</name></author><category term="meta" /><category term="worldlypositions" /><summary type="html">I realized it was hard to peruse past Worldly Positions posts without logging in to Tumblr, which seemed pretty bad. So I followed Substack’s instructions to import the archives into world spirit sock stack. And it worked pretty well, except that SUBSTACK ALSO PUBLISHED MY UNPUBLISHED WORLDLY POSITIONS DRAFTS! What on Earth? That’s so bad. Did I misunderstand what happened somehow in my rush to unpublish them? Maybe. But they definitely had ‘unpublish’ buttons, so that’s pretty incriminating.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://static.tumblr.com/010f7823b98a70509677554b6bbb2f46/j5ffzji/yiIoqg5l6/tumblr_static_6naihwpnpqww8okw804s08g_2048_v2.jpg" /><media:content medium="image" url="https://static.tumblr.com/010f7823b98a70509677554b6bbb2f46/j5ffzji/yiIoqg5l6/tumblr_static_6naihwpnpqww8okw804s08g_2048_v2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">More ways to spot abysses</title><link href="http://localhost:4000/2022/12/29/how-to-stare-into-the-abyss.html" rel="alternate" type="text/html" title="More ways to spot abysses" /><published>2022-12-29T09:30:00-08:00</published><updated>2022-12-29T09:30:00-08:00</updated><id>http://localhost:4000/2022/12/29/how-to-stare-into-the-abyss</id><content type="html" xml:base="http://localhost:4000/2022/12/29/how-to-stare-into-the-abyss.html">&lt;p&gt;I liked Ben Kuhn’s &lt;a href=&quot;https://www.benkuhn.net/abyss/&quot;&gt;‘Staring into the abyss as a core life skill’&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I’d summarize as:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;If you are making a major error—professionally, romantically, religiously, etc—it can be hard to look at that fact and correct.&lt;/li&gt;
-  &lt;li&gt;However it’s super important. Evidence: successful people do this well.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This seems pretty plausible to me.&lt;/p&gt;
-
-&lt;p&gt;(He has a lot of concrete examples, which are probably pretty helpful for internalizing this.)&lt;/p&gt;
-
-&lt;p&gt;His suggestions for how to do better helped me a bit, but not that much, so I made up my own additional prompts for finding abysses I should consider staring into, which worked relatively well for me:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;If you were currently making a big mistake, what would it be?&lt;/li&gt;
-  &lt;li&gt;What are some things that would be hard to acknowledge, if they were true?&lt;/li&gt;
-  &lt;li&gt;Looking back on this time from five years hence, what do you think you’ll wish you changed earlier?&lt;/li&gt;
-  &lt;li&gt;If you were forced to quit something, what do you want it to be?&lt;/li&gt;
-  &lt;li&gt;(Variant on 1:) If you were currently making a big mistake that would be gut-wrenching to learn was a mistake, what would it be?&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Katja Grace</name></author><category term="lifestrategy" /><category term="selfimprovement" /><category term="response" /><summary type="html">I liked Ben Kuhn’s ‘Staring into the abyss as a core life skill’. I’d summarize as: If you are making a major error—professionally, romantically, religiously, etc—it can be hard to look at that fact and correct. However it’s super important. Evidence: successful people do this well. This seems pretty plausible to me. (He has a lot of concrete examples, which are probably pretty helpful for internalizing this.) His suggestions for how to do better helped me a bit, but not that much, so I made up my own additional prompts for finding abysses I should consider staring into, which worked relatively well for me: If you were currently making a big mistake, what would it be? What are some things that would be hard to acknowledge, if they were true? Looking back on this time from five years hence, what do you think you’ll wish you changed earlier? If you were forced to quit something, what do you want it to be? (Variant on 1:) If you were currently making a big mistake that would be gut-wrenching to learn was a mistake, what would it be?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hosting.photobucket.com/images/i/katjasgrace/tim-johnson-ywIZ8ZYxzWU-unsplash.jpg" /><media:content medium="image" url="https://hosting.photobucket.com/images/i/katjasgrace/tim-johnson-ywIZ8ZYxzWU-unsplash.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ol&gt;</content><author><name>Katja Grace</name></author><category term="meta" /><category term="worldlypositions" /><summary type="html">I realized it was hard to peruse past Worldly Positions posts without logging in to Tumblr, which seemed pretty bad. So I followed Substack’s instructions to import the archives into world spirit sock stack. And it worked pretty well, except that SUBSTACK ALSO PUBLISHED MY UNPUBLISHED WORLDLY POSITIONS DRAFTS! What on Earth? That’s so bad. Did I misunderstand what happened somehow in my rush to unpublish them? Maybe. But they definitely had ‘unpublish’ buttons, so that’s pretty incriminating.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://static.tumblr.com/010f7823b98a70509677554b6bbb2f46/j5ffzji/yiIoqg5l6/tumblr_static_6naihwpnpqww8okw804s08g_2048_v2.jpg" /><media:content medium="image" url="https://static.tumblr.com/010f7823b98a70509677554b6bbb2f46/j5ffzji/yiIoqg5l6/tumblr_static_6naihwpnpqww8okw804s08g_2048_v2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
