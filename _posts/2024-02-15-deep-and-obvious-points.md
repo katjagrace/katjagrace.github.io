@@ -8,7 +8,7 @@ image:
 summary: Why are things sometimes ambiguously deep and obvious?
 ---
 
-Some [ideas](https://worldspiritsockpuppet.substack.com/p/bodega-bay-workshop-18-11-26) feel either deep or extremely obvious. You’ve heard some trite truism your whole life, then one day an epiphany lands and you try to save it with words, and you realize the description is that truism. And then you go out and try to tell others what you saw, and you can’t reach past their bored nodding. Or even you yourself, looking back, wonder why you wrote such tired drivel with such excitement.
+Some [ideas](https://worldspiritsockpuppet.substack.com/p/bodega-bay-workshop-18-11-26) feel either deep or extremely obvious. You’ve heard some trite truism your whole life, then one day an epiphany lands and you try to save it with words, and you realize the description is that truism. And then you go out and try to tell others what you saw, and you can’t reach past their bored nodding. Or even you yourself, looking back, wonder why you wrote such tired drivel with such excitement.<!--ex-->
 
 When this happens, I wonder if it’s because the thing is true in your model of how to think, but not in how you actually think. 
 

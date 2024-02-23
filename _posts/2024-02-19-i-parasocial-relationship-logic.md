@@ -14,4 +14,4 @@ If:
 
 2. The people who are most extremal in good ways tend to be highly successful
 
-Should you try to have 2-3 of your five relationships be parasocial ones with people too successful to be your friend individually?
+Should you try to have 2-3 of your five relationships be parasocial ones with people too successful to be your friend individually?<!--ex-->

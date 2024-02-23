@@ -12,7 +12,7 @@ Suppose someone wrongs you and you want to emphatically mar their reputation, bu
 
 A) People fear such shaming and avoid activities that may bring it about (possibly including the original perpetrator) 
 
-B) People internalize your values and actually agree more that the sin is bad, and then do it less
+B) People internalize your values and actually agree more that the sin is bad, and then do it less<!--ex-->
 
 These things are fairly different, and don’t necessarily come together. I can think of shaming efforts that seem to inspire substantial fear of social retribution in many people (A) while often reducing sympathy for the object-level moral claims (B).
 
