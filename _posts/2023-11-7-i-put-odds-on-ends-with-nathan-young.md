@@ -2,7 +2,7 @@
 layout: post
 title: "I put odds on ends with Nathan Young"
 date: 2023-11-07 22:25:00 -0700
-tags: podcast
+tags: podcast meteuphoric
 comments: true
 image: https://hosting.photobucket.com/images/i/katjasgrace/matt-power-TpHmEoVSmfQ-unsplash.jpg
 summary: What will happen to everything I like?
