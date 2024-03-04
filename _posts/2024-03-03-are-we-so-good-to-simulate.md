@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are we so good to simulate"
+title: "Are we so good to simulate?"
 date: 2024-03-03 20:01:00 -0700
 tags: philosophy simulation meteuphoric
 comments: true
