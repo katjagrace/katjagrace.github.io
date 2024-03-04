@@ -4,7 +4,7 @@ title: "Are we so good to simulate?"
 date: 2024-03-03 20:01:00 -0700
 tags: philosophy simulation meteuphoric
 comments: true
-image: 
+image: https://hosting.photobucket.com/images/i/katjasgrace/katjagrace_people_living_in_a_simulation_gustav_klimt_fe27b7cd-8151-4ef1-9e6c-1de429a19249.png
 summary: "There might be a lot of other people"
 ---
 
