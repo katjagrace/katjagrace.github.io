@@ -5,7 +5,7 @@ date: 2024-04-16 20:53:00 -0700
 tags: meteuphoric
 comments: true
 image: 
-summary: "There are lots of ways to spread values a bit"
+summary: 
 ---
 
 People talk about unconditional love and conditional love. Maybe I'm out of the loop regarding the great loves going on around me, but my guess is that love is extremely rarely unconditional. Or at least if it is, then it is either very broadly applied or somewhat confused or strange: if you love me unconditionally, presumably you love everything else as well, since it is only conditions that separate me from the worms. 
