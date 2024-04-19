@@ -4,7 +4,7 @@ title: "Mid-conditional love"
 date: 2024-04-16 20:53:00 -0700
 tags: meteuphoric
 comments: true
-image: 
+image: https://substackcdn.com/image/fetch/w_1250,h_833,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9768a4ea-83cd-417b-8458-df46f3999e4b_4359x2907.jpeg
 summary: 
 ---
 
