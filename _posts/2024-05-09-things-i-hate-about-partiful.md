@@ -18,7 +18,7 @@ summary: 13 of them
     
 - As far as I can tell, the only way to message the host a question about the party is to post it to the entire group. Yet there are very few questions I want to text an entire guest list about.
     
-- Supposing I make the error of doing that (which I do not), as far as I can tell, the guest list receives an sms saying that I have sent a message, and they have to click to follow a link to the website to see what the message is.
+- Supposing I make the error of doing that (which I do not), as far as I can tell, the guest list receives an sms saying that I have sent a message, and they have to click to follow a link to the website to see what the message is. <!--ex-->
     
 - Supposing I am considering posting such a message to the entire group, Partiful will instruct me to 'Write something fun!' Fuck off. I'll decide what to write, and don't need the condescending needling. Relatedly, if I debase myself and host something on Partiful, while I'm drafting the invitation, it has been known to describe me as 'the wonderful [host]'. I don't want your narrativizing. a) Maybe I'm not wonderful. You don't know shit about me. b) I actually can't tell if you are going to seriously write that when I post the event, so I need to investigate how to mitigate that possibility.
     
