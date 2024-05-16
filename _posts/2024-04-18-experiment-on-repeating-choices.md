@@ -25,7 +25,7 @@ People behave differently from one another on all manner of axes, and each perso
 - How snarky to be
 - How to trade off convenience, enjoyment, time and healthiness in food
 
-These are often about trade-offs, and the best point on each spectrum for any particular person seems like an empirical question. Do people know the answers to these questions? I'm a bit skeptical, because they mostly haven't tried many points. 
+These are often about trade-offs, and the best point on each spectrum for any particular person seems like an empirical question. Do people know the answers to these questions? I'm a bit skeptical, because they mostly haven't tried many points. <!--ex-->
 
 Instead, I think these mostly don't feel like open empirical questions: people have a sense of what the correct place on the axis is (possibly ignoring a trade-off), and some propensities that make a different place on the axis natural, and some resources they can allocate to moving from the natural place toward the ideal place. And the result is a fairly consistent point for each person. For instance, Bob might feel that the correct amount to worry about things is around zero, but worrying arises very easily in his mind and is hard to shake off, so he 'tries not to worry' some amount based on how much effort he has available and what else is going on, and lands in a place about that far from his natural worrying point. He could actually still worry a bit more or a bit less, perhaps by exerting more or less effort, or by thinking of a different point as the goal, but in practice he will probably worry about as much as he feels he has energy for limiting himself to.
 
