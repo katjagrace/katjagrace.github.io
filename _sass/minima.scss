@@ -166,7 +166,7 @@ bold {
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 5; //1.865;
+  min-height: $spacing-unit * 3; //1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -194,9 +194,19 @@ bold {
   }
 }
 
+// Responsive adjustments for the site title on mobile devices, written by chatgpt
+@include media-query($on-palm) {
+  .site-title {
+    font-size: $base-font-size * 3; // Adjust font size as needed
+    margin-left: 0; // Adjust margins as needed
+    margin-right: 0; // Adjust margins as needed
+    line-height: 1.2; // Adjust line height to prevent overlapping
+  }
+}
+
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 8;//2.25;
+  line-height: $base-line-height * $base-font-size * 4;//2.25;
   margin-right: -5vw;
 
   .nav-trigger {
