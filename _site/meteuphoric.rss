@@ -4,10 +4,58 @@
  <title>world spirit sock puppet</title>
  <description>Inclusive writings of Katja Grace</description>
  <link>http://localhost:4000</link>
- <lastBuildDate>Thu, 16 May 2024 08:29:04 +0100</lastBuildDate>
- <pubDate>Thu, 16 May 2024 08:29:04 +0100</pubDate>
+ <lastBuildDate>Sun, 23 Jun 2024 14:37:41 +0100</lastBuildDate>
+ <pubDate>Sun, 23 Jun 2024 14:37:41 +0100</pubDate>
  <ttl>1800</ttl>
 
+ 
+ <item>
+  <title>Podcasts: AGI Show, Consistently Candid, London Futurists</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p>For those of you who enjoy learning things via listening in on numerous slightly different conversations about them, and who also want to learn more about this<a href="https://blog.aiimpacts.org/p/2023-ai-survey-of-2778-six-things"> AI survey</a> I led, three more podcasts on the topic, and also other topics:</p>
+
+<ul>
+  <li><strong>The AGI Show</strong>: <a href="https://www.theagishow.com/2082819/15275026-ep-13-ai-researchers-expect-agi-sooner-w-katja-grace-co-founder-lead-researcher-ai-impacts">audio</a>, <a href="https://www.youtube.com/watch?v=Nbpw90WQmgU">video</a> (other topics include: my own thoughts about the future of AI and my path into AI forecasting)</li>
+  <li><strong>Consistently Candid</strong>: <a href="https://www.buzzsprout.com/2319950/15286236">audio</a> (other topics include: whether we should slow down AI progress, the best arguments for and against existential risk from AI, parsing the online AI safety debate)</li>
+  <li><strong>London Futurists</strong>: <a href="https://www.youtube.com/watch?v=xwJx_xqZI3Q">audio</a> (other topics include: are we in an arms race? Why is my blog called that?)</li>
+</ul>
+
+  </description>
+  <link>/2024/06/23/podcasts-agi-show-consistently-candid.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2024/06/23/podcasts-agi-show-consistently-candid.html</guid>
+  <pubDate>Sun, 23 Jun 2024 14:34:00 +0100</pubDate>
+ </item>
+ 
+ <item>
+  <title>What if a tech company forced you to move to NYC?</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p>It’s interesting to me how chill people sometimes are about the non-extinction future AI scenarios. Like, there seem to be opinions around along the lines of “pshaw, it might ruin your little sources of ‘meaning’, Luddite, but we have always had change and as long as the machines are pretty near the mark on rewiring your brain it will make everything amazing”. Yet I would bet that even that person, if faced instead with a policy that was going to forcibly relocate them to New York City, would be quite indignant, and want a lot of guarantees about the preservation of various very specific things they care about in life, and not be just like “oh sure, NYC has higher GDP/capita than my current city, sounds good”.<!--ex--></p>
+
+<p>I read this as a lack of engaging with the situation as real. But possibly my sense that a non-negligible number of people have this flavor of position is wrong.</p>
+
+  </description>
+  <link>/2024/06/09/what-if-tech-co-nyc.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2024/06/09/what-if-tech-co-nyc.html</guid>
+  <pubDate>Sun, 09 Jun 2024 07:18:00 +0100</pubDate>
+ </item>
+ 
+ <item>
+  <title>Podcast: Center for AI Policy, on AI risk and listening to AI researchers</title>
+  <description>
+    <p><emph>Crossposted via RSS from worldspiritsockpuppet.com; faithful transmission uncertain</emph></p>
+    <br>
+    <p>I was on the <a href="https://aipolicypod.substack.com/p/7-katja-grace-on-the-future-of-ai">Center for AI Policy Podcast</a>. We talked about topics around the <a href="https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai">2023 Expert Survey on Progress in AI</a>, including why I think AI is an existential risk, and how much to listen to AI researchers on the subject. Full transcript at the <a href="https://aipolicypod.substack.com/p/7-katja-grace-on-the-future-of-ai">link</a>. 
+<!--ex--></p>
+
+  </description>
+  <link>/2024/06/06/caip-podcast.html</link>
+  <guid isPermaLink="true">http://localhost:4000/2024/06/06/caip-podcast.html</guid>
+  <pubDate>Thu, 06 Jun 2024 04:00:00 +0100</pubDate>
+ </item>
  
  <item>
   <title>An explanation of evil in an organized world</title>
