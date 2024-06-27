@@ -13,7 +13,7 @@ A general thing I hadn’t noticed about debts until lately:
 * Whenever Bob owes Alice, then Alice has reason to look after Bob, to the extent that increases the chance he satisfies the debt.
 * Yet at the same time, Bob has an incentive for Alice to disappear, insofar as it would relieve him.
 
-These might be tiny incentives, and not overwhelm for instance Bob’s many reasons for not wanting Alice to disappear. 
+These might be tiny incentives, and not overwhelm for instance Bob’s many reasons for not wanting Alice to disappear. <!--ex-->
 
 But the bigger the owing, the more relevant the incentives. When big enough, the former comes up as entities being “too big to fail”, and potentially rescued from destruction by those who would like them to repay or provide something expected of them in future. But the opposite must exist also: too big to succeed—where the abundance owed to you is so off-putting to provide that those responsible for it would rather disempower you. 
 
