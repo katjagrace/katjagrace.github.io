@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Association taxes are collusion subsidies"
-date: 2025-02-25 23:00:00 -0700
+date: 2025-05-26 23:00:00 -0700
 tags: meteuphoric
 comments: true
 image: 
