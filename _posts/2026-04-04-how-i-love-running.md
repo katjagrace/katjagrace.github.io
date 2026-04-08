@@ -1,0 +1,35 @@
+---
+layout: post
+title: "How I love running"
+date: 2026-04-04 23:55:00 -0700
+tags: meteuphoric advice
+comments: true
+image: 
+summary: 
+---
+
+
+<p>There is a particular flavor of suffering I fear: where something is not just unpleasant, but is requiring active effort from you to continue having the unpleasant thing happen, and so you have to not only suffer the suffering, but also the constant thinking about whether maybe you should stop right now—and so are also having to dip peripherally into questions of free will and will power and who you are and if you will ever do anything and if you are fundamentally bad, and all this while you are already quite taxed by the original suffering.</p><p>The epitome of this kind of suffering to my mind has traditionally been running. What everyday activity was less pleasant than running? Better to be lightly tortured by someone else, than have to do the inflicting as well. (No, I’m probably not a very athletic person.)</p><p>But that was years ago. These days running is often one of the most joyous things I do.</p><p>(I still don’t do it nearly enough, but often when I do I think “oh wow this is so good, I should do this much more often” rather than “can I stop? can I stop? I’m stopping.. no, oh god, when is it over?”)</p><p>What changed? </p>
+
+<!--ex-->
+
+<p>The first thing that happened—which I’d guess is not crucial but did help me get started—was that a person I had a crush on started inviting me to go on runs. This helped me get a tiny bit better at running, because I was willing to withstand almost arbitrary amounts of suffering to spend time with him. This probably got my running skill from “really wants to stop running within about twenty steps” to “can run for a block or two before hating it”. By the time he stopped inviting me (since he actually wanted to run far and fast) I think I still found running basically unpleasant, but had more of an affordance for doing it for non-negligible stretches.</p><p>The real change was from running alone and altering my running protocol. </p><p>Here is how to enjoy running, in my experience:</p><ol><li><p>Get yourself some good running music. This is key. It’s like the difference between having fuel in your vehicle and not. Ideally you want a playlist consisting entirely of songs which if they came on at a party would send you leaping up and scrambling for the dance floor. My <a href="https://open.spotify.com/playlist/2sLPv9I5FicdJfge6pVSS6?si=4589ffde4a554ed3">first playlist</a> for this was called “corny”, and <a href="https://open.spotify.com/playlist/0DXXAkJcYSkBqRMj1d2ux2?si=7562b1506e7f4df2">my most recent</a> one is a variety of 90s pop punk.</p></li><li><p>Put on shoes. Put on music. Start running.</p></li><li><p>As soon as you don’t feel like running—even if it’s after five steps—walk. </p></li><li><p>As soon as you feel like running again, run. This may be because the music hits a bit that demands it, or the street is sloping downwards, or walking just feels a bit slow, or you regained your energy and bounding along in the sun would feel good. </p></li><li><p>As soon as you feel like leaping, or skipping, or balancing on a low wall with your arms out, do that. </p></li><li><p>Repeat steps 3-5 in any order until feeling like running stops occurring ever.</p></li><li><p>Wander home.</p></li><li><p>Repeat another day, and probably find yourself walking a tiny bit less, and enjoying yourself running a tiny bit more.</p></li></ol><p></p><p>I guess the crucial elements are: </p><ul><li><p>a) There’s a huge experiential difference between running when you don’t feel like it and running when you do feel like it.</p></li><li><p>b) Music is compelling, and in particular can compel you to move your body enjoyably (most classically observed in the phenomenon ‘dance’).</p></li><li><p>c) If a thing is enjoyable at least sometimes, then you can enjoy it 100% of the time you are doing it by just not doing it when you aren’t feeling it.</p></li></ul><p></p><p>Some additional modifications that might help:</p><ol><li><p>Be cringe. Dance at stoplights. Smile at strangers. Think grandiose thoughts.</p></li><li><p>Use a fitness device where you can watch your heart rate in real time—it’s somewhat compelling to control it by running when it drops relatively low (and that is coincidentally when you may feel like running again).</p></li><li><p>Use a fitness device where you can track general progress in amount of exercise.</p></li><li><p>End up somewhere you can buy a delicious coffee or something.</p></li><li><p>Instead of slowing down as soon as you feel like it, pick a tree a little way further down the road to make it to first.</p></li><li><p>If you aren’t feeling a song, aggressively skip it.</p></li></ol><p>To be clear, I have not become so good at running as to give up walking for large parts of it. But going for a forty minute walk/run in which half of the time you are running and loving it seems like a huge improvement in my life.</p><p>I have no idea how well this is likely to work for other people. I might be unusually compelled by music or unusually horrified by using willpower. (I’m also aware there are many people who just naturally enjoy running.) If you try something like this, I’m curious to hear how it goes.</p>
+
+<div style="text-align: center;"><img src="https://substackcdn.com/image/fetch/$s_!DxVE!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd25705ff-2169-4e75-ae35-a984c4984be2_2736x3648.jpeg
+" alt="Me running" width="300">
+
+
+<div style="text-align: center;"><img src="https://substackcdn.com/image/fetch/$s_!QLDz!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F244073f0-3efd-45fe-967e-3bc085c7807b_2736x3648.jpeg
+" alt="Me running" width="300">
+
+<div style="text-align: center;"><img src="https://substackcdn.com/image/fetch/$s_!ozKQ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74aad9f7-fed4-4e2d-af2e-040a7394edf1_980x1704.png
+" alt="Me running" width="300">
+
+<div style="text-align: center;"><img src="https://substackcdn.com/image/fetch/$s_!xqrU!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe4af707-6167-41c7-8e2f-087ce6539883_2736x3648.jpeg
+" alt="Me running" width="300">
+
+<div style="text-align: center;"><img src="https://substackcdn.com/image/fetch/$s_!O1Qp!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23c0a20e-fa84-4952-865e-6492a21ceee4_980x1434.png
+" alt="Me running" width="300">
+
+<div style="text-align: center;"><img src="https://substackcdn.com/image/fetch/$s_!RrdJ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39fea379-3ed9-4a58-a932-c025543ffada_2736x3648.jpeg
+" alt="Me running" width="300">
