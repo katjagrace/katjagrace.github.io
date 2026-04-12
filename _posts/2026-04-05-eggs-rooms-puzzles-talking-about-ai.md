@@ -12,6 +12,7 @@ I live with five friends in a big house, and two things I’ve done in it on thi
 
 These tasks are delightful to me for a reason they have in common, and from which I hope to gesture at extremely far reaching conclusions.
 
+<!--ex-->
 
 ## Easter eggs
 
