@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Let's talk about the AI coordination problem"
+date: 2026-04-07 23:55:00 -0700
+tags: ai sociology meteuphoric
+comments: true
+image:
+summary:
+---
+
+<p><a href="https://worldspiritsockpuppet.substack.com/p/an-easy-coordination-problem">Yesterday</a> I asked if this ‘coordinate not to build dangerous AI’ problem was actually easy.</p><p>Why would I think that, contrary to so much belief?</p><p>Well, I don’t feel like I’ve actually heard much about the detail of it. In my experience people don’t talk about it like it’s a real practical problem with details, like the negotiation to end a war.</p><p>They also don’t talk about it like it’s a serious problem of global geopolitical import, like the negotiation to end a war.</p><p>It’s more like a topic for obscure intellectuals, sophomores and trolls to discuss for as long as it takes for one to mention it and another to assuredly dismiss it.</p><p>If we treated negotiation to end a war similarly, state leaders would never attempt it, and if you suggested it on social media, the conversation would mostly be strangers appearing to tell you you’re an idiot because you obviously can’t coordinate thousands of people not to kill each other. (Also, do you not realize there are big financial incentives? And if you somehow stopped Country A from killing people from Country B, Country A is just going to pay someone else to do it!)</p>
+
+<!--ex-->
+
+
+
+<p>That is, saying things that sound plausible on a five-second analysis from some reasonable heuristics, with zero curiosity about whether their assessment is missing anything key, or if there might be a way to a solution.</p><p>This would be a huge mistake! Pragmatically, you can negotiate to end wars. And given this, it is very important to notice this and do so, because otherwise lots of people die.</p><p>The stakes of AI racing are just as real, though our vision of them is hazier at present. But with AI racing, everyone seems to just nod along with this level of argument.</p><p>This is not enough to give me the confidence to give up! I do not trust this kind of thinking.</p><p>And thinking about it in a ‘real-world pragmatic problem that we want to solve’ mental mode, rather than a ‘abstract philosophical chit-chat’ mental mode, I notice confusion at finding such coordination super hard, let alone unimaginably hard beyond worth trying, and especially so for the specific people involved. If you can coordinate to continue as CEO of a company that you were just fired from and for the board to leave instead, I think there’s some chance you can sort out a more run-of-the-mill ‘if you all don’t, we won’t’ deal.</p><p>What do I think should happen differently? </p><p><strong>I. We should talk seriously about AI coordination</strong></p><p>What would need to happen for coordination to avoid building potentially catastrophic AI? If it’s so hard, what steps are difficult? What would a road map look like? Who would need to do what? If there are hard bits, are there alternatives? We should have a detailed picture, and discuss it like a real problem that we care about solving.</p><p><strong>II. AI leaders should talk seriously about AI coordination</strong></p><p>If we were taking this situation seriously and expecting these people to do a real job navigating the risk, would we settle for assuming they’ve sufficiently considered and pursued the options for coordinating, without discussing it at all in public?</p><p>If they are so sure it can’t be done, why is that? Shouldn’t we demand to know?</p>

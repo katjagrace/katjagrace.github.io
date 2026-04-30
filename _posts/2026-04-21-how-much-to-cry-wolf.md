@@ -1,0 +1,15 @@
+---
+layout: post
+title: "How much should the ideal person cry wolf?"
+date: 2026-04-21 23:55:00 -0700
+tags: meteuphoric strategy
+comments: true
+image:
+summary:
+---
+
+<p>It is a fact about wolves and rationality that you should warn people about wolves quite a few times for every effective wolf attack.</p>
+
+<!--ex-->
+
+<p>In particular, there is an asymmetry between the costs of having one’s flock devoured and averting a non-eventuating wolf attack. If the carnage is a hundred times worse, then it’s worth up to ninety-nine false alarms to stop it.</p><p>The original fable was about a boy who would continually lie about wolves, and that is definitely poor form.</p><p>But in modern parlance, ‘crying wolf’ seems to be used for just being openly alarmed about things that turn out ok—I don’t hear much implication of deceit.</p><p>And in modern sensibilities, being seen to ‘cry wolf’—by even once raising an alarm that isn’t consummated with disaster—is something people seem to really fear. I think multiple people have asked me about whether AI safety people might have ‘cried wolf’ about some earlier GPT model. I’m not aware of anyone doing that, but the idea that they might have is so tantalizing that it bears investigating. Because if even a a few people somewhere did, it would be such a nice embarrassing blow to AI safety people.</p><p>And I probably responded in the tempting way: jumping to assure that I don’t recall hearing any such fears from these quarters. But I think that worsens public thought norms by implicitly buying into the unspoken premise that it would be quite shameful and naive to have raised even one warning.</p><p>And so relatedly, probably people who see real risks from AI are scared to voice them, lest they be seen to ‘cry wolf’ and tank the credit of the movement for the next round of dangers. Because it is taken for granted that one should only get one chance to raise an alarm. That the first warning must be for the most undeniably big, bad, real wolf.</p><p>This is not the wolf lookout system we want.</p><p>‘Warnings’ are usually about fairly bad events, and therefore they tend to be worth making when the probability of those events is still low. This creates a real difficulty for society in adjusting people’s credit when the low probability events they have warned of do not come to pass. Most of the time, if the person is right, the events still shouldn’t happen! The person wasn’t saying they were likely! Yet you don’t want to let the alarmist off the hook, with plausible deniability for arbitrarily many alarms.</p><p>I think the solution to this difficulty should look much more quantitative, like collecting rich track records of the predictions made by a person or a movement, and scoring them well. The present solution of childishly denouncing any unmet danger is insane.</p><p>And meanwhile if there are bad risks that have a low chance of appearing on every warning, we should still warn of them, and not be too much cowed by innumerate customs.</p><div>
