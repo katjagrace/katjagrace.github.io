@@ -2,7 +2,7 @@
 layout: post
 title: "Let's talk about the AI coordination problem"
 date: 2026-04-07 23:55:00 -0700
-tags: ai sociology meteuphoric
+tags: ai sociology meteuphoric effectivealtruism
 comments: true
 image:
 summary:

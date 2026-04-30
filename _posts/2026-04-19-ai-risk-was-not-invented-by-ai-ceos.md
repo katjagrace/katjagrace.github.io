@@ -2,7 +2,7 @@
 layout: post
 title: "AI risk was not invested by AI CEOs to hype their companies"
 date: 2026-04-19 23:55:00 -0700
-tags: ai meteuphoric worldlypositions
+tags: ai meteuphoric worldlypositions effectivealtruism
 comments: true
 image:
 summary:

@@ -2,7 +2,7 @@
 layout: post
 title: "How much should the ideal person cry wolf?"
 date: 2026-04-21 23:55:00 -0700
-tags: meteuphoric strategy
+tags: meteuphoric strategy effectivealtruism
 comments: true
 image:
 summary:

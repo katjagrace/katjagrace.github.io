@@ -2,7 +2,7 @@
 layout: post
 title: "AI: cognitive labor glut + new guys"
 date: 2026-04-24 23:55:00 -0700
-tags: ai advice
+tags: ai advice effectivealtruism
 comments: true
 image:
 summary:

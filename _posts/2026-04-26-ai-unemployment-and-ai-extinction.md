@@ -2,7 +2,7 @@
 layout: post
 title: "AI unemployment and AI extinction are often the same"
 date: 2026-04-26 23:55:00 -0700
-tags: ai meteuphoric
+tags: ai meteuphoric effectivealtruism
 comments: true
 image: https://substackcdn.com/image/fetch/$s_!x4S3!,w_184,h_96,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c2e2428-abac-4cb7-88cd-b307a8c35dcb_3500x2333.jpeg
 summary: 

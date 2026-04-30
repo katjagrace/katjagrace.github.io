@@ -2,7 +2,7 @@
 layout: post
 title: "When will AI surpass us at being limited?"
 date: 2026-04-13 23:55:00 -0700
-tags: ai meteuphoric
+tags: ai meteuphoric effectivealtruism
 comments: true
 image:
 summary:

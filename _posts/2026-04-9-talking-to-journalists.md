@@ -2,7 +2,7 @@
 layout: post
 title: "Talking to journalists"
 date: 2026-04-09 23:55:00 -0700
-tags: advice meteuphoric worldlypositions
+tags: advice meteuphoric worldlypositions effectivealtruism
 comments: true
 image:
 summary:
