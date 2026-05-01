@@ -8,13 +8,11 @@ image:
 summary:
 ---
 
-<!--ex-->
-
 often worry that people are being too deferential about their beliefs. I also hear others worrying about this, and nobody seemingly worrying about the reverse, except perhaps my friends and therapists (and I guess honestly people who know cranks, so that’s a bit troubling).
 
 Which leads me to wonder, supposing it’s true that many people are too deferential, what might people do to change it? And can I offer them useful advice, as a person who might be not deferential enough?
 
-Tonight I talked to [Joe Carlsmith](https://joecarlsmith.com/) about this; here are some ideas mostly from the conversation:
+Tonight I talked to [Joe Carlsmith](https://joecarlsmith.com/) about this; here are some ideas mostly from the conversation:<!--ex-->
 
 1. A thing that has discouraged me from having independent views and broadcasting them is the concern that my views are extremely ignorant. At the normal pace of new information appearing, I am just too slow a reader to be acceptably up on it. At the AI-news rate, it’s very hopeless. And even if you recognize that situation at a high level, it can be easy to get to thinking ‘I want to write something about W, but I’ll need to read X, Y and the sequence on Z and all the responses to it first’.
 
