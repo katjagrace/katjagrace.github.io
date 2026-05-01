@@ -8,7 +8,7 @@ image:
 summary:
 ---
 
-I'm on a plane heading back to San Francisco. I’ve lived in the Bay Area for most of the years since 2009, and a large fraction of that time the place has felt near the brink of self-driving cars. (Well, everywhere has, but San Francisco feels like the first testing ground for the most interesting experiments in technology.) And that has felt like a big deal. So I kind of expected them to arrive with a good amount of ceremony.
+I'm on a plane heading back to San Francisco. I’ve lived in the Bay Area for most of the years since 2009, and a large fraction of that time the place has felt near the brink of self-driving cars. (Well, everywhere has, but San Francisco feels like the first testing ground for the most interesting experiments in technology.) And that has felt like a big deal. So I kind of expected them to arrive with a good amount of ceremony.<!--ex-->
 
 In my own life at least, their actual arrival has been gradual and underwhelming. At some point I learned that you could call Waymos to drive you around a subset of the city of San Francisco. This was wild and exciting, but not actually very useful, since getting anywhere in San Francisco seemed to require traversing a greater subset of it than that, plus I nearly always want to also drive to or from Berkeley. I took Waymos a couple of times, and one of them might have even had transport value.
 
